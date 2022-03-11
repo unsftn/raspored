@@ -1,0 +1,45 @@
+Raspored:
+    ((!Semestar /./)*
+     semestri*=Semestar)*;
+
+Semestar:
+    semestar=INT 'Semestar'
+    termini_po_danima+=TerminiZaDan;
+
+TerminiZaDan:
+    (!DanIliSemestar /./)* dan=Dan Heder
+    (!Termin /./)*
+    termin+=Termin;
+
+DanIliSemestar:
+    Dan | INT 'Semestar';
+
+Heder:
+    'Grupa-e' 'Od' 'Do' 'Učionica' 'Vrsta nast.' 'Naziv Predmeta' 'Izvođač'
+    (!Grupa /\s*[^\n]*/)?  // Pokupi izvođača koji je ispao iz linije
+;
+
+Dan[skipws]:
+    'P' 'O' 'N' 'E' 'D' 'E' 'L' 'J' 'A' 'K'
+    | 'U' 'T' 'O' 'R' 'A' 'K'
+    | 'S' 'R' 'E' 'D' 'A'
+    | 'Č' 'E' 'T' 'V' 'R' 'T' 'A' 'K'
+    | 'P' 'E' 'T' 'A' 'K'
+    | 'S' 'U' 'B' 'O' 'T' 'A';
+
+Termin:
+    grupa=Grupa
+    od=Vreme do=Vreme
+    učionica=Učionica
+    vrsta=Vrsta
+    predmet=Predmet;
+
+Grupa: /Opredeljeni|SVI|\(?\d+(\(\d+-\d*\))?(,\d+(\(\d+-\d*\))?)*\)?/;
+Vreme: /\d{2}:\d{2}/;
+Učionica: (!Vrsta /./)+;
+Vrsta: 'rač.vežbe'
+     | 'aud.vežbe'
+     | 'lab.vežbe'
+     | 'Pred.';
+Predmet[noskipws]: /\s*/- (!KrajTermina /.|\n/)+;
+KrajTermina: Grupa | Dan | 'Rasporedi i realizacija' | 'Predmeti za koje nastavu';

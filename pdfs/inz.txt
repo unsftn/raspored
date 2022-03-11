@@ -1,0 +1,1492 @@
+Raspored nastave za školsku 2021/2022 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita, a koncipiran je tako da u prvi plan ističe studenta i njegove obaveze na fakultetu. Svi zaposleni i studenti se moraju pridržavati zvaničnog rasporeda nastave. Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email:
+
+ftnraspored@uns.ac.rs.
+
+Mole se svi zaposleni i studenti FTN-a da tokom prve dve nedelje semestra stalno prate raspored, na internet stranici FTN-a www.ftn.uns.ac.rs u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
+
+Oznake korišćene u rasporedu: 1. Brojevi napisani u zagradi iza broja grupe
+
+- primer prvi 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
+
+- primer drugi 1(17-
+
+), znači da da vežbe imaju studenti prve grupe i od broja 17 do kraja grupe po spisku Studentske službe
+
+- primer treći 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)[1(13-24)]. Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24). Ako se smenjuje samo jedna grupa onda je u rasporedu napisano ovako 1(sv.dr.ned.).
+
+2. Umesto broja grupe napisano je Prijavljeni ili Opredeljeni
+
+- izabrani predmet slušaju samo studenti koji su ga izabrali za slušanje Obavezno u vašem internet pretraživaču uraditi “Reload current page” ili “Refresh”, da bi se učitao trenutno važeći rapored predavanja sa FTN servera.
+
+
+
+Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu prof. dr Aleksandar Kupusinac
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.03.2022. 05:45, Strana: 1
+
+RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
+
+Informacioni inženjering P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+13:15
+
+14:45
+
+online
+
+Pred.
+
+Arhitektura računara
+
+Gajić dr Dušan
+
+SVI
+
+15:30
+
+17:00
+
+101
+
+Pred.
+
+Matematička analiza 1
+
+Nedović dr Ljubo
+
+SVI
+
+17:15
+
+20:00
+
+101
+
+Pred.
+
+Teorija algoritama
+
+Dragan dr Dinu
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+13:30
+
+15:00
+
+L5 (RC)
+
+rač.vežbe
+
+Osnove finansijskog inženjeringa 1
+
+Ferenčak dr Miroslav
+
+3,4
+
+15:45
+
+17:15
+
+103
+
+aud.vežbe
+
+Matematička analiza 1
+
+Dragić Đorđe
+
+Ivković Vladimir,
+
+3,4
+
+17:30
+
+20:00
+
+MI A2-3
+
+rač.vežbe
+
+Teorija algoritama
+
+Turović Radovan
+
+1
+
+16:00
+
+17:30
+
+307
+
+rač.vežbe
+
+Osnove finansijskog inženjeringa 1
+
+Ferenčak dr Miroslav
+
+1,2
+
+17:30
+
+19:00
+
+103
+
+aud.vežbe
+
+Matematička analiza 1
+
+Blesić Andrija
+
+2
+
+19:15
+
+20:45
+
+AR3
+
+rač.vežbe
+
+Osnove finansijskog inženjeringa 1
+
+Ferenčak dr Miroslav
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+12:15
+
+14:00
+
+204
+
+Pred.
+
+Engleski jezik - napredni srednji Bulatović Vesna
+
+3,4
+
+15:00
+
+16:30
+
+102
+
+aud.vežbe
+
+Matematička analiza 1
+
+Dragić Đorđe
+
+Ivković Vladimir,
+
+1,2
+
+14:00
+
+16:30
+
+MI A2-3
+
+rač.vežbe
+
+Teorija algoritama
+
+Turović Radovan
+
+1,2 (3,4)
+
+16:45
+
+18:15
+
+102
+
+aud.vežbe
+
+Osnove finansijskog inženjeringa 1
+
+Ferenčak dr Miroslav
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Horvat Nebojša,
+
+3,4
+
+11:45
+
+15:00
+
+MI A2-3
+
+rač.vežbe
+
+Arhitektura računara
+
+Radović Luka
+
+SVI
+
+15:15
+
+17:00
+
+A2
+
+Pred.
+
+Matematička analiza 1
+
+Nedović dr Ljubo
+
+4
+
+17:30
+
+19:00
+
+L2 (RC)
+
+rač.vežbe
+
+Osnove finansijskog inženjeringa 1
+
+Ferenčak dr Miroslav
+
+1
+
+17:30
+
+20:45
+
+NTP-316
+
+rač.vežbe
+
+Arhitektura računara
+
+Horvat Nebojša
+
+2
+
+17:30
+
+20:45
+
+NTP-317
+
+rač.vežbe
+
+Arhitektura računara
+
+Radović Luka
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Dobromirov dr Dušan,
+
+SVI
+
+09:15
+
+12:00
+
+A2
+
+Pred.
+
+Osnove finansijskog inženjeringa 1
+
+Radišić dr Mladen
+
+1,2
+
+12:15
+
+13:45
+
+A3
+
+aud.vežbe
+
+Matematička analiza 1
+
+Blesić Andrija
+
+SVI
+
+16:15
+
+17:45
+
+online
+
+Pred.
+
+Arhitektura računara
+
+Gajić dr Dušan
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 06:28, Strana: 2
+
+RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
+
+Informacioni inženjering P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+07:00
+
+10:15
+
+NTP-317
+
+rač.vežbe
+
+Operativni sistemi
+
+Jovanović Jovana
+
+4
+
+10:30
+
+13:00
+
+INT 1
+
+rač.vežbe
+
+Veb programiranje
+
+Beker Aleksandar
+
+2
+
+15:00
+
+17:30
+
+307
+
+rač.vežbe
+
+Veb programiranje
+
+Beker Aleksandar
+
+1,2,3,4
+
+17:45
+
+19:15
+
+204
+
+aud.vežbe
+
+Verovatnoća i slučajni procesi Stefanović Tamara
+
+1,2,3,4
+
+19:30
+
+21:00
+
+204
+
+aud.vežbe
+
+Osnove finansijskog inženjeringa 2
+
+Ferenčak Miroslav
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+13:15
+
+15:00
+
+A1
+
+Pred.
+
+Verovatnoća i slučajni procesi Grbić dr Tatjana
+
+SVI
+
+15:15
+
+17:00
+
+A1
+
+Pred.
+
+Operativni sistemi
+
+Petrović dr Veljko
+
+Dobromirov dr Dušan,
+
+SVI
+
+17:15
+
+20:00
+
+A1
+
+Pred.
+
+Osnove finansijskog inženjeringa 2
+
+Radišić dr Mladen
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+09:15
+
+12:00
+
+AH1A
+
+Pred.
+
+Veb programiranje
+
+Zarić dr Miroslav
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+13:15
+
+16:00
+
+AH1B
+
+Pred.
+
+Matematička logika
+
+Gilezan dr Silvia
+
+SVI
+
+16:15
+
+18:00
+
+AH1B
+
+Pred.
+
+Operativni sistemi
+
+Petrović dr Veljko
+
+1,2,3,4
+
+18:15
+
+19:45
+
+AH1B
+
+aud.vežbe
+
+Matematička logika
+
+Kašterović Simona
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+4
+
+07:00
+
+10:15
+
+NTP-317
+
+rač.vežbe
+
+Operativni sistemi
+
+Jovanović Jovana
+
+3
+
+09:45
+
+12:15
+
+L6 (RC)
+
+rač.vežbe
+
+Veb programiranje
+
+Beker Aleksandar
+
+1
+
+13:45
+
+16:15
+
+AR3
+
+rač.vežbe
+
+Veb programiranje
+
+Beker Aleksandar
+
+1
+
+16:30
+
+19:45
+
+NTP-316
+
+rač.vežbe
+
+Operativni sistemi
+
+Jovanović Jovana
+
+2
+
+14:00
+
+17:15
+
+NTP-317
+
+rač.vežbe
+
+Operativni sistemi
+
+Anišić Helena
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.03.2022. 12:02, Strana: 3
+
+RASPORED PREDAVANJA - Osnovne akademske studije 6 Semestar
+
+Informacioni inženjering P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+17:15
+
+19:00
+
+109A
+
+Pred.
+
+Osnovi računarske inteligencije Ivančević dr Vladimir
+
+4
+
+19:15
+
+20:45
+
+AR3
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+1
+
+19:30
+
+21:00
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Gligorov Nenad
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+08:30
+
+10:00
+
+MI B4-5
+
+rač.vežbe
+
+Internet mreže
+
+Nikolić Lazar
+
+1
+
+08:30
+
+10:00
+
+MI B4-5A
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+2
+
+08:30
+
+10:00
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Bursać Vasilije
+
+SVI
+
+13:15
+
+15:00
+
+online
+
+Pred.
+
+Interakcija čovek računar Ivetić dr Dragan
+
+SVI
+
+16:15
+
+18:00
+
+online
+
+Pred.
+
+Osnovi računarske inteligencije Ivančević dr Vladimir
+
+SVI
+
+18:15
+
+20:00
+
+online
+
+Pred.
+
+Specifikacija i modeliranje softvera Luburić dr Nikola
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+08:45
+
+12:00
+
+L2 (RC)
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Prokić Simona
+
+Ivetić dr Jelena,
+
+1,2,3,4
+
+12:15
+
+13:00
+
+A3
+
+aud.vežbe
+
+Praktikum iz statistike Ilić dr Vladimir
+
+Ivetić dr Jelena,
+
+SVI
+
+13:15
+
+14:00
+
+A3
+
+Pred.
+
+Praktikum iz statistike Ilić dr Vladimir
+
+SVI
+
+14:15
+
+16:00
+
+A3
+
+Pred.
+
+Paralelno računarstvo
+
+Gajić dr Dušan
+
+4
+
+16:15
+
+19:30
+
+MI A2-4A
+
+rač.vežbe
+
+Osnovi računarske inteligencije Hadžibabić Aleksandar
+
+2
+
+17:15
+
+20:30
+
+L5 (RC)
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Šarenac Balša
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3,4
+
+07:45
+
+09:15
+
+MI A2-1
+
+rač.vežbe
+
+Paralelno računarstvo
+
+Horvat Nebojša
+
+1,2
+
+09:30
+
+11:00
+
+MI A2-1
+
+rač.vežbe
+
+Paralelno računarstvo
+
+Horvat Nebojša
+
+SVI
+
+14:15
+
+16:00
+
+online
+
+Pred.
+
+Specifikacija i modeliranje softvera Luburić dr Nikola
+
+SVI
+
+16:15
+
+18:00
+
+online
+
+Pred.
+
+Internet mreže
+
+Vuković dr Željko
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+07:00
+
+10:15
+
+L2 (RC)
+
+rač.vežbe
+
+Osnovi računarske inteligencije Hadžibabić Aleksandar
+
+3
+
+10:30
+
+12:00
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Bursać Vasilije
+
+2
+
+14:15
+
+17:30
+
+L4 (RC)
+
+rač.vežbe
+
+Osnovi računarske inteligencije Tomić Miroslav
+
+2
+
+17:45
+
+19:15
+
+L4 (RC)
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+1
+
+12:15
+
+15:30
+
+L3 (RC)
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Prokić Simona
+
+1
+
+15:45
+
+19:00
+
+MI A2-2
+
+rač.vežbe
+
+Osnovi računarske inteligencije Hadžibabić Aleksandar
+
+4
+
+08:45
+
+12:00
+
+MI V3-5
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Prokić Simona
+
+4
+
+12:15
+
+13:45
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Bursać Vasilije
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 09.03.2022. 08:47, Strana: 4
+
+RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
+
+Informacioni inženjering P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Todorović Nikola,
+
+1,2
+
+17:00
+
+19:30
+
+MI A2-3
+
+rač.vežbe
+
+Sistemi baza podataka
+
+Kiš Gergelj
+
+3
+
+14:00
+
+17:15
+
+AR2
+
+rač.vežbe
+
+XML i veb servisi
+
+Maksimović Veljko
+
+Preduzetništvo u informaciono komunikacionim PIN
+
+18:15
+
+20:00
+
+MI B4-3
+
+Pred.
+
+Šenk dr Vojin
+
+tehnologijama
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+10:15
+
+12:45
+
+109A
+
+Pred.
+
+Sistemi baza podataka
+
+Dimitrieski dr Vladimir AIN
+
+13:30
+
+15:00
+
+online
+
+Pred.
+
+XML i veb servisi
+
+Zarić dr Miroslav
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+11
+
+11:30
+
+14:00
+
+MI A2-2
+
+rač.vežbe
+
+Sistemi baza podataka
+
+Kiš Gergelj
+
+Preduzetništvo u informaciono komunikacionim 11
+
+14:15
+
+15:45
+
+NTP-001
+
+aud.vežbe
+
+Šenk dr Vojin
+
+tehnologijama
+
+AIN
+
+14:15
+
+15:45
+
+online
+
+Pred.
+
+XML i veb servisi
+
+Zarić dr Miroslav
+
+Kordić dr Slavica,
+
+SVI
+
+16:30
+
+19:00
+
+A3
+
+Pred.
+
+Inženjering informacionih sistema Delić dr Milan
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+11
+
+12:00
+
+14:30
+
+NTP-317
+
+rač.vežbe
+
+Inženjering informacionih sistema Župunski Radovan
+
+3
+
+14:45
+
+17:15
+
+NTP-317
+
+rač.vežbe
+
+Inženjering informacionih sistema Župunski Radovan
+
+3
+
+17:30
+
+20:00
+
+MI A2-2
+
+rač.vežbe
+
+Sistemi baza podataka
+
+Kiš Gergelj
+
+1
+
+15:15
+
+18:30
+
+L3 (RC)
+
+rač.vežbe
+
+XML i veb servisi
+
+Maksimović Veljko
+
+Todorović Nikola,
+
+1,2
+
+18:45
+
+21:15
+
+MI A2-3
+
+rač.vežbe
+
+Inženjering informacionih sistema Župunski Radovan
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+2
+
+07:00
+
+10:15
+
+NTP-307
+
+rač.vežbe
+
+XML i veb servisi
+
+Maksimović Veljko
+
+PIN
+
+12:15
+
+15:00
+
+104
+
+Pred.
+
+Menadžment javnog sektora Radišić dr Mladen
+
+11
+
+15:15
+
+16:45
+
+104
+
+aud.vežbe
+
+Menadžment javnog sektora Ferenčak dr Miroslav
+
+Napomene:
+
+Grupe broj 1,2,3 su grupa koja su upisane na studijsku grupu Analitički inženjering (AIN) Grupa broj 11 je grupa koja je upisana na studijsku grupu Primenjeni informacioni inženjering (PIN) Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:38, Strana: 5
+
+RASPORED PREDAVANJA - Master akademske studije 2 Semestar
+
+Studijski program: Informacioni inženjering Nastava će se izvoditi mentorski.
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+
+
+
+
