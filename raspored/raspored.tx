@@ -34,7 +34,7 @@ Termin:
     vrsta=Vrsta
     predmet=Predmet;
 
-Grupa: /Opredeljeni|SVI|\(?\d+(\(\d+-\d*\))?(,\d+(\(\d+-\d*\))?)*\)?/;
+Grupa: /(\(|\)|\w|,|-)+/ /\s*/- &Vreme;
 Vreme: /\d{2}:\d{2}/;
 Učionica: (!Vrsta /./)+;
 Vrsta: 'rač.vežbe'
