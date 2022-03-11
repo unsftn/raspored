@@ -1,5 +1,5 @@
 Raspored:
-    ((!Semestar /./)*
+    ((!Semestar /\w+|./)*
      semestri*=Semestar)*;
 
 Semestar:
@@ -7,8 +7,8 @@ Semestar:
     termini_po_danima+=TerminiZaDan;
 
 TerminiZaDan:
-    (!DanIliSemestar /./)* dan=Dan Heder
-    (!Termin /./)*
+    (!DanIliSemestar /\w+|./)* dan=Dan Heder
+    (!Termin /\w+|./)*
     termin+=Termin;
 
 DanIliSemestar:
@@ -36,10 +36,10 @@ Termin:
 
 Grupa: /(\(|\)|\w|,|-)+/ /\s*/- &Vreme;
 Vreme: /\d{2}:\d{2}/;
-Učionica: (!Vrsta /./)+;
+Učionica: (!Vrsta /\w+|./)+;
 Vrsta: 'rač.vežbe'
      | 'aud.vežbe'
      | 'lab.vežbe'
      | 'Pred.';
-Predmet[noskipws]: /\s*/- (!KrajTermina /.|\n/)+;
+Predmet[noskipws]: /\s*/- (!KrajTermina /\w+|\n|./)+;
 KrajTermina: Grupa | Dan | 'Rasporedi i realizacija' | 'Predmeti za koje nastavu';
