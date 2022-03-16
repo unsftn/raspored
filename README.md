@@ -31,7 +31,7 @@ Sada je moguće postavljati upite i kreirati izveštaje.
 Na primer za puni izveštaj po učionicama i danima:
 
 ```
-textx generate pdfs/all.raspored --target izvestaj > izvestaji/ucionice.txt
+textx generate pdfs/all.raspored --target izvestaj > izvestaj/ucionice.txt
 ```
 
 Ili ako je potrebno samo za određenog izvođača (može se navesti samo deo imena):
