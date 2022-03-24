@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.02.2022. 09:50, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 09:49, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
 
@@ -258,9 +258,9 @@ Izvođač
 
 1,2,5,7
 
-10:15
+10:30
 
-11:45
+12:00
 
 201
 
@@ -272,11 +272,11 @@ Tošić Stefan
 
 SVI
 
-12:30
+12:15
 
 14:00
 
-online
+204
 
 Pred.
 
@@ -290,7 +290,7 @@ SVI
 
 16:00
 
-online
+ITCA1
 
 Pred.
 
@@ -302,9 +302,9 @@ SVI
 
 16:15
 
-17:45
+18:00
 
-online
+ITCA1
 
 Pred.
 
@@ -312,11 +312,11 @@ Društveni aspekti informacionih sistema Katić dr Ivana
 
 3,4,6
 
-18:30
+18:15
 
-21:00
+20:45
 
-202
+105
 
 aud.vežbe
 
@@ -340,9 +340,9 @@ Izvođač
 
 3,4,6
 
-08:30
+08:45
 
-10:00
+10:15
 
 311
 
@@ -358,7 +358,7 @@ SVI
 
 12:00
 
-online
+208
 
 Pred.
 
@@ -366,11 +366,11 @@ Osnove organizacionih sistema Maksimović dr Rado
 
 1,2,5,7
 
-12:30
+12:15
 
-14:00
+13:45
 
-AH1A
+309
 
 aud.vežbe
 
@@ -380,15 +380,17 @@ Tošić Stefan
 
 Opredeljeni
 
-14:30
+14:15
 
 16:00
 
-online
+311
 
 Pred.
 
-Engleski jezik - stručni Bulatović Vesna
+Engleski jezik - stručni
+
+Bulatović Vesna
 
 P E T A K
 
@@ -408,11 +410,11 @@ Izvođač
 
 3,4,6
 
-10:15
+10:30
 
-11:45
+12:00
 
-AH7
+108
 
 aud.vežbe
 
@@ -426,7 +428,7 @@ SVI
 
 14:00
 
-online
+109A
 
 Pred.
 
@@ -440,7 +442,7 @@ SVI
 
 16:00
 
-online
+109A
 
 Pred.
 
@@ -462,7 +464,7 @@ Napomena:
 
 Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - stručni (2+0) 2. Nemački jezik - napredni srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.02.2022. 12:49, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 06:03, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
 
@@ -488,7 +490,7 @@ SVI
 
 17:00
 
-online
+ITCA1
 
 Pred.
 
@@ -500,11 +502,13 @@ SVI
 
 20:00
 
-online
+ITCA1
 
 Pred.
 
-Verovatnoća i statistika Ovcin dr Zoran
+Verovatnoća i statistika
+
+Ovcin dr Zoran
 
 U T O R A K
 
@@ -528,7 +532,7 @@ SVI
 
 17:00
 
-online
+AH1B
 
 Pred.
 
@@ -540,9 +544,9 @@ SVI
 
 17:15
 
-18:45
+19:00
 
-online
+AH1B
 
 Pred.
 
@@ -554,11 +558,13 @@ Analiza i modeliranje poslovnih procesa Tešić dr Zdravko
 
 21:45
 
-101
+AH1B
 
 aud.vežbe
 
-Verovatnoća i statistika Ciganović Radojka
+Verovatnoća i statistika
+
+Ciganović Radojka
 
 S R E D A
 
@@ -578,11 +584,11 @@ Izvođač
 
 4
 
-08:45
+09:30
 
-11:15
+12:00
 
-MI B4-5A
+MI V3-5
 
 rač.vežbe
 
@@ -722,7 +728,7 @@ SVI
 
 16:00
 
-online
+309
 
 Pred.
 
@@ -732,9 +738,9 @@ SVI
 
 16:15
 
-17:45
+18:00
 
-online
+309
 
 Pred.
 
@@ -760,11 +766,13 @@ Osnove testiranja softvera Gajić Natalija
 
 20:45
 
-310
+309
 
 aud.vežbe
 
-Verovatnoća i statistika Ciganović Radojka
+Verovatnoća i statistika
+
+Ciganović Radojka
 
 P E T A K
 
@@ -872,7 +880,7 @@ Veb orijentisane tehnologije i sistemi Lazarević Sara
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.02.2022. 11:27, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:24, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 6 Semestar
 
@@ -1178,7 +1186,7 @@ SVI
 
 09:00
 
-A1
+207
 
 Pred.
 
@@ -1190,7 +1198,7 @@ SVI
 
 11:00
 
-A1
+207
 
 Pred.
 
@@ -1204,7 +1212,7 @@ SVI
 
 13:00
 
-A1
+207
 
 Pred.
 
@@ -1292,7 +1300,7 @@ Robotizovani sistemi u industriji Studen Milutin
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2022. 06:32, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:14, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -1318,7 +1326,7 @@ SVI
 
 10:00
 
-203
+202
 
 Pred.
 
@@ -1372,11 +1380,11 @@ SVI
 
 12:15
 
-AH1B
-
 Pred.
 
-Principi prezentacije i prepoznavanje oblika Arsenović dr Marko
+Principi prezentacije i prepoznavanje oblika 309
+
+Arsenović dr Marko
 
 2
 
@@ -1436,7 +1444,7 @@ SVI
 
 12:00
 
-101
+310
 
 Pred.
 
@@ -1656,7 +1664,7 @@ Agilni pristupi u razvoju softverskih proizvoda Pržulj dr Đorđe
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2022. 09:37, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:42, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -1700,7 +1708,7 @@ SVI
 
 16:00
 
-109
+AH7
 
 Pred.
 

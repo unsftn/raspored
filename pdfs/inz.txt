@@ -20,9 +20,11 @@ Oznake korišćene u rasporedu: 1. Brojevi napisani u zagradi iza broja grupe
 
 
 
-Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu prof. dr Aleksandar Kupusinac
+Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.03.2022. 05:45, Strana: 1
+prof. dr Aleksandar Kupusinac
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 09:51, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
 
@@ -46,9 +48,9 @@ SVI
 
 13:15
 
-14:45
+15:00
 
-online
+A4
 
 Pred.
 
@@ -58,11 +60,11 @@ Gajić dr Dušan
 
 SVI
 
-15:30
+15:15
 
 17:00
 
-101
+207
 
 Pred.
 
@@ -76,7 +78,7 @@ SVI
 
 20:00
 
-101
+207
 
 Pred.
 
@@ -202,18 +204,6 @@ Naziv Predmeta
 
 Izvođač
 
-SVI
-
-12:15
-
-14:00
-
-204
-
-Pred.
-
-Engleski jezik - napredni srednji Bulatović Vesna
-
 3,4
 
 15:00
@@ -258,6 +248,18 @@ Osnove finansijskog inženjeringa 1
 
 Ferenčak dr Miroslav
 
+SVI
+
+18:30
+
+20:00
+
+202
+
+Pred.
+
+Engleski jezik - napredni srednji Bulatović Vesna
+
 Č E T V R T A K
 
 Grupa-e
@@ -292,11 +294,11 @@ Radović Luka
 
 SVI
 
-15:15
+15:30
 
 17:00
 
-A2
+201
 
 Pred.
 
@@ -366,11 +368,11 @@ Dobromirov dr Dušan,
 
 SVI
 
-09:15
+10:15
 
-12:00
+13:00
 
-A2
+NTP-417
 
 Pred.
 
@@ -380,11 +382,11 @@ Radišić dr Mladen
 
 1,2
 
-12:15
+13:15
 
-13:45
+14:45
 
-A3
+NTP-417
 
 aud.vežbe
 
@@ -396,9 +398,9 @@ SVI
 
 16:15
 
-17:45
+18:00
 
-online
+A4
 
 Pred.
 
@@ -408,7 +410,7 @@ Gajić dr Dušan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 06:28, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:52, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
 
@@ -476,7 +478,7 @@ Beker Aleksandar
 
 19:15
 
-204
+308
 
 aud.vežbe
 
@@ -488,7 +490,7 @@ Verovatnoća i slučajni procesi Stefanović Tamara
 
 21:00
 
-204
+308
 
 aud.vežbe
 
@@ -518,7 +520,7 @@ SVI
 
 15:00
 
-A1
+NTP-001
 
 Pred.
 
@@ -530,7 +532,7 @@ SVI
 
 17:00
 
-A1
+NTP-001
 
 Pred.
 
@@ -546,7 +548,7 @@ SVI
 
 20:00
 
-A1
+NTP-001
 
 Pred.
 
@@ -576,7 +578,7 @@ SVI
 
 12:00
 
-AH1A
+NTP-417
 
 Pred.
 
@@ -602,11 +604,11 @@ Izvođač
 
 SVI
 
-13:15
+14:15
 
-16:00
+17:00
 
-AH1B
+308
 
 Pred.
 
@@ -616,11 +618,11 @@ Gilezan dr Silvia
 
 SVI
 
-16:15
+17:15
 
-18:00
+19:00
 
-AH1B
+308
 
 Pred.
 
@@ -630,11 +632,11 @@ Petrović dr Veljko
 
 1,2,3,4
 
-18:15
+19:15
 
-19:45
+20:45
 
-AH1B
+308
 
 aud.vežbe
 
@@ -730,7 +732,7 @@ Anišić Helena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.03.2022. 12:02, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 12:00, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 6 Semestar
 
@@ -756,7 +758,7 @@ SVI
 
 19:00
 
-109A
+NTP-417
 
 Pred.
 
@@ -768,7 +770,7 @@ Osnovi računarske inteligencije Ivančević dr Vladimir
 
 20:45
 
-AR3
+NTP-307
 
 rač.vežbe
 
@@ -778,9 +780,9 @@ Janković Eva
 
 1
 
-19:30
+19:15
 
-21:00
+20:45
 
 NTP-312
 
@@ -804,53 +806,13 @@ Naziv Predmeta
 
 Izvođač
 
-3
-
-08:30
-
-10:00
-
-MI B4-5
-
-rač.vežbe
-
-Internet mreže
-
-Nikolić Lazar
-
-1
-
-08:30
-
-10:00
-
-MI B4-5A
-
-rač.vežbe
-
-Internet mreže
-
-Janković Eva
-
-2
-
-08:30
-
-10:00
-
-NTP-312
-
-rač.vežbe
-
-Interakcija čovek računar Bursać Vasilije
-
 SVI
 
 13:15
 
 15:00
 
-online
+A2
 
 Pred.
 
@@ -862,7 +824,7 @@ SVI
 
 18:00
 
-online
+105
 
 Pred.
 
@@ -874,11 +836,51 @@ SVI
 
 20:00
 
-online
+A3
 
 Pred.
 
 Specifikacija i modeliranje softvera Luburić dr Nikola
+
+1
+
+20:15
+
+21:45
+
+L2 (RC)
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+2
+
+20:15
+
+21:45
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Bursać Vasilije
+
+3
+
+20:15
+
+21:45
+
+L6 (RC)
+
+rač.vežbe
+
+Internet mreže
+
+Nikolić Lazar
 
 S R E D A
 
@@ -916,11 +918,13 @@ Ivetić dr Jelena,
 
 13:00
 
-A3
+105
 
 aud.vežbe
 
-Praktikum iz statistike Ilić dr Vladimir
+Praktikum iz statistike
+
+Ilić dr Vladimir
 
 Ivetić dr Jelena,
 
@@ -930,11 +934,13 @@ SVI
 
 14:00
 
-A3
+105
 
 Pred.
 
-Praktikum iz statistike Ilić dr Vladimir
+Praktikum iz statistike
+
+Ilić dr Vladimir
 
 SVI
 
@@ -942,7 +948,7 @@ SVI
 
 16:00
 
-A3
+207
 
 Pred.
 
@@ -1024,7 +1030,7 @@ SVI
 
 16:00
 
-online
+A2
 
 Pred.
 
@@ -1036,7 +1042,7 @@ SVI
 
 18:00
 
-online
+A2
 
 Pred.
 
@@ -1160,7 +1166,7 @@ Interakcija čovek računar Bursać Vasilije
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 09.03.2022. 08:47, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 05:35, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -1216,7 +1222,7 @@ Preduzetništvo u informaciono komunikacionim PIN
 
 20:00
 
-MI B4-3
+MI Đ5-1
 
 Pred.
 
@@ -1244,21 +1250,23 @@ SVI
 
 10:15
 
-12:45
+13:00
 
-109A
+109
 
 Pred.
 
 Sistemi baza podataka
 
-Dimitrieski dr Vladimir AIN
+Dimitrieski dr Vladimir
 
-13:30
+AIN
+
+13:15
 
 15:00
 
-online
+204
 
 Pred.
 
@@ -1302,7 +1310,7 @@ Preduzetništvo u informaciono komunikacionim 11
 
 15:45
 
-NTP-001
+MI B1-B
 
 aud.vežbe
 
@@ -1312,11 +1320,11 @@ tehnologijama
 
 AIN
 
-14:15
+15:15
 
-15:45
+17:00
 
-online
+A3
 
 Pred.
 
@@ -1328,11 +1336,11 @@ Kordić dr Slavica,
 
 SVI
 
-16:30
+17:15
 
-19:00
+20:00
 
-A3
+NTP-418
 
 Pred.
 
@@ -1378,20 +1386,6 @@ rač.vežbe
 
 Inženjering informacionih sistema Župunski Radovan
 
-3
-
-17:30
-
-20:00
-
-MI A2-2
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Kiš Gergelj
-
 1
 
 15:15
@@ -1405,6 +1399,20 @@ rač.vežbe
 XML i veb servisi
 
 Maksimović Veljko
+
+3
+
+17:30
+
+20:00
+
+MI A2-2
+
+rač.vežbe
+
+Sistemi baza podataka
+
+Kiš Gergelj
 
 Todorović Nikola,
 

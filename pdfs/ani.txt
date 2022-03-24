@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.03.2022. 05:13, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.03.2022. 06:50, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -152,7 +152,7 @@ SVI
 
 10:00
 
-204
+202
 
 Pred.
 
@@ -166,7 +166,7 @@ SVI
 
 13:00
 
-204
+202
 
 Pred.
 
@@ -236,7 +236,7 @@ SVI
 
 09:00
 
-101
+310
 
 Pred.
 
@@ -252,7 +252,7 @@ SVI
 
 11:00
 
-101
+310
 
 Pred.
 
@@ -432,7 +432,7 @@ Izvođač
 
 Lončarević dr Ivana,
 
-3(1-12),4(1-12)
+3,4
 
 09:00
 
@@ -448,7 +448,7 @@ Beljin-Čavić Milica
 
 Lončarević dr Ivana,
 
-1(1-12),2(1-12)
+1,2
 
 10:45
 
@@ -462,47 +462,9 @@ Fizika
 
 Beljin-Čavić Milica
 
-Predmeti za koje nastavu organizuje departman Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Lončarević dr Ivana,
-
-3(13-),4(13-)
-
-Fizika
-
-lab.vežbe
-
-Fizika
-
-Beljin-Čavić Milica
-
-Lončarević dr Ivana,
-
-1(13-),2(13-)
-
-Fizika
-
-lab.vežbe
-
-Fizika
-
-Beljin-Čavić Milica
-
 Rasporedi i realizacija; ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 05:55, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:34, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -540,7 +502,7 @@ Opredeljeni
 
 10:00
 
-201
+AH6
 
 Pred.
 
@@ -556,7 +518,7 @@ SVI
 
 12:00
 
-203
+202
 
 Pred.
 
@@ -568,7 +530,7 @@ SVI
 
 15:00
 
-203
+202
 
 Pred.
 
@@ -648,7 +610,7 @@ SVI
 
 16:00
 
-204
+202
 
 Pred.
 
@@ -938,7 +900,7 @@ Osnove inženjerske animacije Letić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.03.2022. 05:38, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:06, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1082,7 +1044,7 @@ SVI
 
 10:00
 
-205
+206
 
 Pred.
 
@@ -1094,7 +1056,7 @@ SVI
 
 12:00
 
-205
+206
 
 Pred.
 
@@ -1106,11 +1068,11 @@ SVI
 
 14:00
 
-205
+207
 
 Pred.
 
-Inženjerska animacija i drugi mediji Obradović dr Ratko
+Inženjerska animacija i drugi mediji Perišić dr Ana
 
 S R E D A
 
@@ -1134,7 +1096,7 @@ Osnovi informacionih sistema i softverskog SVI
 
 11:00
 
-203
+AH1B
 
 Pred.
 
@@ -1148,7 +1110,7 @@ SVI
 
 14:00
 
-203
+AH1B
 
 Pred.
 
@@ -1162,7 +1124,7 @@ Brkljač dr Branko
 
 15:45
 
-207
+AH7
 
 aud.vežbe
 
@@ -1226,7 +1188,7 @@ rač.vežbe
 
 Specijalni vizuelni efekti Varga Marija
 
-Osnovi informacionih sistema i softverskog 4
+Osnovi informacionih sistema i 4
 
 09:45
 
@@ -1238,7 +1200,7 @@ rač.vežbe
 
 Vujinović Aleksandar
 
-inženjerstva
+softverskog inženjerstva
 
 4(1-12)
 
@@ -1366,7 +1328,7 @@ Specijalni vizuelni efekti Miščević Milan
 
 12:00
 
-312
+MI G3-1A
 
 aud.vežbe
 
@@ -1466,7 +1428,7 @@ Inženjerska animacija i drugi mediji Kuzmanović dr Nenad
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:35, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:01, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -1494,7 +1456,7 @@ SVI
 
 18:00
 
-203
+208
 
 Pred.
 
@@ -1722,7 +1684,7 @@ SVI
 
 10:00
 
-204
+206
 
 Pred.
 
@@ -1734,7 +1696,7 @@ SVI
 
 13:00
 
-204
+206
 
 Pred.
 
@@ -1748,7 +1710,7 @@ Obratiti se PROF. DR. RATKU OBRADOVIĆU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:50, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:31, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 

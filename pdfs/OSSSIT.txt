@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 05:47, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.03.2022. 12:36, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 2 Semestar
 
@@ -62,7 +62,7 @@ SVI
 
 13:00
 
-A4
+NTP-001
 
 Pred.
 
@@ -74,7 +74,7 @@ SVI
 
 16:00
 
-A4
+NTP-001
 
 Pred.
 
@@ -224,7 +224,7 @@ SVI
 
 17:00
 
-208
+NTP-001
 
 Pred.
 
@@ -290,7 +290,7 @@ SVI
 
 15:20
 
-205
+201
 
 Pred.
 
@@ -300,11 +300,11 @@ Engleski jezik 2
 
 1,2
 
-15:45
+16:00
 
-18:15
+18:30
 
-308
+104
 
 aud.vežbe
 
@@ -348,7 +348,7 @@ SVI
 
 17:00
 
-203
+207
 
 Pred.
 
@@ -356,7 +356,7 @@ Uvod u objektno programiranje Nikolić dr Siniša
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 06:30, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:56, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 4 Semestar
 
@@ -382,7 +382,7 @@ SVI
 
 11:00
 
-A3
+NTP-417
 
 Pred.
 
@@ -394,7 +394,7 @@ SVI
 
 14:00
 
-A3
+NTP-417
 
 Pred.
 
@@ -438,7 +438,9 @@ L2 (RC)
 
 rač.vežbe
 
-Alati za razvoj softvera Stojkov Milan
+Alati za razvoj softvera
+
+Stojkov Milan
 
 2
 
@@ -462,7 +464,9 @@ L4 (RC)
 
 rač.vežbe
 
-Alati za razvoj softvera Stojkov Milan
+Alati za razvoj softvera
+
+Stojkov Milan
 
 3
 
@@ -546,7 +550,9 @@ NTP-311
 
 rač.vežbe
 
-Alati za razvoj softvera Simić Miloš
+Alati za razvoj softvera
+
+Simić Miloš
 
 3
 
@@ -608,7 +614,7 @@ SVI
 
 16:00
 
-A4
+NTP-417
 
 Pred.
 
@@ -622,11 +628,13 @@ SVI
 
 18:00
 
-A4
+NTP-417
 
 Pred.
 
-Alati za razvoj softvera Nikolić dr Siniša
+Alati za razvoj softvera
+
+Nikolić dr Siniša
 
 SVI
 
@@ -634,7 +642,7 @@ SVI
 
 21:00
 
-A4
+NTP-417
 
 Pred.
 
@@ -698,7 +706,7 @@ Klijentske veb tehnologije Brdar Ilija
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 09.03.2022. 09:18, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:31, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 6 Semestar
 
@@ -822,7 +830,7 @@ SVI
 
 19:00
 
-207
+NTP-001
 
 Pred.
 

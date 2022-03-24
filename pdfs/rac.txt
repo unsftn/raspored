@@ -26,7 +26,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 05:49, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:21, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -80,7 +80,7 @@ SVI
 
 15:00
 
-online
+A2
 
 Pred.
 
@@ -94,7 +94,7 @@ SVI
 
 17:00
 
-online
+A2
 
 Pred.
 
@@ -106,9 +106,9 @@ SVI
 
 17:15
 
-18:45
+19:00
 
-online
+A2
 
 Pred.
 
@@ -118,9 +118,9 @@ Herceg dr Dejana
 
 13(1-12),15(1-12)
 
-19:30
+19:15
 
-21:00
+20:45
 
 105
 
@@ -132,9 +132,9 @@ Jelić Slađan
 
 7(1-12),8(1-12)
 
-19:30
+19:15
 
-21:00
+20:45
 
 108
 
@@ -214,7 +214,7 @@ Bjelica Jelena
 
 13:45
 
-207
+MI G3-1C
 
 lab.vežbe
 
@@ -282,11 +282,11 @@ Radović Luka, Anišić Helena
 
 11,12,14
 
-14:15
+15:15
 
-15:45
+16:45
 
-101
+109A
 
 aud.vežbe
 
@@ -314,7 +314,7 @@ Horvat Nebojša, Anišić Helena
 
 19:15
 
-205
+108A
 
 lab.vežbe
 
@@ -328,7 +328,7 @@ Jelić Slađan
 
 21:00
 
-205
+108A
 
 aud.vežbe
 
@@ -564,7 +564,7 @@ Mihailović dr Aleksandra
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 05:49, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:21, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -604,7 +604,7 @@ SVI
 
 16:00
 
-online
+A1
 
 Pred.
 
@@ -618,7 +618,7 @@ SVI
 
 18:00
 
-online
+A1
 
 Pred.
 
@@ -632,7 +632,7 @@ SVI
 
 20:00
 
-online
+A1
 
 Pred.
 
@@ -646,7 +646,7 @@ Opredeljeni
 
 21:45
 
-online
+A1
 
 Pred.
 
@@ -704,7 +704,7 @@ Ignjatijević Aleksandar
 
 08:30
 
-206
+311
 
 lab.vežbe
 
@@ -720,7 +720,7 @@ Zečević Milka
 
 10:15
 
-206
+311
 
 aud.vežbe
 
@@ -856,7 +856,7 @@ Jelić Slađan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 06:31, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:40, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -960,7 +960,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Stokanović Smilja
+Mitrović Aleksandra
 
 9,10,14
 
@@ -1074,7 +1074,7 @@ Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
 
 15:45
 
-AH1A
+201
 
 aud.vežbe
 
@@ -1120,11 +1120,11 @@ Maravić Nikolina,
 
 7,8,12
 
-08:30
+11:15
 
-10:00
+12:45
 
-A4
+103
 
 aud.vežbe
 
@@ -1140,7 +1140,7 @@ SVI
 
 15:00
 
-online
+A1
 
 Pred.
 
@@ -1154,7 +1154,7 @@ SVI
 
 17:00
 
-online
+A1
 
 Pred.
 
@@ -1168,13 +1168,41 @@ SVI
 
 19:00
 
-online
+A1
 
 Pred.
 
 Operativni sistemi
 
 Petrović dr Veljko
+
+6,11,14
+
+19:15
+
+20:45
+
+103
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Stokanović Smilja
+
+1,2,15
+
+19:15
+
+20:45
+
+202
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
 
 
 
@@ -1219,6 +1247,18 @@ rač.vežbe
 Operativni sistemi
 
 Aleksić Katarina
+
+12
+
+09:45
+
+12:15
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
 
 3,4,15
 
@@ -1298,59 +1338,19 @@ Mitrović Aleksandra
 
 SVI
 
-14:15
+17:15
 
-16:45
+20:00
 
-online
+A1
 
 Pred.
 
 Osnovi paralelnog programiranja i softverski alati Đukić dr Miodrag
 
-1,2,15
-
-17:30
-
-19:00
-
-108A
-
-aud.vežbe
-
-Sistemi automatskog upravljanja
-
-Mitrović Aleksandra
-
-6,11,14
-
-17:30
-
-19:00
-
-108
-
-aud.vežbe
-
-Sistemi automatskog upravljanja
-
-Stokanović Smilja
-
-12
-
-17:30
-
-20:00
-
-NTP-508
-
-rač.vežbe
-
-Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
-
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 06:31, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:40, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1392,7 +1392,7 @@ SVI
 
 10:00
 
-online
+A1
 
 Pred.
 
@@ -1406,7 +1406,7 @@ SVI
 
 12:00
 
-online
+A1
 
 Pred.
 
@@ -1422,7 +1422,7 @@ SVI
 
 14:00
 
-online
+A1
 
 Pred.
 
@@ -1506,7 +1506,7 @@ Osnovi paralelnog programiranja i softverski alati Stepanović Mia
 
 09:30
 
-MI B4-1A
+NTP-508
 
 rač.vežbe
 
@@ -1546,13 +1546,13 @@ Osnovi paralelnog programiranja i softverski alati Ivanović Sandra
 
 12:15
 
-MI B4-1A
+NTP-508
 
 rač.vežbe
 
 Osnovi paralelnog programiranja i softverski alati Subotić Miloš
 
-Aleksić Katarina,
+Anišić Helena,
 
 5,6
 
@@ -1660,7 +1660,7 @@ Osnovi paralelnog programiranja i softverski alati Subotić Miloš
 
 17:15
 
-MI B4-1A
+NTP-508
 
 rač.vežbe
 
@@ -1710,7 +1710,7 @@ Stojaković Nedeljko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:03, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:34, Strana: 5
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -2050,7 +2050,7 @@ SVI
 
 15:00
 
-online
+A2
 
 Pred.
 
@@ -2064,7 +2064,7 @@ SVI
 
 18:00
 
-online
+A3
 
 Pred.
 
@@ -2078,7 +2078,7 @@ SVI
 
 20:00
 
-online
+A3
 
 Pred.
 
@@ -2422,11 +2422,11 @@ Izvođač
 SVI
 
 
-12:30
+12:15
 
 14:00
 
-online
+A2
 
 Pred.
 
@@ -2440,7 +2440,7 @@ SVI
 
 16:00
 
-online
+A2
 
 Pred.
 
@@ -2452,7 +2452,7 @@ SVI
 
 18:00
 
-online
+A2
 
 Pred.
 
@@ -2500,15 +2500,15 @@ lab.vežbe
 
 Internet mreže
 
-Janković Eva
+Popov Jelena
 
 SVI
 
-12:30
+12:15
 
 14:00
 
-online
+A1
 
 Pred.
 
@@ -2532,7 +2532,7 @@ Anđelić Stefan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 10:01, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:33, Strana: 6
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -2918,7 +2918,7 @@ Upravljački algoritmi u realnom vremenu Stokanović Smilja
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:04, Strana: 7
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:35, Strana: 7
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -3532,7 +3532,7 @@ Pap dr Ištvan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.01.2022. 10:12, Strana: 8
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:23, Strana: 8
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -3560,9 +3560,17 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predmet: Projektovanje sistema zasnovanih na računaru 28.02.2022
+
+Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+
+28.02.2022
 
 SVI
 
@@ -3574,7 +3582,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 28.02.2022
 
@@ -3588,7 +3598,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 28.02.2022
 
@@ -3602,7 +3614,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 28.02.2022
 
@@ -3616,7 +3630,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 01.03.2022
 
@@ -3630,7 +3646,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 01.03.2022
 
@@ -3644,7 +3662,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 01.03.2022
 
@@ -3658,7 +3678,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 01.03.2022
 
@@ -3672,7 +3694,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 02.03.2022
 
@@ -3686,7 +3710,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 02.03.2022
 
@@ -3700,7 +3726,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 02.03.2022
 
@@ -3714,7 +3742,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 02.03.2022
 
@@ -3728,7 +3758,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 03.03.2022
 
@@ -3742,7 +3774,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 03.03.2022
 
@@ -3756,7 +3790,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 03.03.2022
 
@@ -3770,7 +3806,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 03.03.2022
 
@@ -3784,7 +3822,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 04.03.2022
 
@@ -3798,7 +3838,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 04.03.2022
 
@@ -3812,7 +3854,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 04.03.2022
 
@@ -3826,7 +3870,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 04.03.2022
 
@@ -3840,7 +3886,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 07.03.2022
 
@@ -3854,7 +3902,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 07.03.2022
 
@@ -3868,7 +3918,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 07.03.2022
 
@@ -3882,7 +3934,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 07.03.2022
 
@@ -3896,7 +3950,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 08.03.2022
 
@@ -3910,7 +3966,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 08.03.2022
 
@@ -3924,7 +3982,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 08.03.2022
 
@@ -3938,7 +3998,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 08.03.2022
 
@@ -3952,7 +4014,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 09.03.2022
 
@@ -3966,7 +4030,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 09.03.2022
 
@@ -3980,7 +4046,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 09.03.2022
 
@@ -3994,7 +4062,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 09.03.2022
 
@@ -4008,7 +4078,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 10.03.2022
 
@@ -4022,7 +4094,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 10.03.2022
 
@@ -4036,7 +4110,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 10.03.2022
 
@@ -4050,7 +4126,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 10.03.2022
 
@@ -4064,7 +4142,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 11.03.2022
 
@@ -4078,7 +4158,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 11.03.2022
 
@@ -4092,7 +4174,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 11.03.2022
 
@@ -4106,7 +4190,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 11.03.2022
 
@@ -4120,7 +4206,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 14.03.2022
 
@@ -4134,7 +4222,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 14.03.2022
 
@@ -4148,7 +4238,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 14.03.2022
 
@@ -4162,7 +4254,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 14.03.2022
 
@@ -4176,7 +4270,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 15.03.2022
 
@@ -4190,7 +4286,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 15.03.2022
 
@@ -4204,7 +4302,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 15.03.2022
 
@@ -4218,7 +4318,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 15.03.2022
 
@@ -4232,7 +4334,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 16.03.2022
 
@@ -4246,7 +4350,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 16.03.2022
 
@@ -4260,7 +4366,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 16.03.2022
 
@@ -4274,7 +4382,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 16.03.2022
 
@@ -4288,7 +4398,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 17.03.2022
 
@@ -4302,7 +4414,9 @@ NTP-418
 
 Pred.
 
-Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
 
 17.03.2022
 
@@ -4316,7 +4430,9 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Milena Milošević
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
 
 17.03.2022
 
@@ -4330,7 +4446,9 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Kordić Branislav
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
 
 17.03.2022
 
@@ -4344,11 +4462,13 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje sistema zasnovanih na računaru Dimitrije Stojanović
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.01.2022. 10:12, Strana: 9
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:23, Strana: 9
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -4376,11 +4496,17 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predmet: Projektovanje sistema zasnovanih na računaru Predmet: Projektovanje namenskih računarskih struktura 2
 
-21.03.2022
+Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+
+Predmet: Projektovanje sistema zasnovanih na računaru 21.03.2022
 
 SVI
 
@@ -4392,9 +4518,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 21.03.2022
 
@@ -4408,9 +4532,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 21.03.2022
 
@@ -4424,9 +4546,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 21.03.2022
 
@@ -4440,9 +4560,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 22.03.2022
 
@@ -4456,9 +4574,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 22.03.2022
 
@@ -4472,9 +4588,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 22.03.2022
 
@@ -4488,9 +4602,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 22.03.2022
 
@@ -4504,9 +4616,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 23.03.2022
 
@@ -4520,9 +4630,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 23.03.2022
 
@@ -4536,9 +4644,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 23.03.2022
 
@@ -4552,9 +4658,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 23.03.2022
 
@@ -4568,9 +4672,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 24.03.2022
 
@@ -4584,9 +4686,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 24.03.2022
 
@@ -4600,9 +4700,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 24.03.2022
 
@@ -4616,9 +4714,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 24.03.2022
 
@@ -4632,9 +4728,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 25.03.2022
 
@@ -4648,9 +4742,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 25.03.2022
 
@@ -4664,9 +4756,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 25.03.2022
 
@@ -4680,9 +4770,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 25.03.2022
 
@@ -4696,9 +4784,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 28.03.2022
 
@@ -4712,9 +4798,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 28.03.2022
 
@@ -4728,9 +4812,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 28.03.2022
 
@@ -4744,9 +4826,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 28.03.2022
 
@@ -4760,9 +4840,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 29.03.2022
 
@@ -4776,9 +4854,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 29.03.2022
 
@@ -4792,9 +4868,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 29.03.2022
 
@@ -4808,9 +4882,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 29.03.2022
 
@@ -4824,9 +4896,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 30.03.2022
 
@@ -4840,9 +4910,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 30.03.2022
 
@@ -4856,9 +4924,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 30.03.2022
 
@@ -4872,9 +4938,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 30.03.2022
 
@@ -4888,9 +4952,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 31.03.2022
 
@@ -4904,9 +4966,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 31.03.2022
 
@@ -4920,9 +4980,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 31.03.2022
 
@@ -4936,9 +4994,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 31.03.2022
 
@@ -4952,9 +5008,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 01.04.2022
 
@@ -4968,9 +5022,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 01.04.2022
 
@@ -4984,9 +5036,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 01.04.2022
 
@@ -5000,9 +5050,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 01.04.2022
 
@@ -5016,9 +5064,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 11.04.2022
 
@@ -5032,9 +5078,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 11.04.2022
 
@@ -5048,9 +5092,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 11.04.2022
 
@@ -5064,9 +5106,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 11.04.2022
 
@@ -5080,9 +5120,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 12.04.2022
 
@@ -5096,9 +5134,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 12.04.2022
 
@@ -5112,9 +5148,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 12.04.2022
 
@@ -5128,9 +5162,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 12.04.2022
 
@@ -5144,9 +5176,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 13.04.2022
 
@@ -5160,9 +5190,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 13.04.2022
 
@@ -5176,9 +5204,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 13.04.2022
 
@@ -5192,9 +5218,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 13.04.2022
 
@@ -5208,9 +5232,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 14.04.2022
 
@@ -5224,9 +5246,7 @@ NTP-418
 
 Pred.
 
-Projektovanje namenskih računarskih struktura 2
-
-Pap dr Ištvan
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
 
 14.04.2022
 
@@ -5240,9 +5260,7 @@ NTP-505
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Jasmina Savić
+Projektovanje sistema zasnovanih na računaru Novković Teodora
 
 14.04.2022
 
@@ -5256,9 +5274,7 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Pijetlovic Stefan
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
 
 14.04.2022
 
@@ -5272,13 +5288,11 @@ NTP-506
 
 lab.vežbe
 
-Projektovanje namenskih računarskih struktura 2
-
-Dimitrije Stojanović
+Projektovanje sistema zasnovanih na računaru Manić Milan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.01.2022. 10:12, Strana: 10
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:23, Strana: 10
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -5306,9 +5320,17 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predmet: Projektovanje sistema zasnovanih na računaru Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+
+Predmet: Projektovanje namenskih računarskih struktura 2
 
 09.05.2022
 
@@ -5322,28 +5344,28 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
-
-09.05.2022
-
-3
-
-13:00
-
-15:30
-
-NTP-505
-
-lab.vežbe
-
-Programska podrška u televiziji i obradi slike 1
-
-Milošević Milena
+Pap dr Ištvan
 
 09.05.2022
 
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+09.05.2022
+
 1
 
 13:00
@@ -5354,9 +5376,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 09.05.2022
 
@@ -5370,9 +5392,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 10.05.2022
 
@@ -5386,9 +5408,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 10.05.2022
 
@@ -5402,9 +5424,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 10.05.2022
 
@@ -5418,9 +5440,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 10.05.2022
 
@@ -5434,9 +5456,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 11.05.2022
 
@@ -5450,28 +5472,28 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
-
-11.05.2022
-
-3
-
-13:00
-
-15:30
-
-NTP-505
-
-lab.vežbe
-
-Programska podrška u televiziji i obradi slike 1
-
-Milošević Milena
+Pap dr Ištvan
 
 11.05.2022
 
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+11.05.2022
+
 1
 
 13:00
@@ -5482,9 +5504,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 11.05.2022
 
@@ -5498,9 +5520,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 12.05.2022
 
@@ -5514,9 +5536,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 12.05.2022
 
@@ -5530,9 +5552,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 12.05.2022
 
@@ -5546,9 +5568,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 12.05.2022
 
@@ -5562,9 +5584,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 13.05.2022
 
@@ -5578,28 +5600,28 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
-
-13.05.2022
-
-3
-
-13:00
-
-15:30
-
-NTP-505
-
-lab.vežbe
-
-Programska podrška u televiziji i obradi slike 1
-
-Milošević Milena
+Pap dr Ištvan
 
 13.05.2022
 
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+13.05.2022
+
 1
 
 13:00
@@ -5610,9 +5632,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 13.05.2022
 
@@ -5626,9 +5648,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 16.05.2022
 
@@ -5642,9 +5664,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 16.05.2022
 
@@ -5658,9 +5680,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 16.05.2022
 
@@ -5674,9 +5696,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 16.05.2022
 
@@ -5690,9 +5712,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 17.05.2022
 
@@ -5706,28 +5728,28 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
-
-17.05.2022
-
-3
-
-13:00
-
-15:30
-
-NTP-505
-
-lab.vežbe
-
-Programska podrška u televiziji i obradi slike 1
-
-Milošević Milena
+Pap dr Ištvan
 
 17.05.2022
 
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+17.05.2022
+
 1
 
 13:00
@@ -5738,9 +5760,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 17.05.2022
 
@@ -5754,9 +5776,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 18.05.2022
 
@@ -5770,9 +5792,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 18.05.2022
 
@@ -5786,9 +5808,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 18.05.2022
 
@@ -5802,9 +5824,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 18.05.2022
 
@@ -5818,9 +5840,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 19.05.2022
 
@@ -5834,28 +5856,28 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
-
-19.05.2022
-
-3
-
-13:00
-
-15:30
-
-NTP-505
-
-lab.vežbe
-
-Programska podrška u televiziji i obradi slike 1
-
-Milošević Milena
+Pap dr Ištvan
 
 19.05.2022
 
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+19.05.2022
+
 1
 
 13:00
@@ -5866,9 +5888,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 19.05.2022
 
@@ -5882,9 +5904,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 20.05.2022
 
@@ -5898,9 +5920,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 20.05.2022
 
@@ -5914,9 +5936,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 20.05.2022
 
@@ -5930,9 +5952,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 20.05.2022
 
@@ -5946,9 +5968,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 23.05.2022
 
@@ -5962,9 +5984,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 23.05.2022
 
@@ -5978,9 +6000,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 23.05.2022
 
@@ -5994,9 +6016,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 23.05.2022
 
@@ -6010,9 +6032,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 24.05.2022
 
@@ -6026,9 +6048,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 24.05.2022
 
@@ -6042,9 +6064,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 24.05.2022
 
@@ -6058,9 +6080,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 24.05.2022
 
@@ -6074,9 +6096,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 25.05.2022
 
@@ -6090,9 +6112,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 25.05.2022
 
@@ -6106,9 +6128,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 25.05.2022
 
@@ -6122,9 +6144,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 25.05.2022
 
@@ -6138,9 +6160,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 26.05.2022
 
@@ -6154,9 +6176,9 @@ NTP-418
 
 Pred.
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bjelica dr Milan
+Pap dr Ištvan
 
 26.05.2022
 
@@ -6170,9 +6192,9 @@ NTP-505
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Milošević Milena
+Novković Teodora
 
 26.05.2022
 
@@ -6186,9 +6208,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Pekez Nenad
+Pijetlovic Stefan
 
 26.05.2022
 
@@ -6202,9 +6224,9 @@ NTP-506
 
 lab.vežbe
 
-Programska podrška u televiziji i obradi slike 1
+Projektovanje namenskih računarskih struktura 2
 
-Bokan Dejan
+Manić Milan
 
 Napomena:
 
@@ -6216,7 +6238,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:48, Strana: 11
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:25, Strana: 11
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -6440,7 +6462,7 @@ Jorgovanović dr Nikola
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:48, Strana: 12
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 05:54, Strana: 12
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -6672,7 +6694,7 @@ IS
 
 13:00
 
-109A
+109
 
 Pred.
 
@@ -6686,7 +6708,7 @@ EP
 
 13:00
 
-A4
+NTP-001
 
 Pred.
 
@@ -6698,7 +6720,7 @@ Bezbednost u sistemima elektronskog poslovanja Sladić dr Goran
 
 13:00
 
-MI V3-5
+MI B4-5
 
 rač.vežbe
 
@@ -6708,11 +6730,11 @@ Ranković Tamara
 
 SVI
 
-13:30
+13:15
 
 15:00
 
-online
+204
 
 Pred.
 
@@ -6726,7 +6748,7 @@ SFI
 
 18:00
 
-108
+204
 
 Pred.
 
@@ -6766,7 +6788,7 @@ INS
 
 11:15
 
-13:45
+14:00
 
 AR5
 
@@ -6778,11 +6800,11 @@ Vidaković dr Milan
 
 SVI
 
-14:15
+15:15
 
-15:45
+17:00
 
-online
+A3
 
 Pred.
 
@@ -6794,11 +6816,11 @@ Kordić dr Slavica,
 
 IS
 
-16:30
+17:15
 
-19:00
+20:00
 
-A3
+NTP-418
 
 Pred.
 
@@ -6806,11 +6828,11 @@ Inženjering informacionih sistema Delić dr Milan
 
 EP,SFI
 
-16:15
+17:15
 
-19:00
+20:00
 
-online
+101
 
 Pred.
 
@@ -7062,7 +7084,7 @@ Napomena:
 
 Grupe broj 1,2,3,4 i 5 su grupe koje su upisane na studijsku grupu Internet i elektronsko poslovanje(EP) Grupa broj 11 je grupa upisana na studijsku grupu Informacioni sistemi(IS) Grupa broj 21 su studenti upisani na studijsku grupu Inteligentni sistemi(INS) Grupe broj 31,32 su grupe koje su upisane na studijsku grupu Softversko inženjerstvo(SFI) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 08:03, Strana: 13
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:49, Strana: 13
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -7186,7 +7208,7 @@ Matijević Milica
 
 11:00
 
-311
+312
 
 Pred.
 
@@ -7234,11 +7256,11 @@ Izvođač
 11,12,13,
 
 
-16:15
+17:15
 
-19:00
+20:00
 
-online
+A4
 
 Pred.
 
@@ -8456,7 +8478,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 08:02, Strana: 16
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:48, Strana: 16
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 

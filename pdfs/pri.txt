@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 11.03.2022. 12:19, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:19, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -46,11 +46,11 @@ Izvođač
 
 3,4
 
-08:30
+10:30
 
-10:00
+12:00
 
-A4
+107
 
 aud.vežbe
 
@@ -62,9 +62,9 @@ SVI
 
 13:15
 
-14:45
+15:00
 
-online
+A4
 
 Pred.
 
@@ -76,9 +76,9 @@ SVI
 
 15:15
 
-16:45
+17:00
 
-online
+A4
 
 Pred.
 
@@ -88,9 +88,9 @@ Erdeljan dr Aleksandar
 
 5
 
-17:30
+17:15
 
-20:45
+20:30
 
 MI A2-2
 
@@ -102,11 +102,11 @@ Uvod u algoritme
 
 1,2,9
 
-17:30
+17:15
 
-19:00
+18:45
 
-208
+310
 
 aud.vežbe
 
@@ -320,7 +320,7 @@ SVI
 
 10:00
 
-online
+A3
 
 Pred.
 
@@ -334,21 +334,21 @@ SVI
 
 12:00
 
-online
+A3
 
 Pred.
 
 Sociologija tehnike
 
-Nešić dr Ana
+Nešić Tomašević dr Ana
 
 SVI
 
-12:15
+13:15
 
-14:00
+15:00
 
-online
+A2
 
 Pred.
 
@@ -358,11 +358,11 @@ Erdeljan dr Aleksandar
 
 SVI
 
-14:15
+15:15
 
-16:00
+17:00
 
-online
+A2
 
 Pred.
 
@@ -474,9 +474,9 @@ Izvođač
 
 5,6,10
 
-12:15
+12:30
 
-13:45
+14:00
 
 108
 
@@ -488,11 +488,11 @@ Stratijev Jelena
 
 SVI
 
-14:30
+14:15
 
 16:00
 
-online
+A4
 
 Pred.
 
@@ -504,9 +504,9 @@ SVI
 
 16:15
 
-17:45
+18:00
 
-online
+A4
 
 Pred.
 
@@ -518,9 +518,9 @@ Vujičić Milena,
 
 2,9
 
-18:30
+18:15
 
-21:45
+21:30
 
 MI A2-1
 
@@ -548,9 +548,9 @@ Izvođač
 
 1,3
 
-08:00
+09:00
 
-11:15
+12:15
 
 MI A2-1
 
@@ -576,7 +576,7 @@ Sekulić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 01.03.2022. 10:54, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.03.2022. 05:29, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -830,7 +830,7 @@ SVI
 
 14:00
 
-online
+A4
 
 Pred.
 
@@ -844,7 +844,7 @@ SVI
 
 16:00
 
-online
+A4
 
 Pred.
 
@@ -856,25 +856,13 @@ SVI
 
 16:15
 
-18:00
+19:00
 
-online
+A4
 
 Pred.
 
-Namenski računarski sistemi Selakov dr Aleksandar
-
-4,6,7,10(9-)
-
-18:45
-
-20:15
-
-204
-
-aud.vežbe
-
-Sistemi za transport i distribuciju fluida Mitrović Vladan
+Objektno orijentisane tehnologije Kupusinac dr Aleksandar
 
 S R E D A
 
@@ -891,6 +879,18 @@ Vrsta nast.
 Naziv Predmeta
 
 Izvođač
+
+4,6,7,10(9-)
+
+08:45
+
+10:15
+
+207
+
+aud.vežbe
+
+Sistemi za transport i distribuciju fluida Mitrović Vladan
 
 6
 
@@ -1080,11 +1080,11 @@ Izvođač
 
 SVI
 
-12:15
+14:15
 
-14:00
+16:00
 
-online
+A4
 
 Pred.
 
@@ -1094,11 +1094,11 @@ Petrović dr Veljko
 
 SVI
 
-14:15
+16:15
 
-16:00
+18:00
 
-online
+A4
 
 Pred.
 
@@ -1106,11 +1106,11 @@ Namenski računarski sistemi Selakov dr Aleksandar
 
 SVI
 
-16:15
+18:15
 
-17:45
+20:00
 
-online
+A4
 
 Pred.
 
@@ -1118,11 +1118,11 @@ Sistemi za transport i distribuciju fluida Bikić dr Siniša
 
 5,8,9,10(1-8)
 
-18:30
+20:15
 
-20:00
+21:45
 
-A3
+201
 
 aud.vežbe
 
@@ -1130,11 +1130,11 @@ Sistemi za transport i distribuciju fluida Despotović Bojana
 
 1,2,3
 
-18:30
+20:15
 
-20:00
+21:45
 
-109A
+202
 
 aud.vežbe
 
@@ -1158,31 +1158,17 @@ Naziv Predmeta
 
 Izvođač
 
-1,2,3
+6
 
-10:30
+12:30
 
-12:00
+14:00
 
-109
+MI B4-5A
 
-aud.vežbe
+rač.vežbe
 
-Sistemi za transport i distribuciju fluida Despotović Bojana
-
-4,6,7,10(1-8)
-
-10:45
-
-12:15
-
-A1
-
-aud.vežbe
-
-Diskretna matematika
-
-Đokić Jelena
+Namenski računarski sistemi Tošić Mr Saša
 
 5
 
@@ -1195,18 +1181,6 @@ L6 (RC)
 rač.vežbe
 
 Namenski računarski sistemi Dejanović Stefan
-
-6
-
-12:30
-
-14:00
-
-MI B4-5A
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
 
 1
 
@@ -1248,19 +1222,45 @@ Diskretna matematika
 
 SVI
 
-16:30
+16:15
 
-19:00
+18:00
 
-online
+A1
 
 Pred.
 
-Objektno orijentisane tehnologije Kupusinac dr Aleksandar
+Namenski računarski sistemi Selakov dr Aleksandar
+
+1,2,3
+
+18:15
+
+19:45
+
+108A
+
+aud.vežbe
+
+Sistemi za transport i distribuciju fluida Despotović Bojana
+
+4,6,7,10(1-8)
+
+18:15
+
+19:45
+
+101
+
+aud.vežbe
+
+Diskretna matematika
+
+Đokić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 09.03.2022. 10:18, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:44, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1282,11 +1282,11 @@ Izvođač
 
 SVI
 
-08:15
+14:15
 
-11:00
+17:00
 
-online
+A3
 
 Pred.
 
@@ -1294,11 +1294,11 @@ Cloud Computing u elektroenergetskim sistemima Vukmirović dr Srđan
 
 SVI
 
-11:15
+17:15
 
-14:00
+20:00
 
-online
+A3
 
 Pred.
 
@@ -1492,7 +1492,7 @@ SVI
 
 11:00
 
-online
+A4
 
 Pred.
 
@@ -1506,7 +1506,7 @@ SVI
 
 14:00
 
-online
+A4
 
 Pred.
 
@@ -1680,7 +1680,13 @@ Veb programiranje
 
 Dragišić Jelena
 
-P E T A K
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:44, Strana: 4
+
+R A S P O R E D P R E D A V A N J A 6 Semestar
+
+Primenjeno softversko inženjerstvo P E T A K
 
 Grupa-e
 
@@ -1700,9 +1706,9 @@ SVI
 
 08:15
 
-10:45
+11:00
 
-online
+A2
 
 Pred.
 
@@ -1880,6 +1886,38 @@ Dragišić Jelena
 
 studenti
 
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+stari
+
+17:30
+
+20:00
+
+L3 (RC)
+
+rač.vežbe
+
+Veb programiranje
+
+Dragišić Jelena
+
+studenti
+
 Č E T V R T A K
 
 Grupa-e
@@ -1914,7 +1952,7 @@ studenti
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.03.2022. 09:13, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:25, Strana: 5
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -1998,11 +2036,23 @@ Naziv Predmeta
 
 Izvođač
 
+SVI
+
+07:15
+
+10:00
+
+204
+
+Pred.
+
+Programiranje u Smart Grid sistemima Nedić dr Nemanja
+
 6
 
-11:15
+10:30
 
-13:45
+13:00
 
 MI B4-5A
 
@@ -2012,27 +2062,15 @@ Softver sa kritičnim odzivom u elektroenergetskim sistemima Ivošević Jovan
 
 3,4
 
-11:15
+10:30
 
-13:45
+13:00
 
 NTP-222
 
 rač.vežbe
 
 Programiranje u Smart Grid sistemima Glavaš Predrag
-
-SVI
-
-14:30
-
-17:00
-
-online
-
-Pred.
-
-Programiranje u Smart Grid sistemima Nedić dr Nemanja
 
 S R E D A
 
@@ -2096,11 +2134,11 @@ Baze podataka 2
 
 SVI
 
-14:30
+14:15
 
 17:00
 
-online
+A4
 
 Pred.
 
@@ -2132,7 +2170,7 @@ Varajić Stefan,
 
 10:00
 
-AR3
+AR1
 
 rač.vežbe
 
@@ -2220,11 +2258,11 @@ Kiš Gergelj
 
 SVI
 
-14:30
+18:15
 
-17:00
+21:00
 
-online
+A2
 
 Pred.
 
@@ -2280,7 +2318,7 @@ NTP-222
 
 rač.vežbe
 
-Programiranje u Smart Grid sistemima Glavaš Predrag
+Programiranje u Smart Grid sistemima Dalčeković Ivana
 
 8
 
@@ -2300,7 +2338,7 @@ Studenti treba odrade stručnu praksu sa fondom 0+3. Javiti se prof. dr Aleksand
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 08:02, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:48, Strana: 6
 
 RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
 

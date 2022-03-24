@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.03.2022. 05:38, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:00, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -44,27 +44,13 @@ Naziv Predmeta
 
 Izvođač
 
-3,4,5
-
-08:30
-
-10:00
-
-208
-
-aud.vežbe
-
-Matematička analiza
-
-Dedeić Jovana
-
 1,2
 
-10:15
+11:30
 
-11:45
+13:00
 
-208
+312
 
 aud.vežbe
 
@@ -78,7 +64,7 @@ SVI
 
 15:00
 
-online
+101
 
 Pred.
 
@@ -92,13 +78,27 @@ SVI
 
 18:00
 
-online
+101
 
 Pred.
 
 Objektno orijentisano programiranje 1
 
 Vidaković dr Milan
+
+3,4,5
+
+18:15
+
+19:45
+
+101
+
+aud.vežbe
+
+Matematička analiza
+
+Dedeić Jovana
 
 U T O R A K
 
@@ -116,33 +116,19 @@ Naziv Predmeta
 
 Izvođač
 
-2
+3
 
-10:30
+12:15
 
-12:00
-
-MI D4-A
-
-rač.vežbe
-
-Web dizajn
-
-Perović Mitar
-
-4
-
-10:30
-
-12:00
+13:45
 
 NTP-307
 
 rač.vežbe
 
-Internet mreže
+Objektno orijentisano programiranje 1
 
-Janković Eva
+Vujinović Aleksandar
 
 5
 
@@ -158,27 +144,13 @@ Web dizajn
 
 Perović Mitar
 
-3
-
-12:15
-
-13:45
-
-NTP-307
-
-rač.vežbe
-
-Objektno orijentisano programiranje 1
-
-Vujinović Aleksandar
-
 SVI
 
-15:15
+14:15
 
-17:00
+16:00
 
-online
+205
 
 Pred.
 
@@ -188,17 +160,45 @@ Medić dr Slavica
 
 SVI
 
-17:15
+16:15
 
-19:00
+18:00
 
-online
+205
 
 Pred.
 
 Internet mreže
 
 Vuković dr Željko
+
+4
+
+18:15
+
+19:45
+
+NTP-307
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+2
+
+18:30
+
+20:00
+
+L2 (RC)
+
+rač.vežbe
+
+Web dizajn
+
+Perović Mitar
 
 S R E D A
 
@@ -370,30 +370,6 @@ Naziv Predmeta
 
 Izvođač
 
-5
-
-09:00
-
-10:30
-
-INT 1
-
-rač.vežbe
-
-Algoritmi i strukture podataka Kovačević Tamara
-
-2
-
-10:45
-
-12:15
-
-INT 1
-
-rač.vežbe
-
-Algoritmi i strukture podataka Kovačević Tamara
-
 1
 
 10:45
@@ -410,6 +386,18 @@ Perić Ivan
 
 2
 
+10:45
+
+12:15
+
+INT 1
+
+rač.vežbe
+
+Algoritmi i strukture podataka Kovačević Tamara
+
+2
+
 12:30
 
 14:00
@@ -422,13 +410,25 @@ Objektno orijentisano programiranje 1
 
 Vujinović Aleksandar
 
+5
+
+12:15
+
+13:55
+
+INT 1
+
+rač.vežbe
+
+Algoritmi i strukture podataka Kovačević Tamara
+
 SVI
 
-15:15
+14:15
 
-17:00
+16:00
 
-online
+208
 
 Pred.
 
@@ -452,44 +452,6 @@ Naziv Predmeta
 
 Izvođač
 
-1
-
-08:45
-
-10:15
-
-MI B4-5A
-
-rač.vežbe
-
-Algoritmi i strukture podataka Kovačević Tamara
-
-3
-
-11:30
-
-13:00
-
-L4 (RC)
-
-rač.vežbe
-
-Algoritmi i strukture podataka Kovačević Tamara
-
-4
-
-12:15
-
-13:45
-
-L5 (RC)
-
-rač.vežbe
-
-Objektno orijentisano programiranje 1
-
-Vujinović Aleksandar
-
 5
 
 12:15
@@ -504,21 +466,59 @@ Internet mreže
 
 Janković Eva
 
+4
+
+12:15
+
+13:45
+
+L4 (RC)
+
+rač.vežbe
+
+Objektno orijentisano programiranje 1
+
+Vujinović Aleksandar
+
+3
+
+12:30
+
+14:00
+
+L5 (RC)
+
+rač.vežbe
+
+Algoritmi i strukture podataka Kovačević Tamara
+
 SVI
 
 14:15
 
 17:00
 
-online
+NTP-001
 
 Pred.
 
 Algoritmi i strukture podataka Milosavljević dr Branko
 
+1
+
+17:15
+
+18:45
+
+NTP-309
+
+rač.vežbe
+
+Algoritmi i strukture podataka Kovačević Tamara
+
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.03.2022. 16:12, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.03.2022. 10:58, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -540,11 +540,11 @@ Izvođač
 
 SVI
 
-09:15
+08:15
 
-11:00
+10:00
 
-online
+205
 
 Pred.
 
@@ -554,27 +554,27 @@ Savić dr Goran
 
 SVI
 
-11:15
+10:15
 
-14:00
+13:00
 
-online
+205
 
 Pred.
 
 Specifikacija i modeliranje softvera Milosavljević dr Gordana
 
-SVI
+5
 
-14:15
+13:15
 
-17:00
+15:45
 
-online
+INT 1
 
-Pred.
+rač.vežbe
 
-Uvod u softversko inženjerstvo Luburić dr Nikola
+Specifikacija i modeliranje softvera Vejnović Mina
 
 U T O R A K
 
@@ -592,17 +592,17 @@ Naziv Predmeta
 
 Izvođač
 
-5
+SVI
 
-07:00
+10:15
 
-09:30
+13:00
 
-INT 1
+204
 
-rač.vežbe
+Pred.
 
-Specifikacija i modeliranje softvera Vejnović Mina
+Uvod u softversko inženjerstvo Luburić dr Nikola
 
 4
 
@@ -646,6 +646,46 @@ Naziv Predmeta
 
 Izvođač
 
+1
+
+09:45
+
+11:15
+
+NTP-507
+
+rač.vežbe
+
+Paraleleno programiranje
+
+Pijetlovic Stefan
+
+2
+
+09:45
+
+11:15
+
+NTP-307
+
+rač.vežbe
+
+Uvod u softversko inženjerstvo Šarenac Balša
+
+2
+
+11:30
+
+13:00
+
+NTP-507
+
+rač.vežbe
+
+Paraleleno programiranje
+
+Pijetlovic Stefan
+
 3
 
 07:00
@@ -671,46 +711,6 @@ INT 1
 rač.vežbe
 
 Specifikacija i modeliranje softvera Vejnović Mina
-
-2
-
-09:45
-
-11:15
-
-NTP-307
-
-rač.vežbe
-
-Uvod u softversko inženjerstvo Šarenac Balša
-
-1
-
-09:45
-
-11:15
-
-NTP-507
-
-rač.vežbe
-
-Paraleleno programiranje
-
-Pijetlovic Stefan
-
-2
-
-11:30
-
-12:00
-
-NTP-507
-
-rač.vežbe
-
-Paraleleno programiranje
-
-Pijetlovic Stefan
 
 4
 
@@ -774,7 +774,7 @@ SVI
 
 10:00
 
-online
+NTP-001
 
 Pred.
 
@@ -786,7 +786,7 @@ SVI
 
 13:00
 
-online
+NTP-001
 
 Pred.
 
@@ -800,7 +800,7 @@ SVI
 
 15:00
 
-online
+NTP-001
 
 Pred.
 
@@ -836,20 +836,6 @@ rač.vežbe
 
 Specifikacija i modeliranje softvera Vejnović Mina
 
-2
-
-08:45
-
-10:15
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka
-
-Todorović Nikola
-
 1
 
 10:30
@@ -863,6 +849,20 @@ rač.vežbe
 Baze podataka
 
 Kiš Gergelj
+
+2
+
+08:45
+
+10:15
+
+MI A2-2
+
+rač.vežbe
+
+Baze podataka
+
+Todorović Nikola
 
 2
 
@@ -890,18 +890,6 @@ Baze podataka
 
 Tomić Miroslav
 
-2
-
-13:15
-
-14:45
-
-INT 1
-
-rač.vežbe
-
-Upravljanje informacijama Maksimović Veljko
-
 1
 
 13:15
@@ -913,6 +901,18 @@ NTP-311
 rač.vežbe
 
 Uvod u softversko inženjerstvo Šarenac Balša
+
+2
+
+13:15
+
+14:45
+
+INT 1
+
+rač.vežbe
+
+Upravljanje informacijama Maksimović Veljko
 
 4
 
@@ -954,6 +954,18 @@ rač.vežbe
 
 Upravljanje informacijama Maksimović Veljko
 
+3
+
+16:00
+
+17:30
+
+NTP-311
+
+rač.vežbe
+
+Uvod u softversko inženjerstvo Šarenac Balša
+
 5
 
 16:00
@@ -967,18 +979,6 @@ rač.vežbe
 Operativni sistemi
 
 Turović Radovan
-
-3
-
-16:00
-
-17:30
-
-NTP-311
-
-rač.vežbe
-
-Uvod u softversko inženjerstvo Šarenac Balša
 
 3
 
@@ -1022,18 +1022,6 @@ Naziv Predmeta
 
 Izvođač
 
-3
-
-08:00
-
-09:30
-
-NTP-307
-
-rač.vežbe
-
-Upravljanje informacijama Maksimović Veljko
-
 1
 
 08:00
@@ -1047,18 +1035,6 @@ rač.vežbe
 Operativni sistemi
 
 Andrejević Aleksandar
-
-1
-
-09:45
-
-11:15
-
-NTP-307
-
-rač.vežbe
-
-Upravljanje informacijama Maksimović Veljko
 
 2
 
@@ -1074,6 +1050,30 @@ Operativni sistemi
 
 Andrejević Aleksandar
 
+3
+
+08:00
+
+09:30
+
+NTP-307
+
+rač.vežbe
+
+Upravljanje informacijama Maksimović Veljko
+
+1
+
+09:45
+
+11:15
+
+NTP-307
+
+rač.vežbe
+
+Upravljanje informacijama Maksimović Veljko
+
 5
 
 11:30
@@ -1088,7 +1088,7 @@ Upravljanje informacijama Maksimović Veljko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:06, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:16, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1176,7 +1176,7 @@ SVI
 
 19:45
 
-203
+208
 
 Pred.
 
@@ -1474,7 +1474,7 @@ SVI
 
 10:00
 
-AH1A
+NTP-417
 
 Pred.
 
@@ -1484,9 +1484,9 @@ SVI
 
 10:15
 
-11:45
+12:00
 
-AH1A
+NTP-417
 
 Pred.
 
@@ -1494,11 +1494,11 @@ Interakcija čovek računar Dragan dr Dinu
 
 SVI
 
-12:30
+12:15
 
 14:00
 
-online
+A2
 
 Pred.
 
@@ -1522,11 +1522,23 @@ Izvođač
 
 SVI
 
-08:15
+12:15
 
-10:00
+14:00
 
-AH1A
+A1
+
+Pred.
+
+Osnovi računarske inteligencije Kovačević dr Aleksandar
+
+SVI
+
+15:15
+
+17:00
+
+AH1B
 
 Pred.
 
@@ -1534,27 +1546,15 @@ Pisana i govorna komunikacija u tehnici Slivka dr Jelena
 
 SVI
 
-10:15
+17:15
 
-11:45
+19:00
 
-AH1A
+AH1B
 
 Pred.
 
 Internet softverske arhitekture Milosavljević dr Branko
-
-SVI
-
-12:30
-
-14:00
-
-online
-
-Pred.
-
-Osnovi računarske inteligencije Kovačević dr Aleksandar
 
 S U B O T A
 
@@ -1622,7 +1622,7 @@ Osnovi računarske inteligencije Škipina Milica
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 07:50, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:30, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -1674,7 +1674,7 @@ SVI
 
 17:00
 
-A3
+NTP-417
 
 Pred.
 
@@ -1828,7 +1828,7 @@ SVI
 
 11:00
 
-A2
+NTP-001
 
 Pred.
 
@@ -1840,7 +1840,7 @@ SVI
 
 14:00
 
-A2
+NTP-001
 
 Pred.
 
@@ -1870,7 +1870,7 @@ SVI
 
 11:00
 
-109A
+A4
 
 Pred.
 
@@ -1932,6 +1932,18 @@ Izvođač
 
 2
 
+07:00
+
+08:30
+
+MI A2-4
+
+rač.vežbe
+
+Napredne tehnike programiranja Inđić Vladimir
+
+2
+
 08:45
 
 10:15
@@ -1943,18 +1955,6 @@ rač.vežbe
 Mašinsko učenje
 
 Vidaković Dragan
-
-2
-
-10:30
-
-12:00
-
-307
-
-rač.vežbe
-
-Napredne tehnike programiranja Inđić Vladimir
 
 4
 
@@ -2008,7 +2008,7 @@ Vidaković Dragan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.02.2022. 08:04, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:51, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -2074,7 +2074,7 @@ Uvod u digitalnu forenziku Matijević Milica
 
 11:00
 
-311
+312
 
 Pred.
 
@@ -2122,11 +2122,11 @@ Integrisani pristupi razvoju softvera DevOps Zarić dr Miroslav
 
 15,25
 
-16:15
+17:15
 
-19:00
+20:00
 
-online
+A4
 
 Pred.
 
