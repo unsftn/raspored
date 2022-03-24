@@ -4,17 +4,24 @@ Analiza i izveštavanje o rasporedu nastave i zauzeću prostorija na FTN-u
 
 # Instalacija
 
+Klonirajte repo i uradite sledeće u folderu projekta:
+
 ```
 python -m venv venv
 source venv/bin/activate
-pip install textX[cli]
+pip install -e .
 ```
 
 # Generisanje izveštaja
 
-Preuzmite pdf-ove rasporeda sa adrese http://ftn.uns.ac.rs/1344335571/raspored-nastave-za-letnji-semestar-2021-2022
+U folderu `pdfs` nalazi se skripta za download pdf-ova sa FTN sajta. Na početku skripte se nalazi URL na stranicu sa rasporedima. Ažurirajte po potrebi.
 
-i smestite ih u `pdfs` folder
+Pokrenite skriptu da bi preuzeli nove pdf-ove:
+
+```
+cd pdfs
+python download-pdfs.py
+```
 
 Zatim ih konvertujte u tekst. Potrebno je da imate dostupan u putanji
 `ebook-convert` alat koji je deo `calibre`.
