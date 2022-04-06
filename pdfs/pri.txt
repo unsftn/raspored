@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:19, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 11:19, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -576,7 +576,7 @@ Sekulić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.03.2022. 05:29, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.03.2022. 06:29, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1260,7 +1260,7 @@ Diskretna matematika
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:44, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 06:41, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1358,7 +1358,7 @@ rač.vežbe
 
 Veb programiranje
 
-Colić Stefan
+Kovačević Tamara
 
 5
 
@@ -1682,7 +1682,7 @@ Dragišić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:44, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 06:41, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1872,6 +1872,8 @@ Izvođač
 
 stari
 
+Nov saradnik,
+
 19:30
 
 22:00
@@ -1882,9 +1884,9 @@ rač.vežbe
 
 Veb programiranje
 
-Dragišić Jelena
-
 studenti
+
+Dragišić Jelena
 
 S R E D A
 
@@ -1914,7 +1916,7 @@ rač.vežbe
 
 Veb programiranje
 
-Dragišić Jelena
+Nov saradnik
 
 studenti
 
@@ -1936,6 +1938,8 @@ Izvođač
 
 stari
 
+Colić Stefan,
+
 19:30
 
 22:00
@@ -1946,13 +1950,13 @@ rač.vežbe
 
 Veb programiranje
 
-Mijatov Vanja
-
 studenti
+
+Mijatov Vanja
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:25, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 07:13, Strana: 5
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -2338,7 +2342,7 @@ Studenti treba odrade stručnu praksu sa fondom 0+3. Javiti se prof. dr Aleksand
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:48, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:48, Strana: 6
 
 RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
 

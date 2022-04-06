@@ -13,7 +13,7 @@ Generating izvestaj target from models:
 		15:15-17:00  101  Osnove geonauka  Vasić dr Milinko  
 		17:15-19:00  101  Matematička analiza 1  Medić dr Slavica
 	SREDA
-		08:15-10:00  101  Engleski jezik - stručni 1  Mirović Ivana  
+		08:30-10:00  101  Engleski jezik - stručni 1  Mirović Ivana  
 		10:15-12:00  101  Fotografija  Vladušić dr Jelena  Novaković dr Dragoljub,  
 		12:15-13:45  101  Razvoj programskih proizvoda  Pržulj dr Đorđe  
 		12:15-13:45  101  Razvoj programskih proizvoda  Pržulj dr Đorđe  
@@ -282,7 +282,7 @@ Generating izvestaj target from models:
 	PONEDELJAK
 		10:15-13:00  109  Hemijski principi u inženjerstvu zaštite na radu Turk-Sekulić dr Maja  
 		13:15-14:45  109  Projektovanje postupaka rada (CAP/CAM) Penčić Marko
-		16:15-18:00  109  Informacije u multimediji Anderla dr Andraš
+		16:15-18:00  109  Informacije u multimediji  Anderla dr Andraš
 	UTORAK
 		08:15-10:00  109  Hardverski interfejs  Jorgovanović dr Nikola  
 		10:15-13:00  109  Sistemi baza podataka  Dimitrieski dr Vladimir  
@@ -616,7 +616,6 @@ Generating izvestaj target from models:
 		15:15-16:45  305(CMS)  Teorija izračunljivosti  Prokić dr Ivan
 	SREDA
 		12:15-14:00  305(CMS)  Teorija odlučivanja  Nedović dr Ljubo  
-		13:30-15:00  305(CMS)  Aktuatorksa matematika neživotnog osiguranja Tošić Stefan  
 		14:15-16:00  305(CMS)  Matematička teorija igara Delić dr Marija  
 		14:15-15:45  305(CMS)  Teorija odlučivanja  Nedović dr Ljubo  
 		16:15-17:45  305(CMS)  Matematička teorija igara Delić dr Marija
@@ -626,6 +625,7 @@ Generating izvestaj target from models:
 		14:15-16:00  305(CMS)  Matematička teorija igara  Delić dr Marija  
 		16:15-17:45  305(CMS)  Matematička teorija igara  Delić dr Marija
 	PETAK
+		12:30-14:00  305(CMS)  Aktuatorksa matematika neživotnog osiguranja Tošić Stefan  
 		14:30-16:00  305(CMS)  Nelinearno programiranje  Ostojić Tijana  
 306
 	PONEDELJAK
@@ -970,7 +970,7 @@ A4
 		13:15-15:00  A4  Arhitektura računara  Gajić dr Dušan  
 		13:15-15:00  A4  Arhitektura računara  Gajić dr Dušan  
 		15:15-17:00  A4  Uvod u algoritme  Erdeljan dr Aleksandar  
-		17:15-19:00  A4  Digitalna transformacija u industriji Lalić dr Bojan  
+		17:15-19:00  A4  Digitalna transformacija u industriji Lalić dr Bojan
 		17:15-19:00  A4  Digitalna transformacija u industriji Lalić dr Bojan  
 		19:15-20:45  A4  Digitalna transformacija u industriji Savković Milena
 	UTORAK
@@ -1092,6 +1092,7 @@ AH1B
 		17:30-20:00  AH1B  Projektovanje informaciono-komunikacionih mreža Narandžić dr Milan  30.03.2022  
 AH2
 	PONEDELJAK
+		12:15-13:45  AH2  Impulsna elektronika  Brestovački Lenka  sv.dr.ned.  
 		14:30-16:00  AH2  Elementi i sklopovi zgrada 2  Šanjević Ivana  
 		16:15-19:30  AH2  Topić Albert  arhitekturu, urbanizam i dizajn Savremene teorije i tehnologije primenjene na 
 	UTORAK
@@ -1375,7 +1376,6 @@ AR1
 		08:45-12:00  AR1  Razvoj višeslojnih aplikacija Petrovački Jelena  
 		12:15-15:30  AR1  Razvoj višeslojnih aplikacija Fabri Vladimir  
 		16:00-19:15  AR1  Projekat  Selakov dr Aleksandar
-		16:15-19:00  AR1  Integrisano upravljanje preduzećem (SAP, ERP) Bojanić Tamara
 	SREDA
 		12:30-14:00  AR1  Sistemi za upravljanje poslovnim procesima Kozma Nina  
 		14:15-15:45  AR1  Sistemi za upravljanje poslovnim procesima Nikolić Danilo  
@@ -1415,7 +1415,7 @@ AR3
 		14:00-15:30  AR3  Upravljanje finansijama  Bojanić dr Ranko  
 		16:00-18:30  AR3  Elektronsko poslovanje  Graić Igor
 	UTORAK
-		08:30-11:00  AR3  Veb programiranje  Colić Stefan  
+		08:30-11:00  AR3  Veb programiranje  Kovačević Tamara  
 		11:15-13:45  AR3  Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Radojčić Tanja  
 		14:00-15:30  AR3  Sistemi automatskog upravljanja Vrtunski dr Milan  
 		15:45-17:15  AR3  Sistemi automatskog upravljanja Vrtunski dr Milan  
@@ -1527,7 +1527,7 @@ Fizika
 		14:00-15:30  Fizika  Arhitektonska fizika  Lakatoš dr Robert  
 		15:45-17:15  Fizika  Fizika  Rikalo Aleksandar  
 		17:30-19:00  Fizika  Tehnička fizika  Ilić dr Strahinja  
-		19:15-20:45  Fizika  Fizika  Vučinić-Vasić dr Milica
+		19:15-20:45  Fizika  Fizika  Vučinić-Vasić dr Milica  
 	SUBOTA
 		09:00-10:30  Fizika  Fizika  Beljin-Čavić Milica  Lončarević dr Ivana,  
 		10:45-12:15  Fizika  Fizika  Beljin-Čavić Milica  
@@ -1556,11 +1556,11 @@ GRID-1
 		14:00-17:15  GRID-1  Završna grafička obrada  Banjanin dr Bojan  
 		17:30-20:45  GRID-1  Završna grafička obrada  Gvoka Teodora
 	PETAK
+		07:00-10:15  GRID-1  Uvod u grafičke tehnologije Juretić Iva  Ilić dr Strahinja,  
 		10:30-12:00  GRID-1  Rasterska grafika  Miketić Nada  
 		12:15-13:45  GRID-1  Grafičke komunikacije  Mandić Olga  
 		14:00-17:15  GRID-1  Uvod u grafičke tehnologije Golubović Gala  Ilić dr Strahinja,  
-	SUBOTA
-		08:00-11:15  GRID-1  Uvod u grafičke tehnologije Juretić Iva  
+		17:30-20:45  GRID-1  Uvod u grafičke tehnologije Juretić Iva  Ilić dr Strahinja,  
 Hemija
 	PONEDELJAK
 		07:30-10:00  Hemija  Hemijski principi u inženjerstvu zaštite na radu Živančev dr Nevena  32(sv.dr.ned.
@@ -1679,7 +1679,7 @@ ITCA1
 		08:30-10:00  ITCA1  Timski rad  Jokanović dr Bojana  
 		10:15-12:00  ITCA1  Timski rad  Grubić-Nešić dr Leposava  
 		14:30-16:00  ITCA1  Digitalna transformacija u industriji Ćirić dr Danijela  
-		16:15-17:45  ITCA1  Procesni prilazi i kvalitet  Žižakov Marina  
+		16:15-17:45  ITCA1  Procesni prilazi i kvalitet  Žižakov Marina
 		18:00-19:30  ITCA1  Projektovanje proizvodnih sistema Sremčev dr Nemanja  
 		19:45-21:15  ITCA1  Studija rada i ergonomija  Sremčev dr Nemanja
 	SREDA
@@ -1789,7 +1789,7 @@ ITCS-RC
 		20:00-21:30  ITCS-RC  Robotizovani sistemi u industriji Milić Lazar
 	ČETVRTAK
 		07:00-09:30  ITCS-RC  Informacioni i komunikacioni sistemi Havzi Sara  
-		08:45-10:15  ITCS-RC  Informacije u multimediji Havzi Sara  
+		08:45-10:15  ITCS-RC  Informacije u multimediji  Havzi Sara  
 		09:45-12:15  ITCS-RC  Informacioni i komunikacioni sistemi Havzi Sara  
 		12:30-15:00  ITCS-RC  Informacioni i komunikacioni sistemi Kalin Igor  
 		15:15-17:45  ITCS-RC  Informacioni i komunikacioni sistemi Kalin Igor  
@@ -1813,7 +1813,6 @@ L1
 	PONEDELJAK
 		12:15-14:00  L1  Inovacije u preduzeću  Borocki dr Jelena  
 		14:15-15:45  L1  Inovacije u preduzeću  Vekić Aleksandar  
-		19:15-21:00  L1  Integrisano upravljanje preduzećem (SAP, ERP) Stevanov dr Branislav
 	UTORAK
 		10:30-12:00  L1  Analiza i obračun troškova proizvodnje Ivanišević dr Andrea  
 		12:15-13:45  L1  Lean održavanje  Beker dr Ivan  
@@ -1873,7 +1872,7 @@ L1(RC)
 		10:30-12:00  L1(RC)  Sistemi automatskog upravljanja  Arsenović Jovana  Stokanović Smilja,  
 		12:15-13:45  L1(RC)  Sistemi automatskog upravljanja  Stojaković Nedeljko  
 		14:15-16:45  L1(RC)  Veb programiranje  Kovačević Tamara  
-		17:45-20:15  L1(RC)  Veb orijentisane tehnologije i sistemi Lazarević Sara  
+		17:45-20:15  L1(RC)  Veb orijentisane tehnologije i sistemi Lazarević Sara  Napomena:  Verovatnoća i statistika - u prvoj polovini semestra izvodiće se auditorne vežbe a u drugoj polovini semestra laboratorijske vežbe u organizaciji departmana.  
 L2(RC)
 	PONEDELJAK
 		07:00-10:15  L2(RC)  Specifikacija i modeliranje softvera Colić Stefan  
@@ -1916,7 +1915,7 @@ L3(RC)
 		15:15-17:45  L3(RC)  Metodologije razvoja softvera Rašeta Marko  
 		19:30-21:00  L3(RC)  Dizajn tekstura i svetla  Mirčeski Filip  
 	UTORAK
-		09:30-12:00  L3(RC)  Uvod u objektno programiranje Beker Aleksandar  
+		09:30-12:00  L3(RC)  Uvod u objektno programiranje Novi saradnik  
 		12:25-13:55  L3(RC)  Osnove kompjuterskih igara Fijat Igor  
 		16:00-17:30  L3(RC)  Osnove sistema poslovne inteligencije Ilić Veljko  
 		17:45-19:15  L3(RC)  Osnove sistema poslovne inteligencije Ilić Veljko  
@@ -1927,7 +1926,7 @@ L3(RC)
 		12:15-13:45  L3(RC)  Internet mreže  Nikolić Lazar  
 		14:00-15:30  L3(RC)  Internet mreže  Nikolić Lazar  
 		15:45-17:15  L3(RC)  Algoritmi i strukture podataka Kovačević Tamara  
-		17:30-20:00  L3(RC)  Veb programiranje  Dragišić Jelena  studenti
+		17:30-20:00  L3(RC)  Veb programiranje  Nov saradnik  studenti
 	ČETVRTAK
 		07:00-08:30  L3(RC)  Sistemi automatskog upravljanja Bugarski dr Vladimir  
 		08:45-10:15  L3(RC)  Uvod u informacione tehnologije u geomatici Lukić Aleksandar  
@@ -2023,7 +2022,7 @@ L6(RC)
 		17:45-19:15  L6(RC)  Web dizajn  Perović Mitar  
 	ČETVRTAK
 		08:45-10:15  L6(RC)  Komunalni informacioni sistemi i njihova primena Kuzmić Budimirov Tatjana  Govedarica dr Miro,  
-		10:30-13:00  L6(RC)  Uvod u objektno programiranje Beker Aleksandar  
+		10:30-13:00  L6(RC)  Uvod u objektno programiranje Novi saradnik  
 		13:30-16:00  L6(RC)  Poslovna informatika  Škipina Milica  
 	PETAK
 		07:00-09:30  L6(RC)  Elektronsko poslovanje  Rakić dr Slavko  
@@ -2234,11 +2233,6 @@ MI125
 		12:15-13:45  MI125  Komponente tehnoloških sistema Milenković dr Ivana  
 		14:15-15:45  MI125  Komponente tehnoloških sistema Milenković dr Ivana  
 		16:15-19:30  MI125  Automatizacija procesa rada 1  Dakić Nikolina
-MI16
-	ČETVRTAK
-		09:30-11:00  MI16  Grafički materijali  Adamović dr Savka  
-		11:30-14:00  MI16  Savremeni materijali  Janjatović Petar  Virtualna proizvodnja u tehnologijama plastičnog 
-		14:15-16:45  MI16  Savremeni materijali  Janjatović Petar  Virtualna proizvodnja u tehnologijama plastičnog 
 MI24-A
 	PONEDELJAK
 		10:30-12:00  MI24-A  Rasterska grafika  Tomić dr Ivana  Tomić dr Ivana,  
@@ -2261,7 +2255,6 @@ MI24-A
 		07:00-10:15  MI24-A  Grafički sistemi  Vladić dr Gojko  
 		10:30-13:45  MI24-A  Grafički sistemi  Gvoka Teodora  Maričić Katarina,  
 		14:00-17:15  MI24-A  Grafički sistemi  Gvoka Teodora  Napomena:  Studenti treba da odrade STRUČNU PRAKSU sa fondom časova 0+3.  Obratiti se PROF. DR. DRAGOLJUBU NOVAKOVIĆU.  Studenti biraju jedan od sledeća tri izborna predmeta: 1. Principi univerzalnog dizajna(2+0), grupe 1,2,3  2. Kreativna kaligrafija (2+0), grupe 5,6  3. Napredne web tehnologije (3+2), grupe 4  
-		17:30-20:45  MI24-A  Uvod u grafičke tehnologije Juretić Iva  Ilić dr Strahinja,  
 	SUBOTA
 		08:00-11:15  MI24-A  Osnovi prostornog dizajna Miketić Nada  Vasilić Petar,  
 		11:30-14:45  MI24-A  Osnovi prostornog dizajna Miketić Nada  Napomena:  Studenti imaju 2 izborne pozicije i u svakoj biraju jedan predmet od ponuđenih predmeta.  Izborna pozicija 1: Studenti biraju jedan od dva izborna predmeta: 1. Marketing i preduzetništvo (2+2) - Gr. 1  2. Rasterska grafika (2+2) - Gr. 2,3,4,5,6  Izborna pozicija 2: Studenti biraju jedan od dva izborna predmeta: 1. Ekonomika preduzeća (2+2) 2. Grafičke komunikacije (2+2) 
@@ -2627,7 +2620,7 @@ MIB4-5
 		14:00-16:30  MIB4-5  Cloud Computing u elektroenergetskim sistemima Mikać Mirko  
 		16:45-19:15  MIB4-5  Cloud Computing u elektroenergetskim sistemima Mikać Mirko  
 	SREDA
-		11:30-14:00  MIB4-5  Uvod u objektno programiranje Beker Aleksandar  
+		11:30-14:00  MIB4-5  Uvod u objektno programiranje Matković Jelena  
 		15:00-17:30  MIB4-5  Veb orijentisane tehnologije i sistemi Žuvela Tamara  
 		17:45-19:15  MIB4-5  Analiza i modeliranje poslovnih procesa Bojanić Tamara
 	ČETVRTAK
@@ -2857,6 +2850,7 @@ MIG2-2
 		07:45-10:15  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko  
 		10:30-13:00  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko  
 	ČETVRTAK
+		09:30-11:00  MIG2-2  Grafički materijali  Adamović dr Savka  
 		14:00-16:30  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko
 	PETAK
 		08:30-10:00  MIG2-2  Osnovi mašinskih tehnologija 1  Kovačević dr Lazar  Gostimirović dr Marin,  
@@ -2865,7 +2859,6 @@ MIG2-2
 MIG3-1A
 	PONEDELJAK
 		09:30-11:00  MIG3-1A  Impulsna i digitalna elektronska kola Brestovački Lenka  21,22,23,27  Kisić dr 
-		11:15-12:00  MIG3-1A  Impulsna elektronika  Brestovački Lenka  
 		12:30-14:00  MIG3-1A  Grafički materijali  Golubović Gala  
 		14:30-16:15  MIG3-1A  Upravljanje kretanjem  Tarjan dr Laslo  
 		14:30-16:15  MIG3-1A  Upravljanje kretanjem  Tarjan dr Laslo  
@@ -3046,6 +3039,8 @@ MIĐ2
 		09:30-11:00  MIĐ2  Kompozitni materijali  Spasojević Stanko  Virtualna proizvodnja u tehnologijama plastičnog 
 	ČETVRTAK
 		09:30-11:00  MIĐ2  Grafički materijali  Golubović Gala  
+		11:30-14:00  MIĐ2  Savremeni materijali  Janjatović Petar  Virtualna proizvodnja u tehnologijama plastičnog 
+		14:15-16:45  MIĐ2  Savremeni materijali  Janjatović Petar  Virtualna proizvodnja u tehnologijama plastičnog 
 	PETAK
 		08:45-10:15  MIĐ2  Grafički materijali  Golubović Gala  
 		10:30-12:00  MIĐ2  Grafički materijali  Golubović Gala  
@@ -3089,8 +3084,8 @@ MIĐ3-1
 		08:15-11:00  MIĐ3-1  Sistemi, sredstva i oprema zaštite na radu Adamović dr Dragan
 		11:15-12:45  MIĐ3-1  Studija rada i ergonomija  Novaković Mladenka  
 		12:15-15:00  MIĐ3-1  Mašinstvo u medicini i bioinženjeringu Terek dr Pal  
-		13:00-14:30  MIĐ3-1  Osnovni principi upravljanja vodama Kovačević dr Srđan
-		17:15-18:45  MIĐ3-1  Doder dr Đorđije  procesne opreme
+		14:15-15:45  MIĐ3-1  Osnovni principi upravljanja vodama Kovačević dr Srđan
+		18:15-19:45  MIĐ3-1  Doder dr Đorđije  procesne opreme
 	ČETVRTAK
 		10:15-13:00  MIĐ3-1  Baze podataka obradnih procesa  Rodić dr Dragan
 		14:15-16:45  MIĐ3-1  Organizacija vodnog saobraćaja  Bačkalić dr Todor
@@ -3504,7 +3499,7 @@ NTP-222
 		10:30-13:00  NTP-222  Programiranje u Smart Grid sistemima Glavaš Predrag
 		14:00-16:30  NTP-222  Razvoj elektroenergetskog softvera Babić Zorana  
 		16:45-19:15  NTP-222  Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Janković Marko  
-		19:30-22:00  NTP-222  Veb programiranje  Dragišić Jelena  studenti
+		19:30-22:00  NTP-222  Veb programiranje  studenti  Dragišić Jelena
 	SREDA
 		07:45-10:15  NTP-222  Programiranje u Smart Grid sistemima Radojčić Tanja  Jeremić Aleksandar,  
 		10:30-12:00  NTP-222  Baze podataka 2  Župunski Radovan  Jeremić Aleksandar,  
@@ -3518,7 +3513,7 @@ NTP-222
 		12:15-13:45  NTP-222  Baze podataka 2  Kiš Gergelj  
 		14:00-16:30  NTP-222  Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Glavaš Predrag  
 		16:45-19:15  NTP-222  Razvoj elektroenergetskog softvera Dejanović Stefan  
-		19:30-22:00  NTP-222  Veb programiranje  Mijatov Vanja  studenti  
+		19:30-22:00  NTP-222  Veb programiranje  studenti  Mijatov Vanja  
 	PETAK
 		07:45-10:15  NTP-222  Softver sa kritičnim odzivom u elektroenergetskim sistemima Đorđević Filip  
 		10:30-13:00  NTP-222  Programiranje u Smart Grid sistemima Dalčeković Ivana  
@@ -3803,8 +3798,8 @@ NTP-417
 		16:15-18:00  NTP-417  Alati za razvoj softvera  Nikolić dr Siniša  
 		18:15-21:00  NTP-417  Testiranje softvera  Vuković dr Željko
 	PETAK
-		10:15-13:00  NTP-417  Osnove finansijskog inženjeringa 1  Radišić dr Mladen  
-		13:15-14:45  NTP-417  Matematička analiza 1  Blesić Andrija  
+		09:15-12:00  NTP-417  Osnove finansijskog inženjeringa 1  Radišić dr Mladen  
+		12:15-13:45  NTP-417  Matematička analiza 1  Blesić Andrija  
 		15:00-15:45  NTP-417  Uvod u signale i sisteme  Suzić dr Siniša  
 NTP-418
 	PONEDELJAK

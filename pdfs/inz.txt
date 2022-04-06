@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 09:51, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.04.2022. 17:24, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
 
@@ -368,9 +368,9 @@ Dobromirov dr Dušan,
 
 SVI
 
-10:15
+09:15
 
-13:00
+12:00
 
 NTP-417
 
@@ -382,9 +382,9 @@ Radišić dr Mladen
 
 1,2
 
-13:15
+12:15
 
-14:45
+13:45
 
 NTP-417
 
@@ -410,7 +410,7 @@ Gajić dr Dušan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:52, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 11:52, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
 
@@ -732,7 +732,7 @@ Anišić Helena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 12:00, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 13:00, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 6 Semestar
 
@@ -1166,7 +1166,7 @@ Interakcija čovek računar Bursać Vasilije
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 05:35, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 06:35, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -1486,7 +1486,7 @@ Napomene:
 
 Grupe broj 1,2,3 su grupa koja su upisane na studijsku grupu Analitički inženjering (AIN) Grupa broj 11 je grupa koja je upisana na studijsku grupu Primenjeni informacioni inženjering (PIN) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:38, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 09:38, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 

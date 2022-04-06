@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.03.2022. 12:36, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 06:38, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 2 Semestar
 
@@ -108,7 +108,7 @@ L3 (RC)
 
 rač.vežbe
 
-Uvod u objektno programiranje Beker Aleksandar
+Uvod u objektno programiranje Novi saradnik
 
 1
 
@@ -204,7 +204,7 @@ MI B4-5
 
 rač.vežbe
 
-Uvod u objektno programiranje Beker Aleksandar
+Uvod u objektno programiranje Matković Jelena
 
 1
 
@@ -282,7 +282,7 @@ L6 (RC)
 
 rač.vežbe
 
-Uvod u objektno programiranje Beker Aleksandar
+Uvod u objektno programiranje Novi saradnik
 
 SVI
 
@@ -356,7 +356,7 @@ Uvod u objektno programiranje Nikolić dr Siniša
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:56, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 11:56, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 4 Semestar
 
@@ -706,7 +706,7 @@ Klijentske veb tehnologije Brdar Ilija
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:31, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:31, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 6 Semestar
 
