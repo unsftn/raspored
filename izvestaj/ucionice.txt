@@ -266,9 +266,7 @@ Generating izvestaj target from models:
 		08:45-10:15  108A  Poslovno komuniciranje  Bošković Dunja, Spajić dr Jelena Orošnjak Marko,  
 		10:15-11:00  108A  Obnovljivi izvori i zaštita životne sredine Đatkov dr Đorđe  Napomena:  Studenti moraju da odrade STRUČNU PRAKSU sa fondom časova 0+3, treba da se obrate PROF. DR. ZOLTANU ČORBI.  
 		10:30-12:00  108A  Poslovno komuniciranje  Bošković Dunja, Spajić dr Jelena 
-		11:15-14:00  108A  Poštanske usluge i mreža  Jovanović dr Bojan  Strateško planiranje u poštanskom saobraćaju i 
 		12:15-13:45  108A  Poslovno komuniciranje  Bošković Dunja, Spajić dr Jelena 
-		14:15-16:00  108A  Šarac dr Dragana  telekomunikacijama  Napomena:  Studenti koji su upisani na studijski program POŠTANSKI SAOBRAĆAJ I TELEKOMUNIKACIJE  treba da odrade STRUČNU PRAKSU sa fondom časova 0+3.  Obratiti se PROF. DR. BOJANU JOVANOVIĆU.  
 		16:15-17:45  108A  Osnovi elektrotehnike 2  Nov saradnik  
 		17:30-20:45  108A  Projektovanje informaciono-komunikacionih mreža Narandžić dr Milan  Bojović dr Živko,  25.03.2022  
 		17:30-20:00  108A  Projektovanje informaciono-komunikacion Vuih  k mr  obr eža  atović dr Dejan  01.04.2022  
@@ -408,6 +406,7 @@ Generating izvestaj target from models:
 		18:30-20:00  202  Engleski jezik - napredni srednji Bulatović Vesna
 	ČETVRTAK
 		08:15-11:00  202  Projektovanje informacionih sistema Mirković dr Milan  
+		14:15-15:45  202  Projektovanje betonskih i metalnih mostova Rajić Nikola  Legenda:  Grupa 1 je upisana na studijsku grupu KONSTRUKCIJE (KON) Grupa 11 je upisana na studijsku grupu HIDROTEHNIKA Grupa 21 je upisana na studijsku grupu PUTEVI, ŽELEZNICE I AERODROMI Grupa 31 je upisana na studijsku grupu ORGANIZACIJA I TEHNOLOGIJA GRAĐENJA Studenti koji su upisani na studijsku grupu KONSTRUKCIJE biraju dva od sledećih 5 predmeta: 1. Sanacija betonskih konstrukcija (2+2) 2. Predhodno napregnute betonske konstrukcije (2+2) 3. Spregnute konstrukcije (2+2) 4. Oštećenja i sanacija zidanih, čeličnih i drvenih konstrukcija (2+2) 5. Odabrana poglavlja zidanih konstrukcija (2+2) Studenti treba da odrade STRUČNU PRAKSU sa fondom časova 0+3.  Obratiti se DR. SLOBODANU KOLAKOVIĆU.  
 		14:30-16:00  202  Energetska elektronika 2  Todorović dr Ivan  
 		17:00-17:45  202  Sistemi i signali  Vincan Vladimir
 		18:15-19:45  202  Digitalna transformacija u industriji Savković Milena
@@ -419,7 +418,6 @@ Generating izvestaj target from models:
 		16:15-17:45  202  Tehnologija kombinovanog transporta Maslarić dr Marinko  Saulić Nenad,  
 203
 	PONEDELJAK
-		09:15-12:00  203  Modeli u planiranju saobraćaja  Mirović dr Valentina  
 		12:15-15:00  203  Impulsna i digitalna elektronska kola Bajić dr Jovan  Akademske pisane i govorne komunikacije na srpskom 
 		15:15-17:00  203  Statika konstrukcija 2  Džolev dr Igor  Dobrić dr Jelena,  
 		17:15-20:00  203  Metalne konstrukcije 1  Jovanović dr Đorđe
@@ -446,6 +444,7 @@ Generating izvestaj target from models:
 		17:30-19:00  203  Engleski jezik - napredni srednji  Bulatović Vesna
 		17:30-19:00  203  Engleski jezik - napredni srednji  Bulatović Vesna
 	PETAK
+		09:15-12:00  203  Modeli u planiranju saobraćaja  Mirović dr Valentina  
 		09:45-11:15  203  Materijali u elektrotehnici Kisić dr Milica  
 		11:30-14:00  203  Mikroelektronika  Kisić dr Milica  
 204
@@ -513,7 +512,6 @@ Generating izvestaj target from models:
 		17:15-19:00  205  Sociologija tehnike  Pejić dr Sonja  Napomena:  Svi studenti biraju jedan od sledeća dva predmeta: 1. Sociologija tehnike (2+0) 2. Pravo i pravni propisi u geodetskoj struci (2+0) 
 206
 	PONEDELJAK
-		12:15-13:45  206  Modeli u planiranju saobraćaja  Pandžić Nikola
 		14:00-16:30  206  Matematička analiza  Kopanja Tamara  
 		16:45-19:15  206  Matematička analiza  Kopanja Tamara  
 	UTORAK
@@ -541,6 +539,7 @@ Generating izvestaj target from models:
 	PETAK
 		08:15-10:00  206  Primena inženjerske animacije Obradović dr Ratko  
 		10:15-13:00  206  Metode 3D digitalizacije  Budak dr Igor  Studenti treba da odrade STRUČNU PRAKSU sa fondom časova 0+4.  Obratiti se PROF. DR. RATKU OBRADOVIĆU.  
+		12:15-13:45  206  Modeli u planiranju saobraćaja  Pandžić Nikola
 		13:15-16:00  206  Organizacija železničkog saobraćaja Stojić dr Gordan  
 		16:15-17:00  206  Tehnika bezbednosti i kontrole saobraćaja Jović Andrijana  
 		17:15-18:45  206  Logistika preduzeća  Mirčetić Dejan  Napomena:  Studenti koji su upisani na studijski program SAOBRAĆAJ i TRANSPORT (SiT) imaju 2 izborne pozicije.  Na izbornoj poziciji 1: studenti biraju jedan od sledeća dva predmeta: 1. Drumska vozila (3+3)  2. Održavanje i raspoloživost transportnih sredstava (3+3) Na izbornoj poziciji 2: studenti biraju jedan od sledeća dva predmeta: 1. Organizacija železničkog saobraćaja (3+2) 2. Šinska vozila i vuča (3+2)  Za predmete: Tehnologija kombinovanog transporta, Teorija saobraćajnog toka i Održavanje i raspoloživost transportnih sredstava laboratorijske vežbe će se izvoditi u organizaciji departmana.  
@@ -689,6 +688,7 @@ Generating izvestaj target from models:
 		14:00-16:30  307  Napredna inženjerska animacija Milinković Nikola
 	PETAK
 		07:45-10:15  307  Grafički dizajn  Mandić Olga  Maričić Katarina,  
+		10:30-12:00  307  Napredne tehnike programiranja Inđić Vladimir  
 		12:15-14:45  307  Razvojni procesi u preduzeću  Vekić Aleksandar
 308
 	PONEDELJAK
@@ -1681,7 +1681,7 @@ ITCA1
 		14:30-16:00  ITCA1  Digitalna transformacija u industriji Ćirić dr Danijela  
 		16:15-17:45  ITCA1  Procesni prilazi i kvalitet  Žižakov Marina
 		18:00-19:30  ITCA1  Projektovanje proizvodnih sistema Sremčev dr Nemanja  
-		19:45-21:15  ITCA1  Studija rada i ergonomija  Sremčev dr Nemanja
+		19:50-21:20  ITCA1  Teorija odlučivanja  Medić dr Nenad
 	SREDA
 		08:30-10:00  ITCA1  Razvoj i projektovanje proizvoda Gutai Andrea  
 		10:15-12:00  ITCA1  Razvoj i projektovanje proizvoda Anderla dr Andraš  
@@ -1691,7 +1691,7 @@ ITCA1
 		18:15-20:00  ITCA1  Međunarodni razvojni projekti  Lalić dr Bojan  
 	ČETVRTAK
 		10:30-12:00  ITCA1  Principi ekonomije  Todorović Tanja  
-		12:30-14:00  ITCA1  Teorija odlučivanja  Medić dr Nenad  
+		12:30-14:00  ITCA1  Studija rada i ergonomija  Sremčev dr Nemanja  
 		14:15-17:00  ITCA1  Mehanika u industrijskom inženjerstvu Žigić dr Miodrag,  Ožvat dr Sanja  
 		17:15-19:00  ITCA1  Matematika 2  Nikolić dr Aleksandar
 	PETAK
@@ -2041,7 +2041,7 @@ LG001
 		12:15-13:45  LG001  Statika konstrukcija 2  Rajić Nikola  
 		15:15-17:00  LG001  Primena GIS u hidrotehnici  Sušić dr Zoran  Budimski dr Ljubomir,  
 		17:15-18:45  LG001  Osnovi hidromehanike i hidrotehnike Stipić Danilo
-		19:15-20:45  LG001  Hidraulika 2  Stipić Danilo  
+		19:15-20:45  LG001  Hidraulika 2  Stipić Danilo  31-opred.  14:
 	SREDA
 		07:45-10:15  LG001  Mehanika tla  Majkić Tijana  
 		10:30-13:00  LG001  Mehanika tla  Majkić Tijana  
@@ -2069,7 +2069,6 @@ LG002
 		10:15-12:00  LG002  Prefabrikacija i tehnologija montaže Dražić dr Jasmina  
 		12:15-13:45  LG002  Završni radovi i instalacije na objektima Stanojević Dragana  
 		14:00-15:30  LG002  Statika konstrukcija 2  Rajić Nikola  
-		15:40-17:10  LG002  Upravljanje građenjem  Senjak Pejić Milena  1-opred.  18:
 		17:15-19:45  LG002  Putevi i saobraćajnice  Marinković Milan  
 	SREDA
 		08:30-10:00  LG002  Ispitivanje konstrukcija  Živaljević Vladimir  
@@ -2098,7 +2097,6 @@ LG005
 		08:45-10:15  LG005  Tehnologija betona  Lukić dr Ivan  
 		10:30-12:00  LG005  Tehnologija betona  Šupić dr Slobodan  
 		12:15-13:45  LG005  Tehnologija betona  Šupić dr Slobodan  
-		14:00-15:30  LG005  Upravljanje građenjem  Mučenski dr Vladimir  
 		16:15-18:00  LG005  Proračun i modelovanje evakuacije Laban dr Mirjana  
 		18:15-19:45  LG005  Proračun i modelovanje evakuacije Šupić dr Slobodan
 		20:00-21:30  LG005  Tehnologija betona  Šupić dr Slobodan
@@ -2157,8 +2155,6 @@ LG106
 		10:30-13:00  LG106  Putevi i saobraćajnice  Marinković Milan  
 		14:15-15:45  LG106  Teorija površinskih nosača  Radujković dr Aleksandra
 	ČETVRTAK
-		10:30-12:00  LG106  BIM u upravljanju građenjem  Mučenski dr Vladimir  
-		12:15-13:45  LG106  BIM u upravljanju građenjem  Terzić Mirjana  Radonjanin dr Vlastimir,  Oštećenja i sanacija zidanih, čeličnih i drvenih 1-opred.  12:
 		12:30-15:00  LG106  Metalne konstrukcije 1  Nožica Tanja  
 		15:45-18:15  LG106  Metalne konstrukcije 1  Nožica Tanja  
 LG107
@@ -2370,7 +2366,6 @@ MIA2-4
 		15:00-17:30  MIA2-4  Razvoj elektroenergetskog softvera Novi saradnik  
 		17:45-20:15  MIA2-4  Veb programiranje  Dragišić Jelena  
 	PETAK
-		07:00-08:30  MIA2-4  Napredne tehnike programiranja Inđić Vladimir  
 		08:45-10:15  MIA2-4  Napredne tehnike programiranja Inđić Vladimir  
 		11:15-13:45  MIA2-4  Razvoj elektroenergetskog softvera Babić Zorana  
 		14:15-15:45  MIA2-4  Namenski računarski sistemi Tošić Mr Saša  
@@ -2895,7 +2890,7 @@ MIG3-1C
 		08:30-10:00  MIG3-1C  Održavanje i raspoloživost transportnih sredstava Škiljaica dr Ivan  
 		10:30-12:00  MIG3-1C  Transportno logističke osobine robe Veličković Marko  
 		12:15-13:45  MIG3-1C  Fizika  Zečević Milka, Jelić Slađan  
-		14:15-17:00  MIG3-1C  Toplotni aparati  Anđelković dr Aleksandar  
+		14:15-17:00  MIG3-1C  Toplotni aparati  Mujan dr Igor  
 		17:15-19:45  MIG3-1C  Toplotni aparati  Pilić Vladimir
 	SREDA
 		09:15-11:00  MIG3-1C  Primena senzora i aktuatora  Bajić dr Jovan, Tarjan dr Laslo  
@@ -2927,7 +2922,8 @@ MISD1
 		08:45-10:15  MISD1  Tehnologija javnog transporta putnika Pitka Pavle  
 		10:30-12:00  MISD1  Tehnologija javnog transporta putnika Pitka Pavle  Saulić dr Nenad,  
 		12:15-13:45  MISD1  Saobraćajni terminali  Simeunović dr Milja
-		14:00-16:30  MISD1  Poštanske usluge i mreža  Jovanović dr Bojan
+		14:00-16:30  MISD1  Poštanske usluge i mreža  Jovanović dr Bojan  
+		16:45-19:30  MISD1  Poštanske usluge i mreža  Jovanović dr Bojan
 	ČETVRTAK
 		09:15-11:00  MISD1  Eksplotacija telekomunikacionih mreža Vukobratović dr Dejan  
 		11:15-14:00  MISD1  Optičke telekomunikacije  Škorić dr Tamara
@@ -3170,14 +3166,13 @@ NTP-001
 		12:15-14:00  NTP-001  Upravljački algoritmi u realnom vremenu Kanović dr Željko  
 		14:15-17:00  NTP-001  Algoritmi i strukture podataka Milosavljević dr Branko  
 NTP-003
-	PONEDELJAK
-		07:45-09:15  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Kojić Sanja  (13-24)  
 	UTORAK
 		08:45-10:15  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Kojić Sanja  (37-)  
 		10:30-12:00  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Kojić Sanja  (25-36)  
 	SREDA
 		17:15-18:45  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Stojanović dr Goran  
-		19:00-20:30  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Kojić Sanja  (1-12)  
+		18:50-20:20  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Kojić Sanja  (1-12)  
+		20:25-21:55  NTP-003  Karakterizacija i testiranje mikroelektronskih kola Kojić Sanja  (13-24)  
 	ČETVRTAK
 		12:30-15:00  NTP-003  Samardžić dr Nataša  (13-24)  uređajima  
 NTP-004

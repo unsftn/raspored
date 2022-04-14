@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:00, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 06:00, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -518,7 +518,7 @@ Algoritmi i strukture podataka Kovačević Tamara
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.03.2022. 10:58, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.03.2022. 11:58, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1088,7 +1088,7 @@ Upravljanje informacijama Maksimović Veljko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:16, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 08:16, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1622,7 +1622,7 @@ Osnovi računarske inteligencije Škipina Milica
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:30, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.04.2022. 06:47, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -1932,18 +1932,6 @@ Izvođač
 
 2
 
-07:00
-
-08:30
-
-MI A2-4
-
-rač.vežbe
-
-Napredne tehnike programiranja Inđić Vladimir
-
-2
-
 08:45
 
 10:15
@@ -1963,6 +1951,18 @@ Vidaković Dragan
 10:15
 
 MI A2-4
+
+rač.vežbe
+
+Napredne tehnike programiranja Inđić Vladimir
+
+2
+
+10:30
+
+12:00
+
+307
 
 rač.vežbe
 
@@ -2008,7 +2008,7 @@ Vidaković Dragan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:51, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:51, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
