@@ -464,7 +464,7 @@ Napomena:
 
 Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - stručni (2+0) 2. Nemački jezik - napredni srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 10:17, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.05.2022. 09:11, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
 
@@ -880,9 +880,7 @@ Veb orijentisane tehnologije i sistemi Lazarević Sara
 
 Napomena:
 
-Verovatnoća i statistika - u prvoj polovini semestra izvodiće se auditorne vežbe a u drugoj polovini semestra laboratorijske vežbe u organizaciji departmana.
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
+Verovatnoća i statistika - laboratorijske vežbe izvodiće se u organizaciji departmana Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
 Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:24, Strana: 3
 
@@ -1728,9 +1726,7 @@ SVI
 
 Pred.
 
-Informacije u multimediji
-
-Anderla dr Andraš
+Informacije u multimediji Anderla dr Andraš
 
 S R E D A
 
@@ -1814,9 +1810,7 @@ ITCS-RC
 
 rač.vežbe
 
-Informacije u multimediji
-
-Havzi Sara
+Informacije u multimediji Havzi Sara
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 

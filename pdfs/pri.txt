@@ -24,7 +24,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 11:19, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.05.2022. 05:21, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -548,9 +548,9 @@ Izvođač
 
 1,3
 
-09:00
+08:00
 
-12:15
+11:15
 
 MI A2-1
 
@@ -562,9 +562,9 @@ Tošić Mr Saša
 
 4,8
 
-09:00
+08:00
 
-12:15
+11:15
 
 MI A2-3
 
@@ -1260,7 +1260,7 @@ Diskretna matematika
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 06:41, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 09:00, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1682,7 +1682,7 @@ Dragišić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 06:41, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 09:00, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 

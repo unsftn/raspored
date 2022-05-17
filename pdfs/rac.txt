@@ -26,7 +26,7 @@ Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:21, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 11:21, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -564,7 +564,7 @@ Mihailović dr Aleksandra
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:21, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 11:21, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -856,7 +856,7 @@ Jelić Slađan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:40, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.04.2022. 13:17, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1350,7 +1350,7 @@ Osnovi paralelnog programiranja i softverski alati Đukić dr Miodrag
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 05:40, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.04.2022. 13:17, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1506,7 +1506,7 @@ Osnovi paralelnog programiranja i softverski alati Stepanović Mia
 
 09:30
 
-NTP-508
+MI B4-1A
 
 rač.vežbe
 
@@ -1546,7 +1546,7 @@ Osnovi paralelnog programiranja i softverski alati Ivanović Sandra
 
 12:15
 
-NTP-508
+MI B4-1A
 
 rač.vežbe
 
@@ -1660,7 +1660,7 @@ Osnovi paralelnog programiranja i softverski alati Subotić Miloš
 
 17:15
 
-NTP-508
+MI B4-1A
 
 rač.vežbe
 
@@ -1710,7 +1710,7 @@ Stojaković Nedeljko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:34, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:34, Strana: 5
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -2532,7 +2532,7 @@ Anđelić Stefan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:33, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:33, Strana: 6
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -2918,7 +2918,7 @@ Upravljački algoritmi u realnom vremenu Stokanović Smilja
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 05:35, Strana: 7
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:35, Strana: 7
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -3532,7 +3532,7 @@ Pap dr Ištvan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:23, Strana: 8
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 09:23, Strana: 8
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -4468,7 +4468,7 @@ Bokan Dejan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:23, Strana: 9
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 09:23, Strana: 9
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -5292,7 +5292,7 @@ Projektovanje sistema zasnovanih na računaru Manić Milan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:23, Strana: 10
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 09:23, Strana: 10
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -6238,7 +6238,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:25, Strana: 11
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:25, Strana: 11
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -6462,7 +6462,7 @@ Jorgovanović dr Nikola
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 05:54, Strana: 12
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.03.2022. 06:54, Strana: 12
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -7084,7 +7084,7 @@ Napomena:
 
 Grupe broj 1,2,3,4 i 5 su grupe koje su upisane na studijsku grupu Internet i elektronsko poslovanje(EP) Grupa broj 11 je grupa upisana na studijsku grupu Informacioni sistemi(IS) Grupa broj 21 su studenti upisani na studijsku grupu Inteligentni sistemi(INS) Grupe broj 31,32 su grupe koje su upisane na studijsku grupu Softversko inženjerstvo(SFI) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:49, Strana: 13
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:49, Strana: 13
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -7422,7 +7422,7 @@ Modul 6: Računarstvo visokih performansi sistema grupa broj 61
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:50, Strana: 14
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 09:50, Strana: 14
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -8048,7 +8048,7 @@ Linux programiranje u realnom vremenu Četić Nenad
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 08:50, Strana: 15
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.01.2022. 09:50, Strana: 15
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -8478,7 +8478,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:48, Strana: 16
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:48, Strana: 16
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 

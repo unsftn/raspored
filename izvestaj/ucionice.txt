@@ -51,7 +51,7 @@ Generating izvestaj target from models:
 		10:15-13:00  102  Uvod u elektrotehniku  Milutinov dr Miodrag
 		13:30-15:00  102  Elektrotehnika i električne mašine Beštić Mirko  
 		15:15-18:00  102  Uvod u komunikacione mreže  Vukobratović dr Dejan  
-		18:15-19:45  102  Osnovi digitalnih komunikacija  Petković dr Milena
+		18:15-19:45  102  Osnovi digitalnih komunikacija  Petković dr Milica
 	SREDA
 		09:30-10:15  102  Digitalna obrada signala  Sečujski dr Milan  
 		10:30-12:00  102  Upravljanje projektima  Savković Milena  
@@ -171,7 +171,7 @@ Generating izvestaj target from models:
 		19:15-20:45  105  Fizika  Jelić Slađan  
 	PETAK
 		08:00-09:30  105  Elektrotehnika i električne mašine Jarić Milica  
-		09:40-12:10  105  Mehanika 1 - osnove  Balać Sonja  
+		09:40-12:10  105  Mehanika 1 - osnove  Rehlicki Lukešević dr Lidija 
 		12:15-13:45  105  Ljudski resursi u procesu rada Duđak dr Ljubica  Svi studenti biraju jedan od sledeća 2 predmeta: 1. Tehnologije pakovanja (2+2) Grupa 33,34  2. Ljudski resursi u procesu rada (2+2) Grupe 31,32  
 		14:15-17:00  105  Neuroinženjering  Jorgovanović dr Nikola  Napomena:  Oznake laboratorija koje počinju sa MF su laboratorije koje se nalaze u zgradi Medicinskog fakulteta na adresi Hajduk Veljkova 3, Novi Sad Zavod za fiziologiju, II sprat. Predmetni nastavnici će Vas obavestiti o tome.  Studenti treba da urade stručnu praksu (0+3), obratite se prof. dr Nikoli Jorgovanoviću.  
 		17:15-18:45  105  Osnove mehanike  Zuković dr Miodrag  Napomena:  Grupe broj 1,2,3,4,5 i 6 su grupe koje su upisane na studijski program INŽENJERSTVO ZAŠTITE ŽIVOTNE SREDINE (IZŽS) Grupe broj 31,32 i 33 su grupe koje su upisane na studijski program INŽENJERSTVO ZAŠTITE NA RADU (IZnR) 
@@ -280,7 +280,7 @@ Generating izvestaj target from models:
 	PONEDELJAK
 		10:15-13:00  109  Hemijski principi u inženjerstvu zaštite na radu Turk-Sekulić dr Maja  
 		13:15-14:45  109  Projektovanje postupaka rada (CAP/CAM) Penčić Marko
-		16:15-18:00  109  Informacije u multimediji  Anderla dr Andraš
+		16:15-18:00  109  Informacije u multimediji Anderla dr Andraš
 	UTORAK
 		08:15-10:00  109  Hardverski interfejs  Jorgovanović dr Nikola  
 		10:15-13:00  109  Sistemi baza podataka  Dimitrieski dr Vladimir  
@@ -401,7 +401,7 @@ Generating izvestaj target from models:
 	SREDA
 		07:15-10:00  202  Crtanje za animaciju i vizuelne efekte Vujanović dr Miloš  
 		10:15-13:00  202  Osnove proceduralnog generisanja pokreta Vrbaški dr Dunja
-		13:15-14:45  202  Mikroelektronika  (sv.dr.ned.)  Samardžić dr Nataša  
+		13:15-14:45  202  Mikroelektronika  Samardžić dr Nataša  
 		15:15-17:45  202  Operaciona istraživanja  Jankov Dunja
 		18:30-20:00  202  Engleski jezik - napredni srednji Bulatović Vesna
 	ČETVRTAK
@@ -418,7 +418,7 @@ Generating izvestaj target from models:
 		16:15-17:45  202  Tehnologija kombinovanog transporta Maslarić dr Marinko  Saulić Nenad,  
 203
 	PONEDELJAK
-		12:15-15:00  203  Impulsna i digitalna elektronska kola Bajić dr Jovan  Akademske pisane i govorne komunikacije na srpskom 
+		12:15-15:00  203  Impulsna i digitalna elektronska kola  Bajić dr Jovan  Akademske pisane i govorne komunikacije na srpskom 
 		15:15-17:00  203  Statika konstrukcija 2  Džolev dr Igor  Dobrić dr Jelena,  
 		17:15-20:00  203  Metalne konstrukcije 1  Jovanović dr Đorđe
 	UTORAK
@@ -508,8 +508,7 @@ Generating izvestaj target from models:
 		08:45-10:15  205  Osnove sistema poslovne inteligencije Ćulibrk dr Dubravko  
 		10:20-13:05  205  Teorija površinskih nosača  Radujković dr Aleksandra  
 		13:15-15:00  205  Uvod u informacione tehnologije u geomatici Ivanović dr Dragan  
-		15:15-17:00  205  Geodezija 1  Benka dr Pavel  
-		17:15-19:00  205  Sociologija tehnike  Pejić dr Sonja  Napomena:  Svi studenti biraju jedan od sledeća dva predmeta: 1. Sociologija tehnike (2+0) 2. Pravo i pravni propisi u geodetskoj struci (2+0) 
+		15:15-17:00  205  Geodezija 1  Benka dr Pavel  Napomena:  Svi studenti biraju jedan od sledeća dva predmeta: 1. Sociologija tehnike (2+0) 2. Pravo i pravni propisi u geodetskoj struci (2+0) 
 206
 	PONEDELJAK
 		14:00-16:30  206  Matematička analiza  Kopanja Tamara  
@@ -558,7 +557,7 @@ Generating izvestaj target from models:
 		07:00-08:30  207  Fizika  Zečević Milka  
 		08:45-10:15  207  Osnovi elektrotehnike  Herceg dr Dejana  Radović Luka,  
 		10:30-12:00  207  Osnovi elektrotehnike  Bjelica Jelena  
-		12:15-14:00  207  Inženjerska animacija i drugi mediji Perišić dr Ana
+		12:15-14:00  207  Inženjerska animacija i drugi mediji Obradović dr Ratko
 		14:15-15:45  207  Engleski jezik - osnovni  Bogdanović dr Vesna  
 		16:00-17:30  207  Engleski jezik - stručni  Bogdanović dr Vesna
 	SREDA
@@ -606,7 +605,7 @@ Generating izvestaj target from models:
 	PETAK
 		08:15-11:00  208  Osnovi digitalnih komunikacija  Kovačević dr Mladen  
 		11:15-14:00  208  Analiza elektroenergetskih sistema 2  Vidović dr Predrag  Obrenić dr Marko,  
-		14:15-17:00  208  Elektrodistributivni sistemi  Simendić dr Zoran  Studenti biraju jedan od sledeća dva predmeta: 1. Industrijski sistemi i protokoli (3+3) 2. Računarske komunikacije (3+3)  Grupe 1 su Elektroenergetski sistemi (ES) Grupa 11 su Električne mašine (EM) 
+		14:15-17:00  208  Elektrodistributivni sistemi  Simendić dr Zoran  Studenti biraju jedan od sledeća dva predmeta: 1. Industrijski sistemi i protokoli (3+3) 2. Računarske komunikacije (3+3)  Grupe 1 su Elektroenergetski sistemi (ES) Grupa 11 su Električne mašine (EM)  
 305(CMS)
 	UTORAK
 		09:15-11:00  305(CMS)  Računovodstvo i revizija u osiguranju Nerandžić dr Branislav  
@@ -689,7 +688,7 @@ Generating izvestaj target from models:
 	PETAK
 		07:45-10:15  307  Grafički dizajn  Mandić Olga  Maričić Katarina,  
 		10:30-12:00  307  Napredne tehnike programiranja Inđić Vladimir  
-		12:15-14:45  307  Razvojni procesi u preduzeću  Vekić Aleksandar
+		12:15-14:45  307  Razvojni procesi u preduzeću  Vidicki dr Predrag
 308
 	PONEDELJAK
 		08:15-10:00  308  Studija rada i ergonomija  Sremčev dr Nemanja  
@@ -709,7 +708,7 @@ Generating izvestaj target from models:
 	SREDA
 		09:15-11:00  308  Industrijska robotika  Raković dr Mirko, Nikolić dr Milutin 
 		11:15-13:00  308  Biomehanika  Žigić dr Miodrag  Stankovski dr Stevan,  
-		13:15-14:45  308  Impulsna i digitalna elektronska kola Brestovački Lenka  Materijali i tehnologije fabrikacije u medicinskim 
+		13:15-14:45  308  Impulsna i digitalna elektronska kola  Brestovački Lenka  Materijali i tehnologije fabrikacije u medicinskim 
 		15:15-17:00  308  Stojanović dr Goran  uređajima  
 		17:15-19:45  308  Matematičke metode 2  Dragić Đorđe  
 	ČETVRTAK
@@ -778,6 +777,7 @@ Generating izvestaj target from models:
 		10:15-12:00  310  ERP eksploatacija, održavanje i nadogradnja Lolić dr Teodora  
 		12:15-14:00  310  Merenje i regulisanje  Kljajić dr Miroslav  Energija i obnovljivi izbori energije u ruralnim 
 		12:15-14:00  310  Merenje i regulisanje  Kljajić dr Miroslav  
+		14:15-17:00  310  Vranjković dr Vuk  sistemskom nivou  
 		17:15-20:00  310  Funkcionalna verifikacija hardvera  Struharik dr Rastislav
 	ČETVRTAK
 		07:15-09:00  310  Fizika  Lončarević dr Ivana  Kekeljević dr Igor,  
@@ -1041,6 +1041,7 @@ AH1A
 		16:15-17:00  AH1A  Uvod u arhitektonsko projektovanje Konstantinović dr Dragana  Momirov Maja,  
 		18:15-19:00  AH1A  Arhitektonske reprezentacije 2  Stojaković dr Vesna
 	PETAK
+		07:00-09:30  AH1A  Mehanika 1 - osnove  Balać Sonja  
 		10:15-12:00  AH1A  Umetnost u kontekstu 1  Dinulović dr Radivoje,  Dimovski dr Vladimir  
 		12:15-14:00  AH1A  Arhitektonska analiza, funkcije i tipologija 2  Krklješ dr Milena  
 		14:15-17:00  AH1A  Matematika 2  Lukić dr Tibor  Stojković dr Ivana,  
@@ -1427,7 +1428,7 @@ AR3
 		14:00-17:15  AR3  Osnovi računarske inteligencije  Anđelić Stefan  
 		17:30-20:00  AR3  Programiranje i inženjerski korisnički programi Šarkanović-Bugarinović Milka  
 	ČETVRTAK
-		10:30-13:00  AR3  Razvojni procesi u preduzeću  Vekić Aleksandar  
+		10:30-13:00  AR3  Razvojni procesi u preduzeću  Vidicki dr Predrag  
 		13:30-16:00  AR3  Bezbednost u sistemima elektronskog poslovanja Kovačević Marija
 	PETAK
 		08:45-10:15  AR3  Mašinsko učenje  Vidaković Dragan  
@@ -1620,7 +1621,7 @@ ITC03
 		16:15-17:45  ITC03  Upravljanje poslovnim mrežama  Fajsi Angela  
 		18:00-19:30  ITC03  Upravljanje poslovnim mrežama  Fajsi Angela  
 	SREDA
-		07:45-10:15  ITC03  Razvojni procesi u preduzeću  Vekić Aleksandar  Jokanović dr Bojana,  
+		07:45-10:15  ITC03  Razvojni procesi u preduzeću  Vidicki dr Predrag  Jokanović dr Bojana,  
 		10:30-12:00  ITC03  Distribuirani informacioni sistemi Arsenović dr Marko  
 		12:15-13:45  ITC03  Analiza i modeliranje poslovnih procesa Stevanov dr Branislav  
 		14:15-15:45  ITC03  Osnove sistema poslovne inteligencije Ilić Veljko  
@@ -1631,14 +1632,14 @@ ITC03
 		13:30-15:00  ITC03  Informacije u multimediji  Havzi Sara  
 		18:00-19:30  ITC03  Strateški menadžment  Todorović Tanja
 	PETAK
-		07:00-09:30  ITC03  Razvojni procesi u preduzeću  Vekić Aleksandar  
-		09:40-12:10  ITC03  Razvojni procesi u preduzeću  Vekić Aleksandar  
+		07:00-09:30  ITC03  Razvojni procesi u preduzeću  Vidicki dr Predrag  
+		09:40-12:10  ITC03  Razvojni procesi u preduzeću  Vidicki dr Predrag  
 		12:15-13:45  ITC03  Projektovanje informacionih sistema Kolak Aleksandra  
 		14:15-15:45  ITC03  Razvoj i projektovanje proizvoda Gutai Andrea  
 		17:00-18:30  ITC03  Algoritamska trgovina  Ferenčak dr Miroslav  
 	SUBOTA
-		08:00-10:30  ITC03  Razvojni procesi u preduzeću  Vekić Aleksandar  
-		10:45-13:15  ITC03  Razvojni procesi u preduzeću  Vekić Aleksandar  
+		08:00-10:30  ITC03  Razvojni procesi u preduzeću  Vidicki dr Predrag  
+		10:45-13:15  ITC03  Razvojni procesi u preduzeću  Vidicki dr Predrag  
 ITC04
 	PONEDELJAK
 		14:00-15:30  ITC04  Menadžment ljudskih resursa  Duđak dr Ljubica  
@@ -1789,7 +1790,7 @@ ITCS-RC
 		20:00-21:30  ITCS-RC  Robotizovani sistemi u industriji Milić Lazar
 	ČETVRTAK
 		07:00-09:30  ITCS-RC  Informacioni i komunikacioni sistemi Havzi Sara  
-		08:45-10:15  ITCS-RC  Informacije u multimediji  Havzi Sara  
+		08:45-10:15  ITCS-RC  Informacije u multimediji Havzi Sara  
 		09:45-12:15  ITCS-RC  Informacioni i komunikacioni sistemi Havzi Sara  
 		12:30-15:00  ITCS-RC  Informacioni i komunikacioni sistemi Kalin Igor  
 		15:15-17:45  ITCS-RC  Informacioni i komunikacioni sistemi Kalin Igor  
@@ -1872,7 +1873,7 @@ L1(RC)
 		10:30-12:00  L1(RC)  Sistemi automatskog upravljanja  Arsenović Jovana  Stokanović Smilja,  
 		12:15-13:45  L1(RC)  Sistemi automatskog upravljanja  Stojaković Nedeljko  
 		14:15-16:45  L1(RC)  Veb programiranje  Kovačević Tamara  
-		17:45-20:15  L1(RC)  Veb orijentisane tehnologije i sistemi Lazarević Sara  Napomena:  Verovatnoća i statistika - u prvoj polovini semestra izvodiće se auditorne vežbe a u drugoj polovini semestra laboratorijske vežbe u organizaciji departmana.  
+		17:45-20:15  L1(RC)  Veb orijentisane tehnologije i sistemi Lazarević Sara  Napomena:  Verovatnoća i statistika - laboratorijske vežbe izvodiće se u organizaciji departmana 
 L2(RC)
 	PONEDELJAK
 		07:00-10:15  L2(RC)  Specifikacija i modeliranje softvera Colić Stefan  
@@ -2081,9 +2082,9 @@ LG002
 		16:45-18:15  LG002  Statika konstrukcija 2  Rajić Nikola
 		18:30-20:00  LG002  Statika konstrukcija 2  Rajić Nikola  
 	PETAK
-		07:00-08:30  LG002  Noseće konstrukcije 1  Manojlović Dragan  
-		08:45-10:15  LG002  Noseće konstrukcije 1  Manojlović Dragan  
-		10:30-12:00  LG002  Noseće konstrukcije 1  Manojlović Dragan  
+		07:00-08:30  LG002  Noseće konstrukcije 1  Nožica Tanja  
+		08:45-10:15  LG002  Noseće konstrukcije 1  Nožica Tanja  
+		10:30-12:00  LG002  Noseće konstrukcije 1  Nožica Tanja  
 		12:15-14:45  LG002  Putevi i saobraćajnice  Marinković Milan
 		15:45-17:15  LG002  Rizici pri manipulisanju opasnim materijama Tepić dr Goran  
 LG005
@@ -2138,9 +2139,9 @@ LG105
 		09:15-12:00  LG105  Postupci i postrojenja za tretman voda Kolaković dr Slobodan  
 		12:15-14:45  LG105  Postupci i postrojenja za tretman voda Milić Marijana
 	PETAK
-		14:15-15:45  LG105  Noseće konstrukcije 1  Manojlović Dragan  Napomena:  Studenti biraju jedan od sledeća dva predmeta: 1. Arhitektonske reprezentacije 2 (1+3) - grupe 1,2,3,4  2. Efemerna arhitektura (1+3) - grupa 5,6,7,8  Studenti bitaju jedan od sledeća dva strana jezika: 1. Engleski jezik - osnovni (2+0) 2. Engleski jezik - srednji (2+0) 
-		16:15-18:00  LG105  Metode analize rizika  Džolev dr Igor  
-		18:15-20:00  LG105  Uticaj zemljotresa na građevinske objekte Bulajić dr Borko  
+		14:15-15:45  LG105  Noseće konstrukcije 1  Nožica Tanja  Napomena:  Studenti biraju jedan od sledeća dva predmeta: 1. Arhitektonske reprezentacije 2 (1+3) - grupe 1,2,3,4  2. Efemerna arhitektura (1+3) - grupa 5,6,7,8  Studenti bitaju jedan od sledeća dva strana jezika: 1. Engleski jezik - osnovni (2+0) 2. Engleski jezik - srednji (2+0) 
+		16:15-18:00  LG105  Uticaj zemljotresa na građevinske objekte Bulajić dr Borko  Bulajić dr Borko,  
+		18:15-20:00  LG105  Metode analize rizika  Džolev dr Igor  
 LG106
 	PONEDELJAK
 		15:15-16:45  LG106  Zidane konstrukcije  Vukobratović dr Vladimir
@@ -2283,7 +2284,7 @@ MIA2-1
 		16:00-17:30  MIA2-1  Operativni sistemi  Turović Radovan  
 		18:15-21:30  MIA2-1  Arhitektura računara  Počuča Milena
 	SUBOTA
-		09:00-12:15  MIA2-1  Uvod u algoritme  Tošić Mr Saša  
+		08:00-11:15  MIA2-1  Uvod u algoritme  Tošić Mr Saša  
 MIA2-2
 	PONEDELJAK
 		08:00-10:30  MIA2-2  Sistemi baza podataka  Todorović Nikola  
@@ -2339,7 +2340,7 @@ MIA2-3
 		14:00-17:15  MIA2-3  Operativni sistemi  Simić Svetislav  
 		17:30-20:45  MIA2-3  Operativni sistemi  Anišić Helena  
 	SUBOTA
-		09:00-12:15  MIA2-3  Uvod u algoritme  Sekulić Jelena  
+		08:00-11:15  MIA2-3  Uvod u algoritme  Sekulić Jelena  
 MIA2-4
 	PONEDELJAK
 		07:45-10:15  MIA2-4  Elektronsko poslovanje  Rakić dr Slavko  
@@ -2401,11 +2402,14 @@ MIA20
 		11:15-14:00  MIA20  Tokovi energije i energetska efikasnost Anđelković dr Aleksandar  
 		14:15-15:45  MIA20  Tokovi energije i energetska efikasnost Munćan Vladimir  
 	UTORAK
+		13:15-15:00  MIA20  Skladištenje energije  Stepanov dr Borivoj  
 		13:15-15:45  MIA20  Održivi razvoj u energetici u procesnoj tehnici Despotović Bojana  
+		15:15-16:45  MIA20  Skladištenje energije  Vlaović Željko
 		16:00-18:30  MIA20  Održivi razvoj u energetici u procesnoj tehnici Despotović Bojana  
 	SREDA
 		08:30-10:00  MIA20  Upravljanje požarnim rizicima u industriji Milivojević Nikola  
 		10:15-12:00  MIA20  Upravljanje požarnim rizicima u industriji Sokolović dr Dunja
+		15:15-16:45  MIA20  Skladištenje energije  Vlaović Željko
 	ČETVRTAK
 		13:45-16:15  MIA20  Održivi razvoj u energetici u procesnoj tehnici Despotović Bojana
 MIA3Gal./2
@@ -2428,14 +2432,10 @@ MIB1
 		17:15-18:00  MIB1  Standardizacija i kvalitet  Urekar dr Marjan  
 		18:15-19:45  MIB1  Standardizacija i kvalitet  Urekar dr Marjan
 	UTORAK
-		09:30-11:00  MIB1  Skladištenje energije  Vlaović Željko  TER, 
-		11:15-13:00  MIB1  Skladištenje energije  Stepanov dr Borivoj
 		12:15-13:45  MIB1  Ekonomika preduzeća  Todorović Tanja  
 		14:00-15:30  MIB1  Grafički materijali  Milošević dr Rastko  Ilić dr Strahinja,  
 		15:45-17:15  MIB1  Grafički materijali  Fijat Igor  
 	SREDA
-		09:30-11:00  MIB1  Skladištenje energije  Vlaović Željko  TER, 
-		11:15-13:00  MIB1  Skladištenje energije  Stepanov dr Borivoj
 		13:15-15:00  MIB1  Ekonomika saobraćaja  Šarac dr Dragana  Bojić dr Sanja,  
 		15:15-17:45  MIB1  Elektrotehnika i električne mašine Gavrilov Teodora  
 		18:00-19:30  MIB1  Ekonomika saobraćaja  Ninović Milena  Sremac dr Siniša,  
@@ -2524,6 +2524,10 @@ MIB4-1A
 		15:15-17:45  MIB4-1A  Četić Nenad  signala
 	SREDA
 		10:45-14:00  MIB4-1A  Logičko projektovanje računarskih sistema 2  Milošević Milena  
+	PETAK
+		07:00-09:30  MIB4-1A  Osnovi paralelnog programiranja i softverski alati Ivanović Sandra  Maravić Nikolina,  
+		09:45-12:15  MIB4-1A  Osnovi paralelnog programiranja i softverski alati Subotić Miloš  Anišić Helena,  
+		14:45-17:15  MIB4-1A  Osnovi paralelnog programiranja i softverski alati Ivanović Sandra  
 MIB4-2
 	PONEDELJAK
 		08:30-10:00  MIB4-2  Osnovi termodinamike  Vlaović Željko  Vilotić dr Marko,  
@@ -2627,10 +2631,10 @@ MIB4-5
 		16:00-18:30  MIB4-5  Cloud Computing u elektroenergetskim sistemima Mikać Mirko  
 MIB4-5A
 	PONEDELJAK
-		07:45-10:15  MIB4-5A  Razvojni procesi u preduzeću  Vekić Aleksandar  
+		07:45-10:15  MIB4-5A  Razvojni procesi u preduzeću  Vidicki dr Predrag  
 		10:30-13:00  MIB4-5A  Programiranje u Smart Grid sistemima Radojčić Tanja  
 		13:15-16:45  MIB4-5A  Projekat  Selakov dr Aleksandar
-		18:45-21:15  MIB4-5A  Razvojni procesi u preduzeću  Vekić Aleksandar  
+		18:45-21:15  MIB4-5A  Razvojni procesi u preduzeću  Vidicki dr Predrag  
 	UTORAK
 		10:30-13:00  MIB4-5A  Softver sa kritičnim odzivom u elektroenergetskim sistemima Ivošević Jovan  
 		14:00-16:30  MIB4-5A  Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Radojčić Tanja  
@@ -2767,7 +2771,7 @@ MID5
 		17:15-19:45  MID5  Metalne konstrukcije  Katona Mirko
 	ČETVRTAK
 		07:30-09:00  MID5  Mehatronika pogonskih sistema Katona Mirko
-		09:30-12:00  MID5  Logistika pretovara  Matić Marina  
+		09:30-12:00  MID5  Logistika pretovara  Jojić Tanasije  
 		16:00-18:45  MID5  Metode merenja i ispitivanja mašina Zuber dr Ninoslav  Zuber dr Ninoslav,  
 		19:00-21:30  MID5  Metode merenja i ispitivanja mašina Ilanković Nikola
 	PETAK
@@ -2776,17 +2780,16 @@ MID5
 		16:00-19:45  MID5  skladištima  Zelić dr Atila  Napomena:  Studenti biraju jedan od sledeća dva predmeta: 1. Sistemi, sredstva i oprema zaštite na radu (3+2) 2. Zaštita na radu na mašinama za obradu materijala (3+2) 
 MID5-Gal.
 	PONEDELJAK
-		07:45-11:00  MID5-Gal.  Kompjutersko projektovanje  Ilanković Nikola  
+		07:45-11:00  MID5-Gal.  Kompjutersko projektovanje  Jojić Tanasije  
 		13:30-16:00  MID5-Gal.  Bezbednost i zaštita na radu sa sredstvima mehanizacije Ilanković Nikola  Živanić dr Dragan,  
 		16:15-19:00  MID5-Gal.  Bezbednost i zaštita na radu sa sredstvima mehanizacije Zelić dr Atila
 	UTORAK
 		16:30-18:00  MID5-Gal.  Savremene tehnike projektovanja transportnih sistema Ilanković Nikola  
 		18:15-20:00  MID5-Gal.  Savremene tehnike projektovanja transportnih sistema Živanić dr Dragan
 	SREDA
-		08:15-11:00  MID5-Gal.  Mehatronika transportnih i građevinskih mašina Todorović dr Ivan
-		14:15-17:30  MID5-Gal.  Kompjutersko projektovanje  Ilanković Nikola  
+		14:15-17:30  MID5-Gal.  Kompjutersko projektovanje  Jojić Tanasije  
 	ČETVRTAK
-		12:15-15:30  MID5-Gal.  Kompjutersko projektovanje  Ilanković Nikola  
+		12:15-15:30  MID5-Gal.  Kompjutersko projektovanje  Jojić Tanasije  
 	PETAK
 		07:30-10:00  MID5-Gal.  Skladišta i oprema  Matić Marina  Napomena:  Studenti biraju jedan od sledeća dva predmeta: 1. Mehatronika motora i drumskih vozila (3+3) 2. Mehatronika transportnih i građevinskih mašina (3+3) 
 MIG2
@@ -2844,6 +2847,7 @@ MIG2-2
 	SREDA
 		07:45-10:15  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko  
 		10:30-13:00  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko  
+		14:15-15:45  MIG2-2  Sociologija tehnike  Pejić dr Sonja  
 	ČETVRTAK
 		09:30-11:00  MIG2-2  Grafički materijali  Adamović dr Savka  
 		14:00-16:30  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko
@@ -2853,7 +2857,7 @@ MIG2-2
 		13:00-15:30  MIG2-2  Tehnologija obrade rezanjem  Aleksić Anđelko  
 MIG3-1A
 	PONEDELJAK
-		09:30-11:00  MIG3-1A  Impulsna i digitalna elektronska kola Brestovački Lenka  21,22,23,27  Kisić dr 
+		09:30-11:00  MIG3-1A  Impulsna i digitalna elektronska kola  Brestovački Lenka  Kisić dr Milica,  
 		12:30-14:00  MIG3-1A  Grafički materijali  Golubović Gala  
 		14:30-16:15  MIG3-1A  Upravljanje kretanjem  Tarjan dr Laslo  
 		14:30-16:15  MIG3-1A  Upravljanje kretanjem  Tarjan dr Laslo  
@@ -2879,7 +2883,7 @@ MIG3-1A
 		16:15-17:45  MIG3-1A  Marketing i preduzetništvo Spajić dr Jelena
 MIG3-1C
 	PONEDELJAK
-		09:30-11:00  MIG3-1C  Mikroelektronika  (sv.dr.ned.)  Samardžić dr Nataša  
+		09:30-11:00  MIG3-1C  Mikroelektronika  Samardžić dr Nataša  
 		11:15-12:00  MIG3-1C  Regulisani elektromotorni pogoni Marčetić dr Darko  Opred.
 		12:15-13:45  MIG3-1C  Organizacija preduzeća  Vidicki dr Predrag  
 		14:15-17:00  MIG3-1C  Automatizacija procesa rada Jocanović dr Mitar  
@@ -2902,8 +2906,7 @@ MIG3-1C
 		11:15-14:00  MIG3-1C  Tehnologije rukovanja materijalom Šulc dr Jovan
 		16:15-18:45  MIG3-1C  Mehatronika  Arbanas Miloš  
 	PETAK
-		07:00-09:30  MIG3-1C  Mehanika 1 - osnove  Balać Sonja  
-		09:45-12:15  MIG3-1C  Mehanika 1 - osnove  Rehlicki Lukešević dr Lidija 
+		09:45-12:15  MIG3-1C  Mehanika 1 - osnove  Balać Sonja  
 		14:30-17:00  MIG3-1C  Čisti izvori električne energije Stojković Aleksa  
 		17:15-18:45  MIG3-1C  Osnove operacionog menadžmenta Pavlović Marko  Napomena:  Studenti biraju jedan od sledeća dva predmeta: 1. Tehnike sagorevanja (2+2) 2. Osnove operacionog menadžmenta (2+2) 
 MISD1
@@ -2939,7 +2942,7 @@ MIV3-5
 	PONEDELJAK
 		08:30-11:00  MIV3-5  Baze podataka obradnih procesa  Rodić dr Dragan  
 		11:15-12:45  MIV3-5  Inovacione tehnologije  Aleksić Anđelko
-		16:00-18:30  MIV3-5  Razvojni procesi u preduzeću  Vekić Aleksandar  
+		16:00-18:30  MIV3-5  Razvojni procesi u preduzeću  Vidicki dr Predrag  
 	UTORAK
 		13:15-14:45  MIV3-5  Mašinsko učenje  Vidaković Dragan  
 		15:00-16:30  MIV3-5  Napredne tehnike programiranja Inđić Vladimir
@@ -3071,8 +3074,8 @@ MIĐ3-1
 		15:30-18:00  MIĐ3-1  Grejanje, ventilacija i klimatizacija (CET) Vlaović Željko  
 		18:15-21:00  MIĐ3-1  Grejanje, ventilacija i klimatizacija (CET) Anđelković dr Aleksandar
 	UTORAK
-		09:15-12:00  MIĐ3-1  Reverzibilno inženjerstvo i CAQ  Hadžistević dr Miodrag  
-		12:15-14:00  MIĐ3-1  Inovacione tehnologije  Sekulić dr Milenko  
+		09:15-11:00  MIĐ3-1  Inovacione tehnologije  Sekulić dr Milenko  Budak dr Igor,  
+		11:15-14:00  MIĐ3-1  Reverzibilno inženjerstvo i CAQ  Hadžistević dr Miodrag  
 		14:15-15:45  MIĐ3-1  Inovacione tehnologije  Aleksić Anđelko
 		16:15-17:45  MIĐ3-1  Metode analize rizika  Bajić dr Senka  
 		18:00-19:30  MIĐ3-1  Planiranje i projektovanje zaštite od požara Lazić Cveta
@@ -3179,7 +3182,7 @@ NTP-004
 	PONEDELJAK
 		12:15-14:45  NTP-004  Ispitivanje električnih mašina  Oros dr Đura  
 		12:30-14:00  NTP-004  Regulisani elektromotorni pogoni Marčetić dr Darko
-		15:00-16:30  NTP-004  Energetska elektronika u pogonu i industriji Vukajlović Nikola  
+		16:45-18:15  NTP-004  Energetska elektronika u pogonu i industriji Vukajlović Nikola
 	UTORAK
 		07:45-09:15  NTP-004  Laboratorija iz industrijskih pogona Vukajlović Nikola  
 	SREDA
@@ -3198,6 +3201,7 @@ NTP-005
 		08:15-10:00  NTP-005  Simulacioni alati u elektroenergetici Vekić dr Marko  
 		11:00-13:30  NTP-005  Laboratorija iz obnovljivih izvora električne energije Čorba dr Zoltan
 	SREDA
+		08:15-11:00  NTP-005  Mehatronika transportnih i građevinskih mašina Todorović dr Ivan
 		13:15-14:45  NTP-005  Priprema i konekcija obnovljivih izvora na mrežu Čorba dr Zoltan
 	ČETVRTAK
 		09:15-12:00  NTP-005  Priprema i konekcija obnovljivih izvora na mrežu Čorba dr Zoltan  
@@ -3236,13 +3240,14 @@ NTP-107
 		19:00-20:30  NTP-107  Razvoj softvera za digitalne mikrokontrolere Lukić dr Milan  (37-)
 	UTORAK
 		09:00-11:30  NTP-107  Osnovi mikroprocesorskih i mikrokontrolerskih sistema Radovanović Boris  
+		12:30-15:00  NTP-107  Vranjković dr Vuk  sistemskom nivou  Projektovanje elektronskih uređaja na  
 		15:15-17:45  NTP-107  Vranjković dr Vuk  sistemskom nivou
 		18:00-19:30  NTP-107  Mikroelektronika  Nikolić Kristina  
 		19:45-21:15  NTP-107  Mikroelektronika  Nikolić Kristina
 	SREDA
 		07:00-09:30  NTP-107  Uvod u digitalnu i mikroračunarsku elektroniku Zoranović Jovana  
 		07:00-09:30  NTP-107  Telekomunikaciona elektronika  Radić dr Jelena  
-		09:45-12:15  NTP-107  Diskretni sistemi  Nikić Vladimir  24,25,26,28  Kisić dr 
+		09:45-12:15  NTP-107  Diskretni sistemi  Nikić Vladimir  Kisić dr Milica,  
 		12:30-15:00  NTP-107  Osnovi mikroprocesorskih i mikrokontrolerskih sistema Radovanović Boris  
 		15:15-17:45  NTP-107  Razvojni alati u elektronici i telekomunikacijama 2  Panzalović Stefan  
 		18:00-19:30  NTP-107  Mikroelektronika  Nikolić Kristina  
@@ -3263,13 +3268,13 @@ NTP-108
 		08:45-11:15  NTP-108  Razvoj softvera za embeded operativne sisteme Teodorović dr Predrag
 		11:30-13:00  NTP-108  Telekomunikaciona elektronika Arbanas Miloš
 		13:15-15:45  NTP-108  Uvod u digitalnu i mikroračunarsku elektroniku Vincan Vladimir  
-		16:00-17:30  NTP-108  Praktikum: inženjerski alati u elektronici Babić Slađana  
-		17:45-19:15  NTP-108  Praktikum: inženjerski alati u elektronici Babić Slađana
+		16:00-17:30  NTP-108  Praktikum: inženjerski alati u elektronici Stevanović Nikola  
+		17:45-19:15  NTP-108  Praktikum: inženjerski alati u elektronici Stevanović Nikola
 	UTORAK
-		07:15-08:45  NTP-108  Praktikum: inženjerski alati u elektronici Babić Slađana  
-		09:00-10:30  NTP-108  Praktikum: inženjerski alati u elektronici Babić Slađana  
+		07:15-08:45  NTP-108  Praktikum: inženjerski alati u elektronici Nikolić Kristina  
+		09:00-10:30  NTP-108  Praktikum: inženjerski alati u elektronici Nikolić Kristina  
 		10:45-13:15  NTP-108  Razvojni alati u elektronici Arbanas Miloš  
-		13:30-15:00  NTP-108  Praktikum: inženjerski alati u elektronici Babić Slađana  
+		13:30-15:00  NTP-108  Praktikum: inženjerski alati u elektronici Nikolić Kristina  
 		15:15-17:45  NTP-108  Stevanović Nikola  (25-)  uređajima  
 	SREDA
 		07:00-09:30  NTP-108  Materijali i tehnologije izrade elektronskih kola Stevanović Nikola  
@@ -3291,10 +3296,10 @@ NTP-108
 		17:45-19:15  NTP-108  Mikroelektronika  Nikolić Kristina  
 	SUBOTA
 		09:00-10:30  NTP-108  Primena senzora i aktuatora  Bajić dr Jovan  
-		10:45-12:15  NTP-108  Impulsna i digitalna elektronska kola Brestovački Lenka  
-		12:30-14:00  NTP-108  Impulsna i digitalna elektronska kola Brestovački Lenka  
-		14:15-15:45  NTP-108  Impulsna i digitalna elektronska kola Babić Slađana  
-		16:00-17:30  NTP-108  Impulsna i digitalna elektronska kola Babić Slađana  Napomena:  Studenti imaju 2 izborne pozicije i u svakoj biraju jedan predmet od ponuđenih predmeta.  Izborna pozicija 1: Studenti biraju jedan od sledeća tri izborna predmeta: 1. Računarske komunikacije (3+3)  2. Materijali i tehnologije fabrikacije u medicinskim uređajima (2+3) 3. Sistemi automatskog upravljanja u elektronici (3+3) Izborna pozicija 2: Studenti biraju jedan od sledeća tri izborna predmeta: 1. Karakterizacija i testiranje mikroelektronskih kola (2+2) 2. Primena senzora i aktuatora (2+3) 3. Razvoj softvera za digitalne mikrokontrolere (2+2) Mikroelektronika - u prvoj polovini semestra izvodiće se auditorne vežbe a u drugoj polovini semestra laboratorijske vežbe u organizaciji departmana u datim terminima.  
+		10:45-12:15  NTP-108  Impulsna i digitalna elektronska kola  Brestovački Lenka  
+		12:30-14:00  NTP-108  Impulsna i digitalna elektronska kola  Brestovački Lenka  
+		14:15-15:45  NTP-108  Impulsna i digitalna elektronska kola  Babić Slađana  
+		16:00-17:30  NTP-108  Impulsna i digitalna elektronska kola  Babić Slađana  Napomena:  Studenti imaju 2 izborne pozicije i u svakoj biraju jedan predmet od ponuđenih predmeta.  Izborna pozicija 1: Studenti biraju jedan od sledeća tri izborna predmeta: 1. Računarske komunikacije (3+3)  2. Materijali i tehnologije fabrikacije u medicinskim uređajima (2+3) 3. Sistemi automatskog upravljanja u elektronici (3+3) Izborna pozicija 2: Studenti biraju jedan od sledeća tri izborna predmeta: 1. Karakterizacija i testiranje mikroelektronskih kola (2+2) 2. Primena senzora i aktuatora (2+3) 3. Razvoj softvera za digitalne mikrokontrolere (2+2) Mikroelektronika - laboratorijske vežbe će se održavati u drugoj polovini semestra u organizaciji departmana u datim terminima.  
 NTP-112
 	SREDA
 		18:00-20:30  NTP-112  Mikroračunarska elektronika Batinić Branislav
@@ -3302,9 +3307,9 @@ NTP-112
 		07:00-09:30  NTP-112  Stevanović Nikola  (1-12)  uređajima  
 		09:45-12:15  NTP-112  Modelovanje i simulacija RF i mikrotalasnih kola Sekulić dr Dalibor  
 	SUBOTA
-		08:00-09:30  NTP-112  Praktikum: inženjerski alati u elektronici Babić Slađana  
-		09:45-11:15  NTP-112  Praktikum: inženjerski alati u elektronici Babić Slađana  
-		11:30-13:00  NTP-112  Praktikum: inženjerski alati u elektronici Babić Slađana  Napomena:  Sistemi i signali - u prvoj polovini semestra izvodiće se auditorne vežbe a u drugoj polovini semestra laboratorijske vežbe u organizaciji departmana.  
+		08:00-09:30  NTP-112  Praktikum: inženjerski alati u elektronici Stevanović Nikola  
+		09:45-11:15  NTP-112  Praktikum: inženjerski alati u elektronici Stevanović Nikola  
+		11:30-13:00  NTP-112  Praktikum: inženjerski alati u elektronici Nikolić Kristina  Napomena:  Sistemi i signali - u prvoj polovini semestra izvodiće se auditorne vežbe a u drugoj polovini semestra laboratorijske vežbe u organizaciji departmana.  
 NTP-113
 	PONEDELJAK
 		07:45-09:15  NTP-113  Razvoj softvera za digitalne mikrokontrolere Lukić dr Milan  (25-36)  
@@ -3329,7 +3334,7 @@ NTP-113
 		15:15-17:45  NTP-113  Računarska elektronika  Mišeljić Đorđe  
 		18:00-20:30  NTP-113  Računarska elektronika  Mišeljić Đorđe
 	PETAK
-		09:45-12:15  NTP-113  Funkcionalna verifikacija hardvera  Kovačević Nikola  Projektovanje elektronskih uređaja na 
+		09:45-12:15  NTP-113  Funkcionalna verifikacija hardvera  Kovačević Nikola  Projektovanje elektronskih uređaja na  
 		12:30-15:00  NTP-113  Računarska elektronika  Mišeljić Đorđe  
 		15:15-17:45  NTP-113  Diskretni sistemi  Nikić Vladimir  
 		18:00-20:30  NTP-113  Diskretni sistemi  Bortnik Dušan
@@ -3340,6 +3345,8 @@ NTP-115
 	PONEDELJAK
 		07:30-09:00  NTP-115  Digitalna obrada slike  Lazić Ivan  
 		09:15-10:45  NTP-115  Digitalne modulacije  Petković dr Milica  
+		11:30-13:00  NTP-115  Digitalne modulacije  Petković dr Milica  
+		13:15-14:45  NTP-115  Digitalna obrada slike  Lazić Ivan  Akademske pisane i govorne komunikacije na 
 	UTORAK
 		08:00-09:30  NTP-115  Akustika i audio tehnika u multimediji Haška Aleksandra  (3(13-),4(13-))  
 		09:45-11:15  NTP-115  Audio i video tehnologije  Suzić dr Siniša  Projektovanje namenskih računarskih struktura u obradi 
@@ -3373,8 +3380,6 @@ NTP-115
 NTP-116
 	PONEDELJAK
 		09:45-11:15  NTP-116  Digitalna obrada slike  Haška Aleksandra  
-		11:30-13:00  NTP-116  Digitalne modulacije  Petković dr Milica  
-		13:15-14:45  NTP-116  Digitalna obrada slike  Lazić Ivan  Akademske pisane i govorne komunikacije na 
 		16:00-17:30  NTP-116  Digitalna obrada slike  Haška Aleksandra  
 		18:45-20:15  NTP-116  Digitalna obrada slike  Haška Aleksandra
 	UTORAK
@@ -3403,7 +3408,7 @@ NTP-116
 		09:45-11:15  NTP-116  Osnovi telekomunikacija  Ninković Vukan  
 NTP-208
 	PONEDELJAK
-		16:45-18:15  NTP-208  Upravljanje energetskim pretvaračima  Todorović Ivan
+		15:00-16:30  NTP-208  Upravljanje energetskim pretvaračima  Todorović Ivan  
 	ČETVRTAK
 		15:30-17:00  NTP-208  Simulacioni alati u elektroenergetici Vekić dr Marko  
 NTP-210
@@ -3741,12 +3746,12 @@ NTP-411
 		10:15-13:30  NTP-411  Upravljački algoritmi u realnom vremenu Kanović dr Željko
 	SREDA
 		09:00-11:30  NTP-411  Digitalni upravljački algoritmi u biomedicini Buljević Anja  
+		11:45-14:15  NTP-411  Digitalni upravljački algoritmi u biomedicini Buljević Anja  
 		18:15-21:30  NTP-411  Upravljački algoritmi u realnom vremenu Gavranović Nikola  22(13-)  
 	ČETVRTAK
 		10:30-13:00  NTP-411  Digitalni upravljački algoritmi u biomedicini Buljević Anja  Bajić dr Jovan,  
 		16:15-18:45  NTP-411  Digitalni upravljački algoritmi u biomedicini Arsenović Jovana
 	PETAK
-		11:30-14:00  NTP-411  Digitalni upravljački algoritmi u biomedicini Buljević Anja  
 		14:15-17:30  NTP-411  Upravljački algoritmi u realnom vremenu Stokanović Smilja  
 NTP-415
 	PONEDELJAK
@@ -3879,10 +3884,6 @@ NTP-508
 		16:15-18:45  NTP-508  Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
 	SREDA
 		09:45-12:15  NTP-508  Osnovi paralelnog programiranja i softverski alati Kenjić Dušan  
-	PETAK
-		07:00-09:30  NTP-508  Osnovi paralelnog programiranja i softverski alati Ivanović Sandra  Maravić Nikolina,  
-		09:45-12:15  NTP-508  Osnovi paralelnog programiranja i softverski alati Subotić Miloš  Anišić Helena,  
-		14:45-17:15  NTP-508  Osnovi paralelnog programiranja i softverski alati Ivanović Sandra  
 O12
 	PONEDELJAK
 		13:30-16:00  O12  Monitoring radne i životne sredine Živančev dr Nevena  
