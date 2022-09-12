@@ -1,6 +1,6 @@
-Raspored nastave za školsku 2021/2022 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita, a koncipiran je tako da u prvi plan ističe studenta i njegove obaveze na fakultetu. Svi zaposleni i studenti se moraju pridržavati zvaničnog rasporeda nastave. Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email:
+Raspored nastave za školsku 2022/2023 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a se moraju pridržavati zvaničnog rasporeda nastave.
 
-ftnraspored@uns.ac.rs.
+Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
 
 Mole se svi zaposleni i studenti FTN-a da tokom prve dve nedelje semestra stalno prate raspored, na internet stranici FTN-a www.ftn.uns.ac.rs u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
 
@@ -8,25 +8,25 @@ Oznake korišćene u rasporedu: 1. Brojevi napisani u zagradi iza broja grupe
 
 - primer prvi 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
 
-- primer drugi 1(17-
-
-), znači da da vežbe imaju studenti prve grupe i od broja 17 do kraja grupe po spisku Studentske službe
+- primer drugi 1(17-), znači da da vežbe imaju studenti prve grupe od broja 17 do kraja grupe po spisku Studentske službe
 
 - primer treći 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)[1(13-24)]. Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24). Ako se smenjuje samo jedna grupa onda je u rasporedu napisano ovako 1(sv.dr.ned.).
 
-2. Umesto broja grupe napisano je Prijavljeni ili Opredeljeni
+2. Umesto broja grupe napisano je Opredeljeni
 
 - izabrani predmet slušaju samo studenti koji su ga izabrali za slušanje Obavezno u vašem internet pretraživaču uraditi “Reload current page” ili “Refresh”, da bi se učitao trenutno važeći rapored predavanja sa FTN servera.
 
 
 
-Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu
+Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu
 
-prof. dr Aleksandar Kupusinac
+Prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.03.2022. 10:49, Strana: 1
 
-RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.08.2022. 07:02, Strana: 1
+
+RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
 Inženjerstvo informacionih sistema P O N E D E L J A K
 
@@ -44,89 +44,67 @@ Naziv Predmeta
 
 Izvođač
 
-1
+1,2,6
 
 07:00
-
-09:30
-
-AR4
-
-rač.vežbe
-
-Objektno orijentisane informacione tehnologije Gladić Dejana
-
-Opredeljeni
 
 08:30
 
-10:00
+MI B4-2
 
-MI B4-3
+aud.vežbe
+
+Algebra
+
+Erić Mirjana
+
+SVI
+
+08:45
+
+10:15
+
+MI B4-2
 
 Pred.
 
-Nemački jezik - napredni srednji Berić Andrijana
+Uvod u mikroprocesorske sisteme Sladojević dr Srđan
 
-1
+SVI
 
-09:45
+10:30
 
-12:15
+12:00
 
-AR5
+MI B4-2
 
-rač.vežbe
+Pred.
 
-Osnove inženjerstva tehničkih sistema Sekulić Dunja
+Uvod u inženjerstvo informacionih sistema Stefanović dr Darko
 
-2
-
-07:00
-
-09:30
-
-AR5
-
-rač.vežbe
-
-Osnove inženjerstva tehničkih sistema Sekulić Dunja
-
-2
-
-09:45
+5,6
 
 12:15
 
-AR4
+14:45
+
+L3 (RC)
 
 rač.vežbe
 
-Objektno orijentisane informacione tehnologije Gladić Dejana
+Uvod u mikroprocesorske sisteme Žuvela Tamara
 
-3
+4
 
-15:00
+12:15
 
-17:30
+14:45
 
-AR5
-
-rač.vežbe
-
-Objektno orijentisane informacione tehnologije Gladić Dejana
-
-3
-
-17:45
-
-20:15
-
-AR5
+307
 
 rač.vežbe
 
-Osnove inženjerstva tehničkih sistema Sekulić Dunja
+Uvod u inženjerstvo informacionih sistema Havzi Sara
 
 U T O R A K
 
@@ -144,101 +122,61 @@ Naziv Predmeta
 
 Izvođač
 
-4
+Reljić dr Vule,
 
-07:00
+1,2,6
 
-09:30
+07:30
 
-AR4
+09:00
 
-rač.vežbe
+MI B4-2
 
-Objektno orijentisane informacione tehnologije Gajić Natalija
+aud.vežbe
 
-4
+Osnove sistemskog inženjerstva Dakić Nikolina
 
-09:45
+3,4,5
 
-12:15
+07:30
 
-AR5
+09:00
 
-rač.vežbe
+109A
 
-Osnove inženjerstva tehničkih sistema Sekulić Dunja
+aud.vežbe
 
-5
+Algebra
 
-07:00
+Erić Mirjana
 
-09:30
+SVI
 
-AR5
+09:15
 
-rač.vežbe
+11:00
 
-Osnove inženjerstva tehničkih sistema Sekulić Dunja
+109A
 
-5
+Pred.
 
-09:45
+Algebra
 
-12:15
+Nedović dr Maja
 
-AR4
-
-rač.vežbe
-
-Objektno orijentisane informacione tehnologije Gladić Dejana
-
-6
-
-15:15
-
-17:45
-
-AR4
-
-rač.vežbe
-
-Objektno orijentisane informacione tehnologije Petrovački Jelana
-
-6
+2
 
 18:00
 
 20:30
 
-AR5
+ITC03
 
 rač.vežbe
 
-Osnove inženjerstva tehničkih sistema Gutai Andrea
+Uvod u programiranje
 
-7
-
-15:15
-
-17:45
-
-AR5
-
-rač.vežbe
-
-Osnove inženjerstva tehničkih sistema Sekulić Dunja
-
-7
-
-18:00
-
-20:30
-
-AR4
-
-rač.vežbe
-
-Objektno orijentisane informacione tehnologije Gajić Natalija
+Žuvela Tamara
 
 S R E D A
 
@@ -256,71 +194,95 @@ Naziv Predmeta
 
 Izvođač
 
-1,2,5,7
+3
 
-10:30
+08:45
 
-12:00
+11:15
 
-201
+L5 (RC)
 
-aud.vežbe
+rač.vežbe
 
-Matematička analiza
-
-Tošić Stefan
+Uvod u mikroprocesorske sisteme Žuvela Tamara
 
 SVI
 
-12:15
+13:15
 
-14:00
+14:45
 
-204
+AH1B
 
 Pred.
 
-Matematička analiza
-
-Teofanov dr Ljiljana
+Osnove sistemskog inženjerstva Reljić dr Vule
 
 SVI
 
-14:15
+15:00
 
-16:00
+16:30
 
-ITCA1
+AH1B
 
 Pred.
 
-Objektno orijentisane informacione tehnologije Pržulj dr Đorđe
+Algebra
 
-Bunčić dr Sonja,
+Nedović dr Maja
 
-SVI
+4
 
-16:15
+16:45
+
+19:15
+
+L4 (RC)
+
+rač.vežbe
+
+Uvod u programiranje
+
+Lazarević Sara
+
+1
+
+16:45
+
+19:15
+
+L5 (RC)
+
+rač.vežbe
+
+Uvod u programiranje
+
+Đorđević Sara
+
+2
+
+16:45
+
+19:15
+
+L3 (RC)
+
+rač.vežbe
+
+Uvod u inženjerstvo informacionih sistema Kozma Nina
+
+Opredeljeni
 
 18:00
 
-ITCA1
+19:30
+
+104
 
 Pred.
 
-Društveni aspekti informacionih sistema Katić dr Ivana
-
-3,4,6
-
-18:15
-
-20:45
-
-105
-
-aud.vežbe
-
-Osnove organizacionih sistema Vidicki dr Predrag
+Nemački jezik - niži srednji Berić Andrijana
 
 Č E T V R T A K
 
@@ -338,59 +300,105 @@ Naziv Predmeta
 
 Izvođač
 
-3,4,6
+1
 
-08:45
+07:00
 
-10:15
+09:30
 
-311
+307
 
-aud.vežbe
+rač.vežbe
 
-Matematička analiza
+Uvod u inženjerstvo informacionih sistema Kozma Nina
 
-Tošić Stefan
+1
 
-SVI
-
-10:30
-
-12:00
-
-208
-
-Pred.
-
-Osnove organizacionih sistema Maksimović dr Rado
-
-1,2,5,7
+09:45
 
 12:15
 
-13:45
+307
 
-309
+rač.vežbe
 
-aud.vežbe
+Uvod u mikroprocesorske sisteme Đorđević Sara
 
-Matematička analiza
+2
 
-Tošić Stefan
+12:30
 
-Opredeljeni
+15:00
 
-14:15
+L4 (RC)
 
-16:00
+rač.vežbe
 
-311
+Uvod u mikroprocesorske sisteme Đorđević Sara
 
-Pred.
+3
 
-Engleski jezik - stručni
+12:30
 
-Bulatović Vesna
+15:00
+
+307
+
+rač.vežbe
+
+Uvod u inženjerstvo informacionih sistema Milićević Anđela
+
+3
+
+15:15
+
+17:45
+
+L5 (RC)
+
+rač.vežbe
+
+Uvod u programiranje
+
+Lazarević Sara
+
+4
+
+18:00
+
+20:30
+
+L4 (RC)
+
+rač.vežbe
+
+Uvod u mikroprocesorske sisteme Lazarević Sara
+
+5,6
+
+15:15
+
+17:45
+
+L4 (RC)
+
+rač.vežbe
+
+Uvod u inženjerstvo informacionih sistema Havzi Sara
+
+5,6
+
+18:00
+
+20:30
+
+L5 (RC)
+
+rač.vežbe
+
+Uvod u programiranje
+
+Žuvela Tamara
 
 P E T A K
 
@@ -408,65 +416,83 @@ Naziv Predmeta
 
 Izvođač
 
-3,4,6
+1,2,6
+
+07:00
+
+08:30
+
+AH1B
+
+aud.vežbe
+
+Algebra
+
+Erić Mirjana
+
+Reljić dr Vule,
+
+3,4,5
+
+07:00
+
+08:30
+
+ITC04
+
+aud.vežbe
+
+Osnove sistemskog inženjerstva Dakić Nikolina
+
+Sladojević dr Srđan,
+
+SVI
+
+08:45
+
+10:15
+
+AH1B
+
+Pred.
+
+Uvod u programiranje
+
+Arsenović dr Marko
+
+3,4,5
 
 10:30
 
 12:00
 
-108
+308
 
 aud.vežbe
 
-Matematička analiza
+Algebra
 
-Tošić Stefan
+Erić Mirjana
 
-SVI
-
-12:15
-
-14:00
-
-109A
-
-Pred.
-
-Matematička analiza
-
-Teofanov dr Ljiljana
-
-SVI
+Opredeljeni
 
 14:15
 
 16:00
 
-109A
+AH1B
 
 Pred.
 
-Osnove inženjerstva tehničkih sistema Anderla dr Andraš
-
-1,2,5,7
-
-16:30
-
-19:00
-
-ITCA1
-
-aud.vežbe
-
-Osnove organizacionih sistema Vidicki dr Predrag
+Engleski jezik - niži srednji Gak dr Dragana
 
 Napomena:
 
-Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - stručni (2+0) 2. Nemački jezik - napredni srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
+Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - niži srednji (2+0) 2. Nemački jezik - niži srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.05.2022. 09:11, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 05.09.2022. 08:43, Strana: 2
 
-RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
+RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
 Inženjerstvo informacionih sistema P O N E D E L J A K
 
@@ -486,29 +512,39 @@ Izvođač
 
 SVI
 
-14:15
+12:15
 
-17:00
+14:00
 
 ITCA1
 
 Pred.
 
-Projektovanje informacionih sistema Mirković dr Milan
+Osnove organizacionog ponašanja Lalić dr Danijela
 
 SVI
 
-17:15
+14:15
 
-20:00
+16:00
 
 ITCA1
 
 Pred.
 
-Verovatnoća i statistika
+Algoritmi i strukture podataka Mandić dr Vladimir
 
-Ovcin dr Zoran
+SVI
+
+16:15
+
+19:00
+
+ITCA1
+
+Pred.
+
+Kombinatorika i teorija grafova Pantović dr Jovanka
 
 U T O R A K
 
@@ -526,63 +562,19 @@ Naziv Predmeta
 
 Izvođač
 
-SVI
-
-15:15
-
-17:00
-
-AH1B
-
-Pred.
-
-Arhitektura informacionih sistema i računarske mreže Ristić dr Sonja
-
-Stevanov dr Branislav,
-
-SVI
-
-17:15
-
-19:00
-
-AH1B
-
-Pred.
-
-Analiza i modeliranje poslovnih procesa Tešić dr Zdravko
-
-1,2,5
-
-19:15
-
-21:45
-
-AH1B
-
-aud.vežbe
-
-Verovatnoća i statistika
-
-Ciganović Radojka
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
 4
+
+07:45
+
+10:15
+
+AR5
+
+rač.vežbe
+
+Poslovni informacioni sistemi Krstić Dušan
+
+3
 
 09:30
 
@@ -592,119 +584,227 @@ MI V3-5
 
 rač.vežbe
 
-Osnove testiranja softvera Gajić Natalija
-
-4
-
-12:15
-
-13:45
-
-ITC03
-
-rač.vežbe
-
-Analiza i modeliranje poslovnih procesa Stevanov dr Branislav
-
-3
-
-13:45
-
-16:15
-
-ITCS-03
-
-rač.vežbe
-
-Osnove testiranja softvera Katin Andrej
-
-5
-
-14:00
-
-16:30
-
-L4 (RC)
-
-rač.vežbe
-
-Veb orijentisane tehnologije i sistemi Đorđević Sofija
-
-Stefanović Miroslav,
-
-2,4
-
-14:00
-
-16:30
-
-L1 (RC)
-
-rač.vežbe
-
-Arhitektura informacionih sistema i računarske mreže Spasojević Ivana
+Arhitektura računara i operativni sistemi Gladić Dejana
 
 2
 
-16:45
+10:30
 
-19:15
+13:00
 
-L4 (RC)
-
-rač.vežbe
-
-Veb orijentisane tehnologije i sistemi Đorđević Sofija
-
-2,5
-
-19:30
-
-21:00
-
-L1 (RC)
+MI B4-5A
 
 rač.vežbe
 
-Analiza i modeliranje poslovnih procesa Bojanić Tamara
+Poslovni informacioni sistemi Nikolić Danilo
 
-Stefanović Miroslav,
+4
 
-3,5
+10:30
 
-16:45
+13:00
 
-19:15
-
-L1 (RC)
+AR4
 
 rač.vežbe
 
-Arhitektura informacionih sistema i računarske mreže Spasojević Ivana
+Arhitektura računara i operativni sistemi Petrovački Jelena
+
+5
+
+10:30
+
+13:00
+
+AR5
+
+rač.vežbe
+
+Poslovni informacioni sistemi Krstić Dušan
 
 1
 
-15:00
+12:15
 
-17:30
+14:45
 
 MI B4-5
 
 rač.vežbe
 
-Veb orijentisane tehnologije i sistemi Žuvela Tamara
+Algoritmi i strukture podataka Gajić Natalija
 
-1
+5
+
+13:05
+
+15:35
+
+AR5
+
+rač.vežbe
+
+Algoritmi i strukture podataka Katin Andrej
+
+7
+
+14:30
+
+17:00
+
+AR4
+
+rač.vežbe
+
+Poslovni informacioni sistemi Krstić Dušan
+
+6
+
+14:50
+
+17:20
+
+MI A2-4A
+
+rač.vežbe
+
+Algoritmi i strukture podataka Gajić Natalija
+
+6
 
 17:45
 
-19:15
+20:15
 
-MI B4-5
+AR1
 
 rač.vežbe
 
-Analiza i modeliranje poslovnih procesa Bojanić Tamara
+Poslovni informacioni sistemi Krstić Dušan
+
+7
+
+17:30
+
+20:00
+
+MI A2-4A
+
+rač.vežbe
+
+Algoritmi i strukture podataka Gajić Natalija
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+07:00
+
+09:30
+
+AR4
+
+rač.vežbe
+
+Arhitektura računara i operativni sistemi Petrovački Jelena
+
+1
+
+09:40
+
+12:10
+
+AR5
+
+rač.vežbe
+
+Poslovni informacioni sistemi Nikolić Danilo
+
+2
+
+07:00
+
+09:30
+
+AR1
+
+rač.vežbe
+
+Algoritmi i strukture podataka Gajić Natalija
+
+2
+
+09:45
+
+12:15
+
+AR4
+
+rač.vežbe
+
+Arhitektura računara i operativni sistemi Gladić Dejana
+
+3
+
+07:00
+
+09:30
+
+AR5
+
+rač.vežbe
+
+Poslovni informacioni sistemi Nikolić Danilo
+
+3
+
+09:45
+
+12:15
+
+AR1
+
+rač.vežbe
+
+Algoritmi i strukture podataka Gajić Natalija
+
+4,5,6,7
+
+17:30
+
+19:00
+
+103
+
+aud.vežbe
+
+Osnove organizacionog ponašanja Bošković Dunja
+
+4,5,6,7
+
+19:15
+
+21:45
+
+103
+
+aud.vežbe
+
+Kombinatorika i teorija grafova Ciganović Radojka
 
 Č E T V R T A K
 
@@ -724,55 +824,41 @@ Izvođač
 
 SVI
 
-14:15
+08:30
 
-16:00
+10:15
 
-309
+109A
 
 Pred.
 
-Osnove testiranja softvera Mandić dr Vladimir
+Arhitektura računara i operativni sistemi Ristić dr Sonja
+
+Lolić dr Teodora,
 
 SVI
 
-16:15
+10:30
 
-18:00
+12:00
 
-309
+109A
 
 Pred.
 
-Veb orijentisane tehnologije i sistemi Sladojević dr Srđan
+Poslovni informacioni sistemi Stevanov dr Branislav
 
-Katin Andrej,
+SVI
 
-2,5
+12:15
 
-18:15
+13:45
 
-20:45
+109A
 
-L1 (RC)
+Pred.
 
-rač.vežbe
-
-Osnove testiranja softvera Gajić Natalija
-
-3,4
-
-18:15
-
-20:45
-
-309
-
-aud.vežbe
-
-Verovatnoća i statistika
-
-Ciganović Radojka
+Osnovi ekonomije za inženjere Demko-Rihter dr Jelena
 
 P E T A K
 
@@ -790,19 +876,1025 @@ Naziv Predmeta
 
 Izvođač
 
+6,7
+
+09:30
+
+12:00
+
+ITCS-RC
+
+rač.vežbe
+
+Arhitektura računara i operativni sistemi Petrovački Jelena
+
+1,2,3
+
+14:00
+
+15:30
+
+108
+
+aud.vežbe
+
+Osnove organizacionog ponašanja Bošković Dunja
+
+1,2,3
+
+15:45
+
+17:15
+
+ITC04
+
+aud.vežbe
+
+Osnovi ekonomije za inženjere Demko-Rihter dr Jelena
+
+(4,5,6,7)
+
 5
+
+17:30
+
+20:00
+
+AR4
+
+rač.vežbe
+
+Arhitektura računara i operativni sistemi Gladić Dejana
+
+4
+
+17:30
+
+20:00
+
+MI A2-4A
+
+rač.vežbe
+
+Algoritmi i strukture podataka Gajić Natalija
+
+1,2,3
+
+17:30
+
+20:00
+
+ITC04
+
+aud.vežbe
+
+Kombinatorika i teorija grafova Ciganović Radojka
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.09.2022. 11:29, Strana: 3
+
+RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
+
+Inženjerstvo informacionih sistema P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+6
+
+07:45
+
+10:15
+
+AR4
+
+rač.vežbe
+
+Projektovanje baza podataka Spasojević Ivana
+
+1,2,3
+
+12:30
+
+14:00
+
+102
+
+aud.vežbe
+
+Sistem menadžmenta kvalitetom Žižakov Marina
+
+5
+
+11:30
+
+14:00
+
+AR1
+
+rač.vežbe
+
+Dizajnerski obrasci
+
+Stefanović Miroslav
+
+SVI
+
+14:15
+
+16:00
+
+205
+
+Pred.
+
+Dizajnerski obrasci
+
+Pržulj dr Đorđe
+
+SVI
+
+16:15
+
+18:00
+
+205
+
+Pred.
+
+Metode i tehnike upravljanja projektima Morača dr Slobodan
+
+SVI
+
+18:15
+
+21:00
+
+205
+
+Pred.
+
+Projektovanje baza podataka Ristić dr Sonja
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+5
+
+08:45
+
+11:15
+
+MI D4-A
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Sekulić Dunja
+
+2
+
+11:30
+
+13:00
+
+AR1
+
+rač.vežbe
+
+Metode i tehnike upravljanja projektima Graić Igor
+
+SVI
+
+14:15
+
+17:00
+
+ITCA1
+
+Pred.
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Anderla dr Andraš
+
+1
+
+17:15
+
+19:45
+
+MI A2-4
+
+rač.vežbe
+
+Mobilne informacione tehnologije Lazarević Sara
+
+3
+
+17:15
+
+19:45
+
+AR4
+
+rač.vežbe
+
+Projektovanje baza podataka Gladić Dejana
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Arsenović dr Marko,
+
+SVI
 
 12:15
 
 13:45
 
+206
+
+Pred.
+
+Mobilne informacione tehnologije Sladojević dr Srđan
+
+SVI
+
+14:00
+
+15:30
+
+206
+
+Pred.
+
+Sistem menadžmenta kvalitetom Delić dr Milan
+
+4,5,6
+
+15:45
+
+17:15
+
+105
+
+aud.vežbe
+
+Sistem menadžmenta kvalitetom Žižakov Marina
+
+4
+
+17:30
+
+19:00
+
+AR5
+
+rač.vežbe
+
+Metode i tehnike upravljanja projektima Graić Igor
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+07:00
+
+08:30
+
+AR1
+
+rač.vežbe
+
+Metode i tehnike upravljanja projektima Graić Igor
+
+4
+
+07:45
+
+10:15
+
+ITCS-03
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Sekulić Dunja
+
+1
+
+08:45
+
+11:15
+
+AR4
+
+rač.vežbe
+
+Projektovanje baza podataka Gladić Dejana
+
+6
+
+07:00
+
+09:30
+
+AR5
+
+rač.vežbe
+
+Dizajnerski obrasci
+
+Stefanović Miroslav
+
+5
+
+08:45
+
+10:15
+
+AR1
+
+rač.vežbe
+
+Metode i tehnike upravljanja projektima Graić Igor
+
+2
+
+13:00
+
+15:30
+
+AR4
+
+rač.vežbe
+
+Projektovanje baza podataka Spasojević Ivana
+
+2
+
+15:45
+
+18:15
+
+AR4
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Gutai Andrea
+
+6
+
+10:30
+
+12:00
+
+AR1
+
+rač.vežbe
+
+Metode i tehnike upravljanja projektima Graić Igor
+
+4
+
+10:30
+
+13:00
+
+AR5
+
+rač.vežbe
+
+Dizajnerski obrasci
+
+Stefanović Miroslav
+
+3
+
+12:15
+
+13:45
+
+AR1
+
+rač.vežbe
+
+Metode i tehnike upravljanja projektima Graić Igor
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+07:00
+
+09:30
+
 ITC03
 
 rač.vežbe
 
-Projektovanje informacionih sistema Kolak Aleksandra
+Računarom podržano projektovanje proizvoda (CAD/CAE) Sekulić Dunja
 
 1
+
+09:45
+
+12:15
+
+AR4
+
+rač.vežbe
+
+Dizajnerski obrasci
+
+Stefanović Miroslav
+
+2
+
+07:00
+
+09:30
+
+AR4
+
+rač.vežbe
+
+Dizajnerski obrasci
+
+Stefanović Miroslav
+
+2
+
+10:30
+
+13:00
+
+AR5
+
+rač.vežbe
+
+Mobilne informacione tehnologije Žuvela Tamara
+
+4
+
+07:45
+
+10:15
+
+AR5
+
+rač.vežbe
+
+Mobilne informacione tehnologije Žuvela Tamara
+
+4
+
+10:30
+
+13:00
+
+AR1
+
+rač.vežbe
+
+Projektovanje baza podataka Spasojević Ivana
+
+5
+
+09:45
+
+12:15
+
+ITC03
+
+rač.vežbe
+
+Projektovanje baza podataka Gladić Dejana
+
+5
+
+12:30
+
+15:00
+
+AR4
+
+rač.vežbe
+
+Mobilne informacione tehnologije Lazarević Sara
+
+3
+
+10:30
+
+13:00
+
+MI V3-5
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Gutai Andrea
+
+3
+
+13:15
+
+15:45
+
+AR5
+
+rač.vežbe
+
+Dizajnerski obrasci
+
+Stefanović Miroslav
+
+6
+
+14:15
+
+16:45
+
+MI V3-5
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Gutai Andrea
+
+3
+
+16:00
+
+18:30
+
+AR5
+
+rač.vežbe
+
+Mobilne informacione tehnologije Đorđević Sara
+
+6
+
+17:00
+
+19:30
+
+AR2
+
+rač.vežbe
+
+Mobilne informacione tehnologije Lazarević Sara
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.09.2022. 09:24, Strana: 4
+
+RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
+
+Inženjerstvo informacionih sistema P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+08:45
+
+11:15
+
+AR1
+
+rač.vežbe
+
+Metode istraživanja i eksploatacije podataka Ilić Veljko
+
+2
+
+12:30
+
+15:00
+
+AR4
+
+rač.vežbe
+
+Bezbednost i sigurnost informacionih sistema Kalin Igor
+
+1
+
+13:15
+
+14:45
+
+ITC03
+
+rač.vežbe
+
+Upravljanje razvojem informacionih sistema Katin Andrej
+
+4
+
+17:00
+
+19:30
+
+AR4
+
+rač.vežbe
+
+Projektovanje skladišta podataka Narandžić Dajana
+
+6
+
+16:00
+
+18:30
+
+AR2
+
+rač.vežbe
+
+Bezbednost i sigurnost informacionih sistema Kalin Igor
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+5
+
+07:00
+
+09:30
+
+MI A2-4
+
+rač.vežbe
+
+Bezbednost i sigurnost informacionih sistema Kalin Igor
+
+5
+
+09:45
+
+11:15
+
+AR1
+
+rač.vežbe
+
+Upravljanje razvojem informacionih sistema Katin Andrej
+
+1
+
+07:30
+
+10:00
+
+MI A2-4A
+
+rač.vežbe
+
+Projektovanje skladišta podataka Narandžić Dajana
+
+4
+
+10:30
+
+13:00
+
+307
+
+rač.vežbe
+
+Metode istraživanja i eksploatacije podataka Ilić Veljko
+
+SVI
+
+13:30
+
+16:00
+
+204
+
+Pred.
+
+Bezbednost i sigurnost informacionih sistema Gnjatović dr Milan
+
+2
+
+16:15
+
+18:45
+
+L3 (RC)
+
+rač.vežbe
+
+Metode istraživanja i eksploatacije podataka Ilić Veljko
+
+6
+
+17:45
+
+19:15
+
+AR5
+
+rač.vežbe
+
+Upravljanje razvojem informacionih sistema Katin Andrej
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+07:45
+
+10:15
+
+L4 (RC)
+
+rač.vežbe
+
+Projektovanje skladišta podataka Narandžić Dajana
+
+3,4
+
+11:15
+
+13:45
+
+L1 (RC)
+
+rač.vežbe
+
+Bezbednost i sigurnost informacionih sistema Kalin Igor
+
+2,5
+
+11:30
+
+14:00
+
+ITCS-RC
+
+rač.vežbe
+
+Projektovanje skladišta podataka Petrovački Jelena
+
+6
+
+12:15
+
+14:45
+
+AR5
+
+rač.vežbe
+
+Projektovanje skladišta podataka Narandžić Dajana
+
+4
+
+14:00
+
+15:30
+
+AR4
+
+rač.vežbe
+
+Upravljanje razvojem informacionih sistema Kalin Igor
+
+3
+
+14:00
+
+15:30
+
+MI B4-5A
+
+rač.vežbe
+
+Upravljanje razvojem informacionih sistema Katin Andrej
+
+1
+
+14:00
+
+16:30
+
+MI V3-5
+
+rač.vežbe
+
+Metode istraživanja i eksploatacije podataka Ilić Veljko
+
+2
+
+15:45
+
+17:15
+
+AR4
+
+rač.vežbe
+
+Upravljanje razvojem informacionih sistema Kalin Igor
+
+1
+
+17:45
+
+20:15
+
+AR2
+
+rač.vežbe
+
+Bezbednost i sigurnost informacionih sistema Kalin Igor
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3,4
+
+07:00
+
+08:30
+
+L3 (RC)
+
+rač.vežbe
+
+Elektronsko poslovanje
+
+Nikolić Danilo
+
+5,6
+
+07:00
+
+08:30
+
+ITCS-RC
+
+rač.vežbe
+
+Upravljanje odnosima sa korisnicima Vrhovac Vijoleta
+
+SVI
+
+08:45
+
+10:15
+
+ITCS-01
+
+Pred.
+
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
+
+SVI
+
+10:30
+
+12:00
+
+205
+
+Pred.
+
+Projektovanje skladišta podataka Ristić dr Sonja
+
+1,2,3,4
+
+12:15
+
+14:00
+
+103
+
+Pred.
+
+Elektronsko poslovanje
+
+Lolić dr Teodora
+
+5
 
 12:15
 
@@ -812,413 +1904,7 @@ ITCS-03
 
 rač.vežbe
 
-Arhitektura informacionih sistema i računarske mreže Stefanović Miroslav
-
-3
-
-14:15
-
-15:45
-
-L5 (RC)
-
-rač.vežbe
-
-Analiza i modeliranje poslovnih procesa Bojanić Tamara
-
-1
-
-15:15
-
-17:45
-
-ITCS-03
-
-rač.vežbe
-
-Osnove testiranja softvera Katin Andrej
-
-Kolak Aleksandra,
-
-3,4
-
-16:00
-
-17:30
-
-ITCS-RC
-
-rač.vežbe
-
-Projektovanje informacionih sistema Spasojević Ivana
-
-Kolak Aleksandra,
-
-1,2
-
-18:00
-
-19:30
-
-ITCS-RC
-
-rač.vežbe
-
-Projektovanje informacionih sistema Spasojević Ivana
-
-3,4
-
-17:45
-
-20:15
-
-L1 (RC)
-
-rač.vežbe
-
-Veb orijentisane tehnologije i sistemi Lazarević Sara
-
-Napomena:
-
-Verovatnoća i statistika - laboratorijske vežbe izvodiće se u organizaciji departmana Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 06:24, Strana: 3
-
-RASPORED PREDAVANJA - Osnovne akademske studije 6 Semestar
-
-Inženjerstvo informacionih sistema P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-3
-
-07:00
-
-10:15
-
-AR1
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija Fabri Vladimir
-
-2
-
-07:45
-
-10:15
-
-ITC03
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Narandžić Dajana
-
-2
-
-10:30
-
-13:45
-
-AR1
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija Petrovački Jelena
-
-1
-
-14:30
-
-17:45
-
-AR1
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija Petrovački Jelena
-
-4
-
-15:15
-
-17:45
-
-AR4
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Narandžić Dajana
-
-5,6
-
-15:45
-
-17:15
-
-ITCS-RC
-
-rač.vežbe
-
-Robotizovani sistemi u industriji Milić Lazar
-
-Kolak Aleksandra,
-
-5,6
-
-17:30
-
-19:00
-
-ITCS-RC
-
-rač.vežbe
-
-Osnove sistema poslovne inteligencije Ilić Veljko
-
-1
-
-18:00
-
-20:30
-
-ITC03
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Narandžić Dajana
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2,4
-
-07:00
-
-08:30
-
-ITCS-RC
-
-rač.vežbe
-
-Sistemi za podršku planiranju poslovnih resursa Krstić Dušan
-
-3
-
-07:30
-
-10:00
-
-ITC03
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Narandžić Dajana
-
-Kolak Aleksandra,
-
-1,2
-
-08:45
-
-10:15
-
-ITCS-RC
-
-rač.vežbe
-
-Osnove sistema poslovne inteligencije Ilić Veljko
-
-4
-
-08:45
-
-12:00
-
-AR1
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija Petrovački Jelena
-
-5
-
-12:15
-
-15:30
-
-AR1
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija Fabri Vladimir
-
-6
-
-13:15
-
-15:45
-
-ITC03
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Gladić Dejana
-
-5
-
-16:00
-
-18:30
-
-MI A2-4A
-
-rač.vežbe
-
-Sistemi baza podataka
-
-Narandžić Dajana
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1,3
-
-16:00
-
-17:30
-
-ITCS-RC
-
-rač.vežbe
-
-Sistemi za podršku planiranju poslovnih resursa Krstić Dušan
-
-SVI
-
-18:15
-
-19:45
-
-204
-
-Pred.
-
-Sistemi za podršku planiranju poslovnih resursa Lolić dr Teodora
-
-2,4
-
-20:00
-
-21:30
-
-ITCS-RC
-
-rač.vežbe
-
-Robotizovani sistemi u industriji Milić Lazar
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-07:15
-
-09:00
-
-207
-
-Pred.
-
-Razvoj višeslojnih aplikacija Pržulj dr Đorđe
-
-SVI
-
-09:15
-
-11:00
-
-207
-
-Pred.
-
-Sistemi baza podataka
-
-Ristić dr Sonja
-
-SVI
-
-11:15
-
-13:00
-
-207
-
-Pred.
-
-Robotizovani sistemi u industriji Savić dr Srđan
+Metode istraživanja i eksploatacije podataka Ilić Veljko
 
 P E T A K
 
@@ -1236,75 +1922,59 @@ Naziv Predmeta
 
 Izvođač
 
-Kolak Aleksandra,
-
-3,4
-
-07:00
-
-08:30
-
-L1 (RC)
-
-rač.vežbe
-
-Osnove sistema poslovne inteligencije Ilić Veljko
-
-5,6
-
-07:00
-
-08:30
-
-ITCS-RC
-
-rač.vežbe
-
-Sistemi za podršku planiranju poslovnih resursa Krstić Dušan
-
-Mirković dr Milan,
-
 SVI
 
-08:45
+17:15
 
-10:15
+19:00
 
-205
+203
 
 Pred.
 
-Osnove sistema poslovne inteligencije Ćulibrk dr Dubravko
+Upravljanje razvojem informacionih sistema Mandić dr Vladimir
 
-6
+1,2
 
-10:30
+19:30
 
-13:45
-
-AR1
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija Fabri Vladimir
-
-1,3
-
-10:30
-
-12:00
+21:00
 
 ITCS-RC
 
 rač.vežbe
 
-Robotizovani sistemi u industriji Studen Milutin
+Elektronsko poslovanje
+
+Nikolić Danilo
+
+5,6
+
+19:15
+
+21:00
+
+312
+
+Pred.
+
+Upravljanje odnosima sa korisnicima Milisavljević dr Stevan
+
+Napomena:
+
+Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+3.
+
+Obratiti se PROF. DR. DARKU STEFANOVIĆU.
+
+Svi studenti biraju jedan od sledeća dva predmeta: 1. Elektronsko poslovanje (2+2), grupe 1,2,3,4
+
+2. Upravljanje odnosima sa korisnicima (2+2), grupe 5,6
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:14, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.08.2022. 08:33, Strana: 5
 
-RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
+RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
 Inženjerstvo informacionih sistema P O N E D E L J A K
 
@@ -1322,41 +1992,41 @@ Naziv Predmeta
 
 Izvođač
 
-SVI
+1
 
-07:15
+11:30
 
-10:00
+13:00
 
-202
-
-Pred.
-
-Sistemi za upravljanje poslovnim procesima Stevanov dr Branislav
-
-1,5
-
-10:30
-
-12:00
-
-L5 (RC)
+ITC03
 
 rač.vežbe
 
-Sistemi za upravljanje poslovnim procesima Kozma Nina
+Reinženjering informacionih sistema Narandžić Dajana
 
-3
+2
 
-12:30
+16:45
 
-15:00
+18:15
 
-AR4
+ITC03
 
 rač.vežbe
 
-ERP eksploatacija, održavanje i nadogradnja Krstić Dušan
+Sistemi elektronske uprave Havzi Sara
+
+2
+
+18:30
+
+20:00
+
+ITC03
+
+rač.vežbe
+
+Automatizacija upravljanja proizvodnim sistemima Nikolić Danilo
 
 U T O R A K
 
@@ -1374,359 +2044,43 @@ Naziv Predmeta
 
 Izvođač
 
-Anderla dr Andraš,
+Stefanović dr Darko,
 
 SVI
 
-10:30
+14:15
 
-12:15
-
-Pred.
-
-Principi prezentacije i prepoznavanje oblika 309
-
-Arsenović dr Marko
-
-2
-
-12:30
-
-15:00
-
-AR5
-
-rač.vežbe
-
-ERP eksploatacija, održavanje i nadogradnja Nikolić Danilo
-
-3,4
-
-16:00
-
-18:30
-
-ITCS-RC
-
-rač.vežbe
-
-Principi prezentacije i prepoznavanje oblika Đorđević Sofija
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2,5
-
-07:30
-
-10:00
-
-ITCS-RC
-
-rač.vežbe
-
-Principi prezentacije i prepoznavanje oblika Žuvela Tamara
-
-SVI
-
-10:15
-
-12:00
+15:45
 
 310
 
 Pred.
 
-ERP eksploatacija, održavanje i nadogradnja Lolić dr Teodora
+Sistemi elektronske uprave Lolić dr Teodora
 
-4
-
-12:30
-
-14:00
-
-AR1
-
-rač.vežbe
-
-Sistemi za upravljanje poslovnim procesima Kozma Nina
-
-3
-
-12:30
-
-14:00
-
-AR4
-
-rač.vežbe
-
-Agilni pristupi u razvoju softverskih proizvoda Fabri Vladimir
-
-3
-
-14:15
-
-15:45
-
-AR1
-
-rač.vežbe
-
-Sistemi za upravljanje poslovnim procesima Nikolić Danilo
-
-4
-
-14:15
-
-15:45
-
-AR4
-
-rač.vežbe
-
-Agilni pristupi u razvoju softverskih proizvoda Fabri Vladimir
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-5
-
-09:45
-
-12:15
-
-AR5
-
-rač.vežbe
-
-ERP eksploatacija, održavanje i nadogradnja Krstić Dušan
-
-4
-
-11:00
-
-13:30
-
-AR4
-
-rač.vežbe
-
-ERP eksploatacija, održavanje i nadogradnja Nikolić Danilo
-
-5
-
-12:30
-
-14:00
-
-AR5
-
-rač.vežbe
-
-Agilni pristupi u razvoju softverskih proizvoda Fabri Vladimir
-
-1
-
-14:15
-
-16:45
-
-AR5
-
-rač.vežbe
-
-ERP eksploatacija, održavanje i nadogradnja Krstić Dušan
-
-2
-
-14:30
+SVI
 
 16:00
 
-AR4
+17:30
 
-rač.vežbe
+310
 
-Sistemi za upravljanje poslovnim procesima Kozma Nina
+Pred.
 
-2,6
+Automatizacija upravljanja proizvodnim sistemima Stefanović dr Darko
 
-16:15
+SVI
 
 17:45
 
-L1 (RC)
+19:15
 
-rač.vežbe
-
-Agilni pristupi u razvoju softverskih proizvoda Fabri Vladimir
-
-1,6
-
-18:00
-
-20:30
-
-ITCS-RC
-
-rač.vežbe
-
-Principi prezentacije i prepoznavanje oblika Lazarević Sara
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-6
-
-11:45
-
-14:15
-
-AR4
-
-rač.vežbe
-
-ERP eksploatacija, održavanje i nadogradnja Nikolić Danilo
-
-1
-
-14:30
-
-16:00
-
-AR4
-
-rač.vežbe
-
-Agilni pristupi u razvoju softverskih proizvoda Fabri Vladimir
-
-6
-
-14:30
-
-16:00
-
-AR5
-
-rač.vežbe
-
-Sistemi za upravljanje poslovnim procesima Nikolić Danilo
-
-SVI
-
-16:15
-
-19:00
-
-109A
+310
 
 Pred.
 
-Agilni pristupi u razvoju softverskih proizvoda Pržulj dr Đorđe
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:42, Strana: 5
-
-RASPORED PREDAVANJA - Master akademske studije 2 Semestar
-
-Inženjerstvo informacionih sistema P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Sladojević dr Srđan,
-
-SVI
-
-13:15
-
-16:00
-
-AH7
-
-Pred.
-
-Distribuirani informacioni sistemi Arsenović dr Marko
-
-SVI
-
-16:15
-
-18:00
-
-109
-
-Pred.
-
-Informacije u multimediji Anderla dr Andraš
+Empirijsko softversko inženjerstvo Mandić dr Vladimir
 
 S R E D A
 
@@ -1746,27 +2100,63 @@ Izvođač
 
 1
 
-16:00
+07:00
 
-18:30
+08:30
 
 ITC03
 
 rač.vežbe
 
-Distribuirani informacioni sistemi Arsenović dr Marko
+Sistemi elektronske uprave Havzi Sara
+
+1
+
+08:45
+
+10:15
+
+ITC03
+
+rač.vežbe
+
+Prostorno informacioni sistemi Stefanović Miroslav
+
+1
+
+10:30
+
+12:00
+
+ITCS-03
+
+rač.vežbe
+
+Empirijsko softversko inženjerstvo Katin Andrej
 
 2
 
-18:45
+11:15
 
-21:15
+12:45
 
 ITC03
 
 rač.vežbe
 
-Distribuirani informacioni sistemi Arsenović dr Marko
+Empirijsko softversko inženjerstvo Ramač Robert
+
+2
+
+13:00
+
+14:30
+
+ITC03
+
+rač.vežbe
+
+Reinženjering informacionih sistema Stefanović Miroslav
 
 Č E T V R T A K
 
@@ -1784,6 +2174,54 @@ Naziv Predmeta
 
 Izvođač
 
+1
+
+13:15
+
+14:45
+
+ITC03
+
+rač.vežbe
+
+Principi istraživačkog rada Vrgović dr Petar
+
+1
+
+15:15
+
+16:45
+
+ITC03
+
+rač.vežbe
+
+Automatizacija upravljanja proizvodnim sistemima Nikolić Danilo
+
+2
+
+17:00
+
+18:30
+
+ITC03
+
+rač.vežbe
+
+Prostorno informacioni sistemi Stefanović Miroslav
+
+2
+
+18:45
+
+20:15
+
+ITCS-03
+
+rač.vežbe
+
+Principi istraživačkog rada Mirković dr Milan
+
 P E T A K
 
 Grupa-e
@@ -1800,17 +2238,49 @@ Naziv Predmeta
 
 Izvođač
 
-1,2
+SVI
 
-08:45
+15:15
 
-10:15
+17:00
 
-ITCS-RC
+ITCS-01
 
-rač.vežbe
+Pred.
 
-Informacije u multimediji Havzi Sara
+Reinženjering informacionih sistema Ristić dr Sonja
+
+SVI
+
+17:15
+
+18:45
+
+ITCS-01
+
+Pred.
+
+Prostorno informacioni sistemi Pržulj dr Đorđe
+
+Mirković dr Milan,
+
+SVI
+
+19:00
+
+20:30
+
+ITCS-01
+
+Pred.
+
+Principi istraživačkog rada Vrgović dr Petar
+
+Napomena:
+
+Studenti treba da odrade STRUČNU PRAKSU sa fondom časova 0+6.
+
+Obratiti se rukovodiocu studijskog programa PROF. DR DARKU STEFANOVIĆU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 

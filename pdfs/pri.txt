@@ -1,6 +1,6 @@
-Raspored nastave za školsku 2021/2022 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita, a koncipiran je tako da u prvi plan ističe studenta i njegove obaveze na fakultetu. Svi zaposleni i studenti se moraju pridržavati zvaničnog rasporeda nastave. Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email:
+Raspored nastave za školsku 2022/2023 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a se moraju pridržavati zvaničnog rasporeda nastave.
 
-ftnraspored@uns.ac.rs.
+Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
 
 Mole se svi zaposleni i studenti FTN-a da tokom prve dve nedelje semestra stalno prate raspored, na internet stranici FTN-a www.ftn.uns.ac.rs u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
 
@@ -8,25 +8,25 @@ Oznake korišćene u rasporedu: 1. Brojevi napisani u zagradi iza broja grupe
 
 - primer prvi 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
 
-- primer drugi 1(17-
-
-), znači da da vežbe imaju studenti prve grupe i od broja 17 do kraja grupe po spisku Studentske službe
+- primer drugi 1(17-), znači da da vežbe imaju studenti prve grupe od broja 17 do kraja grupe po spisku Studentske službe
 
 - primer treći 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)[1(13-24)]. Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24). Ako se smenjuje samo jedna grupa onda je u rasporedu napisano ovako 1(sv.dr.ned.).
 
-2. Umesto broja grupe napisano je Prijavljeni ili Opredeljeni
+2. Umesto broja grupe napisano je Opredeljeni
 
 - izabrani predmet slušaju samo studenti koji su ga izabrali za slušanje Obavezno u vašem internet pretraživaču uraditi “Reload current page” ili “Refresh”, da bi se učitao trenutno važeći rapored predavanja sa FTN servera.
 
 
 
-Raspored uradili: Prodekan za nastavu prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu
+Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu
 
-prof. dr Aleksandar Kupusinac
+Prof. dr Aleksandar Kupusinac
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.05.2022. 05:21, Strana: 1
 
-R A S P O R E D P R E D A V A N J A 2 Semestar
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.08.2022. 07:06, Strana: 1
+
+RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
 Primenjeno softversko inženjerstvo P O N E D E L J A K
 
@@ -44,75 +44,43 @@ Naziv Predmeta
 
 Izvođač
 
-3,4
-
-10:30
-
-12:00
-
-107
-
-aud.vežbe
-
-Matematička analiza
-
-Janjoš Aleksandar
-
-SVI
-
-13:15
-
-15:00
-
-A4
-
-Pred.
-
-Arhitektura računara
-
-Gajić dr Dušan
-
 SVI
 
 15:15
 
 17:00
 
-A4
+A2
 
 Pred.
 
-Uvod u algoritme
+Algebra
 
-Erdeljan dr Aleksandar
-
-5
+Doroslovački dr Ksenija SVI
 
 17:15
 
-20:30
+19:00
 
-MI A2-2
+A2
 
-rač.vežbe
+Pred.
 
-Uvod u algoritme
+Osnove elektrotehnike
 
-Đorđević Filip
+Đurić dr Nikola
 
-1,2,9
+SVI
 
-17:15
+19:15
 
-18:45
+21:00
 
-310
+A2
 
-aud.vežbe
+Pred.
 
-Matematička analiza
-
-Janjoš Aleksandar
+Programski jezici i strukture podataka Popov dr Srđan
 
 U T O R A K
 
@@ -130,173 +98,83 @@ Naziv Predmeta
 
 Izvođač
 
-2
-
-07:00
-
-10:15
-
-MI A2-2
-
-rač.vežbe
-
-Uvod u algoritme
-
-Sekulić Jelena
-
-3
-
-07:00
-
-10:15
-
-NTP-316
-
-rač.vežbe
-
-Arhitektura računara
-
-Počuča Milena
-
-4
-
-07:00
-
-10:15
-
-NTP-317
-
-rač.vežbe
-
-Arhitektura računara
-
-Vujičić Milena
-
-1
+5,6
 
 10:30
 
-13:45
+11:15
 
-NTP-316
-
-rač.vežbe
-
-Arhitektura računara
-
-Anišić Helena
-
-10
-
-10:30
-
-13:45
-
-NTP-317
-
-rač.vežbe
-
-Arhitektura računara
-
-Vujičić Milena
-
-7
-
-14:00
-
-17:15
-
-NTP-316
-
-rač.vežbe
-
-Arhitektura računara
-
-Počuča Milena
-
-8
-
-14:00
-
-17:15
-
-NTP-317
-
-rač.vežbe
-
-Arhitektura računara
-
-Špica Sanja
-
-7,8
-
-17:30
-
-19:00
-
-NTP-417
+MI A2-3
 
 aud.vežbe
 
-Matematička analiza
+Programski jezici i strukture podataka Anđelovski Olja
 
-Prokić Aleksandar
+Anđelovski Olja,
 
-5,6,10
+5,6
 
-15:45
+11:30
 
-17:15
+14:00
 
-NTP-417
+MI A2-3
+
+rač.vežbe
+
+Programski jezici i strukture podataka Špica Sanja
+
+SVI
+
+14:15
+
+16:00
+
+A4
+
+Pred.
+
+Algebra
+
+Doroslovački dr Ksenija SVI
+
+16:15
+
+18:00
+
+A4
+
+Pred.
+
+Programski jezici i strukture podataka Popov dr Srđan
+
+1,2,3,10(1-8)
+
+18:15
+
+19:45
+
+205
 
 aud.vežbe
 
-Matematička analiza
+Osnove elektrotehnike
 
-Stratijev Jelena
+Gavrilov Teodora
 
-5
+7,8,9
 
-17:30
+18:15
 
-20:45
+19:45
 
-NTP-316
+109
 
-rač.vežbe
+aud.vežbe
 
-Arhitektura računara
+Algebra
 
-Špica Sanja
-
-6
-
-17:30
-
-20:45
-
-NTP-317
-
-rač.vežbe
-
-Arhitektura računara
-
-Počuča Milena
-
-9
-
-17:30
-
-20:45
-
-MI A2-2
-
-rač.vežbe
-
-Uvod u algoritme
-
-Đorđević Filip
+Nov saradnik A
 
 S R E D A
 
@@ -314,137 +192,65 @@ Naziv Predmeta
 
 Izvođač
 
-SVI
-
-08:15
-
-10:00
-
-A3
-
-Pred.
-
-Engleski jezik za inženjere 1
-
-Katić mr Marina
-
-SVI
-
-10:15
-
-12:00
-
-A3
-
-Pred.
-
-Sociologija tehnike
-
-Nešić Tomašević dr Ana
-
-SVI
-
-13:15
-
-15:00
-
-A2
-
-Pred.
-
-Uvod u algoritme
-
-Erdeljan dr Aleksandar
-
-SVI
-
-15:15
-
-17:00
-
-A2
-
-Pred.
-
-Matematička analiza
-
-Čomić dr Lidija
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1,2,9
-
-07:00
+7,8,9
 
 08:30
 
-206
+10:00
+
+NTP-418
 
 aud.vežbe
 
-Matematička analiza
+Osnove elektrotehnike
 
-Janjoš Aleksandar
+Kljajić dr Dragan
 
-3,4
-
-08:45
-
-10:15
-
-206
-
-aud.vežbe
-
-Matematička analiza
-
-Janjoš Aleksandar
-
-7,8
+7,8,9
 
 10:30
 
 12:00
 
-102
+308
 
 aud.vežbe
 
-Matematička analiza
+Algebra
 
-Prokić Aleksandar
+Erić Mirjana
 
-7
+4,5,6,10(9-)
 
-13:45
+15:45
 
-17:00
+17:15
 
-MI A2-2
+308
 
-rač.vežbe
+aud.vežbe
 
-Uvod u algoritme
+Algebra
 
-Marjanović Jelena
+Erić Mirjana
 
-10,6
+1,2
 
-15:15
+15:00
+
+15:45
+
+MI A2-3
+
+aud.vežbe
+
+Programski jezici i strukture podataka Počuča Milena
+
+Počuča Milena,
+
+1,2
+
+16:00
 
 18:30
 
@@ -452,1065 +258,49 @@ MI A2-3
 
 rač.vežbe
 
-Uvod u algoritme
+Programski jezici i strukture podataka Radonjić Stefan
 
-Sekulić Jelena
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-5,6,10
-
-12:30
-
-14:00
-
-108
-
-aud.vežbe
-
-Matematička analiza
-
-Stratijev Jelena
-
-SVI
-
-14:15
-
-16:00
-
-A4
-
-Pred.
-
-Matematička analiza
-
-Čomić dr Lidija
-
-SVI
-
-16:15
-
-18:00
-
-A4
-
-Pred.
-
-Arhitektura računara
-
-Gajić dr Dušan
-
-Vujičić Milena,
-
-2,9
-
-18:15
-
-21:30
-
-MI A2-1
-
-rač.vežbe
-
-Arhitektura računara
-
-Počuča Milena
-
-S U B O T A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1,3
-
-08:00
-
-11:15
-
-MI A2-1
-
-rač.vežbe
-
-Uvod u algoritme
-
-Tošić Mr Saša
-
-4,8
-
-08:00
-
-11:15
-
-MI A2-3
-
-rač.vežbe
-
-Uvod u algoritme
-
-Sekulić Jelena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.03.2022. 06:29, Strana: 2
-
-R A S P O R E D P R E D A V A N J A 4 Semestar
-
-Primenjeno softversko inženjerstvo P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Kovačević Milena,
-
-10,5
-
-07:45
-
-10:15
-
-NTP-222
-
-rač.vežbe
-
-Objektno orijentisane tehnologije Varajić Stefan
-
-5
-
-10:30
-
-13:45
-
-NTP-316
-
-rač.vežbe
-
-Operativni sistemi
-
-Andrejević Aleksandar
-
-6
-
-10:30
-
-13:45
-
-NTP-317
-
-rač.vežbe
-
-Operativni sistemi
-
-Simić Svetislav
-
-10
-
-10:30
-
-12:00
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-9
-
-12:15
-
-13:45
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-1
-
-14:15
+4,5,6,10(9-)
 
 17:30
-
-NTP-316
-
-rač.vežbe
-
-Operativni sistemi
-
-Andrejević Aleksandar
-
-2
-
-14:15
-
-17:30
-
-NTP-317
-
-rač.vežbe
-
-Operativni sistemi
-
-Simić Svetislav
-
-3
-
-14:15
-
-15:45
-
-MI B4-5
-
-rač.vežbe
-
-Namenski računarski sistemi Ostojić Miloš
-
-Manasijević Aleksandar,
-
-6,9
-
-14:15
-
-16:45
-
-NTP-222
-
-rač.vežbe
-
-Objektno orijentisane tehnologije Hrnjaković Olivera
-
-4
-
-16:00
-
-17:30
-
-MI B4-5
-
-rač.vežbe
-
-Namenski računarski sistemi Janković Marko
-
-Hrnjaković Olivera,
-
-7,8
-
-17:00
-
-19:30
-
-NTP-222
-
-rač.vežbe
-
-Objektno orijentisane tehnologije Manasijević Aleksandar
-
-1
-
-17:45
-
-19:15
-
-MI B4-5
-
-rač.vežbe
-
-Namenski računarski sistemi Janković Marko
-
-3
-
-17:45
-
-21:00
-
-NTP-316
-
-rač.vežbe
-
-Operativni sistemi
-
-Andrejević Aleksandar
-
-4
-
-17:45
-
-21:00
-
-NTP-317
-
-rač.vežbe
-
-Operativni sistemi
-
-Simić Svetislav
-
-2
-
-19:30
-
-21:00
-
-MI B4-5
-
-rač.vežbe
-
-Namenski računarski sistemi Janković Marko
-
-Tošić Mr Saša,
-
-7,8
-
-19:45
-
-21:15
-
-NTP-222
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-12:15
-
-14:00
-
-A4
-
-Pred.
-
-Operativni sistemi
-
-Petrović dr Veljko
-
-SVI
-
-14:15
-
-16:00
-
-A4
-
-Pred.
-
-Diskretna matematika
-
-Pantović dr Jovanka
-
-SVI
-
-16:15
 
 19:00
 
-A4
-
-Pred.
-
-Objektno orijentisane tehnologije Kupusinac dr Aleksandar
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-4,6,7,10(9-)
-
-08:45
-
-10:15
-
-207
+308
 
 aud.vežbe
 
-Sistemi za transport i distribuciju fluida Mitrović Vladan
+Osnove elektrotehnike
 
-6
+Bjelica Jelena
 
-10:30
-
-12:00
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-5
-
-12:15
-
-13:45
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-Kovačević Milena,
-
-1,3
-
-14:15
-
-16:45
-
-NTP-222
-
-rač.vežbe
-
-Objektno orijentisane tehnologije Varajić Stefan
-
-7
-
-14:15
-
-17:30
-
-NTP-316
-
-rač.vežbe
-
-Operativni sistemi
-
-Andrejević Aleksandar
-
-8
-
-14:15
-
-17:30
-
-NTP-317
-
-rač.vežbe
-
-Operativni sistemi
-
-Aleksić Katarina
-
-10
-
-14:15
-
-15:45
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-9
-
-16:00
-
-17:30
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-Kovačević Milena,
-
-2,4
-
-17:00
-
-19:30
-
-NTP-222
-
-rač.vežbe
-
-Objektno orijentisane tehnologije Varajić Stefan
-
-7
-
-17:45
+4,5,6,10(9-)
 
 19:15
 
-MI A2-4
+20:45
 
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-9
-
-17:45
-
-21:00
-
-NTP-316
-
-rač.vežbe
-
-Operativni sistemi
-
-Andrejević Aleksandar
-
-10
-
-17:45
-
-21:00
-
-NTP-317
-
-rač.vežbe
-
-Operativni sistemi
-
-Simić Svetislav
-
-8
-
-19:30
-
-21:00
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Janković Marko
-
-Tošić Mr Saša,
-
-2,4
-
-19:45
-
-21:15
-
-NTP-222
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-14:15
-
-16:00
-
-A4
-
-Pred.
-
-Operativni sistemi
-
-Petrović dr Veljko
-
-SVI
-
-16:15
-
-18:00
-
-A4
-
-Pred.
-
-Namenski računarski sistemi Selakov dr Aleksandar
-
-SVI
-
-18:15
-
-20:00
-
-A4
-
-Pred.
-
-Sistemi za transport i distribuciju fluida Bikić dr Siniša
-
-5,8,9,10(1-8)
-
-20:15
-
-21:45
-
-201
+308
 
 aud.vežbe
 
-Sistemi za transport i distribuciju fluida Despotović Bojana
+Osnove elektrotehnike
 
-1,2,3
+Bjelica Jelena
 
-20:15
+1,2,3,10(1-8)
 
-21:45
+19:00
 
-202
-
-aud.vežbe
-
-Diskretna matematika
-
-Đokić Jelena
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-6
-
-12:30
-
-14:00
-
-MI B4-5A
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-5
-
-12:30
-
-14:00
-
-L6 (RC)
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-1
-
-14:15
-
-15:45
-
-L2 (RC)
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-3
-
-14:15
-
-15:45
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Tošić Mr Saša
-
-5,8,9,10(9-)
-
-14:30
-
-16:00
-
-310
-
-aud.vežbe
-
-Diskretna matematika
-
-Đokić Jelena
-
-SVI
-
-16:15
-
-18:00
-
-A1
-
-Pred.
-
-Namenski računarski sistemi Selakov dr Aleksandar
-
-1,2,3
-
-18:15
-
-19:45
-
-108A
-
-aud.vežbe
-
-Sistemi za transport i distribuciju fluida Despotović Bojana
-
-4,6,7,10(1-8)
-
-18:15
-
-19:45
+20:30
 
 101
 
 aud.vežbe
 
-Diskretna matematika
+Algebra
 
-Đokić Jelena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 09:00, Strana: 3
-
-R A S P O R E D P R E D A V A N J A 6 Semestar
-
-Primenjeno softversko inženjerstvo P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-14:15
-
-17:00
-
-A3
-
-Pred.
-
-Cloud Computing u elektroenergetskim sistemima Vukmirović dr Srđan
-
-SVI
-
-17:15
-
-20:00
-
-A3
-
-Pred.
-
-Razvoj elektroenergetskog softvera Varga dr Ervin
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Stoja Sebastijan,
-
-7,8
-
-07:45
-
-10:15
-
-NTP-222
-
-rač.vežbe
-
-Cloud Computing u elektroenergetskim sistemima Stanojević Marina
-
-5
-
-08:30
-
-11:00
-
-AR2
-
-rač.vežbe
-
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Ruvčevski Stefan
-
-3
-
-08:30
-
-11:00
-
-AR3
-
-rač.vežbe
-
-Veb programiranje
-
-Kovačević Tamara
-
-5
-
-11:15
-
-13:45
-
-AR3
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Radojčić Tanja
-
-2
-
-11:15
-
-13:45
-
-AR2
-
-rač.vežbe
-
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Ruvčevski Stefan
-
-9
-
-14:00
-
-16:30
-
-MI B4-5A
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Radojčić Tanja
-
-1,4
-
-14:00
-
-16:30
-
-NTP-222
-
-rač.vežbe
-
-Razvoj elektroenergetskog softvera Babić Zorana
-
-2
-
-14:00
-
-16:30
-
-MI B4-5
-
-rač.vežbe
-
-Cloud Computing u elektroenergetskim sistemima Mikać Mirko
-
-4,9
-
-16:45
-
-19:15
-
-NTP-222
-
-rač.vežbe
-
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Janković Marko
-
-6
-
-16:45
-
-19:15
-
-AR2
-
-rač.vežbe
-
-Veb programiranje
-
-Dragišić Jelena
-
-1
-
-16:45
-
-19:15
-
-MI B4-5
-
-rač.vežbe
-
-Cloud Computing u elektroenergetskim sistemima Mikać Mirko
-
-2
-
-16:45
-
-19:15
-
-MI B4-5A
-
-rač.vežbe
-
-Razvoj elektroenergetskog softvera Babić Zorana
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-08:15
-
-11:00
-
-A4
-
-Pred.
-
-Veb programiranje
-
-Nikolić dr Siniša
-
-SVI
-
-11:15
-
-14:00
-
-A4
-
-Pred.
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Čapko dr Darko
+Kiš Maria
 
 Č E T V R T A K
 
@@ -1528,437 +318,185 @@ Naziv Predmeta
 
 Izvođač
 
-3,5
-
-07:45
-
-10:15
-
-NTP-222
-
-rač.vežbe
-
-Cloud Computing u elektroenergetskim sistemima Stanojević Marina
-
-4
-
-08:30
-
-11:00
-
-MI A2-4A
-
-rač.vežbe
-
-Veb programiranje
-
-Dragišić Jelena
-
-3
-
-11:00
-
-13:30
-
-MI A2-4
-
-rač.vežbe
-
-Razvoj elektroenergetskog softvera Novi saradnik
-
-6
-
-11:15
-
-13:45
-
-MI D4-A
-
-rač.vežbe
-
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Janković Marko
-
-1
-
-11:15
-
-13:45
-
-MI A2-4A
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Glavaš Predrag
-
-6,8
-
-14:00
-
-16:30
-
-NTP-222
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Glavaš Predrag
-
-1
-
-14:00
-
-16:30
-
-MI A2-4A
-
-rač.vežbe
-
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Janković Marko
-
-2
-
-14:00
-
-16:30
-
-MI B4-5A
-
-rač.vežbe
-
-Veb programiranje
-
-Kovačević Tamara
-
-7
-
-15:00
-
-17:30
-
-MI A2-4
-
-rač.vežbe
-
-Razvoj elektroenergetskog softvera Novi saradnik
-
-8
-
-16:45
-
-19:15
-
-MI B4-5A
-
-rač.vežbe
-
-Veb programiranje
-
-Kovačević Tamara
-
-6,9
-
-16:45
-
-19:15
-
-NTP-222
-
-rač.vežbe
-
-Razvoj elektroenergetskog softvera Dejanović Stefan
-
-7
-
-17:45
-
-20:15
-
-MI A2-4
-
-rač.vežbe
-
-Veb programiranje
-
-Dragišić Jelena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.04.2022. 09:00, Strana: 4
-
-R A S P O R E D P R E D A V A N J A 6 Semestar
-
-Primenjeno softversko inženjerstvo P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
 SVI
 
 08:15
 
-11:00
+10:00
 
 A2
 
 Pred.
 
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Bojanić dr Milana
+Osnove elektrotehnike
 
-5
+Đurić dr Nikola
 
-11:15
+7,8,9
+
+10:30
+
+12:00
+
+310
+
+aud.vežbe
+
+Osnove elektrotehnike
+
+Kljajić dr Dragan
+
+1,2,3,10(1-8)
+
+12:15
 
 13:45
 
-MI A2-4
+108
 
-rač.vežbe
+aud.vežbe
 
-Razvoj elektroenergetskog softvera Babić Zorana
+Algebra
 
-4
+Kiš Maria
 
-13:15
+SVI
 
-15:45
+19:15
 
-MI B4-5
+21:00
 
-rač.vežbe
+A3
 
-Cloud Computing u elektroenergetskim sistemima Mikać Mirko
+Pred.
 
-Ruvčevski Stefan,
+Engleski jezik - srednji Bulatović Vesna
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
 
 7,8
 
+08:30
+
+09:15
+
+MI A2-1
+
+aud.vežbe
+
+Programski jezici i strukture podataka Vasiljević Aleksandar
+
+Vasiljević Aleksandar,
+
+7,8
+
+09:30
+
+12:00
+
+MI A2-1
+
+rač.vežbe
+
+Programski jezici i strukture podataka Vujičić Milena
+
+10,3
+
+12:15
+
+13:00
+
+MI A2-1
+
+aud.vežbe
+
+Programski jezici i strukture podataka Vasiljević Aleksandar
+
+Vasiljević Aleksandar,
+
+10,3
+
 13:15
 
 15:45
 
-NTP-222
+MI A2-1
 
 rač.vežbe
 
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Janković Marko
+Programski jezici i strukture podataka Vujičić Milena
 
-Mijatov Vanja,
+1,2,3,10(1-8)
 
-5,9
+16:00
 
-14:15
+17:30
+
+202
+
+aud.vežbe
+
+Osnove elektrotehnike
+
+Gavrilov Teodora
+
+4,9
+
+16:00
 
 16:45
 
-L1 (RC)
+MI A2-1
 
-rač.vežbe
+aud.vežbe
 
-Veb programiranje
+Programski jezici i strukture podataka Vujičić Milena
 
-Kovačević Tamara
-
-8
-
-16:00
-
-18:30
-
-L2 (RC)
-
-rač.vežbe
-
-Razvoj elektroenergetskog softvera Novi saradnik
-
-3
-
-16:00
-
-18:30
-
-MI A2-4
-
-rač.vežbe
-
-Osnove softvera sa kritičnim odzivom u elektroenergetskim sistemima Ruvčevski Stefan
-
-6
-
-16:00
-
-18:30
-
-MI B4-5
-
-rač.vežbe
-
-Cloud Computing u elektroenergetskim sistemima Mikać Mirko
-
-4,7
-
-16:00
-
-18:30
-
-NTP-222
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Čavić Željko
-
-1
+4,9
 
 17:00
 
 19:30
 
-AR3
+MI A2-1
 
 rač.vežbe
 
-Veb programiranje
+Programski jezici i strukture podataka Vujičić Milena
 
-Mijatov Vanja
-
-9
+4,5,6,10(9-)
 
 17:45
 
-20:15
+19:15
 
-MI A2-4A
+202
 
-rač.vežbe
+aud.vežbe
 
-Cloud Computing u elektroenergetskim sistemima Stoja Sebastijan
+Algebra
 
-2,3
-
-18:45
-
-21:15
-
-NTP-222
-
-rač.vežbe
-
-Razvoj višeslojnih aplikacija u elektroenergetskim sistemima Mikać Mirko
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-stari
-
-Nov saradnik,
-
-19:30
-
-22:00
-
-NTP-222
-
-rač.vežbe
-
-Veb programiranje
-
-studenti
-
-Dragišić Jelena
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-stari
-
-17:30
-
-20:00
-
-L3 (RC)
-
-rač.vežbe
-
-Veb programiranje
-
-Nov saradnik
-
-studenti
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-stari
-
-Colić Stefan,
-
-19:30
-
-22:00
-
-NTP-222
-
-rač.vežbe
-
-Veb programiranje
-
-studenti
-
-Mijatov Vanja
+Erić Mirjana
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.03.2022. 07:13, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 07:11, Strana: 2
 
-R A S P O R E D P R E D A V A N J A 8 Semestar
+RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
 Primenjeno softversko inženjerstvo P O N E D E L J A K
 
@@ -1976,53 +514,203 @@ Naziv Predmeta
 
 Izvođač
 
-1,2
+Glavaš Predrag,
 
-10:30
+8,9
 
-13:00
+07:30
+
+10:00
 
 NTP-222
 
 rač.vežbe
 
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Đorđević Filip
+Primenjeni algoritmi
 
-5
+Tošić Mr Saša
 
-10:30
+2
 
-13:00
+07:45
 
-MI B4-5
-
-rač.vežbe
-
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Ivošević Jovan
-
-7
-
-10:30
-
-13:00
+10:15
 
 MI B4-5A
 
 rač.vežbe
 
-Programiranje u Smart Grid sistemima Radojčić Tanja
+Primenjeni algoritmi
 
-8
+Babić Zorana
 
-15:00
+3
 
-17:30
+09:30
 
-MI D4-A
+12:45
+
+NTP-316
 
 rač.vežbe
 
-Programiranje u Smart Grid sistemima Radojčić Tanja
+Objektno orijentisano programiranje Hrnjaković Olivera
+
+6
+
+09:30
+
+12:45
+
+NTP-317
+
+rač.vežbe
+
+Objektno orijentisano programiranje Samardžić Bojana
+
+2
+
+10:45
+
+12:15
+
+NTP-508
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Milošević Milena
+
+6
+
+13:15
+
+15:45
+
+AR2
+
+rač.vežbe
+
+Primenjeni algoritmi
+
+Glavaš Predrag
+
+5
+
+12:30
+
+14:00
+
+NTP-508
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Matić Milica
+
+1
+
+13:00
+
+16:15
+
+NTP-316
+
+rač.vežbe
+
+Objektno orijentisano programiranje Hrnjaković Olivera
+
+10
+
+14:00
+
+17:15
+
+AR3
+
+rač.vežbe
+
+Objektno orijentisano programiranje Varajić Stefan
+
+7,8,9
+
+14:15
+
+16:45
+
+311
+
+aud.vežbe
+
+Osnovi elektroenergetike Milić Kristina
+
+4
+
+16:15
+
+17:45
+
+NTP-508
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Matić Milica
+
+6
+
+17:00
+
+18:30
+
+NTP-507
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Pijetlović Stefan
+
+10
+
+18:00
+
+19:30
+
+NTP-508
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Ivanović Sandra
+
+5
+
+18:15
+
+21:30
+
+NTP-316
+
+rač.vežbe
+
+Objektno orijentisano programiranje Hrnjaković Olivera
+
+4
+
+18:15
+
+21:30
+
+NTP-317
+
+rač.vežbe
+
+Objektno orijentisano programiranje Samardžić Bojana
 
 U T O R A K
 
@@ -2040,41 +728,93 @@ Naziv Predmeta
 
 Izvođač
 
+7,8,9
+
+08:45
+
+10:15
+
+206
+
+aud.vežbe
+
+Metodi optimizacije u infrastrukturnim sistemima Milić Kristina
+
+1,2,3
+
+10:30
+
+12:00
+
+108A
+
+aud.vežbe
+
+Metodi optimizacije u infrastrukturnim sistemima Milić Kristina
+
+Švenda dr Goran,
+
 SVI
 
-07:15
+14:15
 
-10:00
+16:00
 
-204
+A3
 
 Pred.
 
-Programiranje u Smart Grid sistemima Nedić dr Nemanja
+Metodi optimizacije u infrastrukturnim sistemima Popović dr Željko
 
-6
+3
 
-10:30
+16:45
 
-13:00
+19:15
 
-MI B4-5A
-
-rač.vežbe
-
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Ivošević Jovan
-
-3,4
-
-10:30
-
-13:00
-
-NTP-222
+AR2
 
 rač.vežbe
 
-Programiranje u Smart Grid sistemima Glavaš Predrag
+Primenjeni algoritmi
+
+Babić Zorana
+
+7
+
+16:45
+
+20:00
+
+NTP-317
+
+rač.vežbe
+
+Objektno orijentisano programiranje Varajić Stefan
+
+4,5,6,10
+
+17:45
+
+19:15
+
+207
+
+aud.vežbe
+
+Metodi optimizacije u infrastrukturnim sistemima Milić Kristina
+
+4,5,6,10
+
+19:30
+
+22:00
+
+207
+
+aud.vežbe
+
+Osnovi elektroenergetike Milić Kristina
 
 S R E D A
 
@@ -2092,65 +832,77 @@ Naziv Predmeta
 
 Izvođač
 
-1,2
+7,8,9,10(9-)
 
-07:45
+Pjevalica dr Nebojša,
 
-10:15
+11:30
 
-NTP-222
+13:00
 
-rač.vežbe
+101
 
-Programiranje u Smart Grid sistemima Radojčić Tanja
+aud.vežbe
 
-Jeremić Aleksandar,
+Logičko projektovanje računarskih sistema 1
 
-7,8
+(4,5,6,10(1-8))
 
-10:30
+Kaštelan dr Ivan
 
-12:00
+3
 
-NTP-222
+13:30
 
-rač.vežbe
+15:00
 
-Baze podataka 2
-
-Župunski Radovan
-
-Jeremić Aleksandar,
-
-5,6
-
-12:15
-
-13:45
-
-NTP-222
+NTP-507
 
 rač.vežbe
 
-Baze podataka 2
+Logičko projektovanje računarskih sistema 1
 
-Župunski Radovan
+Stepanović Mia
+
+1
+
+13:30
+
+15:00
+
+NTP-508
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Ivanović Sandra
 
 SVI
 
-14:15
+15:15
 
-17:00
+18:00
 
 A4
 
 Pred.
 
-Baze podataka 2
+Primenjeni algoritmi
 
-Ivančević dr Vladimir
+Čapko dr Darko
 
-Č E T V R T A K
+SVI
+
+18:15
+
+20:00
+
+A4
+
+Pred.
+
+Objektno orijentisano programiranje Kupusinac dr Aleksandar Č E T V R T A K
 
 Grupa-e
 
@@ -2166,99 +918,225 @@ Naziv Predmeta
 
 Izvođač
 
-Varajić Stefan,
+9
 
-1,2
+08:30
+
+10:00
+
+NTP-507
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Stepanović Mia
+
+10
 
 07:30
 
 10:00
 
-AR1
+AR2
 
 rač.vežbe
 
-Projekat
+Primenjeni algoritmi
 
-Kupusinac dr Aleksandar
+Tošić Mr Saša
 
-Hrnjaković Olivera,
+Cvetićanin dr Stevan,
 
-3,4
+1,2,3
 
-07:30
+07:45
 
-10:00
+10:15
 
-MI A2-4
+MI B4-3
 
-rač.vežbe
+aud.vežbe
 
-Projekat
+Osnovi elektroenergetike Milić Kristina
 
-Matkovski Marijana
+5
 
-5,6
+10:15
 
-07:30
+12:45
 
-10:00
-
-MI B4-5
+AR2
 
 rač.vežbe
 
-Projekat
+Primenjeni algoritmi
 
-Samardžić Bojana
+Tošić Mr Saša
 
-Manasijević Aleksandar,
+9
 
-7,8
+10:45
 
-07:30
+14:00
 
-10:00
-
-MI B4-5A
+NTP-316
 
 rač.vežbe
 
-Projekat
+Objektno orijentisano programiranje Radović Luka
 
-Radović Luka
+8
 
-Varajić Stefan,
+10:45
 
-3,4
+14:00
 
-10:30
-
-12:00
-
-NTP-222
+NTP-317
 
 rač.vežbe
 
-Baze podataka 2
+Objektno orijentisano programiranje Grbić Ilija
 
-Kiš Gergelj
+1
 
-Varajić Stefan,
+11:30
 
-1,2
+14:00
 
-12:15
-
-13:45
-
-NTP-222
+AR3
 
 rač.vežbe
 
-Baze podataka 2
+Primenjeni algoritmi
 
-Kiš Gergelj
+Glavaš Predrag
+
+7
+
+14:15
+
+16:45
+
+AR3
+
+rač.vežbe
+
+Primenjeni algoritmi
+
+Glavaš Predrag
+
+2
+
+15:00
+
+18:15
+
+AR2
+
+rač.vežbe
+
+Objektno orijentisano programiranje Simić Svetislav
+
+8
+
+15:15
+
+16:45
+
+NTP-507
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Pijetlović Stefan
+
+7
+
+17:00
+
+18:30
+
+NTP-507
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Pijetlović Stefan
+
+1,2,3
+
+Pjevalica dr Nebojša,
+
+18:15
+
+19:45
+
+NTP-418
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+sv.dr.ned.
+
+Kaštelan dr Ivan
+
+4
+
+18:30
+
+21:00
+
+AR2
+
+rač.vežbe
+
+Primenjeni algoritmi
+
+Glavaš Predrag
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+13:15
+
+15:00
+
+A3
+
+Pred.
+
+Objektno orijentisano programiranje Kupusinac dr Aleksandar SVI
+
+15:15
+
+18:00
+
+A3
+
+Pred.
+
+Osnovi elektroenergetike Cvetićanin dr Stevan
+
+Pjevalica dr Nebojša,
 
 SVI
 
@@ -2266,85 +1144,19 @@ SVI
 
 21:00
 
-A2
+A1
 
 Pred.
 
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Ivetić dr Dragan
+Logičko projektovanje računarskih sistema 1
 
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-7
-
-07:45
-
-10:15
-
-MI B4-5
-
-rač.vežbe
-
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Ivošević Jovan
-
-3,4
-
-07:45
-
-10:15
-
-NTP-222
-
-rač.vežbe
-
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Đorđević Filip
-
-5,6
-
-10:30
-
-13:00
-
-NTP-222
-
-rač.vežbe
-
-Programiranje u Smart Grid sistemima Dalčeković Ivana
-
-8
-
-10:30
-
-13:00
-
-MI B4-5
-
-rač.vežbe
-
-Softver sa kritičnim odzivom u elektroenergetskim sistemima Đorđević Filip
-
-Napomena:
-
-Studenti treba odrade stručnu praksu sa fondom 0+3. Javiti se prof. dr Aleksandru Kupusincu.
+Kaštelan dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.03.2022. 07:48, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:16, Strana: 3
 
-RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
+RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
 Primenjeno softversko inženjerstvo P O N E D E L J A K
 
@@ -2362,19 +1174,93 @@ Naziv Predmeta
 
 Izvođač
 
+Čeliković dr Milan,
+
 SVI
 
-13:15
+08:15 10:00
 
-16:45
-
-MI B4-5A
+A3
 
 Pred.
 
-Projekat
+Uvod u baze podataka
 
-Selakov dr Aleksandar
+Dimitrieski dr Vladimir 1
+
+10:30 12:00
+
+L3 (RC)
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+3
+
+13:00 14:30
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Ignjatijević Aleksandar 4
+
+14:45 16:15
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Ignjatijević Aleksandar 5
+
+16:30 18:00
+
+NTP-316
+
+rač.vežbe
+
+Programski prevodioci
+
+Matkovski Marijana
+
+6
+
+16:30 18:00
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Laketić Milena
+
+1,2,3
+
+16:45 18:15
+
+310
+
+aud.vežbe
+
+Modeliranje i simulacija sistema Pejić Marko
+
+4,5,6(7,8,9)
+
+19:00 20:30
+
+108
+
+aud.vežbe
+
+Uvod u baze podataka
+
+Hadžibabić Aleksandar
 
 U T O R A K
 
@@ -2392,6 +1278,216 @@ Naziv Predmeta
 
 Izvođač
 
+1,4
+
+07:45 10:15
+
+NTP-222
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Hadžibabić Aleksandar
+
+2
+
+08:30 10:00
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Ignjatijević Aleksandar 1
+
+10:30 13:00
+
+NTP-312
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
+
+2
+
+13:15 15:45
+
+NTP-312
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
+
+2,4
+
+16:00 17:30
+
+NTP-222
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Prodanović Lazar
+
+3
+
+07:00 08:30
+
+MI B4-5
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+3
+
+08:45 10:15
+
+AR2
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Pejić Marko
+
+3
+
+10:30 13:00
+
+AR2
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Hadžibabić Aleksandar
+
+5
+
+11:30 13:00
+
+MI D4-A
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+5
+
+13:15 14:45
+
+AR2
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Pejić Marko
+
+6
+
+08:45 10:15
+
+MI B4-5
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+6
+
+16:00 17:30
+
+L4 (RC)
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Dragutinović Đorđe
+
+6
+
+17:45 20:15
+
+AR3
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Todorović Nikola
+
+7
+
+14:45 17:15
+
+AR3
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Todorović Nikola
+
+7
+
+17:45 20:15
+
+L4 (RC)
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
+
+8
+
+13:15 14:45
+
+MI D4-A
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+8
+
+15:00 17:30
+
+MI D4-A
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
+
+8
+
+17:45 20:15
+
+MI D4-A
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Hadžibabić Aleksandar
+
+9
+
+09:45 12:15
+
+MI A2-4
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
+
+9
+
+12:30 14:00
+
+MI A2-4
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Dragutinović Đorđe
+
 S R E D A
 
 Grupa-e
@@ -2408,17 +1504,37 @@ Naziv Predmeta
 
 Izvođač
 
-1
+Čeliković dr Milan,
 
-16:00
+SVI
 
-19:15
+08:15 10:00
 
-AR1
+A4
 
-aud.vežbe Projekat
+Pred.
 
-Selakov dr Aleksandar
+Uvod u baze podataka
+
+Dimitrieski dr Vladimir Erdeljan dr Aleksandar, SVI
+
+10:15 12:00
+
+A4
+
+Pred.
+
+Modeliranje i simulacija sistema Čapko dr Darko
+
+SVI
+
+12:15 15:00
+
+A4
+
+Pred.
+
+Primena računarskih mreža u infrastrukturnim sistemima Bojanić dr Milana
 
 Č E T V R T A K
 
@@ -2436,6 +1552,68 @@ Naziv Predmeta
 
 Izvođač
 
+4,5,6
+
+12:15 13:45
+
+NTP-418
+
+aud.vežbe
+
+Modeliranje i simulacija sistema Pejić Marko
+
+Erdeljan dr Aleksandar, SVI
+
+14:15 16:00
+
+A4
+
+Pred.
+
+Modeliranje i simulacija sistema Čapko dr Darko
+
+SVI
+
+16:15 18:00
+
+A4
+
+Pred.
+
+Programski prevodioci
+
+Vrbaški dr Dunja
+
+SVI
+
+18:15 20:00
+
+A4
+
+Pred.
+
+Elementi razvoja softvera Varga dr Ervin
+
+7,8,9
+
+20:15 21:45
+
+207
+
+aud.vežbe
+
+Modeliranje i simulacija sistema Stojaković Nedeljko
+
+1,2,3 sv.dr.ned. 20:15 21:45
+
+309
+
+aud.vežbe
+
+Uvod u baze podataka
+
+Todorović Nikola
+
 P E T A K
 
 Grupa-e
@@ -2452,11 +1630,815 @@ Naziv Predmeta
 
 Izvođač
 
-Napomena:
+5
 
-Studenti treba da odrade STRUČNU PRAKSU sa fondom časova 0+6.
+07:45 10:15
 
-Obratiti se PROF. DR. ALEKSANDRU SELAKOVU.
+NTP-312
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
+
+1
+
+08:45 10:15
+
+MI A2-4A
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Pejić Marko
+
+2
+
+07:00 08:30
+
+MI A2-4A
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+2
+
+09:30 12:00
+
+AR2
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Todorović Nikola
+
+1
+
+10:30 12:00
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Ignjatijević Aleksandar 4
+
+10:30 13:00
+
+NTP-312
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
+
+4
+
+16:00 17:30
+
+MI D4-A
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+5
+
+10:30 13:00
+
+MI A2-4
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Jeremić Aleksandar
+
+8
+
+12:15 13:45
+
+AR2
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Dragutinović Đorđe
+
+3
+
+13:15 15:45
+
+NTP-312
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
+
+9
+
+14:45 17:15
+
+MI A2-4
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Jeremić Aleksandar
+
+6
+
+14:15 16:45
+
+AR2
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
+
+8
+
+14:15 15:45
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Laketić Milena
+
+7
+
+14:15 15:45
+
+MI D4-A
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Dragutinović Đorđe
+
+7
+
+16:00 17:30
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Laketić Milena
+
+7
+
+17:45 19:15
+
+MI A2-4
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+9
+
+17:45 19:15
+
+NTP-317
+
+rač.vežbe
+
+Programski prevodioci
+
+Laketić Milena
+
+9
+
+19:30 21:00
+
+MI A2-4
+
+rač.vežbe
+
+Elementi razvoja softvera Čubrić Tanja
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 08:04, Strana: 4
+
+RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
+
+Primenjeno softversko inženjerstvo P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+5
+
+10:30 13:00
+
+MI B4-5
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Jelisavčić Ognjen
+
+7
+
+10:30 13:00
+
+MI B4-5A
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Tošić Mr Saša
+
+Babić Zorana,
+
+1,2
+
+10:30 13:00
+
+NTP-222
+
+rač.vežbe
+
+Sigurnost i bezbednost elektroenergetskog softvera Sekulić Jelena
+
+6
+
+13:15 15:45
+
+MI B4-5
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Janković Marko
+
+8
+
+13:15 15:45
+
+MI B4-5A
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Tošić Mr Saša
+
+Ruvčevski Stefan,
+
+3,4
+
+13:15 15:45
+
+NTP-222
+
+rač.vežbe
+
+Sigurnost i bezbednost elektroenergetskog softvera Babić Zorana
+
+SVI
+
+16:15 19:00
+
+203
+
+Pred.
+
+Distribuirani računarski sistemi u elektroenergetici Varga dr Ervin
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+07:15 10:00
+
+205
+
+Pred.
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Bojanić dr Milana
+
+Stanojević Marina,
+
+3,4
+
+10:30 13:00
+
+NTP-222
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Jelaćić Bojan
+
+Sekulić Jelena,
+
+6,9
+
+10:30 13:00
+
+L1 (RC)
+
+rač.vežbe
+
+Sigurnost i bezbednost elektroenergetskog softvera Ruvčevski Stefan
+
+Janković Marko,
+
+1,2
+
+13:15 15:45
+
+NTP-222
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Tošić Mr Saša
+
+Sekulić Jelena,
+
+5,7
+
+13:15 15:45
+
+L1 (RC)
+
+rač.vežbe
+
+Sigurnost i bezbednost elektroenergetskog softvera Ruvčevski Stefan
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+9
+
+07:00 10:15
+
+MI B4-5
+
+rač.vežbe
+
+Distribuirani računarski sistemi u elektroenergetici Dejanović Stefan
+
+1,2
+
+07:15 09:45
+
+NTP-222
+
+rač.vežbe
+
+Integracija elektroenergetskih sistema Mikać Mirko
+
+Vasiljević Mihailo,
+
+5,6
+
+10:00 13:15
+
+NTP-222
+
+rač.vežbe
+
+Distribuirani računarski sistemi u elektroenergetici Radojčić Tanja
+
+8
+
+10:45 13:15
+
+MI B4-5
+
+rač.vežbe
+
+Sigurnost i bezbednost elektroenergetskog softvera Ruvčevski Stefan
+
+9
+
+10:45 13:15
+
+MI B4-5A
+
+rač.vežbe
+
+Integracija elektroenergetskih sistema Sekulić Jelena
+
+5,6
+
+13:30 16:00
+
+NTP-222
+
+rač.vežbe
+
+Integracija elektroenergetskih sistema Mikać Mirko
+
+7
+
+16:15 19:30
+
+MI B4-5
+
+rač.vežbe
+
+Distribuirani računarski sistemi u elektroenergetici Dejanović Stefan
+
+8
+
+16:15 19:30
+
+MI B4-5A
+
+rač.vežbe
+
+Distribuirani računarski sistemi u elektroenergetici Radojčić Tanja
+
+Mikać Mirko,
+
+3,4
+
+16:15 18:45
+
+NTP-222
+
+rač.vežbe
+
+Integracija elektroenergetskih sistema Sekulić Jelena
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+07:15 10:00
+
+205
+
+Pred.
+
+Integracija elektroenergetskih sistema Gavrić dr Milan
+
+Dejanović Stefan,
+
+1,2
+
+10:30 13:45
+
+NTP-222
+
+rač.vežbe
+
+Distribuirani računarski sistemi u elektroenergetici Vasiljević Mihailo
+
+Vasiljević Mihailo,
+
+3,4
+
+14:00 17:15
+
+NTP-222
+
+rač.vežbe
+
+Distribuirani računarski sistemi u elektroenergetici Dejanović Stefan
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Lendak dr Imre,
+
+SVI
+
+07:15 10:00
+
+205
+
+Pred.
+
+Sigurnost i bezbednost elektroenergetskog softvera Rosić dr Daniela
+
+Nedić dr Nemanja,
+
+7,8
+
+10:15 12:45
+
+NTP-222
+
+rač.vežbe
+
+Integracija elektroenergetskih sistema Martinović Lajoš
+
+9
+
+11:30 14:00
+
+L6 (RC)
+
+rač.vežbe
+
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Janković Marko
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.08.2022. 08:46, Strana: 5
+
+RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
+
+Primenjeno softversko inženjerstvo P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Opredeljeni
+
+16:15 19:00
+
+MI B4-5
+
+Pred.
+
+Napredni infrastrukturni sistemi Selakov dr Aleksandar
+
+Opredeljeni
+
+19:15 21:45
+
+MI B4-5
+
+rač.vežbe
+
+Napredni infrastrukturni sistemi Pajić Zoran
+
+Opredeljeni
+
+16:15 19:00 MI B4-5A
+
+Pred.
+
+Informaciona bezbednost u infrastrukturnim sistemima Lendak dr Imre
+
+Opredeljeni
+
+19:15 21:45 MI B4-5A
+
+rač.vežbe
+
+Informaciona bezbednost u infrastrukturnim sistemima Babić Zorana
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Gavrić dr Milan,
+
+Opredeljeni
+
+13:15 16:00 MI B4-5A
+
+Pred.
+
+Arhitektura softvera za upravljanje pametnim mrežama Nedić dr Nemanja
+
+Opredeljeni
+
+16:15 18:45 MI B4-5A
+
+rač.vežbe
+
+Arhitektura softvera za upravljanje pametnim mrežama Nedić dr Nemanja
+
+Opredeljeni
+
+16:15 19:00
+
+MI B4-5
+
+Pred.
+
+Inteligentni softverski infrastrukturni sistemi Selakov dr Aleksandar
+
+Opredeljeni
+
+19:15 21:45
+
+MI B4-5
+
+rač.vežbe
+
+Inteligentni softverski infrastrukturni sistemi Janković Zoran
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Opredeljeni
+
+13:15 16:00
+
+NTP-417
+
+Pred.
+
+Softverska realizacija eksploatacije elektroenergetskih sistema Bošković dr Aleksandar
+
+Opredeljeni
+
+16:45 19:15
+
+MI V3-5
+
+rač.vežbe
+
+Softverska realizacija eksploatacije elektroenergetskih sistema Čavić Željko
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Opredeljeni
+
+13:15 16:00
+
+NTP-417
+
+Pred.
+
+Cloud računarstvo u infrastrukturnim sistemima Vukmirović dr Srđan
+
+Opredeljeni
+
+16:45 19:15 MI B4-5A
+
+rač.vežbe
+
+Cloud računarstvo u infrastrukturnim sistemima Stoja Sebastijan
+
+Opredeljeni
+
+16:15 19:00
+
+MI B4-5
+
+Pred.
+
+Big data u infrastrukturnim sistemima Varga dr Ervin
+
+Opredeljeni
+
+19:15 21:45
+
+MI B4-5
+
+rač.vežbe
+
+Big data u infrastrukturnim sistemima Dejanović Stefan
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Opredeljeni
+
+13:15 16:00
+
+NTP-417
+
+Pred.
+
+Održavanje i kontrola kvaliteta softvera u infrastrukturnim sistemima Varga dr Ervin Opredeljeni
+
+16:45 19:15
+
+L4 (RC)
+
+rač.vežbe
+
+Održavanje i kontrola kvaliteta softvera u infrastrukturnim sistemima Dejanović Stefan Napomena:
+
+Studenti se opredeljuju za 5 predmeta.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
