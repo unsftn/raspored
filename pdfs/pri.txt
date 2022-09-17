@@ -494,7 +494,7 @@ Erić Mirjana
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 07:11, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 08:08, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -2204,7 +2204,7 @@ Industrijski komunikacioni protokoli u elektroenergetskim sistemima Janković Ma
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.08.2022. 08:46, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.09.2022. 08:22, Strana: 5
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -2392,9 +2392,7 @@ MI B4-5
 
 Pred.
 
-Big data u infrastrukturnim sistemima Varga dr Ervin
-
-Opredeljeni
+Big data u infrastrukturnim sistemima Kupusinac dr Aleksandar Opredeljeni
 
 19:15 21:45
 
@@ -2402,7 +2400,7 @@ MI B4-5
 
 rač.vežbe
 
-Big data u infrastrukturnim sistemima Dejanović Stefan
+Big data u infrastrukturnim sistemima Samardžić Bojana
 
 P E T A K
 

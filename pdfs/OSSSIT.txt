@@ -22,7 +22,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.08.2022. 06:32, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 07:20, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 1 Semestar
 
@@ -168,7 +168,7 @@ Pred.
 
 Osnove programiranja
 
-Sladić dr Goran
+Nov predavač 2
 
 S R E D A
 
@@ -298,7 +298,7 @@ Pred.
 
 Web dizajn
 
-Zarić dr Miroslav
+Nov predavač 2
 
 3
 
@@ -774,7 +774,7 @@ Matijević Milica
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 06:52, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 07:54, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 5 Semestar
 
@@ -804,31 +804,7 @@ NTP-001
 
 Pred.
 
-Servisno orijentisane arhitekture Marković dr Marko (M)
-
-1
-
-16:00
-
-17:30
-
-INT 1
-
-rač.vežbe
-
-Servisno orijentisane arhitekture Maksimović Veljko
-
-2
-
-14:15
-
-16:45
-
-L5 (RC)
-
-rač.vežbe
-
-Servisno orijentisane arhitekture Kovačević Milena
+Servisno orijentisane arhitekture Simić dr Miloš
 
 1
 
@@ -840,7 +816,31 @@ INT 1
 
 rač.vežbe
 
-Informaciona bezbednost Dragišić Jelena
+Informaciona bezbednost Kovačević Tamara
+
+2
+
+14:15
+
+16:45
+
+L5 (RC)
+
+rač.vežbe
+
+Servisno orijentisane arhitekture Ranković Tamara
+
+1
+
+17:00
+
+18:30
+
+INT 1
+
+rač.vežbe
+
+Servisno orijentisane arhitekture Ranković Tamara
 
 U T O R A K
 
@@ -868,7 +868,7 @@ L6 (RC)
 
 rač.vežbe
 
-Metodologije razvoja softvera Anđelić Branislav
+Metodologije razvoja softvera Nov asistent VA
 
 2
 
@@ -880,7 +880,7 @@ L6 (RC)
 
 rač.vežbe
 
-Metodologije razvoja softvera Anđelić Branislav
+Metodologije razvoja softvera Nov asistent VA
 
 3
 
@@ -904,7 +904,7 @@ NTP-309
 
 rač.vežbe
 
-Informaciona bezbednost Dragišić Jelena
+Informaciona bezbednost Kovačević Tamara
 
 S R E D A
 
@@ -934,7 +934,7 @@ rač.vežbe
 
 NoSQL baze podataka
 
-Bender mr Miroslav
+Janković Eva
 
 2
 
@@ -958,7 +958,7 @@ SVI
 
 Pred.
 
-Informaciona bezbednost Gostojić dr Stevan
+Informaciona bezbednost Sladić dr Goran
 
 SVI
 
@@ -970,7 +970,9 @@ SVI
 
 Pred.
 
-Metodologije razvoja softvera Milosavljević dr Gordana Č E T V R T A K
+Metodologije razvoja softvera Sladić dr Goran
+
+Č E T V R T A K
 
 Grupa-e
 
@@ -996,7 +998,7 @@ INT 1
 
 rač.vežbe
 
-Servisno orijentisane arhitekture Maksimović Veljko
+Servisno orijentisane arhitekture Nov asistent MN
 
 SVI
 
@@ -1022,7 +1024,7 @@ Pred.
 
 NoSQL baze podataka
 
-Bender mr Miroslav
+Simić dr Miloš
 
 P E T A K
 
@@ -1064,7 +1066,7 @@ rač.vežbe
 
 NoSQL baze podataka
 
-Bender mr Miroslav
+Janković Eva
 
 3
 
@@ -1076,7 +1078,7 @@ Bender mr Miroslav
 
 rač.vežbe
 
-Metodologije razvoja softvera Anđelić Branislav
+Metodologije razvoja softvera Nov asistent VA
 
 2
 
@@ -1090,7 +1092,7 @@ rač.vežbe
 
 NoSQL baze podataka
 
-Bender mr Miroslav
+Janković Eva
 
 2
 
@@ -1102,7 +1104,7 @@ L3 (RC)
 
 rač.vežbe
 
-Informaciona bezbednost Dragišić Jelena
+Informaciona bezbednost Kovačević Tamara
 
 Napomena:
 

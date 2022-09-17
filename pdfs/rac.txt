@@ -29,7 +29,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 Prof. dr Aleksandar Kupusinac
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.08.2022. 07:07, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 06:18, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -545,9 +545,9 @@ Kiš Maria
 
 SVI
 
-18:15
+19:15
 
-19:45
+20:45
 
 A1
 
@@ -745,7 +745,7 @@ Programski jezici i strukture podataka Vasiljević Aleksandar
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 06:40, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 08:52, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -911,7 +911,7 @@ Logičko projektovanje računarskih sistema 1
 
 Milošević Milena
 
-Stanković Milan,
+Samardžić Bojana,
 
 11,12
 
@@ -923,7 +923,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Kovačević Milena
+Objektno orijentisano programiranje Manasijević Aleksandar
 
 U T O R A K
 
@@ -946,7 +946,7 @@ Naziv Predmeta
 Izvođač
 
 
-Manasijević Aleksandar,
+Varajić Stefan,
 
 
 1,4
@@ -1007,7 +1007,7 @@ Logičko projektovanje računarskih sistema 1
 
 Ivanović Sandra
 
-Samardžić Bojana,
+Manasijević Aleksandar,
 
 2,3
 
@@ -1019,7 +1019,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Radović Luka
+Objektno orijentisano programiranje Samardžić Bojana
 
 7,8,9
 
@@ -1049,7 +1049,7 @@ Matematička analiza 2
 
 Milićević dr Srđan
 
-Radović Luka,
+Manasijević Aleksandar,
 
 9,14
 
@@ -1061,7 +1061,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Samardžić Bojana
+Objektno orijentisano programiranje Nov saradnik O1
 
 Stojaković Nedeljko,
 
@@ -1165,7 +1165,7 @@ Logičko projektovanje računarskih sistema 1
 
 Matić Milica
 
-Manasijević Aleksandar,
+Radović Luka,
 
 5,6
 
@@ -1177,7 +1177,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Samardžić Bojana
+Objektno orijentisano programiranje Manasijević Aleksandar
 
 15
 
@@ -1349,7 +1349,7 @@ Matematička analiza 2
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 06:40, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 08:52, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -1407,7 +1407,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Manasijević Aleksandar
+Objektno orijentisano programiranje Samardžić Bojana
 
 4
 
@@ -1519,7 +1519,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Manasijević Aleksandar
+Objektno orijentisano programiranje Samardžić Bojana
 
 9
 
@@ -1813,7 +1813,7 @@ Kaštelan dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:19, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 08:33, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -2069,7 +2069,7 @@ INT 1
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Škipina Milica
+Numerički algoritmi i numerički softver Nov saradnik 7
 
 9
 
@@ -2095,7 +2095,7 @@ AR3
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Anđelić Branislav
+Numerički algoritmi i numerički softver Škipina Milica
 
 2
 
@@ -2107,7 +2107,7 @@ INT 1
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Anđelić Branislav
+Numerički algoritmi i numerički softver Nov saradnik 7
 
 3
 
@@ -2321,7 +2321,7 @@ Baze podataka 1
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:19, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 08:33, Strana: 5
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -2359,7 +2359,7 @@ INT 1
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Anđelić Branislav
+Numerički algoritmi i numerički softver Nov saradnik 7
 
 6
 
@@ -2469,7 +2469,7 @@ L5 (RC)
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Škipina Milica
+Numerički algoritmi i numerički softver Nov asistent VA
 
 5
 
@@ -2507,7 +2507,7 @@ L5 (RC)
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Škipina Milica
+Numerički algoritmi i numerički softver Nov asistent VA
 
 4,5,6
 
@@ -3565,7 +3565,7 @@ Mikroprocesorski upravljački uređaji Mejić dr Luka
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:19, Strana: 8
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 10:30, Strana: 8
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -3881,7 +3881,7 @@ rač.vežbe
 
 Internet softverske arhitekture
 
-Janković Eva
+Trajković Anđela
 
 5
 
@@ -3975,7 +3975,7 @@ rač.vežbe
 
 Projektovanje softvera
 
-Radaković Danijel
+Mijatov Vanja
 
 9
 
@@ -4159,7 +4159,7 @@ rač.vežbe
 
 Internet softverske arhitekture
 
-Janković Eva
+Trajković Anđela
 
 8
 
@@ -4195,7 +4195,7 @@ rač.vežbe
 
 Internet softverske arhitekture
 
-Janković Eva
+Trajković Anđela
 
 3
 
@@ -10371,7 +10371,7 @@ Obratiti se rukovodiocu studijskog programa PROF. DR ALEKSANDRU KUPUSINCU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.06.2022. 07:50, Strana: 15
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 15
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -10409,7 +10409,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10423,7 +10423,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10437,7 +10437,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10451,7 +10451,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10465,7 +10465,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10479,7 +10479,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10493,7 +10493,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10507,7 +10507,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10521,7 +10521,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10535,7 +10535,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10549,7 +10549,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10563,7 +10563,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10577,7 +10577,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10591,7 +10591,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10605,7 +10605,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10619,7 +10619,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10633,7 +10633,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10647,7 +10647,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10661,7 +10661,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10675,7 +10675,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10689,7 +10689,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10703,7 +10703,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10717,7 +10717,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10731,7 +10731,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10745,7 +10745,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10759,7 +10759,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10773,7 +10773,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10787,7 +10787,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10801,7 +10801,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10815,7 +10815,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10829,7 +10829,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10843,7 +10843,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10857,7 +10857,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10871,7 +10871,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10885,7 +10885,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10899,7 +10899,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10913,7 +10913,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10927,7 +10927,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10941,7 +10941,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10955,7 +10955,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -10969,7 +10969,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -10983,7 +10983,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -10997,7 +10997,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11011,7 +11011,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11025,7 +11025,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11039,7 +11039,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11053,7 +11053,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11067,7 +11067,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11081,7 +11081,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11095,7 +11095,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11109,7 +11109,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11123,7 +11123,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11137,7 +11137,7 @@ SVI
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11151,7 +11151,7 @@ Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11165,7 +11165,7 @@ Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11179,7 +11179,7 @@ Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11187,7 +11187,7 @@ Multimedijalni sistemi u automobilskoj industriji Milošević Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.06.2022. 07:50, Strana: 16
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 16
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -11305,7 +11305,7 @@ omobilu i Međuračunarske komunikcije i računarske mreže 2
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11319,7 +11319,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11333,7 +11333,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11347,7 +11347,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11363,7 +11363,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11379,7 +11379,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11393,7 +11393,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11407,7 +11407,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11421,7 +11421,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11437,7 +11437,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11453,7 +11453,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11467,7 +11467,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11481,7 +11481,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11495,7 +11495,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11511,7 +11511,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11527,7 +11527,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11541,7 +11541,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11555,7 +11555,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11569,7 +11569,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11585,7 +11585,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11601,7 +11601,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11615,7 +11615,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11629,7 +11629,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11643,7 +11643,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11659,7 +11659,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11675,7 +11675,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11689,7 +11689,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11703,7 +11703,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11717,7 +11717,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11733,7 +11733,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11749,7 +11749,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11763,7 +11763,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11777,7 +11777,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11791,7 +11791,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11807,7 +11807,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11823,7 +11823,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11837,7 +11837,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11851,7 +11851,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11865,7 +11865,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11881,7 +11881,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11897,7 +11897,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11911,7 +11911,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11925,7 +11925,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11939,7 +11939,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -11955,7 +11955,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -11971,7 +11971,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -11985,7 +11985,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -11999,7 +11999,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12013,7 +12013,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12029,7 +12029,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12045,7 +12045,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12059,7 +12059,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12073,7 +12073,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12087,7 +12087,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12103,7 +12103,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12119,7 +12119,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12133,7 +12133,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12147,7 +12147,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12161,7 +12161,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12177,7 +12177,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12193,7 +12193,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12207,7 +12207,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12221,7 +12221,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12235,7 +12235,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12251,7 +12251,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12267,7 +12267,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12281,7 +12281,7 @@ Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12295,7 +12295,7 @@ Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12309,7 +12309,7 @@ Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12325,7 +12325,7 @@ Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12335,7 +12335,7 @@ Milošević Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.06.2022. 07:50, Strana: 17
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 17
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -12443,7 +12443,7 @@ ftver u digitalnoj televiziji 2
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12457,7 +12457,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12471,7 +12471,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12485,7 +12485,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12501,7 +12501,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12517,7 +12517,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12531,7 +12531,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12545,7 +12545,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12559,7 +12559,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12575,7 +12575,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12591,7 +12591,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12605,7 +12605,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12619,7 +12619,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12633,7 +12633,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12649,7 +12649,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12665,7 +12665,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12679,7 +12679,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12693,7 +12693,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12707,7 +12707,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12723,7 +12723,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12739,7 +12739,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12753,7 +12753,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12767,7 +12767,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12781,7 +12781,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12797,7 +12797,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12813,7 +12813,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12827,7 +12827,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12841,7 +12841,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12855,7 +12855,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12871,7 +12871,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12887,7 +12887,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12901,7 +12901,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12915,7 +12915,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12929,7 +12929,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -12945,7 +12945,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -12961,7 +12961,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -12975,7 +12975,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -12989,7 +12989,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13003,7 +13003,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13019,7 +13019,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13035,7 +13035,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13049,7 +13049,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13063,7 +13063,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13077,7 +13077,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13093,7 +13093,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13109,7 +13109,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13123,7 +13123,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13137,7 +13137,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13151,7 +13151,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13167,7 +13167,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13183,7 +13183,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13197,7 +13197,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13211,7 +13211,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13225,7 +13225,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13241,7 +13241,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13257,7 +13257,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13271,7 +13271,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13285,7 +13285,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13299,7 +13299,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13315,7 +13315,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13331,7 +13331,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13345,7 +13345,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13359,7 +13359,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13373,7 +13373,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13389,7 +13389,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13405,7 +13405,7 @@ Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13419,7 +13419,7 @@ Procesi u razvoju automobilskog softvera Krunić dr Momčilo
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13433,7 +13433,7 @@ Procesi u razvoju automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13447,7 +13447,7 @@ Procesi u razvoju automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13463,7 +13463,7 @@ Bjelica dr Milan
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13473,7 +13473,7 @@ Milošević Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.06.2022. 07:50, Strana: 18
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 18
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -13571,7 +13571,7 @@ reji
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13585,7 +13585,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13599,7 +13599,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13613,7 +13613,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13627,7 +13627,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13641,7 +13641,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13655,7 +13655,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13669,7 +13669,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13683,7 +13683,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13697,7 +13697,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13711,7 +13711,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13725,7 +13725,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13739,7 +13739,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13753,7 +13753,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13767,7 +13767,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13781,7 +13781,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13795,7 +13795,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13809,7 +13809,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13823,7 +13823,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13837,7 +13837,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13851,7 +13851,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13865,7 +13865,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13879,7 +13879,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13893,7 +13893,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13907,7 +13907,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13921,7 +13921,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -13935,7 +13935,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13949,7 +13949,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -13963,7 +13963,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -13977,7 +13977,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -13991,7 +13991,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14005,7 +14005,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14019,7 +14019,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14033,7 +14033,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14047,7 +14047,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14061,7 +14061,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14075,7 +14075,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14089,7 +14089,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14103,7 +14103,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14117,7 +14117,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14131,7 +14131,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14145,7 +14145,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14159,7 +14159,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14173,7 +14173,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14187,7 +14187,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14201,7 +14201,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14215,7 +14215,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14229,7 +14229,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14243,7 +14243,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14257,7 +14257,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14271,7 +14271,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14285,7 +14285,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14299,7 +14299,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14313,7 +14313,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14327,7 +14327,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14341,7 +14341,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14355,7 +14355,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14369,7 +14369,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14383,7 +14383,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14397,7 +14397,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14411,7 +14411,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14425,7 +14425,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14439,7 +14439,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14453,7 +14453,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14467,7 +14467,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14481,7 +14481,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14495,7 +14495,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14509,7 +14509,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14523,7 +14523,7 @@ Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14537,7 +14537,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Ne
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14545,7 +14545,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.06.2022. 07:50, Strana: 19
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 19
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -14639,7 +14639,7 @@ ftvera i Projektovanje sistema za rad u realnom vremenu 28.12.2022
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14653,7 +14653,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14667,7 +14667,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14681,7 +14681,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14695,7 +14695,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14709,7 +14709,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14723,7 +14723,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14737,7 +14737,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14751,7 +14751,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14765,7 +14765,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14779,7 +14779,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14793,7 +14793,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14807,7 +14807,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14821,7 +14821,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14835,7 +14835,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14849,7 +14849,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14863,7 +14863,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14877,7 +14877,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14891,7 +14891,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14905,7 +14905,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14919,7 +14919,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -14933,7 +14933,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14947,7 +14947,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -14961,7 +14961,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -14975,7 +14975,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -14989,7 +14989,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15003,7 +15003,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15017,7 +15017,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15031,7 +15031,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15045,7 +15045,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15059,7 +15059,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15073,7 +15073,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15087,7 +15087,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15101,7 +15101,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15115,7 +15115,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15129,7 +15129,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15143,7 +15143,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15157,7 +15157,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15171,7 +15171,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15185,7 +15185,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15199,7 +15199,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15213,7 +15213,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15227,7 +15227,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15241,7 +15241,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15255,7 +15255,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15269,7 +15269,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15283,7 +15283,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15297,7 +15297,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15311,7 +15311,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15325,7 +15325,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15339,7 +15339,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15353,7 +15353,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15367,7 +15367,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15381,7 +15381,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15395,7 +15395,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15409,7 +15409,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15423,7 +15423,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15437,7 +15437,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15451,7 +15451,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15465,7 +15465,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15479,7 +15479,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15493,7 +15493,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15507,7 +15507,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15521,7 +15521,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15535,7 +15535,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15549,7 +15549,7 @@ Projektovanje sistema za rad u realnom vremenu Milošević Milena
 
 18:00
 
-Onlajn
+NTP-418
 
 Pred.
 
@@ -15563,7 +15563,7 @@ Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15577,7 +15577,7 @@ Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
 
 19:45
 
-Onlajn
+NTP-506
 
 lab.vežbe
 
@@ -15591,7 +15591,7 @@ Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
 
 18:00
 
-Onlajn
+NTP-505
 
 Pred.
 
@@ -15605,7 +15605,7 @@ Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
 
 19:45
 
-Onlajn
+NTP-505
 
 lab.vežbe
 
@@ -15619,7 +15619,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:22, Strana: 20
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.09.2022. 08:21, Strana: 20
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -16035,11 +16035,11 @@ Ivković Vladimir
 
 14
 
-08:00
-
 09:30
 
-NTP-307
+11:00
+
+NTP-309
 
 rač.vežbe
 
@@ -16167,7 +16167,7 @@ Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:22, Strana: 21
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.09.2022. 08:21, Strana: 21
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -16265,11 +16265,11 @@ Kupusinac dr Aleksandar,
 
 41
 
-14:15
+13:15
 
-17:00
+16:00
 
-AR1
+MI G2-2
 
 Pred.
 
@@ -16453,7 +16453,7 @@ rač.vežbe
 
 Pravna informatika
 
-Marković dr Marko (M)
+Matković Jelena
 
 21
 

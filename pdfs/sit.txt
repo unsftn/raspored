@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 10:41, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 10:51, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -142,7 +142,7 @@ Pred.
 
 Osnove programiranja
 
-Sladić dr Goran
+Milosavljević dr Branko
 
 Horvat Nebojša,
 
@@ -240,7 +240,7 @@ Izvođač
 
 10:15
 
-AH6
+207
 
 aud.vežbe
 
@@ -368,7 +368,7 @@ Napomena:
 
 Algebra - računarske vežbe izvodiće se u organizaciji departmana Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 06:55, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 12:09, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -454,7 +454,7 @@ NTP-309
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Janković Eva
+Numerički algoritmi i numerički softver Nov asistent VA
 
 4
 
@@ -466,7 +466,7 @@ NTP-311
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Perović Mitar
+Numerički algoritmi i numerički softver Anđelić Branislav
 
 1
 
@@ -478,7 +478,7 @@ NTP-309
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Janković Eva
+Numerički algoritmi i numerički softver Nov asistent VA
 
 2
 
@@ -490,7 +490,7 @@ NTP-311
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Perović Mitar
+Numerički algoritmi i numerički softver Anđelić Branislav
 
 5
 
@@ -546,7 +546,7 @@ NTP-307
 
 rač.vežbe
 
-Napredni algoritmi i strukture podataka Simić Miloš
+Napredni algoritmi i strukture podataka Ranković Tamara
 
 1
 
@@ -616,7 +616,7 @@ NTP-311
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Perović Mitar
+Numerički algoritmi i numerički softver Nov asistent VA
 
 2
 
@@ -810,7 +810,7 @@ SVI
 
 Pred.
 
-Napredni algoritmi i strukture podataka Zarić dr Miroslav
+Napredni algoritmi i strukture podataka Simić dr Miloš
 
 S U B O T A
 
@@ -840,7 +840,7 @@ aud.vežbe
 
 Nelinearno programiranje i evolutivni algoritmi Buljević Anja
 
-Simić Miloš,
+Simić dr Miloš,
 
 3,4
 
@@ -868,7 +868,7 @@ Diskretna matematika
 
 Ciganović Radojka
 
-Simić Miloš,
+Simić dr Miloš,
 
 1,2
 
@@ -884,7 +884,7 @@ Napredni algoritmi i strukture podataka Ranković Tamara
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 07:26, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 07:52, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1148,13 +1148,25 @@ Izvođač
 
 09:00
 
-NTP-309
+NTP-307
 
 rač.vežbe
 
 Mobilne aplikacije
 
-Antešević Svetlana
+Matković Jelena
+
+4
+
+07:30
+
+09:00
+
+NTP-309
+
+rač.vežbe
+
+Metodologije razvoja softvera Trajković Anđela
 
 SVI
 
@@ -1179,18 +1191,6 @@ INT 1
 rač.vežbe
 
 Softverski obrasci i komponente Inđić Vladimir
-
-4
-
-11:15
-
-12:45
-
-NTP-311
-
-rač.vežbe
-
-Metodologije razvoja softvera Trajković Anđela
 
 1
 
@@ -1292,7 +1292,7 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Antešević Svetlana
+Matković Jelena
 
 2
 
@@ -1408,7 +1408,7 @@ NTP-001
 
 Pred.
 
-Inženjerstvo serverskog sloja Zarić dr Miroslav
+Inženjerstvo serverskog sloja Vidaković dr Milan
 
 SVI
 
@@ -1870,7 +1870,7 @@ Obratiti se rukovodiocu studijskog programa PROF. DR MIROSLAVU ZARIĆU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:22, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 11:41, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -2176,7 +2176,7 @@ Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
 
 Raspored možete pogledati na internet stranici FTN-a u delu Rasporedi i realizacija: www.ftn.uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:22, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 11:41, Strana: 6
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -2340,7 +2340,7 @@ rač.vežbe
 
 Pravna informatika
 
-Marković dr Marko (M)
+Matković Jelena
 
 15
 
