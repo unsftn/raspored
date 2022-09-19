@@ -192,6 +192,7 @@ Generating izvestaj target from models:
 		17:00-18:30  107  Mobilna oprema i sredstva za gašenje požara Despotović Bojana  
 		18:45-20:15  107  Elementi ciklusa katastrofalnih događaja Lazić Cveta
 	SREDA
+		07:15-08:45  107  Popović dr Vladimir  mikrokontrolerima  IP1 - Opred.  14:
 		09:15-12:00  107  Projektovanje alata za deformisanje  Movrin dr Dejan  
 		12:15-13:45  107  Otpornost materijala  Rehlicki Lukešević dr Lidija 
 		14:15-15:45  107  Ekonomika preduzeća  Todorović Tanja  
@@ -522,6 +523,7 @@ Generating izvestaj target from models:
 	UTORAK
 		07:15-10:00  205  Industrijski komunikacioni protokoli u elektroenergetskim sistemima Bojanić dr Milana  Stanojević Marina,  
 		10:30-12:00  205  Engleski jezik - osnovni Katić mr Marina  
+		10:30-12:00  205  Engleski jezik - osnovni  Katić mr Marina  
 		12:15-14:00  205  Digitalna reprodukcija Dedijer dr Sandra  
 		14:15-16:00  205  Pismo i tipografija  Nedeljković dr Uroš  
 		16:15-18:00  205  Tehnička sredstva automatike Stanišić dr Darko  Jeličić dr Zoran,  
@@ -752,6 +754,8 @@ Generating izvestaj target from models:
 		07:30-09:00  308  Uticaj zračenja na bezbednost i zdravlje na radu Zoraja Bojana  Anderla dr Andraš,  IZŽS, 
 		09:15-11:00  308  Osnove računarskih tehnologija  Ristić dr Sonja  Mihajlović dr Ivana,  IZŽS, 
 		11:15-14:00  308  Preventivne mere u oblasti bezbednosti i zdravlja na radu Čepić dr Zoran
+		14:15-17:00  308  Električne mašine 3  Vasić dr Veran  
+		17:15-18:45  308  Elektromotorni pogoni  Jarić Milica
 	UTORAK
 		07:00-09:30  308  Osnove otpornosti materijala  Cako Sabolč  
 		10:15-13:00  308  Mikroprocesorska elektronika  Struharik dr Rastislav
@@ -767,7 +771,6 @@ Generating izvestaj target from models:
 		14:00-15:30  308  Modelovanje električnih mašina  Popadić dr Bane
 		15:45-17:15  308  Algebra  Erić Mirjana  
 		17:30-19:00  308  Osnove elektrotehnike  Bjelica Jelena  
-		19:15-22:00  308  mrežama  Ivanović dr Zoran
 		19:15-20:45  308  Osnove elektrotehnike  Bjelica Jelena  
 	ČETVRTAK
 		08:45-10:15  308  Matematika 3  Kašterović Simona
@@ -776,6 +779,7 @@ Generating izvestaj target from models:
 		12:15-14:00  308  Uvod u mehaniku fluida  Bukurov dr Maša  
 		14:15-16:00  308  Ekonomija  Ivanišević dr Andrea  
 		16:15-19:00  308  Mehanika  Grahovac dr Nenad  
+		19:15-22:00  308  mrežama  Ivanović dr Zoran
 	PETAK
 		07:00-08:30  308  Osnovi elektrotehnike 1  Mijatović dr Gorana  
 		08:45-10:15  308  Algebra  Erić Mirjana  
@@ -784,9 +788,6 @@ Generating izvestaj target from models:
 		15:15-16:45  308  Teorija odlučivanja  Medić dr Nenad  Napomene:  Studenti biraju jedan od dva izborna predmeta: Izborna pozicija 1 (IP1) 1. Prepoznavanje oblika (3+2) 2. Algoritmi i njihova složenost (3+2) Grupe broj 1,2 su grupa koja su upisane na studijsku grupu Analitički inženjering (ANI) Grupa broj 11,12 je grupa koja je upisana na studijsku grupu Primenjeni informacioni inženjering (PII) Za predmete Algoritmi i njihova složenost, Uvod u teoriju informacija, Operaciona istraživanja laboratorijske vežbe izvodiće se u organizaciji departmana.  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+3.  Obratiti se RUKOVODIOCU STUDIJSKOG PROGRAMA DOC. DR. SLAVICI KORDIĆ.  Oznake učionica VPK** su nove učionice koje se nalaze u zgradi, koja se nalazi na adresi Bulevar kralja Petra I 38, Novi Sad.  
 		17:15-19:45  308  Senzori i merni pretvarači  Mitrović dr Zoran
 		17:15-19:45  308  Senzori i merni pretvarači Mitrović dr Zoran
-	SUBOTA
-		14:15-17:00  308  Električne mašine 3  Vasić dr Veran  
-		17:15-18:45  308  Elektromotorni pogoni  Jarić Milica
 309
 	PONEDELJAK
 		07:15-10:00  309  Osnovi teorije grafova i kombinatorike Pantović dr Jovanka  
@@ -832,6 +833,7 @@ Generating izvestaj target from models:
 		14:15-16:00  310  Projektovanje sistema automatskog upravljanja Kulić dr Filip  Jeličić dr Zoran,  
 		14:15-16:00  310  Projektovanje sistema automatskog upravljanja Kulić dr Filip  
 		16:45-18:15  310  Modeliranje i simulacija sistema Pejić Marko  
+		18:30-21:00  310  Algoritmi i njihova složenost  Zoranović Jovana
 		18:30-21:00  310  Algoritmi i njihova složenost Zoranović Jovana
 	UTORAK
 		08:45-10:15  310  Sociologija rada  Nešić Tomašević dr Ana  
@@ -862,12 +864,11 @@ Generating izvestaj target from models:
 		12:15-14:45  310  Matematika 1  Grujić mr Gabrijela  
 		15:15-18:00  310  Digitalni modeli terena Borisov dr Mirko  Govedarica dr Miro,  
 		18:15-21:00  310  Geoinformacioni sistemi Sladić dr Dubravka,  Radulović dr Aleksandra 
-	SUBOTA
-		18:30-21:00  310  Algoritmi i njihova složenost  Zoranović Jovana
 311
 	PONEDELJAK
 		07:00-08:30  311  Engleski jezik - srednji  Zivlak Jelena  
 		08:45-11:15  311  Elektroenergetski sistemi  Vojnović dr Nikola  11,12,13 
+		11:30-14:00  311  Obnovljivi izvori i male elektrane  Dumnić dr Boris  
 		11:30-14:00  311  Obnovljivi izvori i male elektrane  Dumnić dr Boris  Vojnović dr Nikola,  
 		14:15-16:45  311  Osnovi elektroenergetike Milić Kristina  
 	UTORAK
@@ -899,8 +900,6 @@ Generating izvestaj target from models:
 		17:30-19:00  311  Osnovi elektrotehnike 1  Mijatović dr Gorana  
 		18:15-19:45  311  Merenje i kontrola zagađenja  Lanc Zorana  Napomena:  Grupe broj 1,2,3 su grupe koje su upisane na studijski program INŽENJERSTVO ZAŠTITE ŽIVOTNE SREDINE (IZŽS) Grupe broj 31 i 32 su grupe koje su upisane na studijski program INŽENJERSTVO ZAŠTITE NA RADU (IZnR) Studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - stručni 1 (2+0) 2. Nemački jezik - osnovni (2+0) 
 		19:15-20:00  311  Osnovi elektrotehnike 1  Mijatović dr Gorana  Berisavljević Tanja,  
-	SUBOTA
-		11:30-14:00  311  Obnovljivi izvori i male elektrane  Dumnić dr Boris  
 312
 	PONEDELJAK
 		07:00-09:30  312  RF i mikrotalasna tehnika  Sekulić dr Dalibor  
@@ -1184,6 +1183,7 @@ AH1B
 		15:00-16:30  AH1B  Algebra  Nedović dr Maja  
 		17:15-21:00  AH1B  Studio projekat 01A  Reba dr Darko
 	ČETVRTAK
+		07:15-09:00  AH1B  Rapaić dr Milan  arhitektonskom projektovanju 1  
 		09:15-11:00  AH1B  Konstrukcijski sistemi  Kovačević dr Dušan  Optimizacione i upravljačke tehnologije u 
 		11:15-12:45  AH1B  Janjušević Miljan  arhitektonskom projektovanju 1
 		13:15-15:00  AH1B  Štamparske forme  Pavlović dr Živko  
@@ -1319,6 +1319,7 @@ AH4A
 		09:15-10:00  AH4A  Uvod u studije tehnike  Žigić dr Miodrag  Žigić dr Miodrag,  
 		10:15-12:00  AH4A  Uvod u studije tehnike  Kljajić dr Dragan  Babić dr Tatjana,  
 		12:15-14:00  AH4A  Uvod u studije arhitekture Ilić dr Vladimir (M)
+		14:15-15:45  AH4A  Teorija scenske arhitekture i dizajna Mihajlović dr Darinka  
 		16:00-17:30  AH4A  Teorija scenske arhitekture i dizajna Dimitrijević Janko  
 		17:45-19:15  AH4A  Teorija scenske arhitekture i dizajna Erdeljan Zoja
 	ČETVRTAK
@@ -1327,6 +1328,7 @@ AH4A
 		19:15-20:00  AH4A  Zvučna instalacija  Tepavčević dr Bojan  
 		20:15-21:45  AH4A  Zvučna instalacija  Tepavčević dr Bojan
 	PETAK
+		09:45-13:00  AH4A  Uvod u scensku arhitekturu, tehniku i dizajn Ivanović Maja  Dadić-Dinulović dr Tatjana, 
 		13:15-17:00  AH4A  Uvod u scensku arhitekturu, tehniku i dizajn Maljković dr Sanja,  Milenković Radoslav  
 		17:15-18:45  AH4A  Scenska arhitektura i tehnologija Stojšić Milica  
 		19:00-20:30  AH4A  Scenska arhitektura i tehnologija Stojšić Milica  
@@ -1449,6 +1451,7 @@ AH8
 		17:15-20:00  AH8  Arhitektura scenskih događaja Dinulović dr Andrija
 	SREDA
 		09:15-11:00  AH8  Konstrukcijski sistemi u scenskoj arhitekturi Kovačević dr Dušan  
+		11:15-13:00  AH8  Teorija i kritika scenskog dela Mihajlović dr Darinka  David dr Mia,  
 		13:15-15:00  AH8  Savremena vizuelna umetnost Mihajlović dr Darinka  
 		15:15-16:45  AH8  Savremena vizuelna umetnost Ivanović Maja
 	ČETVRTAK
@@ -1538,6 +1541,7 @@ AR1
 		11:30-14:00  AR1  Dizajnerski obrasci  Stefanović Miroslav  
 		14:30-17:45  AR1  Mašinsko učenje  Jelačić Bojan
 	UTORAK
+		07:00-09:30  AR1  Mikroprocesorska elektronika Bortnik Dušan  Opredeljeni 
 		09:45-11:15  AR1  Upravljanje razvojem informacionih sistema Katin Andrej  
 		11:30-13:00  AR1  Metode i tehnike upravljanja projektima Graić Igor  
 		15:00-17:30  AR1  Objektno orijentisane tehnologije Fabri Vladimir  
@@ -1626,6 +1630,7 @@ AR4
 		07:45-10:15  AR4  Projektovanje baza podataka Spasojević Ivana  
 		10:30-12:00  AR4  Prepoznavanje oblika  Nosek Tijana  IP1-Opred.  11:
 		12:30-15:00  AR4  Bezbednost i sigurnost informacionih sistema Kalin Igor  
+		15:15-16:45  AR4  Tehnike zaštitnog kodovanja  Stanojević mr Ivan  
 		17:00-19:30  AR4  Projektovanje skladišta podataka Narandžić Dajana  
 	UTORAK
 		07:30-10:00  AR4  Mikroprocesorska elektronika Nikić Vladimir  
@@ -1647,8 +1652,6 @@ AR4
 		09:45-12:15  AR4  Dizajnerski obrasci  Stefanović Miroslav  
 		12:30-15:00  AR4  Mobilne informacione tehnologije Lazarević Sara  
 		17:30-20:00  AR4  Arhitektura računara i operativni sistemi Gladić Dejana  
-	SUBOTA
-		15:15-16:45  AR4  Tehnike zaštitnog kodovanja  Stanojević mr Ivan  
 AR5
 	PONEDELJAK
 		09:45-12:15  AR5  Razvojni alati u telekomunikacijama i obradi signala 1  Gavrić Nikola  
@@ -2053,6 +2056,7 @@ ITCS-RC
 		13:15-15:45  ITCS-RC  Osnove računarskih tehnologija  Kozma Nina  Održivo korišćenje prirodnih resursa i sistem zaštite životne 
 		16:00-18:30  ITCS-RC  Modelovanje i simulacija u upravljanju rizikom Bajić dr Senka  
 	SREDA
+		07:00-08:30  ITCS-RC  Kolak Aleksandra  energetskom menadžmentu  
 		08:45-11:15  ITCS-RC  Osnove računarstva  Tegeltija Srđan  
 		11:30-14:00  ITCS-RC  Projektovanje skladišta podataka Petrovački Jelena  
 		14:15-15:45  ITCS-RC  Upravljanje projektima u oblasti IT  Morača dr Slobodan  
@@ -2127,6 +2131,7 @@ L1(RC)
 		17:30-19:00  L1(RC)  Softverski praktikum  Beštić Mirko  Stanisavljević dr Aleksandar,  
 		19:15-20:45  L1(RC)  Softverski praktikum  Jarić Milica  
 	UTORAK
+		07:00-08:30  L1(RC)  Nacrtna geometrija i tehničko crtanje Bojanić Šejat dr Mirjana  
 		08:45-10:15  L1(RC)  Sistemi i signali u geomatici Maravić Nikolina  
 		10:30-13:00  L1(RC)  Sigurnost i bezbednost elektroenergetskog softvera Ruvčevski Stefan  Janković Marko,  
 		13:15-15:45  L1(RC)  Sigurnost i bezbednost elektroenergetskog softvera Ruvčevski Stefan
@@ -2546,6 +2551,7 @@ MF-Sala2
 		18:15-19:45  MF-Sala2  Fiziologija sa patofiziologijom Klašnja Aleksandar
 MI125
 	PONEDELJAK
+		07:45-10:15  MI125  Stanojević Miloš  kontrolera  
 		10:30-12:00  MI125  Implementacija automatskih sistema Milenković dr Ivana  
 		12:30-14:00  MI125  Automatizacija procesa rada 2  Jurošević Vladimir  
 		14:15-17:30  MI125  Mehatronika  Milić Lazar
@@ -2558,6 +2564,7 @@ MI125
 		14:15-16:45  MI125  Tehnologije montaže  Penčić Marko
 	ČETVRTAK
 		07:15-10:00  MI125  Automatizacija procesa rada 2  Dudić dr Slobodan,  Oros dr Dragana  
+		11:15-13:45  MI125  Stanojević Miloš  logičkih kontrolera  
 		14:00-17:15  MI125  Mehatronika  Milić Lazar  
 		17:30-20:45  MI125  Mehatronika  Milić Lazar
 	PETAK
@@ -3175,6 +3182,7 @@ MID3-1
 		10:30-12:00  MID3-1  Procena bezbednosti radnog mesta Sremčev dr Nemanja
 		12:15-13:00  MID3-1  Metode upravljanja saobraćajnom potražnjom Garunović dr Nemanja  
 		15:15-18:00  MID3-1  Projektovanje industrijskih uređaja i mernih sistema 1  Urekar dr Marjan  
+		18:15-19:45  MID3-1  Jojić Tanasije  komunalne mehanizacije  
 		20:00-21:30  MID3-1  Zaštita na radu u metalurgiji i pri termohemijskoj obradi metala Kovačević dr Lazar
 	PETAK
 		08:15-11:00  MID3-1  Virtualno projektovanje proizvoda  Tabaković dr Slobodan  
@@ -3446,6 +3454,7 @@ MIG3-1C
 		18:00-20:30  MIG3-1C  Osnove razvoja proizvoda Studen Milutin
 MISD1
 	PONEDELJAK
+		08:15-11:00  MISD1  Konstruisanje procesnih i toplotnih aparata Đaković dr Damir  
 		11:15-14:00  MISD1  Eksploatacioni aspekti i rizici u radu postrojenja Doder dr Đorđije
 		14:15-17:00  MISD1  Vrednovanje projekata  Ruškić dr Nenad  Stojić dr Gordan,  
 		17:15-20:00  MISD1  Modeliranje u saobraćaju i transportu Tanackov dr Ilija  
@@ -3672,6 +3681,8 @@ MIĐ3-1
 		07:30-10:15  MIĐ3-1  Tehnološka logistika i preduzetništvo  Milošević dr Mijodrag  Budak dr Igor, Vukelić dr Đorđe,  
 		10:30-12:00  MIĐ3-1  Projektovanje pribora i merne mašine  Hadžistević dr Miodrag  
 		15:15-17:00  MIĐ3-1  Viši kurs matematike 1  Lukić dr Tibor  
+		17:15-19:00  MIĐ3-1  Kognitivni radio  Narandžić dr Milan  Izabrana poglavlja iz informaciono - komunikacionih 
+		19:15-21:00  MIĐ3-1  Vukobratović dr Dejan  tehnologija  
 	UTORAK
 		07:00-07:45  MIĐ3-1  Primena računara u elektroenergetici 2  Vojnović dr Nikola  
 		07:50-10:20  MIĐ3-1  Primena računara u elektroenergetici 2  Vojnović dr Nikola  
@@ -3698,9 +3709,6 @@ MIĐ3-1
 		12:30-14:00  MIĐ3-1  Principi digitalnih komunikacija Ninković Vukan  
 		14:15-16:00  MIĐ3-1  Upravljanje projektima  Atanasković dr Predrag  Napomena:  Studenti koji su upisani na studijski program POŠTANSKI SAOBRAĆAJ I TELEKOMUNIKACIJE (PST) biraju, Izborna pozicija dva (IP2) - bira se 1 od 2 ponuđena predmeta 1. Objektno orijentisane tehnologije (3+3) 2. Tehnologija drumskog saobraćaja (3+3) 
 		16:15-18:45  MIĐ3-1  Zaštita od hemijskih štetnosti, požara i eksplozija Adamović dr Dragan  Napomena:  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+6.  Obratiti se RUKOVODIOCU STUDIJSKOG PROGRAMA PROF. DR. DRAGANU ADAMOVIĆU.  
-	SUBOTA
-		17:15-19:00  MIĐ3-1  Kognitivni radio  Narandžić dr Milan  Izabrana poglavlja iz informaciono - komunikacionih 
-		19:15-21:00  MIĐ3-1  Vukobratović dr Dejan  tehnologija  
 MIĐ3-2
 	UTORAK
 		13:30-16:00  MIĐ3-2  Termička obrada  Kukuruzović Dragan  Zečević Milka,  
@@ -3913,11 +3921,13 @@ NTP-107
 		18:30-21:00  NTP-107  Mikroračunarski sistemi za rad u realnom vremenu Mišeljić Đorđe  
 	ČETVRTAK
 		07:00-09:30  NTP-107  Računarsko projektovanje analognih integrisanih kola Radić dr Jelena  
+		09:45-11:15  NTP-107  Radić dr Jelena  kola  
 		11:30-13:00  NTP-107  Integrisana kola za komunikacione sisteme Radić dr Jelena
 		14:15-16:45  NTP-107  Projektovanje elektronskih kola pomoću računara Radić dr Jelena  
 		17:15-18:45  NTP-107  Formalne metode projektovanja i verifikacije hardvera Vranjković dr Vuk
 	PETAK
 		07:00-09:30  NTP-107  Mikroračunarski sistemi za rad u realnom vremenu Mišeljić Đorđe  IP1-Opred.  10:
+		13:15-16:00  NTP-107  Radić dr Jelena  kola  Napomena:  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+6.  Obratiti se V. PROF. DR. IVANU MEZEIJU.  
 		16:15-19:00  NTP-107  Multiprocesorski sistemi  Vranjković dr Vuk  
 		19:15-20:45  NTP-107  Multiprocesorski sistemi  Vranjković dr Vuk  Napomena:  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+6.  Obratiti se V. PROF. DR. IVANU MEZEIJU.  
 	SUBOTA
@@ -3979,6 +3989,9 @@ NTP-112
 	ČETVRTAK
 		15:15-17:00  NTP-112  Formalne metode projektovanja i verifikacije hardvera Vranjković dr Vuk  
 		17:45-20:15  NTP-112  Računarsko projektovanje elektronskih kola Novi saradnik-PE 1
+	SUBOTA
+		07:30-09:00  NTP-112  Senzori i aktuatori  Novi saradnik-PE 1  (IP2-opred.(13-))  Napomena:  Studenti imaju sledeće dve izborne pozicije: Izborna pozicija 1 (IP1)  1. Primenjena elektronika (3+3)  2. Računarsko projektovanje digitalnih integrisanih kola (3+3) Izborna pozicija 2 (IP2)  1. Senzori i aktuatori (3+3)  2. Projektovanje elektronskih kola pomoću računara (3+3) Algoritmi i njihova složenost - laboratorijske vežbe izvodiće se u organizaciji departmana.  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+3.  Obratiti se V. PROF. DR. IVANU MEZEIJU.  
+		09:15-10:45  NTP-112  Senzori i aktuatori  Novi saradnik-PE 1  (IP2-opred.(13-))  IP2-Opred.  11:
 NTP-113
 	PONEDELJAK
 		07:00-09:30  NTP-113  Jezici za modelovanje hardvera  Pilipović Nebojša  
@@ -4038,6 +4051,7 @@ NTP-115
 		16:00-17:30  NTP-115  Specijalne električne instalacije Vučković Mladen  
 		19:30-21:00  NTP-115  Prepoznavanje oblika  Nosek Tijana
 	PETAK
+		07:00-08:30  NTP-115  Prepoznavanje oblika  Lazić Ivan  
 		08:40-10:10  NTP-115  Uvod u teoriju informacija  Devaja Tijana  
 		08:45-10:15  NTP-115  Video tehnologije  Simić dr Nikola  
 		09:30-11:00  NTP-115  Komunikacione mreže  Devaja Tijana
@@ -4063,6 +4077,9 @@ NTP-116
 		08:45-10:15  NTP-116  Prepoznavanje oblika  Nosek Tijana  
 		10:45-12:15  NTP-116  Digitalna obrada biomedicinskog signala Zec Aleksandra  
 		12:30-14:00  NTP-116  Prepoznavanje oblika  Nosek Tijana  
+		17:45-19:15  NTP-116  Kompjuterska vizija  Vujović Mia  
+		19:30-20:15  NTP-116  Izabrana poglavlja iz obrade signala  Simić dr Nikola  
+		20:30-21:15  NTP-116  Izabrana poglavlja iz obrade signala  Simić dr Nikola
 	UTORAK
 		08:00-09:30  NTP-116  Telekomunikacione mreže  Devaja Tijana  
 		09:45-11:15  NTP-116  Digitalna obrada slike u animacijama Haška Aleksandra  
@@ -4092,9 +4109,6 @@ NTP-116
 		09:45-11:15  NTP-116  Signali i sistemi  Simić Nikola  
 		11:30-14:00  NTP-116  Signali i sistemi  Suzić dr Siniša  Napomena:  Verovatnoća, statistika i slučajni procesi - računarske vežbe izvodiće se u organizaciji departmana 
 		14:15-15:45  NTP-116  Signali i sistemi  Suzić dr Siniša  Napomena:  Uvod u elektroniku - laboratorijske vežbe izvodiće se u organizaciji departmana.  
-		17:45-19:15  NTP-116  Kompjuterska vizija  Vujović Mia  
-		19:30-20:15  NTP-116  Izabrana poglavlja iz obrade signala  Simić dr Nikola  
-		20:30-21:15  NTP-116  Izabrana poglavlja iz obrade signala  Simić dr Nikola
 NTP-208
 	UTORAK
 		15:00-16:45  NTP-208  Softver za FN sisteme u realnim uslovima rada Čorba dr Zoltan  
@@ -4102,15 +4116,16 @@ NTP-208
 	SREDA
 		07:30-10:00  NTP-208  Napajanje industrijskih pogona Reljić dr Dejan  
 		10:15-12:00  NTP-208  Elektroenergetski sistemi Stefani mr Izabela
-		16:15-19:00  NTP-208  Električni sistemi u vozilima  Porobić dr Vlado  Energetska elektronika u distributivnim i prenosnim Vekić dr Marko,  
 	ČETVRTAK
 		07:45-09:30  NTP-208  Energetska elektronika u distributivnim mrežama Vekić dr Marko  
 		09:45-10:30  NTP-208  Energetska elektronika u distributivnim mrežama Isakov Ivana  
 		10:45-12:30  NTP-208  Energetska elektronika u distributivnim mrežama Isakov Ivana
+		16:15-19:00  NTP-208  Električni sistemi u vozilima  Porobić dr Vlado  Energetska elektronika u distributivnim i prenosnim Vekić dr Marko,  
 	PETAK
 		13:15-14:00  NTP-208  Aktivne distributivne mreže  Vojnović dr Nikola  
 		17:15-18:45  NTP-208  Softverski alati za projektovanje  Milićević dr Dragan  Napomena:  Studenti biraju jedan od dva izborna predmeta: 1. Softverski alati za projektovanje (3+2) 2. Obnovljivi izvori i male elektrane (3+2) Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+3.  Obratiti se PROF. DR. ŽIVKU BOJOVIĆU.  
 	SUBOTA
+		08:45-09:30  NTP-208  Modelovanje električnih mašina i pretvarača Popadić dr Bane  IP1 - opred.
 		09:45-10:30  NTP-208  Modelovanje električnih mašina i pretvarača Popadić dr Bane  IP1 - Opred.  09:
 NTP-210
 	PONEDELJAK
@@ -4143,6 +4158,7 @@ NTP-212
 		09:30-12:00  NTP-212  Elektronska merenja  Gotovac Zdravko  
 		13:15-14:45  NTP-212  Električne mašine u automatici  Oros dr Đura  
 		15:30-18:00  NTP-212  Električna i elektronska merenja u industriji Mitrović Milica  
+		18:15-20:45  NTP-212  Šaš Milan  mikroračunarsku instrumentaciju
 	UTORAK
 		09:45-12:15  NTP-212  Električna i elektronska merenja u industriji Mitrović Milica  
 		12:30-15:00  NTP-212  Mozak-računar interfejs  Sovilj dr Platon  
@@ -4164,15 +4180,17 @@ NTP-212
 		09:45-12:15  NTP-212  Projektovanje medicinskih uređaja Novaković Đorđe  Napomena:  Grupa broj 1 je stud. grupu - Upravljački sistemi u biomedicinskom inženjerstvu (US) Grupa broj 11 je stud. grupu - Elektronika, telekomunikacije i merenja u biomedicinskom inženjerstvu (ET) Grupa broj 21 je stud. grupu - Mašinstvo u biomedicinskom inženjerstvu (MB) 
 NTP-213
 	PONEDELJAK
-		07:00-09:30  NTP-213  Merno-informacioni sistemi za rad u realnom vremenu Novaković Đorđe  
-		09:45-12:15  NTP-213  Merno-informacioni sistemi za rad u realnom vremenu Sovilj dr Platon  
+		07:30-10:00  NTP-213  Projektovanje industrijskih mernih uređaja Tomić dr Josif  
+		10:15-12:00  NTP-213  Projektovanje industrijskih mernih uređaja Tomić dr Josif
 		12:15-14:00  NTP-213  Elektronska merenja  Pejić dr Dragan
-		12:30-14:00  NTP-213  Metrologija i standardizacija  Urekar dr Marjan
 		14:15-16:45  NTP-213  Mikroprocesorski merno-informacioni sistemi 1  Novaković Đorđe  
 		19:30-22:00  NTP-213  Odabrana poglavlja iz biomedicinske instrumentacije Rafailović Luka  Tabaković dr Slobodan,  
 	UTORAK
 		07:00-09:30  NTP-213  Merno-informacioni sistemi za rad u realnom vremenu Novaković Đorđe  
+		07:00-09:30  NTP-213  Merno-informacioni sistemi za rad u realnom vremenu Novaković Đorđe  
+		09:45-12:15  NTP-213  Merno-informacioni sistemi za rad u realnom vremenu Sovilj dr Platon  
 		09:45-12:15  NTP-213  Merno-informacioni sistemi za rad u realnom vremenu Sovilj dr Platon
+		12:30-14:00  NTP-213  Metrologija i standardizacija  Urekar dr Marjan
 		14:15-16:45  NTP-213  Biomedicinska instrumentacija  Novaković Đorđe  
 		17:00-19:30  NTP-213  Biomedicinska instrumentacija  Gotovac Zdravko  
 	SREDA
@@ -4187,16 +4205,15 @@ NTP-213
 		15:15-17:45  NTP-213  Senzori i merni pretvarači  Mirković Stefan
 		18:15-21:00  NTP-213  Metrologija i standardizacija  Urekar dr Marjan
 	PETAK
-		07:30-10:00  NTP-213  Projektovanje industrijskih mernih uređaja Tomić dr Josif  
 		07:30-10:00  NTP-213  Projektovanje sistema za daljinski nadzor i upravljanje Tomić dr Josif  
 		07:30-10:00  NTP-213  Projektovanje sistema za daljinski nadzor i upravljanje Tomić dr Josif  
-		10:15-12:00  NTP-213  Projektovanje industrijskih mernih uređaja Tomić dr Josif
 		10:15-13:00  NTP-213  Projektovanje sistema za daljinski nadzor i upravljanje Tomić dr Josif  
 		10:15-13:00  NTP-213  Projektovanje sistema za daljinski nadzor i upravljanje Tomić dr Josif  
 		13:15-15:45  NTP-213  Biomedicinska instrumentacija  Gotovac Zdravko  
 	SUBOTA
 		07:00-09:30  NTP-213  Mikroprocesorski merno-informacioni sistemi 1  Volaš Mario  Napomena:  Oznake učionica NTP-X, označavaju učionice, koje se nalaze u zgradi na adresi Fruškogorska 11, Novi Sad.  
 		09:45-12:15  NTP-213  Mikroprocesorski merno-informacioni sistemi 1  Volaš Mario  Napomena:  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+6.  Obratiti se RUKOVODIOCU STUDIJSKOG PROGRAMA PROF. DR. PLATONU SOVILJU.  Matematika 4 - računarske vežbe izvodiće se u organizaciji departmana 
+		09:45-12:15  NTP-213  Novaković Đorđe  biomedicini  
 		12:30-15:00  NTP-213  Biomedicinska instrumentacija  Gotovac Zdravko  Napomena:  Predavanja iz predmeta Neurofiziologija i medicinska rehabilitacija će se održavati u predavaonici Klinike za neurologiju II sprat, koja se nalazi u Kliničkom centru Vojvodine.  Verovatnoća i matematička statistika - računarske vežbe izvodiće se u organizaciji departmana 
 NTP-222
 	PONEDELJAK
@@ -4602,25 +4619,166 @@ NTP-418
 		08:30-10:00  NTP-418  Logičko projektovanje računarskih sistema 1  Kaštelan dr Ivan  (sv.dr.ned.)  
 		12:15-13:45  NTP-418  Elektronika  Lukić dr Milan  Jeličić dr Zoran,  
 		18:15-19:45  NTP-418  Automatsko upravljanje 2  Mitrović Aleksandra  
+		BLOK NASTAVA:
+		2022-10-10 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-17 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-24 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-10-31 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-11-07 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Đukić dr Miodrag  
+		2022-11-14 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-21 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-28 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-12-05 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-12 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-19 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-26 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2023-01-09 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2023-01-16 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-10-10 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-17 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-24 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-31 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-07 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-14 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-21 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-11-28 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-05 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-12 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-19 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-26 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2023-01-09 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-16 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
 	UTORAK
 		07:15-10:00  NTP-418  Tehnologije računarskih upravljačkih sistema Kulić dr Filip  
 		07:15-10:00  NTP-418  Tehnologije računarskih upravljačkih sistema Kulić dr Filip  
 		13:00-14:45  NTP-418  Osnovi računarskih mreža  Bašičević dr Ilija
 		18:15-20:00  NTP-418  Mobilne aplikacije  Gostojić dr Stevan
+		BLOK NASTAVA:
+		2022-10-11 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-18 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-25 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-11-01 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-11-08 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Đukić dr Miodrag  
+		2022-11-15 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-22 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-29 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-12-06 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-13 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-20 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-27 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2023-01-10 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-10-11 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-18 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-25 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-11-01 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-08 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-15 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-22 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-11-29 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-06 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-13 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-20 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-27 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2023-01-10 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-17 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
 	SREDA
 		08:30-10:00  NTP-418  Osnove elektrotehnike  Kljajić dr Dragan  
 		12:15-14:45  NTP-418  Principi elektroterapije  Jorgovanović dr Nikola  Đan dr Mihajla,  
 		19:30-21:15  NTP-418  Projektovanje sistema automatskog upravljanja Kulić dr Filip
 		19:30-21:15  NTP-418  Projektovanje sistema automatskog upravljanja Kulić dr Filip
+		BLOK NASTAVA:
+		2022-10-12 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-19 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-26 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-11-09 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Đukić dr Miodrag  
+		2022-11-16 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-23 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-30 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-12-07 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-14 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-21 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-12-28 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2023-01-11 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-11-02 10:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-10-12 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-19 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-26 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-11-02 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-09 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-16 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-23 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-11-30 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-07 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-14 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-21 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-28 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-04 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-11 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-18 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
 	ČETVRTAK
 		12:15-13:45  NTP-418  Modeliranje i simulacija sistema Pejić Marko  Erdeljan dr Aleksandar, 
 		18:15-19:45  NTP-418  Logičko projektovanje računarskih sistema 1  sv.dr.ned.  Kaštelan dr Ivan  
+		BLOK NASTAVA:
+		2022-10-13 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-20 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-27 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-11-03 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Đukić dr Miodrag  
+		2022-11-10 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-17 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-24 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-12-01 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-08 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-15 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-22 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-12-29 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2023-01-12 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-10-13 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-20 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-27 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-11-03 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-10 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-17 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-24 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-01 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-08 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-15 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-22 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-29 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-05 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-12 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-19 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
 	PETAK
 		13:00-14:45  NTP-418  Algoritmi digitalne obrade zvuka  Lukač dr Željko  
+		BLOK NASTAVA:
+		2022-10-14 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 1  Đukić dr Miodrag  
+		2022-10-21 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-10-28 09:15-12:00  NTP-418  Programska podrška u realnom vremenu 2  Đukić dr Miodrag  
+		2022-11-04 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Đukić dr Miodrag  
+		2022-11-18 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-11-25 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 1  Marinković dr Vladimir  
+		2022-12-02 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-09 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-16 09:15-12:00  NTP-418  Arhitekture i algoritmi DSP-a 2  Kovačević dr Jelena  
+		2022-12-23 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-12-30 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2023-01-13 09:15-12:00  NTP-418  Međuračunarske komunikacije i računarske mreže 1  Bašičević dr Ilija  
+		2022-10-14 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-21 15:15-18:00  NTP-418  Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan  
+		2022-10-28 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-04 15:15-18:00  NTP-418  Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan  
+		2022-11-18 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-11-25 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-02 15:15-18:00  NTP-418  Procesi u razvoju automobilskog softvera Krunić dr Momčilo  
+		2022-12-09 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-16 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-23 15:15-18:00  NTP-418  Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan  
+		2022-12-30 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
+		2023-01-13 15:15-18:00  NTP-418  Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan  
 	SUBOTA
 		08:00-09:30  NTP-418  Modeliranje i simulacija sistema  Pejić Marko  
 		09:45-11:15  NTP-418  Logičko projektovanje računarskih sistema 1  Kaštelan dr Ivan  (2,4,6)  
 		11:30-13:00  NTP-418  Logičko projektovanje računarskih sistema 1  Kaštelan dr Ivan  (10,11,12)  
+		BLOK NASTAVA:
 NTP-503
 	PETAK
 		11:15-12:45  NTP-503  Algoritmi digitalne obrade zvuka  Usorac Srđan  
@@ -4635,31 +4793,497 @@ NTP-505
 	PONEDELJAK
 		07:30-10:00  NTP-505  Objektno orijentisano programiranje 2  Kenjić Dušan  
 		10:15-12:45  NTP-505  Objektno orijentisano programiranje 2  Kenjić Dušan  
+		BLOK NASTAVA:
+		2022-10-31 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-07 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-14 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-21 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-11-28 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-05 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-12 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-19 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-26 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2023-01-09 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-16 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2022-10-10 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-17 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-24 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-10-31 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-07 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-14 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-21 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-28 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-05 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-12 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-19 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-26 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-09 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-16 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  Napomena:  Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT sa fondom časova 0+3.  Obratiti se rukovodiocu studijskog programa PROF. DR MILANU VIDAKOVIĆU.  Pošto će se izvoditi blok nastava iz svih predmeta, raspored je urađen tako da je pored standardnih podataka za raspored nastave u prvoj koloni dat i datum izvođenja nastave.  Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan predmet.  
+		2022-10-10 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-17 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-24 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-31 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-07 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-14 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-21 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-11-28 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-05 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-12 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-19 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-26 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2023-01-09 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-16 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
 	UTORAK
 		07:45-09:15  NTP-505  Elektronika  Kovačević Nikola  
 		09:30-11:00  NTP-505  Elektronika  Mišeljić Đorđe  
 		11:15-12:45  NTP-505  Elektronika  Lukić dr Milan  
+		BLOK NASTAVA:
+		2022-11-01 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-08 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-15 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-22 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-11-29 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-06 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-13 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-20 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-27 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2023-01-10 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-17 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2022-10-11 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-18 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-25 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-01 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-08 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-15 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-22 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-29 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-06 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-13 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-20 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-27 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-10 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-11 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-18 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-25 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-11-01 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-08 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-15 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-22 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-11-29 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-06 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-13 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-20 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-27 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2023-01-10 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-17 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
 	SREDA
 		08:30-11:00  NTP-505  Objektno orijentisano programiranje 2  Kenjić Dušan  
+		BLOK NASTAVA:
+		2022-11-02 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-09 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-16 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-23 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-11-30 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-07 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-14 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-21 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-28 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-04 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-11 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-18 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2022-10-12 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-19 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-26 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-02 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-09 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-16 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-23 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-30 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-07 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-14 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-21 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-12-28 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-11 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-12 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-19 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-26 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-11-02 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-09 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-16 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-23 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-11-30 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-07 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-14 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-21 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-28 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-04 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-11 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-18 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
 	ČETVRTAK
 		09:30-11:00  NTP-505  Osnovi računarskih mreža  Kenjić Dušan  
 		11:15-12:45  NTP-505  Osnovi računarskih mreža  Kenjić Dušan  
+		BLOK NASTAVA:
+		2022-11-03 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-10 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-17 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-24 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-01 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-08 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-15 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-22 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-29 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-05 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-12 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-19 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2022-10-13 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-20 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-27 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-03 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-10 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-17 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-24 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-01 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-08 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-15 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-22 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-12-29 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-12 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-13 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-20 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-27 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-11-03 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-10 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-17 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-24 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-01 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-08 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-15 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-22 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-29 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-05 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-12 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-19 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  Napomena:  Pošto će se izvoditi blok nastava iz svih predmeta, raspored je urađen tako da je pored standardnih podataka za raspored nastave u prvoj koloni dat i datum izvođenja nastave.  Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan predmet.  
 	PETAK
 		07:45-09:15  NTP-505  Elektronika  Lukić dr Milan  
 		09:35-11:05  NTP-505  Elektronika  Mišeljić Đorđe  
 		11:15-12:45  NTP-505  Elektronika  Mišeljić Đorđe  
+		BLOK NASTAVA:
+		2022-10-28 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-04 15:15-18:00  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Popović dr Miroslav  
+		2022-11-18 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-11-25 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-02 15:15-18:00  NTP-505  Softver u digitalnoj televiziji 2  Bjelica dr Milan  
+		2022-12-09 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-16 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-23 15:15-18:00  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja  
+		2022-12-30 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2023-01-13 15:15-18:00  NTP-505  Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav  
+		2022-10-14 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-21 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-10-28 16:15-19:15  NTP-505  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-04 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-18 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-25 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-02 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-09 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-16 16:15-19:15  NTP-505  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-23 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-12-30 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-13 16:15-19:15  NTP-505  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-14 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-21 18:15-19:45  NTP-505  Multimedijalni sistemi u automobilskoj industriji Milošević Milena  
+		2022-10-28 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-04 18:15-19:45  NTP-505  Međuračunarske komunikcije i računarske mreže 2  Milošević Milena  
+		2022-11-18 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-11-25 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-02 18:15-19:45  NTP-505  Softver u digitalnoj televiziji 2  Milošević Milena  
+		2022-12-09 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-16 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-23 18:15-19:45  NTP-505  Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije  
+		2022-12-30 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
+		2023-01-13 18:15-19:45  NTP-505  Projektovanje sistema za rad u realnom vremenu Milošević Milena  
 NTP-506
 	PONEDELJAK
 		07:30-10:00  NTP-506  Objektno orijentisano programiranje 2  Ivanović Sandra  
 		12:15-14:45  NTP-506  Objektno orijentisano programiranje 2  Ivanović Sandra
+		BLOK NASTAVA:
+		2022-10-10 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-10 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-17 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-17 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-24 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-24 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-10-31 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-31 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-07 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-07 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-14 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-14 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-21 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-21 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-28 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-28 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-05 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-05 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-12 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-12 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-19 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-19 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-26 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-26 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-09 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-09 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-16 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-16 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-10 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-17 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-24 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-31 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-11-07 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-14 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-21 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-28 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-12-05 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-12 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-19 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-26 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-09 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-16 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-10-10 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-10 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-17 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-17 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-24 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-24 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-31 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-10-31 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-07 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-07 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-14 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-14 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-21 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-21 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-11-28 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-28 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-05 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-12-05 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-12 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-12 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-19 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-19 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-26 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-26 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2023-01-09 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-09 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
+		2023-01-16 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-16 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
 	UTORAK
 		08:30-11:00  NTP-506  Operativni sistemi za rad u realnom vremenu Usorac Srđan  
 		11:15-12:45  NTP-506  Algoritmi digitalne obrade zvuka  Usorac Srđan  
+		BLOK NASTAVA:
+		2022-10-11 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-11 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-18 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-18 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-25 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-25 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-01 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-11-01 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-08 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-08 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-15 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-15 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-22 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-22 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-29 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-29 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-06 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-06 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-13 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-13 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-20 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-20 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-27 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-27 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-10 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-10 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-11 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-18 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-25 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-11-01 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-11-08 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-15 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-22 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-29 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-12-06 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-13 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-20 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-27 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-10 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-10-11 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-11 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-18 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-18 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-25 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-25 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-11-01 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-01 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-08 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-08 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-15 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-15 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-22 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-22 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-11-29 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-29 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-06 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-12-06 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-13 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-13 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-20 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-20 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-27 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-27 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2023-01-10 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-10 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
+		2023-01-17 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-17 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
 	ČETVRTAK
 		09:30-11:00  NTP-506  Osnovi računarskih mreža  Usorac Srđan  
 		11:15-12:45  NTP-506  Osnovi računarskih mreža  Usorac Srđan  
+		BLOK NASTAVA:
+		2022-10-13 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-13 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-20 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-20 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-27 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-27 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-03 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-03 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-10 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-10 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-17 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-17 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-24 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-24 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-01 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-01 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-08 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-08 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-15 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-15 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-22 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-22 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-12-29 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-29 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-12 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-12 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-13 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-20 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-27 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-11-03 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-10 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-17 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-24 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-12-01 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-08 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-15 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-22 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-29 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-12 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-10-13 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-13 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-20 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-20 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-27 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-27 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-11-03 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-03 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-10 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-10 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-17 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-17 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-24 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-24 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-01 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-12-01 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-08 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-08 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-15 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-15 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-22 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-22 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-29 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2022-12-29 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
+		2023-01-05 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-05 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
+		2023-01-12 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-12 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
+		2023-01-19 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-19 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
 	PETAK
 		11:15-12:45  NTP-506  Algoritmi digitalne obrade zvuka  Bokan Dejan  
+		BLOK NASTAVA:
+		2022-10-14 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-14 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 1  Savić Jasmina  
+		2022-10-21 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-21 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-10-28 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-28 13:00-16:00  NTP-506  Programska podrška u realnom vremenu 2  Savić Jasmina  
+		2022-11-04 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-04 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-18 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-18 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-11-25 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-25 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 1  Kenjić Dušan  
+		2022-12-02 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-02 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-09 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-09 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-16 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-16 13:00-16:00  NTP-506  Arhitekture i algoritmi DSP-a 2  Bokan Dejan  
+		2022-12-23 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-23 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-12-30 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-30 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2023-01-13 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-13 13:00-16:00  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Savić Jasmina  
+		2022-10-14 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 1  Bokan Dejan  
+		2022-10-21 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-10-28 16:15-19:15  NTP-506  Programska podrška u realnom vremenu 2  Bokan Dejan  
+		2022-11-04 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-18 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-11-25 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 1  Pekez Nenad  
+		2022-12-02 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-09 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-16 16:15-19:15  NTP-506  Arhitekture i algoritmi DSP-a 2  Usorac Srđan  
+		2022-12-23 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-12-30 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2023-01-13 16:15-19:15  NTP-506  Međuračunarske komunikacije i računarske mreže 1  Pekez Nenad  
+		2022-10-14 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-14 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-21 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad  
+		2022-10-21 18:15-19:45  NTP-506  Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije  
+		2022-10-28 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-10-28 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-04 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad  
+		2022-11-04 18:15-19:45  NTP-506  Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije  
+		2022-11-18 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-18 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-11-25 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-11-25 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-02 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Četić dr Nenad  
+		2022-12-02 18:15-19:45  NTP-506  Procesi u razvoju automobilskog softvera Stojanović Dimitrije  
+		2022-12-09 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-09 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-16 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-16 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-23 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad  
+		2022-12-23 18:15-19:45  NTP-506  Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena  
+		2022-12-30 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2022-12-30 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
+		2023-01-13 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad  
+		2023-01-13 18:15-19:45  NTP-506  Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije  
 NTP-507
 	PONEDELJAK
 		08:45-10:15  NTP-507  Logičko projektovanje računarskih sistema 1  Subotić Miloš  Erdeljan dr Aleksandar,  
@@ -4725,6 +5349,7 @@ O12
 	PETAK
 		07:30-10:00  O12  Analiza podataka o stanju radne sredine Adamović dr Dragan  
 		13:15-15:45  O12  Analiza podataka o stanju radne sredine Adamović dr Dragan  
+		16:15-18:00  O12  Nakomčić-Smaragdakis dr Branka  aspekta  
 Scen-LAB
 	PONEDELJAK
 		11:30-14:00  Scen-LAB  Dizajn i tehnika scene 3  Šalamon Luna  David dr Mia,  
