@@ -15,8 +15,8 @@ DanIliSemestar:
     Dan | INT 'Semestar';
 
 Heder:
-    'Grupa-e' 'Od' 'Do' 'Učionica' 'Vrsta nast.' 'Naziv Predmeta' 'Izvođač'
-    (!Grupa /\s*[^\n]*/)?  // Pokupi izvođača koji je ispao iz linije
+    'Datum'? 'Grupa-e' 'Od' 'Do' 'Učionica' 'Vrsta nast.' 'Naziv Predmeta' 'Izvođač'
+    (/\s*/ (!(Grupa|Datum) /[^\n]/)*)  // Pokupi izvođača koji je ispao iz linije
 ;
 
 Dan[skipws]:
@@ -25,9 +25,11 @@ Dan[skipws]:
     | 'S' 'R' 'E' 'D' 'A'
     | 'Č' 'E' 'T' 'V' 'R' 'T' 'A' 'K'
     | 'P' 'E' 'T' 'A' 'K'
-    | 'S' 'U' 'B' 'O' 'T' 'A';
+    | 'S' 'U' 'B' 'O' 'T' 'A'
+    | 'B' 'L' 'O' 'K' 'N' 'A' 'S' 'T' 'A' 'V' 'A';
 
 Termin:
+    (datum=Datum)?  // Ako imamo datum u pitanju je blok nastava
     grupa=Grupa
     od=Vreme do=Vreme
     učionica=Učionica
@@ -35,6 +37,7 @@ Termin:
     predmet=Predmet;
 
 Grupa: /(\(|\)|\w|,|-)+/ /\s*/- &Vreme;
+Datum: /\d{2}\.\d{2}\.\d{4}/;
 Vreme: /\d{2}:\d{2}/;
 Učionica: (!Vrsta /\w+|./)+;
 Vrsta: 'rač.vežbe'
@@ -42,4 +45,4 @@ Vrsta: 'rač.vežbe'
      | 'lab.vežbe'
      | 'Pred.';
 Predmet[noskipws]: /\s*/- (!KrajTermina /\w+|\n|./)+;
-KrajTermina: Grupa | Dan | 'Rasporedi i realizacija' | 'Predmeti za koje nastavu';
+KrajTermina: Grupa | Dan | Datum | 'Rasporedi i realizacija' | 'Predmeti za koje nastavu';
