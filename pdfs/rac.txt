@@ -29,7 +29,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 Prof. dr Aleksandar Kupusinac
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 06:18, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:43, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -75,6 +75,8 @@ Pred.
 
 Programski jezici i strukture podataka Popov dr Srđan
 
+Ralević dr Nebojša,
+
 SVI
 
 09:15
@@ -87,7 +89,7 @@ Pred.
 
 Matematička analiza 1
 
-Ralević dr Nebojša
+Kostić dr Marko
 
 SVI
 
@@ -151,6 +153,8 @@ Pred.
 
 Programski jezici i strukture podataka Popov dr Srđan
 
+Ralević dr Nebojša,
+
 SVI
 
 16:15
@@ -163,7 +167,7 @@ Pred.
 
 Matematička analiza 1
 
-Ralević dr Nebojša
+Kostić dr Marko
 
 
 
@@ -192,32 +196,20 @@ Naziv Predmeta
 Izvođač
 
 
-1,2
+Radišić Rade,
 
+
+1,2
 
 07:00
 
-07:45
-
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Anđelovski Olja
-
-Anđelovski Olja,
-
-1,2
-
-07:50
-
-10:20
+10:15
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vasiljević Aleksandar
+Programski jezici i strukture podataka Vujičić Milena
 
 5,6,8
 
@@ -261,31 +253,19 @@ Algebra
 
 Kiš Maria
 
+Špica Sanja,
+
 5,6
 
 10:30
 
-11:15
-
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Vasiljević Aleksandar
-
-Vasiljević Aleksandar,
-
-5,6
-
-11:30
-
-14:00
+13:45
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Špica Sanja
+Programski jezici i strukture podataka Počuča Milena
 
 1,2,7
 
@@ -355,7 +335,7 @@ aud.vežbe
 
 Matematička analiza 1
 
-Jankov Dunja
+Dedeić Jovana
 
 9,10,14
 
@@ -383,33 +363,21 @@ aud.vežbe
 
 Matematička analiza 1
 
-Jankov Dunja
+Dedeić Jovana
+
+Vasiljević Aleksandar,
 
 11,12
 
 17:45
 
-18:30
-
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Radišić Rade
-
-Radišić Rade,
-
-11,12
-
-18:45
-
-21:15
+21:00
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vujičić Milena
+Programski jezici i strukture podataka Špica Sanja
 
 Č E T V R T A K
 
@@ -432,26 +400,14 @@ Naziv Predmeta
 Izvođač
 
 
-10,9
+Špica Sanja,
 
+
+10,9
 
 14:00
 
-14:45
-
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Anđelovski Olja
-
-Anđelovski Olja,
-
-10,9
-
-15:00
-
-17:30
+17:15
 
 MI A2-1
 
@@ -501,7 +457,7 @@ Algebra
 
 Janjoš Aleksandar
 
-3,4,15
+1,2,7
 
 16:00
 
@@ -511,9 +467,9 @@ Janjoš Aleksandar
 
 aud.vežbe
 
-Matematička analiza 1
+Algebra
 
-Jankov Dunja
+Kiš Maria
 
 5,6,8
 
@@ -529,7 +485,7 @@ Matematička analiza 1
 
 Vuković Manojlo
 
-1,2,7
+3,4,15
 
 16:30
 
@@ -539,9 +495,9 @@ Vuković Manojlo
 
 aud.vežbe
 
-Algebra
+Matematička analiza 1
 
-Kiš Maria
+Dedeić Jovana
 
 SVI
 
@@ -589,27 +545,13 @@ Izvođač
 
 07:00
 
-07:45
-
-MI A2-3
-
-aud.vežbe
-
-Programski jezici i strukture podataka Anđelovski Olja
-
-Anđelovski Olja,
-
-3,7
-
-07:50
-
-10:20
+10:15
 
 MI A2-3
 
 rač.vežbe
 
-Programski jezici i strukture podataka Špica Sanja
+Programski jezici i strukture podataka Popov dr Srđan
 
 11,12,13
 
@@ -623,7 +565,7 @@ aud.vežbe
 
 Matematička analiza 1
 
-Jankov Dunja
+Dedeić Jovana
 
 11,12,13
 
@@ -643,27 +585,13 @@ Janjoš Aleksandar
 
 10:30
 
-11:15
-
-MI A2-3
-
-aud.vežbe
-
-Programski jezici i strukture podataka Anđelovski Olja
-
-Anđelovski Olja,
-
-13,15
-
-11:20
-
-13:50
+13:45
 
 MI A2-3
 
 rač.vežbe
 
-Programski jezici i strukture podataka Počuča Milena
+Programski jezici i strukture podataka Popov dr Srđan
 
 9,10,14
 
@@ -693,59 +621,35 @@ Algebra
 
 Janjoš Aleksandar
 
+Anđelovski Olja,
+
 8,14
 
 14:00
 
-14:45
-
-MI A2-3
-
-aud.vežbe
-
-Programski jezici i strukture podataka Špica Sanja
-
-Špica Sanja,
-
-8,14
-
-15:00
-
-17:30
+17:15
 
 MI A2-3
 
 rač.vežbe
 
-Programski jezici i strukture podataka Radonjić Stefan
+Programski jezici i strukture podataka Vasiljević Aleksandar
 
 4
 
 17:45
 
-18:30
-
-MI A2-3
-
-aud.vežbe
-
-Programski jezici i strukture podataka Vasiljević Aleksandar
-
-4
-
-18:45
-
-21:15
+21:00
 
 MI A2-3
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vasiljević Aleksandar
+Programski jezici i strukture podataka Vujičić Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 08:52, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:43, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -795,9 +699,9 @@ Dragutinović Đorđe
 
 13,14,15
 
-08:30
+07:30
 
-10:00
+09:00
 
 NTP-418
 
@@ -821,7 +725,7 @@ aud.vežbe
 
 Matematička analiza 2
 
-Kašterović Simona
+Kiš Maria
 
 4
 
@@ -915,15 +819,29 @@ Samardžić Bojana,
 
 11,12
 
-16:00
+17:30
 
-19:15
+20:45
 
 MI A2-1
 
 rač.vežbe
 
 Objektno orijentisano programiranje Manasijević Aleksandar
+
+1,3,5
+
+19:15
+
+20:45
+
+NTP-417
+
+aud.vežbe
+
+Modeliranje i simulacija sistema
+
+Pejić Marko
 
 U T O R A K
 
@@ -1033,7 +951,7 @@ aud.vežbe
 
 Matematička analiza 2
 
-Kašterović Simona
+Kiš Maria
 
 1,3,6
 
@@ -1091,7 +1009,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić Miloš
+Ivanović Sandra
 
 7
 
@@ -1149,7 +1067,7 @@ aud.vežbe
 
 Matematička analiza 2
 
-Milićević dr Srđan
+Kiš Maria
 
 11
 
@@ -1233,7 +1151,7 @@ aud.vežbe
 
 Matematička analiza 2
 
-Kašterović Simona
+Milićević dr Srđan
 
 Samardžić Bojana,
 
@@ -1247,7 +1165,7 @@ MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Manasijević Aleksandar
+Objektno orijentisano programiranje Hrnjaković Olivera
 
 7
 
@@ -1333,6 +1251,8 @@ Pred.
 
 Objektno orijentisano programiranje Kupusinac dr Aleksandar
 
+Čomić dr Lidija,
+
 SVI
 
 11:15
@@ -1345,11 +1265,11 @@ Pred.
 
 Matematička analiza 2
 
-Čomić dr Lidija
+Medić dr Slavica
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 08:52, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:43, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -1547,7 +1467,7 @@ aud.vežbe
 
 Matematička analiza 2
 
-Milićević dr Srđan
+Kiš Maria
 
 5,11,14
 
@@ -1561,7 +1481,7 @@ aud.vežbe
 
 Matematička analiza 2
 
-Kašterović Simona
+Milićević dr Srđan
 
 10
 
@@ -1632,8 +1552,10 @@ Naziv Predmeta
 Izvođač
 
 
-SVI
+Čomić dr Lidija,
 
+
+SVI
 
 08:15
 
@@ -1645,7 +1567,7 @@ Pred.
 
 Matematička analiza 2
 
-Čomić dr Lidija
+Medić dr Slavica
 
 SVI
 
@@ -1665,20 +1587,6 @@ Objektno orijentisano programiranje Kupusinac dr Aleksandar
 
 13:45
 
-NTP-507
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Stepanović Mia
-
-2
-
-12:15
-
-13:45
-
 NTP-508
 
 rač.vežbe
@@ -1686,6 +1594,20 @@ rač.vežbe
 Logičko projektovanje računarskih sistema 1
 
 Ivanović Sandra
+
+2
+
+12:15
+
+13:45
+
+MI B4-1
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Nov saradnik MM
 
 12
 
@@ -1701,19 +1623,51 @@ Modeliranje i simulacija sistema
 
 Pejić Marko
 
+7,8,9
+
+12:30
+
+14:00
+
+NTP-417
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Kaštelan dr Ivan
+
+(10,11,12)
+
+1,3,5
+
+14:15
+
+15:45
+
+NTP-417
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Kaštelan dr Ivan
+
+(2,4,6)
+
 15
 
 14:00
 
 15:30
 
-NTP-508
+MI B4-1
 
 rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Pijetlović Stefan
+Nov saradnik MM
 
 14
 
@@ -1743,83 +1697,15 @@ Modeliranje i simulacija sistema
 
 Dragutinović Đorđe
 
-S U B O T A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-1,3,5
-
-
-08:00
-
-09:30
-
-NTP-418
-
-aud.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-1,3,5
-
-09:45
-
-11:15
-
-NTP-418
-
-aud.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Kaštelan dr Ivan
-
-(2,4,6)
-
-7,8,9
-
-11:30
-
-13:00
-
-NTP-418
-
-aud.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Kaštelan dr Ivan
-
-(10,11,12)
-
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 08:33, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 05:56, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
 Računarstvo i automatika
 
-Studijska grupa: Računarske nauke i informatika P O N E D E L J A K
+Studijska grupa: Primenjene računarske nauke i informatika P O N E D E L J A K
 
 Grupa-e
 
@@ -1871,7 +1757,7 @@ Mitrović Aleksandra
 
 7
 
-11:15
+10:30
 
 13:45
 
@@ -1881,9 +1767,9 @@ rač.vežbe
 
 Baze podataka 1
 
-Jeremić Aleksandar
+Novi saradnik HJ
 
-Hadžibabić Aleksandar,
+Ignjatijević Aleksandar,
 
 3,4
 
@@ -1897,7 +1783,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Matkovski Marijana
+Nov saradnik V3
 
 8
 
@@ -1937,7 +1823,7 @@ Metode optimizacije
 
 Buljević Anja
 
-Hadžibabić Aleksandar,
+Ignjatijević Aleksandar,
 
 5,6
 
@@ -1951,7 +1837,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Matkovski Marijana
+Nov saradnik V3
 
 Jeličić dr Zoran,
 
@@ -2009,7 +1895,7 @@ Izvođač
 2
 
 
-07:45
+07:00
 
 10:15
 
@@ -2019,7 +1905,7 @@ rač.vežbe
 
 Baze podataka 1
 
-Vještica Marko
+Todorović Nikola
 
 5
 
@@ -2071,20 +1957,6 @@ rač.vežbe
 
 Numerički algoritmi i numerički softver Nov saradnik 7
 
-9
-
-08:45
-
-10:15
-
-MI B4-5A
-
-rač.vežbe
-
-Metode optimizacije
-
-Stokanović Smilja
-
 6
 
 08:45
@@ -2125,7 +1997,7 @@ Osnovi informacionih sistema i softverskog inženjerstva Kovačević Marija
 
 10:30
 
-13:00
+13:45
 
 MI A2-2
 
@@ -2133,29 +2005,13 @@ rač.vežbe
 
 Baze podataka 1
 
-Vještica Marko
-
-1,2,3
-
-12:15
-
-13:45
-
-202
-
-aud.vežbe
-
-Baze podataka 1
-
-Jeremić Aleksandar
-
-sv.dr.ned.
+Todorović Nikola
 
 3
 
 14:00
 
-16:30
+17:15
 
 MI A2-2
 
@@ -2163,7 +2019,7 @@ rač.vežbe
 
 Baze podataka 1
 
-Jeremić Aleksandar
+Nov asistent JV
 
 7
 
@@ -2189,7 +2045,7 @@ rač.vežbe
 
 Numerički algoritmi i numerički softver Škipina Milica
 
-7,8,9
+7,8
 
 15:45
 
@@ -2207,7 +2063,7 @@ Mitrović Aleksandra
 
 17:30
 
-20:00
+20:45
 
 MI A2-2
 
@@ -2215,9 +2071,9 @@ rač.vežbe
 
 Baze podataka 1
 
-Jeremić Aleksandar
+Nov asistent JV
 
-Miljatović Olja,
+Matkovski Marijana,
 
 7,8
 
@@ -2231,19 +2087,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Matkovski Marijana
-
-9
-
-17:30
-
-20:00
-
-L2 (RC)
-
-rač.vežbe
-
-Osnovi informacionih sistema i softverskog inženjerstva Nikolić Dušan
+Nov saradnik V3
 
 
 
@@ -2319,15 +2163,7 @@ Baze podataka 1
 
 Čeliković dr Milan
 
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 08:33, Strana: 5
-
-RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarske nauke i informatika Č E T V R T A K
+Č E T V R T A K
 
 Grupa-e
 
@@ -2401,7 +2237,7 @@ Baze podataka 1
 
 Čeliković dr Milan
 
-Hadžibabić Aleksandar,
+Novi saradnik V3,
 
 1,2
 
@@ -2416,20 +2252,6 @@ rač.vežbe
 Programski prevodioci
 
 Matkovski Marijana
-
-4,5,6 (7,8,9)
-
-19:30
-
-21:00
-
-108A
-
-aud.vežbe
-
-Baze podataka 1
-
-Jeremić Aleksandar
 
 
 
@@ -2485,7 +2307,7 @@ Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
 
 8
 
-07:45
+07:00
 
 10:15
 
@@ -2495,19 +2317,21 @@ rač.vežbe
 
 Baze podataka 1
 
-Kiš Gergelj
+Jeremić Aleksandar
 
-9
+6
 
-08:45
+08:00
 
-10:15
+09:30
 
-L5 (RC)
+NTP-415
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Nov asistent VA
+Metode optimizacije
+
+Stokanović Smilja
 
 4,5,6
 
@@ -2522,20 +2346,6 @@ aud.vežbe
 Metode optimizacije
 
 Buljević Anja
-
-9
-
-10:30
-
-13:00
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Škipina Milica
 
 1
 
@@ -2567,7 +2377,7 @@ Mitrović Aleksandra
 
 14:00
 
-16:30
+17:15
 
 MI A2-2
 
@@ -2591,25 +2401,11 @@ Metode optimizacije
 
 Mitrović Aleksandra
 
-6
-
-17:00
-
-18:30
-
-NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Stokanović Smilja
-
 3
 
-18:45
+18:00
 
-20:15
+19:30
 
 NTP-415
 
@@ -2635,7 +2431,7 @@ Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
 
 18:00
 
-20:30
+21:15
 
 MI A2-2
 
@@ -2643,25 +2439,11 @@ rač.vežbe
 
 Baze podataka 1
 
-Kiš Gergelj
-
-9
-
-19:45
-
-21:15
-
-MI A2-1
-
-rač.vežbe
-
-Programski prevodioci
-
-Hadžibabić Aleksandar
+Ivković Vladimir
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.08.2022. 08:34, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 12:26, Strana: 5
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -2755,7 +2537,7 @@ Izvođač
 
 rač.vežbe
 
-Operativni sistemi za rad u realnom vremenu Usorac Srđan
+Operativni sistemi za rad u realnom vremenu Subotić Miloš
 
 32
 
@@ -2777,7 +2559,7 @@ Kovačević Nikola
 
 rač.vežbe
 
-Operativni sistemi za rad u realnom vremenu Pijetlovic Stefan
+Operativni sistemi za rad u realnom vremenu Bokan Dejan
 
 31
 
@@ -2801,7 +2583,7 @@ rač.vežbe
 
 Algoritmi digitalne obrade zvuka
 
-Usorac Srđan
+Savić Jasmina
 
 33
 
@@ -2837,7 +2619,7 @@ rač.vežbe
 
 Algoritmi digitalne obrade zvuka
 
-Bokan Dejan
+Subotić Miloš
 
 SVI
 
@@ -2876,28 +2658,28 @@ Naziv Predmeta
 Izvođač
 
 
-33
+31,32,33,34 07:00
 
 
-07:00
-
-08:30 NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Buljević Anja
-
-31,32,33,34 09:30
-
-11:00 NTP-417
+08:30 NTP-417
 
 aud.vežbe
 
 Metode optimizacije
 
 Mitrović Aleksandra
+
+33
+
+08:45
+
+10:15 MI B4-4A
+
+rač.vežbe
+
+Metode optimizacije
+
+Buljević Anja
 
 SVI
 
@@ -2960,8 +2742,18 @@ Naziv Predmeta
 Izvođač
 
 
-32
+31
 
+
+07:00
+
+09:30 NTP-504
+
+rač.vežbe
+
+Operativni sistemi za rad u realnom vremenu Kenjić Dušan
+
+32
 
 09:30
 
@@ -2971,7 +2763,7 @@ rač.vežbe
 
 Osnovi računarskih mreža
 
-Usorac Srđan
+Subotić Miloš
 
 31
 
@@ -3007,7 +2799,7 @@ rač.vežbe
 
 Osnovi računarskih mreža
 
-Usorac Srđan
+Subotić Miloš
 
 33
 
@@ -3058,18 +2850,8 @@ Naziv Predmeta
 Izvođač
 
 
-31
-
-
-08:30
-
-11:00 NTP-507
-
-rač.vežbe
-
-Operativni sistemi za rad u realnom vremenu Subotić Miloš
-
 33
+
 
 07:45
 
@@ -3089,7 +2871,7 @@ Lukić dr Milan
 
 rač.vežbe
 
-Operativni sistemi za rad u realnom vremenu Usorac Srđan
+Operativni sistemi za rad u realnom vremenu Bokan Dejan
 
 34
 
@@ -3107,13 +2889,13 @@ Mišeljić Đorđe
 
 11:15
 
-12:45 NTP-503
+12:45 NTP-507
 
 rač.vežbe
 
 Algoritmi digitalne obrade zvuka
 
-Usorac Srđan
+Savić Jasmina
 
 33
 
@@ -3125,7 +2907,7 @@ rač.vežbe
 
 Algoritmi digitalne obrade zvuka
 
-Bokan Dejan
+Kenjić Dušan
 
 31
 
@@ -3165,7 +2947,7 @@ Lukač dr Željko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 09.09.2022. 10:31, Strana: 7
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 12:30, Strana: 6
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -3192,18 +2974,28 @@ Naziv Predmeta
 Izvođač
 
 
-22
+23
 
 
-13:15
+07:30
 
-14:45 NTP-212
+10:00 NTP-410
+
+lab.vežbe
+
+Tehnologije računarskih upravljačkih sistema Bugarski dr Vladimir
+
+22,24
+
+12:45
+
+14:15 NTP-004
 
 rač.vežbe
 
 Električne mašine u automatici
 
-Oros dr Đura
+Vujkov Barbara
 
 SVI
 
@@ -3217,7 +3009,7 @@ Pred.
 
 Električne mašine u automatici
 
-Oros dr Đura
+Popović dr Vladimir
 
 Jeličić dr Zoran,
 
@@ -3263,7 +3055,9 @@ SVI
 
 07:15
 
-10:00 NTP-418
+10:00
+
+101
 
 Pred.
 
@@ -3293,11 +3087,11 @@ Tehnička sredstva automatike
 
 Stanišić dr Darko
 
-22
+24
 
 18:15
 
-19:45 NTP-411
+21:30 NTP-411
 
 lab.vežbe
 
@@ -3363,9 +3157,7 @@ Pred.
 
 Mikroprocesorski upravljački uređaji Stanišić dr Darko
 
-21,22
-
-17:15
+21,22,23,24 17:15
 
 18:45
 
@@ -3398,18 +3190,30 @@ Naziv Predmeta
 Izvođač
 
 
-21
+23
 
+
+08:30
+
+10:00 NTP-411
+
+lab.vežbe
+
+Tehnička sredstva automatike
+
+Čongradac dr Velimir
+
+21,23
 
 10:30
 
-12:00 NTP-212
+12:00 NTP-004
 
 rač.vežbe
 
 Električne mašine u automatici
 
-Oros dr Đura
+Vujkov Barbara
 
 21
 
@@ -3476,12 +3280,26 @@ Naziv Predmeta
 Izvođač
 
 
-22
+24
 
+
+14:00
+
+15:30 NTP-410
+
+lab.vežbe
+
+Tehnička sredstva automatike
+
+Čongradac dr Velimir
+
+22
 
 14:15
 
-15:45 NTP-410
+15:45
+
+L2 (RC)
 
 rač.vežbe
 
@@ -3499,21 +3317,37 @@ lab.vežbe
 
 Tehnologije računarskih upravljačkih sistema Bugarski dr Vladimir
 
-21
+23
 
-18:45
+17:00
 
-20:15 NTP-410
+20:15 NTP-411
 
 lab.vežbe
 
 Mikroprocesorski upravljački uređaji Mejić dr Luka
 
-21
+24
+
+19:45
+
+21:15
+
+L4 (RC)
+
+rač.vežbe
+
+Metode optimizacije
+
+Stokanović Smilja
+
+21,23
 
 20:30
 
-22:00 NTP-410
+22:00
+
+L1 (RC)
 
 rač.vežbe
 
@@ -3542,20 +3376,10 @@ Naziv Predmeta
 Izvođač
 
 
-22
+21
 
 
 08:00
-
-09:30 NTP-410
-
-lab.vežbe
-
-Mikroprocesorski upravljački uređaji Mejić dr Luka
-
-21
-
-09:45
 
 11:15 NTP-410
 
@@ -3563,9 +3387,29 @@ lab.vežbe
 
 Mikroprocesorski upravljački uređaji Mejić dr Luka
 
+22
+
+11:30
+
+14:45 NTP-410
+
+lab.vežbe
+
+Mikroprocesorski upravljački uređaji Mejić dr Luka
+
+24
+
+10:45
+
+13:15 NTP-411
+
+lab.vežbe
+
+Tehnologije računarskih upravljačkih sistema Bugarski dr Vladimir
+
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 10:30, Strana: 8
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.09.2022. 10:52, Strana: 7
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -3603,7 +3447,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Vještica Marko
+Tomić Miroslav
 
 6
 
@@ -3639,7 +3483,7 @@ rač.vežbe
 
 Računarska grafika
 
-Adamović Milan
+Nov saradnik TN
 
 SVI
 
@@ -3675,7 +3519,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Nov saradnik TN
 
 6,7(8,9)
 
@@ -3699,7 +3543,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Ivošević Jovan
 
 U T O R A K
 
@@ -3797,7 +3641,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Ivošević Jovan
 
 6
 
@@ -3809,7 +3653,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Vještica Marko
+Tomić Miroslav
 
 1,2,3(4,5)
 
@@ -3857,7 +3701,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Tomić Miroslav
+Vještica Marko
 
 6
 
@@ -3869,7 +3713,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Nov saradnik TN
 
 8
 
@@ -3893,7 +3737,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Nov saradnik TN
 
 8
 
@@ -3963,7 +3807,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Vještica Marko
+Nov saradnik JV
 
 1,7
 
@@ -4011,7 +3855,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Nov saradnik TN
 
 3
 
@@ -4023,7 +3867,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Vještica Marko
+Tomić Miroslav
 
 6
 
@@ -4083,7 +3927,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Nov saradnik TN
 
 9
 
@@ -4095,7 +3939,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Tomić Miroslav
+Nov saradnik VM
 
 1
 
@@ -4107,7 +3951,7 @@ rač.vežbe
 
 Baze podataka 2
 
-Tomić Miroslav
+Vještica Marko
 
 
 
@@ -4243,7 +4087,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Nov saradnik TN
 
 5
 
@@ -4325,7 +4169,7 @@ Obratiti se rukovodiocu studijskog programa PROF. DR ALEKSANDRU KUPUSINCU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 9
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 8
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -5085,7 +4929,7 @@ Savić Jasmina
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 10
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 9
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -5857,7 +5701,7 @@ Savić Jasmina
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 11
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 10
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -7457,7 +7301,7 @@ Kenjić Dušan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 12
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 11
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -8657,7 +8501,7 @@ Bokan Dejan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 13
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.06.2022. 10:11, Strana: 12
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -9875,7 +9719,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.08.2022. 08:10, Strana: 14
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.09.2022. 12:45, Strana: 13
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -10031,7 +9875,7 @@ SVI
 
 20:00
 
-AH1A
+205
 
 Pred.
 
@@ -10045,15 +9889,17 @@ Kapetina dr Mirna
 
 20:15
 
-21:00
+21:45
 
-AH1A
+205
 
 aud.vežbe
 
 Digitalni upravljački sistemi
 
 Arsenović Jovana
+
+sv.dr.ned.
 
 
 
@@ -10082,8 +9928,22 @@ Naziv Predmeta
 Izvođač
 
 
-23
+22
 
+
+09:45
+
+11:15
+
+NTP-411
+
+lab.vežbe
+
+Digitalni upravljački sistemi
+
+Arsenović Jovana
+
+23
 
 12:15
 
@@ -10201,7 +10061,7 @@ rač.vežbe
 
 Geoinformacioni sistemi
 
-Radulović dr Aleksandra
+Pajić dr Vladimir
 
 21
 
@@ -10215,7 +10075,7 @@ rač.vežbe
 
 Geoinformacioni sistemi
 
-Radulović dr Aleksandra
+Pajić dr Vladimir
 
 22
 
@@ -10241,21 +10101,7 @@ rač.vežbe
 
 Geoinformacioni sistemi
 
-Radulović dr Aleksandra
-
-22
-
-18:45
-
-20:15
-
-NTP-411
-
-lab.vežbe
-
-Digitalni upravljački sistemi
-
-Arsenović Jovana
+Pajić dr Vladimir
 
 
 
@@ -10371,7 +10217,7 @@ Obratiti se rukovodiocu studijskog programa PROF. DR ALEKSANDRU KUPUSINCU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 15
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 14
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -11187,7 +11033,7 @@ Multimedijalni sistemi u automobilskoj industriji Milošević Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 16
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 15
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -12335,7 +12181,7 @@ Milošević Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 17
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 16
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -13473,7 +13319,7 @@ Milošević Milena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 18
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 17
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -14545,7 +14391,7 @@ Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović 
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 19
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 10:24, Strana: 18
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -15619,7 +15465,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.09.2022. 08:21, Strana: 20
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 06:47, Strana: 19
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -15675,6 +15521,22 @@ Jezici specifični za domen
 
 Dejanović dr Igor
 
+Kupusinac dr Aleksandar,
+
+41
+
+10:15
+
+13:00
+
+F 318
+
+Pred.
+
+Programske tehnike u multimediji
+
+Popov dr Srđan
+
 51
 
 10:15
@@ -15715,29 +15577,19 @@ rač.vežbe
 
 Sistemi za upravljanje bazama podataka Tomić Miroslav
 
-61
+41
 
-16:15
+13:15
 
-19:00
+15:45
 
-NTP-417
-
-Pred.
-
-Računarski sistemi visokih performansi Petrović dr Veljko
-
-61
-
-19:15
-
-21:45
-
-AR3
+F 318
 
 rač.vežbe
 
-Računarski sistemi visokih performansi Gojić Gorana
+Programske tehnike u multimediji
+
+Vasiljević Marko
 
 31
 
@@ -15753,6 +15605,18 @@ Semantički veb
 
 Segedinac dr Milan
 
+61
+
+16:15
+
+19:00
+
+NTP-417
+
+Pred.
+
+Računarski sistemi visokih performansi Petrović dr Veljko
+
 31
 
 18:00
@@ -15767,31 +15631,17 @@ Neuronske mreže
 
 Perić Ivan
 
-41
+61
 
-16:00
+19:15
 
-18:30
+21:45
 
-MI A2-4A
-
-rač.vežbe
-
-Programske tehnike u multimediji
-
-Vasiljević Marko
-
-41
-
-18:45
-
-21:15
-
-MI A2-4A
+AR3
 
 rač.vežbe
 
-Tehnike i alati za dizajniranje animacije Kekeljević dr Igor
+Računarski sistemi visokih performansi Trifunović Petar
 
 U T O R A K
 
@@ -15833,11 +15683,11 @@ Zarić dr Miroslav
 
 41
 
-07:15
+09:15
 
-10:00
+12:00
 
-NTP-316
+F 318
 
 Pred.
 
@@ -15859,17 +15709,17 @@ Metodologija brzog razvoja softvera Todorović Nenad
 
 41
 
-10:15
+12:15
 
-12:45
+14:45
 
-MI A2-4A
+F 318
 
 rač.vežbe
 
-Multimedijalni sistemi
+Sistemi virtuelne realnosti
 
-Adamović Milan
+Bursać Vasilije
 
 11
 
@@ -15925,7 +15775,7 @@ rač.vežbe
 
 Upravljanje poslovnim procesima
 
-Mitrović Teodora
+Šarenac Balša
 
 61
 
@@ -15963,7 +15813,7 @@ rač.vežbe
 
 Računarstvo u oblaku
 
-Dokić Jelena
+Anišić Helena
 
 21
 
@@ -16017,7 +15867,7 @@ Pred.
 
 Računarstvo u oblaku
 
-Gajić dr Dušan
+Petrović dr Veljko
 
 51
 
@@ -16057,7 +15907,7 @@ MI A2-4A
 
 Pred.
 
-Paralelne i distribuirane arhitekture i jezici Gajić dr Dušan
+Paralelne i distribuirane arhitekture i jezici Dragan dr Dinu
 
 21
 
@@ -16071,7 +15921,7 @@ rač.vežbe
 
 Upravljanje poslovnim procesima
 
-Mitrović Teodora
+Šarenac Balša
 
 21
 
@@ -16099,15 +15949,27 @@ Savremene obrazovne tehnologije i standardi Segedinac dr Milan
 
 41
 
-12:15
+10:30
 
-15:00
+13:15
 
-NTP-316
+F 318
 
 Pred.
 
-Tehnike i alati za dizajniranje animacije Obradović dr Ratko
+Tehnike i alati za dizajniranje animacije Vasiljević dr Ivana
+
+41
+
+13:30
+
+16:00
+
+F 318
+
+rač.vežbe
+
+Tehnike i alati za dizajniranje animacije Vasiljević dr Ivana
 
 Softversko modelovanje procesa u organizacionim 51
 
@@ -16149,7 +16011,7 @@ rač.vežbe
 
 Upravljanje poslovnim procesima
 
-Mitrović Teodora
+Šarenac Balša
 
 11,12,13
 
@@ -16167,7 +16029,7 @@ Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.09.2022. 08:21, Strana: 21
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 06:47, Strana: 20
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -16219,6 +16081,20 @@ rač.vežbe
 
 Metodologija brzog razvoja softvera Todorović Nenad
 
+41
+
+09:15
+
+12:00
+
+F 318
+
+Pred.
+
+Multimedijalni sistemi
+
+Ivetić dr Dragan
+
 13
 
 09:45
@@ -16261,21 +16137,19 @@ Napredna Internet infrastruktura
 
 Vuković dr Željko
 
-Kupusinac dr Aleksandar,
-
 41
 
-13:15
+12:15
 
-16:00
+14:45
 
-MI G2-2
+F 318
 
-Pred.
+rač.vežbe
 
-Programske tehnike u multimediji
+Multimedijalni sistemi
 
-Popov dr Srđan
+Bursać Vasilije
 
 12
 
@@ -16318,20 +16192,6 @@ Pred.
 Neuronske mreže
 
 Slivka dr Jelena
-
-41
-
-17:15
-
-20:00
-
-NTP-312
-
-Pred.
-
-Multimedijalni sistemi
-
-Ivetić dr Dragan
 
 31
 
@@ -16571,7 +16431,7 @@ rač.vežbe
 
 Upravljanje poslovnim procesima
 
-Mitrović Teodora
+Šarenac Balša
 
 13
 
@@ -16597,7 +16457,7 @@ MI A2-1
 
 rač.vežbe
 
-Paralelne i distribuirane arhitekture i jezici Dokić Jelena
+Paralelne i distribuirane arhitekture i jezici Jovanović Jovana
 
 61
 
@@ -16687,7 +16547,7 @@ rač.vežbe
 
 Upravljanje poslovnim procesima
 
-Mitrović Teodora
+Šarenac Balša
 
 12
 
@@ -16715,20 +16575,6 @@ rač.vežbe
 
 Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
 
-41
-
-13:30
-
-16:00
-
-NTP-312
-
-rač.vežbe
-
-Sistemi virtuelne realnosti
-
-Adamović Milan
-
 Napomena:
 
 Studenti biraju jedan od 6 sledećih modula: Modul 1: Elektronsko poslovanje grupe broj 11,12,13,14
@@ -16745,7 +16591,7 @@ Modul 6: Računarstvo visokih performansi grupa broj 61
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.08.2022. 08:47, Strana: 22
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.09.2022. 08:45, Strana: 21
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -16987,7 +16833,7 @@ BINZ
 
 17:45
 
-NTP-415
+MI B4-4A
 
 Pred.
 
@@ -17001,7 +16847,7 @@ AUS
 
 20:30
 
-NTP-415
+MI B4-4A
 
 Pred.
 
@@ -17037,11 +16883,11 @@ Izvođač
 AUS
 
 
-08:15
+13:15
 
-11:00
+16:00
 
-NTP-415
+MI B4-4A
 
 Pred.
 
@@ -17051,11 +16897,11 @@ Erdeljan dr Aleksandar
 
 AUS
 
-11:15
+16:15
 
-14:00
+19:00
 
-NTP-415
+MI B4-4A
 
 Pred.
 
@@ -17089,7 +16935,7 @@ Izvođač
 
 10:30
 
-NTP-411
+MI B4-4A
 
 lab.vežbe
 
@@ -17101,7 +16947,7 @@ Modeliranje i optimizacija učenjem iz podataka Bugarski dr Vladimir
 
 13:15
 
-NTP-411
+MI B4-4A
 
 lab.vežbe
 

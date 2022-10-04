@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.08.2022. 07:06, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 09:20, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -98,31 +98,19 @@ Naziv Predmeta
 
 Izvođač
 
+Špica Sanja,
+
 5,6
 
 10:30
 
-11:15
-
-MI A2-3
-
-aud.vežbe
-
-Programski jezici i strukture podataka Anđelovski Olja
-
-Anđelovski Olja,
-
-5,6
-
-11:30
-
-14:00
+13:45
 
 MI A2-3
 
 rač.vežbe
 
-Programski jezici i strukture podataka Špica Sanja
+Programski jezici i strukture podataka Anđelovski Olja
 
 SVI
 
@@ -148,19 +136,21 @@ Pred.
 
 Programski jezici i strukture podataka Popov dr Srđan
 
+Spasić Teodora,
+
 1,2,3,10(1-8)
 
 18:15
 
 19:45
 
-205
+AH1A
 
 aud.vežbe
 
 Osnove elektrotehnike
 
-Gavrilov Teodora
+Mijatović dr Gorana
 
 7,8,9
 
@@ -174,7 +164,7 @@ aud.vežbe
 
 Algebra
 
-Nov saradnik A
+Stefanović Tamara
 
 S R E D A
 
@@ -194,11 +184,11 @@ Izvođač
 
 7,8,9
 
-08:30
+07:30
 
-10:00
+09:00
 
-NTP-418
+203
 
 aud.vežbe
 
@@ -218,7 +208,7 @@ aud.vežbe
 
 Algebra
 
-Erić Mirjana
+Stefanović Tamara
 
 4,5,6,10(9-)
 
@@ -232,33 +222,21 @@ aud.vežbe
 
 Algebra
 
-Erić Mirjana
+Čolić Oravec Jelena
+
+Anđelovski Olja,
 
 1,2
 
 15:00
 
-15:45
-
-MI A2-3
-
-aud.vežbe
-
-Programski jezici i strukture podataka Počuča Milena
-
-Počuča Milena,
-
-1,2
-
-16:00
-
-18:30
+18:15
 
 MI A2-3
 
 rač.vežbe
 
-Programski jezici i strukture podataka Radonjić Stefan
+Programski jezici i strukture podataka Vujičić Milena
 
 4,5,6,10(9-)
 
@@ -300,7 +278,7 @@ aud.vežbe
 
 Algebra
 
-Kiš Maria
+Čolić Oravec Jelena
 
 Č E T V R T A K
 
@@ -358,7 +336,7 @@ aud.vežbe
 
 Algebra
 
-Kiš Maria
+Čolić Oravec Jelena
 
 SVI
 
@@ -388,57 +366,35 @@ Naziv Predmeta
 
 Izvođač
 
-7,8
+Anđelovski Olja,
+
+4,7
 
 08:30
 
-09:15
-
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Vasiljević Aleksandar
-
-Vasiljević Aleksandar,
-
-7,8
-
-09:30
-
-12:00
+11:45
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vujičić Milena
+Programski jezici i strukture podataka Počuča Milena
+
+Vujičić Milena,
 
 10,3
 
 12:15
 
-13:00
-
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Vasiljević Aleksandar
-
-Vasiljević Aleksandar,
-
-10,3
-
-13:15
-
-15:45
+15:30
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vujičić Milena
+Programski jezici i strukture podataka Počuča Milena
+
+Spasić Teodora,
 
 1,2,3,10(1-8)
 
@@ -452,31 +408,21 @@ aud.vežbe
 
 Osnove elektrotehnike
 
-Gavrilov Teodora
+Mijatović dr Gorana
 
-4,9
+Vasiljević Aleksandar,
 
-16:00
+8,9
 
-16:45
+17:45
 
-MI A2-1
-
-aud.vežbe
-
-Programski jezici i strukture podataka Vujičić Milena
-
-4,9
-
-17:00
-
-19:30
+21:00
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vujičić Milena
+Programski jezici i strukture podataka Počuča Milena
 
 4,5,6,10(9-)
 
@@ -490,11 +436,11 @@ aud.vežbe
 
 Algebra
 
-Erić Mirjana
+Čolić Oravec Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.09.2022. 08:08, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.09.2022. 10:20, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -566,7 +512,7 @@ NTP-317
 
 rač.vežbe
 
-Objektno orijentisano programiranje Samardžić Bojana
+Objektno orijentisano programiranje Varajić Stefan
 
 2
 
@@ -632,7 +578,7 @@ AR3
 
 rač.vežbe
 
-Objektno orijentisano programiranje Varajić Stefan
+Objektno orijentisano programiranje Radović Luka
 
 7,8,9
 
@@ -698,7 +644,7 @@ NTP-316
 
 rač.vežbe
 
-Objektno orijentisano programiranje Hrnjaković Olivera
+Objektno orijentisano programiranje Radović Luka
 
 4
 
@@ -710,7 +656,7 @@ NTP-317
 
 rač.vežbe
 
-Objektno orijentisano programiranje Samardžić Bojana
+Objektno orijentisano programiranje Stanković Milan
 
 U T O R A K
 
@@ -752,8 +698,6 @@ aud.vežbe
 
 Metodi optimizacije u infrastrukturnim sistemima Milić Kristina
 
-Švenda dr Goran,
-
 SVI
 
 14:15
@@ -764,7 +708,7 @@ A3
 
 Pred.
 
-Metodi optimizacije u infrastrukturnim sistemima Popović dr Željko
+Metodi optimizacije u infrastrukturnim sistemima Švenda dr Goran
 
 3
 
@@ -790,7 +734,7 @@ NTP-317
 
 rač.vežbe
 
-Objektno orijentisano programiranje Varajić Stefan
+Objektno orijentisano programiranje Simić Svetislav
 
 4,5,6,10
 
@@ -984,7 +928,7 @@ NTP-316
 
 rač.vežbe
 
-Objektno orijentisano programiranje Radović Luka
+Objektno orijentisano programiranje Novi saradnik O1
 
 8
 
@@ -996,7 +940,7 @@ NTP-317
 
 rač.vežbe
 
-Objektno orijentisano programiranje Grbić Ilija
+Objektno orijentisano programiranje Matkovski Marijana
 
 1
 
@@ -1036,7 +980,7 @@ AR2
 
 rač.vežbe
 
-Objektno orijentisano programiranje Simić Svetislav
+Objektno orijentisano programiranje Matkovski Marijana
 
 8
 
@@ -1154,7 +1098,7 @@ Kaštelan dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 10:16, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 05:58, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1206,7 +1150,9 @@ rač.vežbe
 
 Programski prevodioci
 
-Ignjatijević Aleksandar 4
+Nov saradnik V2
+
+4
 
 14:45 16:15
 
@@ -1216,7 +1162,9 @@ rač.vežbe
 
 Programski prevodioci
 
-Ignjatijević Aleksandar 5
+Nov saradnik V2
+
+5
 
 16:30 18:00
 
@@ -1226,7 +1174,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Matkovski Marijana
+Nov saradnik V2
 
 6
 
@@ -1238,7 +1186,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Laketić Milena
+Nov saradnik V1
 
 1,2,3
 
@@ -1249,18 +1197,6 @@ Laketić Milena
 aud.vežbe
 
 Modeliranje i simulacija sistema Pejić Marko
-
-4,5,6(7,8,9)
-
-19:00 20:30
-
-108
-
-aud.vežbe
-
-Uvod u baze podataka
-
-Hadžibabić Aleksandar
 
 U T O R A K
 
@@ -1280,7 +1216,7 @@ Izvođač
 
 1,4
 
-07:45 10:15
+07:00 10:15
 
 NTP-222
 
@@ -1288,7 +1224,7 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Hadžibabić Aleksandar
+Jeremić Aleksandar
 
 2
 
@@ -1352,7 +1288,7 @@ Modeliranje i simulacija sistema Pejić Marko
 
 3
 
-10:30 13:00
+10:30 13:45
 
 AR2
 
@@ -1360,7 +1296,7 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Hadžibabić Aleksandar
+Jeremić Aleksandar
 
 5
 
@@ -1374,7 +1310,7 @@ Elementi razvoja softvera Čubrić Tanja
 
 5
 
-13:15 14:45
+14:00 15:30
 
 AR2
 
@@ -1404,7 +1340,7 @@ Modeliranje i simulacija sistema Dragutinović Đorđe
 
 6
 
-17:45 20:15
+17:45 21:00
 
 AR3
 
@@ -1412,11 +1348,11 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Todorović Nikola
+Novi saradnik HJ
 
 7
 
-14:45 17:15
+14:00 17:15
 
 AR3
 
@@ -1424,7 +1360,7 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Todorović Nikola
+Novi saradnik HJ
 
 7
 
@@ -1458,7 +1394,7 @@ Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
 
 8
 
-17:45 20:15
+17:45 21:00
 
 MI D4-A
 
@@ -1466,7 +1402,7 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Hadžibabić Aleksandar
+Novi saradnik VM
 
 9
 
@@ -1604,16 +1540,6 @@ aud.vežbe
 
 Modeliranje i simulacija sistema Stojaković Nedeljko
 
-1,2,3 sv.dr.ned. 20:15 21:45
-
-309
-
-aud.vežbe
-
-Uvod u baze podataka
-
-Todorović Nikola
-
 P E T A K
 
 Grupa-e
@@ -1662,7 +1588,7 @@ Elementi razvoja softvera Čubrić Tanja
 
 2
 
-09:30 12:00
+08:45 12:00
 
 AR2
 
@@ -1670,7 +1596,7 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Todorović Nikola
+Novi saradnik VM
 
 1
 
@@ -1704,7 +1630,7 @@ Elementi razvoja softvera Čubrić Tanja
 
 5
 
-10:30 13:00
+10:30 13:45
 
 MI A2-4
 
@@ -1736,7 +1662,7 @@ Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
 
 9
 
-14:45 17:15
+14:00 17:15
 
 MI A2-4
 
@@ -1744,7 +1670,7 @@ rač.vežbe
 
 Uvod u baze podataka
 
-Jeremić Aleksandar
+Novi saradnik JV
 
 6
 
@@ -1766,7 +1692,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Laketić Milena
+Nov saradnik V2
 
 7
 
@@ -1788,7 +1714,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Laketić Milena
+Nov saradnik V2
 
 7
 
@@ -1810,7 +1736,7 @@ rač.vežbe
 
 Programski prevodioci
 
-Laketić Milena
+Nov saradnik V2
 
 9
 
@@ -2204,7 +2130,7 @@ Industrijski komunikacioni protokoli u elektroenergetskim sistemima Janković Ma
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.09.2022. 08:22, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2022. 12:09, Strana: 5
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -2420,17 +2346,17 @@ Izvođač
 
 Opredeljeni
 
-13:15 16:00
+15:15 18:00
 
-NTP-417
+AR4
 
 Pred.
 
 Održavanje i kontrola kvaliteta softvera u infrastrukturnim sistemima Varga dr Ervin Opredeljeni
 
-16:45 19:15
+18:15 20:45
 
-L4 (RC)
+AR4
 
 rač.vežbe
 

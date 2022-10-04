@@ -22,7 +22,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 07:20, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 08:45, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 1 Semestar
 
@@ -68,7 +68,7 @@ rač.vežbe
 
 Web dizajn
 
-Čičković Anđela
+Kovačević Tamara
 
 4
 
@@ -140,7 +140,7 @@ rač.vežbe
 
 Osnove programiranja
 
-Kovačević Ivana
+Maksimović Veljko
 
 3
 
@@ -154,7 +154,7 @@ rač.vežbe
 
 Web dizajn
 
-Čičković Anđela
+Kovačević Tamara
 
 SVI
 
@@ -168,7 +168,7 @@ Pred.
 
 Osnove programiranja
 
-Nov predavač 2
+Markoski dr Branko
 
 S R E D A
 
@@ -268,7 +268,7 @@ rač.vežbe
 
 Web dizajn
 
-Čičković Anđela
+Kovačević Tamara
 
 Č E T V R T A K
 
@@ -298,7 +298,7 @@ Pred.
 
 Web dizajn
 
-Nov predavač 2
+Markoski dr Branko
 
 3
 
@@ -344,6 +344,8 @@ Naziv Predmeta
 
 Izvođač
 
+Grujić mr Gabrijela,
+
 SVI
 
 12:15
@@ -356,7 +358,7 @@ Pred.
 
 Matematika 1
 
-Grujić mr Gabrijela
+Nikolić dr Aleksandar
 
 4
 
@@ -370,11 +372,11 @@ rač.vežbe
 
 Web dizajn
 
-Čičković Anđela
+Dragišić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 07:08, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 12:10, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 3 Semestar
 
@@ -404,7 +406,7 @@ MI A2-4
 
 rač.vežbe
 
-Platforme za objektno programiranje Kaplar Aleksandra
+Platforme za objektno programiranje Dragišić Jelena
 
 1
 
@@ -432,7 +434,7 @@ rač.vežbe
 
 Osnove baze podataka
 
-Jeremić Aleksandar
+Novi saradnik VM
 
 2
 
@@ -444,7 +446,7 @@ MI A2-4
 
 rač.vežbe
 
-Platforme za objektno programiranje Kaplar Aleksandra
+Platforme za objektno programiranje Dragišić Jelena
 
 3
 
@@ -560,7 +562,7 @@ AR2
 
 rač.vežbe
 
-Platforme za objektno programiranje Kaplar Aleksandra
+Platforme za objektno programiranje Lukić Aleksandar
 
 1
 
@@ -596,11 +598,11 @@ Specifikacija softverskih sistema Rašeta Marko
 
 4
 
-17:00
-
 18:30
 
-NTP-317
+20:00
+
+AR3
 
 rač.vežbe
 
@@ -630,7 +632,7 @@ Izvođač
 
 15:45
 
-NTP-316
+MI B4-5
 
 rač.vežbe
 
@@ -648,7 +650,7 @@ NTP-311
 
 rač.vežbe
 
-Platforme za objektno programiranje Kaplar Aleksandra
+Platforme za objektno programiranje Dragišić Jelena
 
 1
 

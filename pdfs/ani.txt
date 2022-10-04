@@ -24,11 +24,9 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 05.09.2022. 07:25, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 06:22, Strana: 1
 
-RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
-
-Animacija u inženjerstvu P O N E D E L J A K
+RASPORED PREDAVANJA - Osnovne akademske studije Animacija u inženjerstvu P O N E D E L J A K
 
 Grupa-e
 
@@ -41,8 +39,6 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
-
-Izvođač
 
 1,3(1-8)
 
@@ -54,9 +50,7 @@ AH-CRT
 
 aud.vežbe
 
-Osnove crtanja za animaciju i vizuelne efekte Varga Marija
-
-SVI
+Osnove crtanja za animaciju i vizuelne efekte SVI
 
 09:15
 
@@ -68,8 +62,6 @@ Pred.
 
 Algebra
 
-Grbić dr Tatjana
-
 2
 
 12:15
@@ -80,9 +72,7 @@ MI A2-4A
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji Obradović Miloš
-
-4
+Računarska obrada slike u inženjerskoj animaciji 4
 
 12:15
 
@@ -92,9 +82,7 @@ L6 (RC)
 
 rač.vežbe
 
-Dizajn prostornih oblika Kuzmanović Nenad
-
-3
+Dizajn prostornih oblika 3
 
 14:00
 
@@ -104,9 +92,7 @@ MI A2-4A
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji Obradović Miloš
-
-4
+Računarska obrada slike u inženjerskoj animaciji 4
 
 15:00
 
@@ -116,9 +102,7 @@ MI D4-A
 
 rač.vežbe
 
-Osnovi informacionih tehnologija za računarsku animaciju Mirčeski Filip
-
-U T O R A K
+Osnovi informacionih tehnologija za računarsku animaciju U T O R A K
 
 Grupa-e
 
@@ -131,8 +115,6 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
-
-Izvođač
 
 SVI
 
@@ -144,9 +126,7 @@ SVI
 
 Pred.
 
-Dizajn prostornih oblika Obradović dr Ratko
-
-SVI
+Dizajn prostornih oblika SVI
 
 17:15
 
@@ -156,9 +136,7 @@ SVI
 
 Pred.
 
-Osnove crtanja za animaciju i vizuelne efekte Kekeljević dr Igor
-
-S R E D A
+Osnove crtanja za animaciju i vizuelne efekte S R E D A
 
 Grupa-e
 
@@ -171,8 +149,6 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
-
-Izvođač
 
 3,4
 
@@ -186,8 +162,6 @@ aud.vežbe
 
 Algebra
 
-Prokić Aleksandar
-
 SVI
 
 10:15
@@ -198,9 +172,7 @@ AH1A
 
 Pred.
 
-Osnovi informacionih tehnologija za računarsku animaciju Ivetić dr Dragan
-
-1
+Osnovi informacionih tehnologija za računarsku animaciju 1
 
 14:00
 
@@ -210,9 +182,7 @@ L3 (RC)
 
 rač.vežbe
 
-Dizajn prostornih oblika Vasiljević Ivana
-
-4
+Dizajn prostornih oblika 4
 
 15:00
 
@@ -222,9 +192,7 @@ L6 (RC)
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji Kićanović Jelena
-
-2
+Računarska obrada slike u inženjerskoj animaciji 2
 
 14:30
 
@@ -234,9 +202,7 @@ Računarska obrada slike u inženjerskoj animaciji Kićanović Jelena
 
 rač.vežbe
 
-Dizajn prostornih oblika Kuzmanović Nenad
-
-3
+Dizajn prostornih oblika 3
 
 15:45
 
@@ -246,11 +212,7 @@ Dizajn prostornih oblika Kuzmanović Nenad
 
 rač.vežbe
 
-Osnovi informacionih tehnologija za računarsku animaciju Milinković Nikola
-
-Mirčeski Filip,
-
-1,2
+Osnovi informacionih tehnologija za računarsku animaciju 1,2
 
 19:45
 
@@ -260,9 +222,7 @@ L1 (RC)
 
 rač.vežbe
 
-Osnovi informacionih tehnologija za računarsku animaciju Milinković Nikola
-
-Č E T V R T A K
+Osnovi informacionih tehnologija za računarsku animaciju Č E T V R T A K
 
 Grupa-e
 
@@ -275,8 +235,6 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
-
-Izvođač
 
 SVI
 
@@ -288,9 +246,7 @@ SVI
 
 Pred.
 
-Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
-
-1
+Geometrija i vizualizacija 3D prostora 1
 
 10:15
 
@@ -300,9 +256,7 @@ L2 (RC)
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji Kićanović Jelena
-
-2
+Računarska obrada slike u inženjerskoj animaciji 2
 
 10:15
 
@@ -312,9 +266,7 @@ AH-CRT
 
 aud.vežbe
 
-Osnove crtanja za animaciju i vizuelne efekte Letić Jelena
-
-3,4
+Osnove crtanja za animaciju i vizuelne efekte 3,4
 
 10:30
 
@@ -324,9 +276,7 @@ AH4
 
 aud.vežbe
 
-Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
-
-P E T A K
+Geometrija i vizualizacija 3D prostora P E T A K
 
 Grupa-e
 
@@ -340,8 +290,6 @@ Vrsta nast.
 
 Naziv Predmeta
 
-Izvođač
-
 1,2
 
 07:30
@@ -352,9 +300,7 @@ AH2
 
 aud.vežbe
 
-Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
-
-1,2
+Geometrija i vizualizacija 3D prostora 1,2
 
 10:30
 
@@ -366,8 +312,6 @@ aud.vežbe
 
 Algebra
 
-Prokić Aleksandar
-
 3
 
 10:30
@@ -378,9 +322,7 @@ L3 (RC)
 
 rač.vežbe
 
-Dizajn prostornih oblika Kuzmanović Nenad
-
-SVI
+Dizajn prostornih oblika SVI
 
 13:15
 
@@ -390,9 +332,7 @@ SVI
 
 Pred.
 
-Računarska obrada slike u inženjerskoj animaciji Stojaković dr Vesna
-
-4,3(9-)
+Računarska obrada slike u inženjerskoj animaciji 4,3(9-)
 
 15:15
 
@@ -402,11 +342,9 @@ AH-CRT
 
 aud.vežbe
 
-Osnove crtanja za animaciju i vizuelne efekte Varga Marija
+Osnove crtanja za animaciju i vizuelne efekte Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.09.2022. 07:12, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:00, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -506,11 +444,13 @@ Izvođač
 
 10:00
 
-109
+104
 
 aud.vežbe
 
 Diskretne i kombinatorne metode za računarsku grafiku Đokić Jelena
+
+Ovcin dr Zoran,
 
 SVI
 
@@ -522,7 +462,7 @@ SVI
 
 Pred.
 
-Diskretne i kombinatorne metode za računarsku grafiku Ovcin dr Zoran
+Diskretne i kombinatorne metode za računarsku grafiku Pantović dr Jovanka
 
 SVI
 
@@ -618,7 +558,7 @@ rač.vežbe
 
 Računarska grafika
 
-Adamović Milan
+Nov saradnik TN
 
 2,4
 
@@ -674,7 +614,7 @@ rač.vežbe
 
 Računarska grafika
 
-Skrobonja Nikola
+Ivošević Jovan
 
 1,3
 
@@ -728,7 +668,7 @@ rač.vežbe
 
 Računarska grafika
 
-Adamović Milan
+Nov saradnik TN
 
 3
 
@@ -756,7 +696,7 @@ rač.vežbe
 
 Računarska grafika
 
-Gligorov Nenad
+Nov saradnik TN
 
 P E T A K
 
@@ -1374,7 +1314,7 @@ Digitalna obrada slike u animacijama Haška Aleksandra
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.08.2022. 07:24, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:01, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1408,17 +1348,19 @@ Boje i osvetljenost
 
 Ilić dr Dušan
 
+Čomić dr Lidija,
+
 3,4
 
 17:15
 
 20:00
 
-MI G2-1
+206
 
 Pred.
 
-Geometrija diskretnih prostora Čomić dr Lidija
+Geometrija diskretnih prostora Nedović dr Ljubo
 
 3,4
 
@@ -1426,7 +1368,7 @@ Geometrija diskretnih prostora Čomić dr Lidija
 
 21:45
 
-MI G2-1
+206
 
 aud.vežbe
 
@@ -1794,7 +1736,7 @@ Svi studenti biraju jedan od sledeća dva predmeta: 1. Geometrija diskretnih pro
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.09.2022. 09:25, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 08:01, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
