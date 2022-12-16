@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 09:20, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.10.2022. 06:07, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -228,9 +228,9 @@ Anđelovski Olja,
 
 1,2
 
-15:00
+15:30
 
-18:15
+18:45
 
 MI A2-3
 
@@ -440,7 +440,7 @@ Algebra
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.09.2022. 10:20, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.11.2022. 10:27, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -512,7 +512,7 @@ NTP-317
 
 rač.vežbe
 
-Objektno orijentisano programiranje Varajić Stefan
+Objektno orijentisano programiranje Radović Luka
 
 2
 
@@ -526,7 +526,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Milošević Milena
+Novi saradnik MM
 
 6
 
@@ -554,7 +554,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Matić Milica
+Novi saradnik MM
 
 1
 
@@ -567,18 +567,6 @@ NTP-316
 rač.vežbe
 
 Objektno orijentisano programiranje Hrnjaković Olivera
-
-10
-
-14:00
-
-17:15
-
-AR3
-
-rač.vežbe
-
-Objektno orijentisano programiranje Radović Luka
 
 7,8,9
 
@@ -618,21 +606,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Pijetlović Stefan
-
-10
-
-18:00
-
-19:30
-
-NTP-508
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Ivanović Sandra
+Subotić dr Miloš
 
 5
 
@@ -736,7 +710,7 @@ rač.vežbe
 
 Objektno orijentisano programiranje Simić Svetislav
 
-4,5,6,10
+4,5,6
 
 17:45
 
@@ -748,7 +722,7 @@ aud.vežbe
 
 Metodi optimizacije u infrastrukturnim sistemima Milić Kristina
 
-4,5,6,10
+4,5,6
 
 19:30
 
@@ -776,7 +750,7 @@ Naziv Predmeta
 
 Izvođač
 
-7,8,9,10(9-)
+7,8,9
 
 Pjevalica dr Nebojša,
 
@@ -790,7 +764,7 @@ aud.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-(4,5,6,10(1-8))
+(4,5,6)
 
 Kaštelan dr Ivan
 
@@ -820,7 +794,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Novi saradnik MM
 
 SVI
 
@@ -874,23 +848,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Stepanović Mia
-
-10
-
-07:30
-
-10:00
-
-AR2
-
-rač.vežbe
-
-Primenjeni algoritmi
-
-Tošić Mr Saša
-
-Cvetićanin dr Stevan,
+Ivanović Sandra
 
 1,2,3
 
@@ -994,7 +952,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Pijetlović Stefan
+Stepanović Mia
 
 7
 
@@ -1008,7 +966,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Pijetlović Stefan
+Stepanović Mia
 
 1,2,3
 
@@ -1096,9 +1054,39 @@ Logičko projektovanje računarskih sistema 1
 
 Kaštelan dr Ivan
 
+P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+stari studenti
+
+14:30
+
+16:00
+
+NTP-508
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 1
+
+Novi saradnik MM
+
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 05:58, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.10.2022. 11:21, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1256,7 +1244,7 @@ rač.vežbe
 
 Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
 
-2,4
+1,2
 
 16:00 17:30
 
@@ -1264,7 +1252,7 @@ NTP-222
 
 rač.vežbe
 
-Modeliranje i simulacija sistema Prodanović Lazar
+Modeliranje i simulacija sistema Gavranović Nikola
 
 3
 
@@ -1284,7 +1272,7 @@ AR2
 
 rač.vežbe
 
-Modeliranje i simulacija sistema Pejić Marko
+Modeliranje i simulacija sistema Pavković Vesna
 
 3
 
@@ -1336,7 +1324,7 @@ L4 (RC)
 
 rač.vežbe
 
-Modeliranje i simulacija sistema Dragutinović Đorđe
+Modeliranje i simulacija sistema Pejić Marko
 
 6
 
@@ -1422,7 +1410,7 @@ MI A2-4
 
 rač.vežbe
 
-Modeliranje i simulacija sistema Dragutinović Đorđe
+Modeliranje i simulacija sistema Gavranović Nikola
 
 S R E D A
 
@@ -1566,16 +1554,6 @@ rač.vežbe
 
 Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
 
-1
-
-08:45 10:15
-
-MI A2-4A
-
-rač.vežbe
-
-Modeliranje i simulacija sistema Pejić Marko
-
 2
 
 07:00 08:30
@@ -1618,16 +1596,6 @@ rač.vežbe
 
 Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
 
-4
-
-16:00 17:30
-
-MI D4-A
-
-rač.vežbe
-
-Elementi razvoja softvera Čubrić Tanja
-
 5
 
 10:30 13:45
@@ -1640,11 +1608,11 @@ Uvod u baze podataka
 
 Jeremić Aleksandar
 
-8
+7
 
-12:15 13:45
+14:15 15:45
 
-AR2
+MI D4-A
 
 rač.vežbe
 
@@ -1660,28 +1628,6 @@ rač.vežbe
 
 Primena računarskih mreža u infrastrukturnim sistemima Novi215 4
 
-9
-
-14:00 17:15
-
-MI A2-4
-
-rač.vežbe
-
-Uvod u baze podataka
-
-Novi saradnik JV
-
-6
-
-14:15 16:45
-
-AR2
-
-rač.vežbe
-
-Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
-
 8
 
 14:15 15:45
@@ -1694,15 +1640,37 @@ Programski prevodioci
 
 Nov saradnik V2
 
-7
+6
 
-14:15 15:45
+14:15 16:45
+
+AR2
+
+rač.vežbe
+
+Primena računarskih mreža u infrastrukturnim sistemima Đorđević Filip
+
+9
+
+14:00 17:15
+
+MI A2-4
+
+rač.vežbe
+
+Uvod u baze podataka
+
+Novi saradnik JV
+
+4
+
+16:00 17:30
 
 MI D4-A
 
 rač.vežbe
 
-Modeliranje i simulacija sistema Dragutinović Đorđe
+Elementi razvoja softvera Čubrić Tanja
 
 7
 
@@ -1738,6 +1706,16 @@ Programski prevodioci
 
 Nov saradnik V2
 
+4,8
+
+18:15 19:45
+
+NTP-222
+
+rač.vežbe
+
+Modeliranje i simulacija sistema Pejić Marko
+
 9
 
 19:30 21:00
@@ -1750,7 +1728,7 @@ Elementi razvoja softvera Čubrić Tanja
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.09.2022. 08:04, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 11.10.2022. 09:11, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1880,7 +1858,7 @@ NTP-222
 
 rač.vežbe
 
-Industrijski komunikacioni protokoli u elektroenergetskim sistemima Jelaćić Bojan
+Industrijski komunikacioni protokoli u elektroenergetskim sistemima Jelačić Bojan
 
 Sekulić Jelena,
 
@@ -2130,7 +2108,7 @@ Industrijski komunikacioni protokoli u elektroenergetskim sistemima Janković Ma
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2022. 12:09, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 05.12.2022. 08:56, Strana: 5
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -2312,15 +2290,7 @@ Cloud računarstvo u infrastrukturnim sistemima Stoja Sebastijan
 
 Opredeljeni
 
-16:15 19:00
-
-MI B4-5
-
-Pred.
-
-Big data u infrastrukturnim sistemima Kupusinac dr Aleksandar Opredeljeni
-
-19:15 21:45
+15:35 18:05
 
 MI B4-5
 
@@ -2328,7 +2298,15 @@ rač.vežbe
 
 Big data u infrastrukturnim sistemima Samardžić Bojana
 
-P E T A K
+Opredeljeni
+
+18:10 20:40
+
+MI B4-5
+
+Pred.
+
+Big data u infrastrukturnim sistemima Kupusinac dr Aleksandar P E T A K
 
 Grupa-e
 

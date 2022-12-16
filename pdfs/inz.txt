@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.09.2022. 11:20, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:55, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -432,7 +432,7 @@ Prokić dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:41, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.10.2022. 06:07, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -476,7 +476,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić Miloš
+Subotić dr Miloš
 
 U T O R A K
 
@@ -544,7 +544,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić Miloš
+Subotić dr Miloš
 
 3
 
@@ -574,17 +574,29 @@ Naziv Predmeta
 
 Izvođač
 
-1,2
+1
 
 11:30
 
 14:45
 
-MI A2-3
+NTP-316
 
 rač.vežbe
 
 Napredno programiranje i programski jezici Novi saradnik V1
+
+2
+
+11:30
+
+14:45
+
+NTP-317
+
+rač.vežbe
+
+Napredno programiranje i programski jezici Vrbaški dr Dunja
 
 3,4
 
@@ -656,7 +668,7 @@ aud.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Kaštelan dr Ivan
+Subotić dr Miloš
 
 (1,2)
 
@@ -712,7 +724,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Subotić dr Miloš
 
 4
 
@@ -720,13 +732,13 @@ Ivanović Sandra
 
 14:45
 
-MI B4-1A
+NTP-507
 
 rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić Miloš
+Subotić dr Miloš
 
 SVI
 
@@ -758,7 +770,7 @@ Kaštelan dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.09.2022. 12:24, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:11, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -872,6 +884,20 @@ rač.vežbe
 
 Numerički algoritmi i numerički softver Anđelić Branislav
 
+2
+
+14:00
+
+15:30
+
+MI A2-3
+
+rač.vežbe
+
+Programski prevodioci
+
+Ignjatijević Aleksandar
+
 S R E D A
 
 Grupa-e
@@ -887,6 +913,20 @@ Vrsta nast.
 Naziv Predmeta
 
 Izvođač
+
+3
+
+08:45
+
+12:00
+
+MI A2-2
+
+rač.vežbe
+
+Baze podataka 1
+
+Tomić Miroslav
 
 SVI
 
@@ -1100,17 +1140,17 @@ Nov saradnik V1
 
 2
 
-12:15
+10:30
 
 13:45
 
-NTP-317
+MI A2-2
 
 rač.vežbe
 
-Programski prevodioci
+Baze podataka 1
 
-Ignjatijević Aleksandar
+Ivković Vladimir
 
 4
 
@@ -1152,7 +1192,7 @@ Optimizacioni algoritmi i nelinearno programiranje Jeličić dr Zoran
 
 SVI
 
-16:15
+16:30
 
 18:00
 
@@ -1164,53 +1204,9 @@ Baze podataka 1
 
 Kordić dr Slavica
 
-S U B O T A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-3
-
-08:00
-
-11:15
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Tomić Miroslav
-
-2
-
-11:30
-
-14:45
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Ivković Vladimir
-
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.09.2022. 10:50, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 11.10.2022. 06:49, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1412,7 +1408,9 @@ Pred.
 
 Prepoznavanje oblika
 
-Lončar-Turukalo dr Tatjana Anišić dr Zoran,
+Lončar-Turukalo dr Tatjana
+
+Anišić dr Zoran,
 
 ANI
 
@@ -1572,7 +1570,9 @@ NTP-417
 
 aud.vežbe
 
-Uvod u teoriju informacija Stanojević mr Ivan
+Uvod u teoriju informacija
+
+Stanojević mr Ivan
 
 SVI
 
@@ -1584,9 +1584,11 @@ SVI
 
 Pred.
 
-Uvod u teoriju informacija Šenk dr Vojin
+Uvod u teoriju informacija
 
-1,2,3
+Šenk dr Vojin
+
+1,2
 
 15:15
 
@@ -1612,13 +1614,279 @@ Oznake učionica VPK** su nove učionice koje se nalaze u zgradi, koja se nalazi
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 09:45, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:13, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
-Informacioni i analitički inženjering Raspored će biti objavljen nakon upisa studenata.
+Informacioni i analitički inženjering P O N E D E L J A K
 
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+12:15
+
+14:00
+
+L1
+
+Pred.
+
+Kvantitativne metode upravljanja rizicima Radišić dr Mladen
+
+1
+
+15:00
+
+16:30
+
+ITC03
+
+rač.vežbe
+
+Kvantitativne metode upravljanja rizicima Ferenčak dr Miroslav
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+17:15
+
+18:45
+
+NTP-001
+
+Pred.
+
+Kriptozaštita informacija
+
+Kovačević dr Mladen
+
+1
+
+19:30
+
+21:00
+
+NTP-116
+
+rač.vežbe
+
+Kriptozaštita informacija
+
+Kovačević dr Mladen
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+07:00
+
+09:30
+
+MI A2-3
+
+rač.vežbe
+
+Sistemi skladišta podataka
+
+Ivković Vladimir
+
+Softversko modelovanje procesa u organizacionim 1
+
+15:00
+
+17:30
+
+MI A2-1
+
+rač.vežbe
+
+Vještica Marko
+
+sistemima
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+07:30
+
+08:15
+
+NTP-116
+
+aud.vežbe
+
+Big data - upravljanje i analiza Gavrić Nikola, Lazić Ivan
+
+1
+
+08:30
+
+09:15
+
+NTP-116
+
+lab.vežbe
+
+Big data - upravljanje i analiza Gavrić Nikola, Lazić Ivan
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Bojović dr Živko,
+
+SVI
+
+12:05
+
+13:35
+
+NTP-115
+
+Pred.
+
+Big data - upravljanje i analiza Lončar-Turukalo dr Tatjana
+
+SVI
+
+13:45
+
+16:15
+
+NTP-316
+
+Pred.
+
+Sistemi skladišta podataka
+
+Kordić dr Slavica
+
+Softversko modelovanje procesa u organizacionim SVI
+
+16:30
+
+19:00
+
+NTP-316
+
+Pred.
+
+Ivančević dr Vladimir
+
+sistemima
+
+S U B O T A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+08:15
+
+11:00
+
+MI A2-1
+
+Pred.
+
+Arhitekture sistema velikih skupova podataka Dimitrieski dr Vladimir
+
+1
+
+11:15
+
+13:45
+
+MI A2-1
+
+rač.vežbe
+
+Arhitekture sistema velikih skupova podataka Ivković Vladimir
+
+Napomena:
+
+Grupa broj 1 je grupe koja je upisana na- Informacioni inženjering (INZ) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
 
 

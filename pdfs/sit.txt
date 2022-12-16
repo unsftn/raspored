@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 07:19, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 06:19, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -368,7 +368,7 @@ Napomena:
 
 Algebra - računarske vežbe izvodiće se u organizaciji departmana Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.10.2022. 04:43, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.11.2022. 10:54, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -506,7 +506,7 @@ Objektno orijentisano programiranje 2
 
 Ivanović Sandra
 
-5
+5 (sv.dr.ned.)
 
 15:45
 
@@ -517,8 +517,6 @@ NTP-415
 rač.vežbe
 
 Nelinearno programiranje i evolutivni algoritmi Buljević Anja
-
-(sv.dr.ned.)
 
 3,4,5
 
@@ -533,6 +531,20 @@ aud.vežbe
 Diskretna matematika
 
 Ciganović Radojka
+
+Simić dr Miloš,
+
+1,2
+
+19:45
+
+21:15
+
+NTP-222
+
+rač.vežbe
+
+Napredni algoritmi i strukture podataka Ranković Tamara
 
 U T O R A K
 
@@ -562,7 +574,7 @@ rač.vežbe
 
 Napredni algoritmi i strukture podataka Ranković Tamara
 
-1
+1(2)
 
 14:15
 
@@ -573,8 +585,6 @@ L4 (RC)
 rač.vežbe
 
 Nelinearno programiranje i evolutivni algoritmi Buljević Anja
-
-(2)
 
 Kordić dr Slavica,
 
@@ -673,6 +683,20 @@ Pred.
 Diskretna matematika
 
 Pantović dr Jovanka
+
+Simić dr Miloš,
+
+3,4
+
+19:00
+
+20:30
+
+NTP-222
+
+rač.vežbe
+
+Napredni algoritmi i strukture podataka Ranković Tamara
 
 Č E T V R T A K
 
@@ -798,9 +822,9 @@ rač.vežbe
 
 Organizacija podataka
 
-Novi asistent JV
+Jovanović Vladimir
 
-3
+3(4)
 
 12:30
 
@@ -811,8 +835,6 @@ MI B4-5A
 rač.vežbe
 
 Nelinearno programiranje i evolutivni algoritmi Arsenović Jovana
-
-(4)
 
 Jeličić dr Zoran,
 
@@ -840,53 +862,9 @@ Pred.
 
 Napredni algoritmi i strukture podataka Simić dr Miloš
 
-S U B O T A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Simić dr Miloš,
-
-3,4
-
-08:00
-
-09:30
-
-NTP-222
-
-rač.vežbe
-
-Napredni algoritmi i strukture podataka Ranković Tamara
-
-Simić dr Miloš,
-
-1,2
-
-09:45
-
-11:15
-
-NTP-222
-
-rač.vežbe
-
-Napredni algoritmi i strukture podataka Ranković Tamara
-
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 07:58, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.10.2022. 10:27, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1046,7 +1024,7 @@ NTP-309
 
 rač.vežbe
 
-Softverski obrasci i komponente Inđić Vladimir
+Softverski obrasci i komponente Novi saradnik 5
 
 U T O R A K
 
@@ -1192,7 +1170,7 @@ INT 1
 
 rač.vežbe
 
-Softverski obrasci i komponente Inđić Vladimir
+Softverski obrasci i komponente Novi saradnik 5
 
 1
 
@@ -1280,7 +1258,7 @@ NTP-307
 
 rač.vežbe
 
-Softverski obrasci i komponente Inđić Vladimir
+Softverski obrasci i komponente Novi saradnik 5
 
 2
 
@@ -1428,7 +1406,7 @@ Savić dr Goran
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2022. 07:32, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 11.10.2022. 09:21, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1872,7 +1850,7 @@ Obratiti se rukovodiocu studijskog programa PROF. DR MIROSLAVU ZARIĆU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 06:48, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.10.2022. 05:41, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -2188,7 +2166,7 @@ Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
 
 Raspored možete pogledati na internet stranici FTN-a u delu Rasporedi i realizacija: www.ftn.uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 06:48, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.10.2022. 05:41, Strana: 6
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 

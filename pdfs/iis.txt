@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.09.2022. 09:31, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:54, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -492,7 +492,7 @@ Napomena:
 
 Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - niži srednji (2+0) 2. Nemački jezik - niži srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 08:04, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.10.2022. 08:41, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -530,7 +530,7 @@ SVI
 
 16:00
 
-ITCA1
+205
 
 Pred.
 
@@ -784,6 +784,8 @@ rač.vežbe
 
 Algoritmi i strukture podataka Gajić Natalija
 
+Ćulibrk dr Jelena,
+
 4,5,6,7
 
 17:30
@@ -892,6 +894,8 @@ rač.vežbe
 
 Arhitektura računara i operativni sistemi Antanasijević Dajana
 
+Ćulibrk dr Jelena,
+
 1,2,3
 
 14:00
@@ -946,11 +950,11 @@ Algoritmi i strukture podataka Gajić Natalija
 
 1,2,3
 
-17:30
+18:15
 
-20:00
+20:45
 
-ITC04
+103
 
 aud.vežbe
 
@@ -958,7 +962,7 @@ Kombinatorika i teorija grafova Ciganović Radojka
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2022. 06:40, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.10.2022. 09:01, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1022,7 +1026,7 @@ SVI
 
 16:00
 
-205
+ITCA1
 
 Pred.
 
@@ -1070,13 +1074,25 @@ Naziv Predmeta
 
 Izvođač
 
+6
+
+07:00
+
+09:30
+
+ITC03
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Gutai Andrea
+
 5
 
-08:45
+09:35
 
-11:15
+12:05
 
-MI D4-A
+ITC03
 
 rač.vežbe
 
@@ -1288,18 +1304,6 @@ rač.vežbe
 
 Projektovanje baza podataka Petrovački Jelena
 
-2
-
-15:45
-
-18:15
-
-AR4
-
-rač.vežbe
-
-Računarom podržano projektovanje proizvoda (CAD/CAE) Novi saradnik 183
-
 6
 
 10:30
@@ -1436,7 +1440,7 @@ Projektovanje baza podataka Spasojević Ivana
 
 12:15
 
-ITC03
+MI B4-5
 
 rač.vežbe
 
@@ -1456,11 +1460,11 @@ Mobilne informacione tehnologije Đorđević Sofija
 
 3
 
-10:30
+09:45
 
-13:00
+12:15
 
-MI V3-5
+ITC03
 
 rač.vežbe
 
@@ -1479,18 +1483,6 @@ rač.vežbe
 Dizajnerski obrasci
 
 Stefanović Miroslav
-
-6
-
-14:15
-
-16:45
-
-MI V3-5
-
-rač.vežbe
-
-Računarom podržano projektovanje proizvoda (CAD/CAE) Gutai Andrea
 
 3
 
@@ -1516,9 +1508,37 @@ rač.vežbe
 
 Mobilne informacione tehnologije Lazarević Sara
 
+S U B O T A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+2
+
+13:30
+
+16:00
+
+ITC03
+
+rač.vežbe
+
+Računarom podržano projektovanje proizvoda (CAD/CAE) Novi saradnik 183
+
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2022. 06:15, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.10.2022. 04:15, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1548,7 +1568,7 @@ AR1
 
 rač.vežbe
 
-Metode istraživanja i eksploatacije podataka Ilić Veljko
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
 
 2
 
@@ -1660,7 +1680,7 @@ Projektovanje skladišta podataka Antanasijević Dajana
 
 rač.vežbe
 
-Metode istraživanja i eksploatacije podataka Ilić Veljko
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
 
 SVI
 
@@ -1684,7 +1704,7 @@ L3 (RC)
 
 rač.vežbe
 
-Metode istraživanja i eksploatacije podataka Ilić Veljko
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
 
 6
 
@@ -1772,7 +1792,7 @@ Projektovanje skladišta podataka Petrovački Jelena
 
 15:30
 
-AR4
+MI D4-A
 
 rač.vežbe
 
@@ -1800,7 +1820,7 @@ MI V3-5
 
 rač.vežbe
 
-Metode istraživanja i eksploatacije podataka Ilić Veljko
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
 
 2
 
@@ -1842,9 +1862,7 @@ Naziv Predmeta
 
 Izvođač
 
-Kozma Nina,
-
-3,4
+3
 
 07:00
 
@@ -1857,6 +1875,20 @@ rač.vežbe
 Elektronsko poslovanje
 
 Nikolić Danilo
+
+4
+
+07:00
+
+08:30
+
+L5 (RC)
+
+rač.vežbe
+
+Elektronsko poslovanje
+
+Kozma Nina
 
 5,6
 
@@ -1920,7 +1952,19 @@ ITCS-03
 
 rač.vežbe
 
-Metode istraživanja i eksploatacije podataka Ilić Veljko
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
+
+6
+
+14:55
+
+17:25
+
+AR1
+
+rač.vežbe
+
+Metode istraživanja i eksploatacije podataka Ćulibrk dr Dubravko
 
 P E T A K
 
@@ -1990,7 +2034,7 @@ Svi studenti biraju jedan od sledeća dva predmeta: 1. Elektronsko poslovanje (2
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2022. 06:12, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.11.2022. 05:09, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -2032,9 +2076,9 @@ ITC03
 
 rač.vežbe
 
-Sistemi elektronske uprave Havzi Sara
+Automatizacija upravljanja proizvodnim sistemima Nikolić Danilo
 
-2
+3
 
 18:30
 
@@ -2045,6 +2089,18 @@ ITC03
 rač.vežbe
 
 Automatizacija upravljanja proizvodnim sistemima Nikolić Danilo
+
+3
+
+20:15
+
+21:45
+
+AR1
+
+rač.vežbe
+
+Reinženjering informacionih sistema Antanasijević Dajana
 
 U T O R A K
 
@@ -2099,6 +2155,18 @@ SVI
 Pred.
 
 Empirijsko softversko inženjerstvo Mandić dr Vladimir
+
+2,3
+
+19:30
+
+21:00
+
+ITCS-RC
+
+rač.vežbe
+
+Sistemi elektronske uprave Havzi Sara
 
 S R E D A
 
@@ -2164,6 +2232,18 @@ rač.vežbe
 
 Empirijsko softversko inženjerstvo Katin Andrej
 
+3
+
+12:30
+
+14:00
+
+AR4
+
+rač.vežbe
+
+Prostorno informacioni sistemi Stefanović Miroslav
+
 2
 
 13:00
@@ -2175,6 +2255,18 @@ ITC03
 rač.vežbe
 
 Reinženjering informacionih sistema Antanasijević Dajana
+
+3
+
+14:10
+
+15:40
+
+AR4
+
+rač.vežbe
+
+Empirijsko softversko inženjerstvo Ramač Robert
 
 Č E T V R T A K
 
@@ -2227,6 +2319,18 @@ ITC03
 rač.vežbe
 
 Prostorno informacioni sistemi Stefanović Miroslav
+
+3
+
+17:05
+
+18:35
+
+ITCS-03
+
+rač.vežbe
+
+Principi istraživačkog rada Mirković dr Milan
 
 2
 

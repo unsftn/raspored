@@ -22,7 +22,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 08:45, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.10.2022. 05:48, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 1 Semestar
 
@@ -226,7 +226,7 @@ Pred.
 
 Engleski jezik 1
 
-Novi predavač
+Kardoš Aleksandra
 
 3,4
 
@@ -376,7 +376,7 @@ Dragišić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.09.2022. 12:10, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.10.2022. 11:10, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 3 Semestar
 
@@ -776,7 +776,7 @@ Matijević Milica
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.09.2022. 07:54, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.10.2022. 05:02, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 5 Semestar
 
@@ -824,7 +824,7 @@ Informaciona bezbednost Kovačević Tamara
 
 14:15
 
-16:45
+15:45
 
 L5 (RC)
 
@@ -834,9 +834,9 @@ Servisno orijentisane arhitekture Ranković Tamara
 
 1
 
-17:00
+16:00
 
-18:30
+17:30
 
 INT 1
 
@@ -859,6 +859,20 @@ Vrsta nast.
 Naziv Predmeta
 
 Izvođač
+
+1
+
+13:15
+
+15:45
+
+INT 1
+
+rač.vežbe
+
+NoSQL baze podataka
+
+Janković Eva
 
 1
 
@@ -894,7 +908,7 @@ NTP-309
 
 rač.vežbe
 
-Napredne tehnike programiranja Dragišić Jelena
+Napredne tehnike programiranja Nikolić Dušan
 
 3
 
@@ -907,6 +921,20 @@ NTP-309
 rač.vežbe
 
 Informaciona bezbednost Kovačević Tamara
+
+3
+
+16:00
+
+18:30
+
+INT 1
+
+rač.vežbe
+
+NoSQL baze podataka
+
+Janković Eva
 
 S R E D A
 
@@ -924,20 +952,6 @@ Naziv Predmeta
 
 Izvođač
 
-3
-
-12:15
-
-14:45
-
-AR2
-
-rač.vežbe
-
-NoSQL baze podataka
-
-Janković Eva
-
 2
 
 12:30
@@ -948,7 +962,7 @@ Janković Eva
 
 rač.vežbe
 
-Napredne tehnike programiranja Dragišić Jelena
+Napredne tehnike programiranja Inđić Vladimir
 
 SVI
 
@@ -1028,6 +1042,20 @@ NoSQL baze podataka
 
 Simić dr Miloš
 
+2
+
+17:30
+
+20:00
+
+INT 1
+
+rač.vežbe
+
+NoSQL baze podataka
+
+Janković Eva
+
 P E T A K
 
 Grupa-e
@@ -1054,21 +1082,7 @@ MI B4-5
 
 rač.vežbe
 
-Napredne tehnike programiranja Dragišić Jelena
-
-1
-
-09:45
-
-12:15
-
-MI B4-5
-
-rač.vežbe
-
-NoSQL baze podataka
-
-Janković Eva
+Napredne tehnike programiranja Nikolić Dušan
 
 3
 
@@ -1081,20 +1095,6 @@ Janković Eva
 rač.vežbe
 
 Metodologije razvoja softvera Nov asistent VA
-
-2
-
-13:15
-
-15:45
-
-L3 (RC)
-
-rač.vežbe
-
-NoSQL baze podataka
-
-Janković Eva
 
 2
 

@@ -24,9 +24,11 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 06:22, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2022. 09:13, Strana: 1
 
-RASPORED PREDAVANJA - Osnovne akademske studije Animacija u inženjerstvu P O N E D E L J A K
+RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
+
+Animacija u inženjerstvu P O N E D E L J A K
 
 Grupa-e
 
@@ -39,6 +41,8 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
+
+Izvođač
 
 1,3(1-8)
 
@@ -50,7 +54,11 @@ AH-CRT
 
 aud.vežbe
 
-Osnove crtanja za animaciju i vizuelne efekte SVI
+Osnove crtanja za animaciju i vizuelne efekte Kekeljević dr Igor
+
+Grbić dr Tatjana,
+
+SVI
 
 09:15
 
@@ -62,6 +70,8 @@ Pred.
 
 Algebra
 
+Buhmiler dr Sandra
+
 2
 
 12:15
@@ -72,7 +82,9 @@ MI A2-4A
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji 4
+Računarska obrada slike u inženjerskoj animaciji Kićanović Jelena
+
+4
 
 12:15
 
@@ -82,7 +94,9 @@ L6 (RC)
 
 rač.vežbe
 
-Dizajn prostornih oblika 3
+Dizajn prostornih oblika Bobić Aleksandra
+
+3
 
 14:00
 
@@ -92,7 +106,9 @@ MI A2-4A
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji 4
+Računarska obrada slike u inženjerskoj animaciji Kićanović Jelena
+
+4
 
 15:00
 
@@ -102,7 +118,9 @@ MI D4-A
 
 rač.vežbe
 
-Osnovi informacionih tehnologija za računarsku animaciju U T O R A K
+Osnovi informacionih tehnologija za računarsku animaciju Mirčeski Filip
+
+U T O R A K
 
 Grupa-e
 
@@ -115,6 +133,10 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
+
+Izvođač
+
+Obradović dr Ratko,
 
 SVI
 
@@ -126,7 +148,9 @@ SVI
 
 Pred.
 
-Dizajn prostornih oblika SVI
+Dizajn prostornih oblika Kuzmanović dr Nenad
+
+SVI
 
 17:15
 
@@ -136,7 +160,9 @@ Dizajn prostornih oblika SVI
 
 Pred.
 
-Osnove crtanja za animaciju i vizuelne efekte S R E D A
+Osnove crtanja za animaciju i vizuelne efekte Kekeljević dr Igor
+
+S R E D A
 
 Grupa-e
 
@@ -149,6 +175,8 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
+
+Izvođač
 
 3,4
 
@@ -162,6 +190,10 @@ aud.vežbe
 
 Algebra
 
+Prokić Aleksandar
+
+Krstanović dr Lidija,
+
 SVI
 
 10:15
@@ -172,7 +204,9 @@ AH1A
 
 Pred.
 
-Osnovi informacionih tehnologija za računarsku animaciju 1
+Osnovi informacionih tehnologija za računarsku animaciju Banjac dr Bojan
+
+1
 
 14:00
 
@@ -182,7 +216,9 @@ L3 (RC)
 
 rač.vežbe
 
-Dizajn prostornih oblika 4
+Dizajn prostornih oblika Bobić Aleksandra
+
+4
 
 15:00
 
@@ -192,7 +228,9 @@ L6 (RC)
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji 2
+Računarska obrada slike u inženjerskoj animaciji Obradović Miloš
+
+2
 
 14:30
 
@@ -202,7 +240,9 @@ Računarska obrada slike u inženjerskoj animaciji 2
 
 rač.vežbe
 
-Dizajn prostornih oblika 3
+Dizajn prostornih oblika Kuzmanović dr Nenad
+
+3
 
 15:45
 
@@ -212,7 +252,9 @@ Dizajn prostornih oblika 3
 
 rač.vežbe
 
-Osnovi informacionih tehnologija za računarsku animaciju 1,2
+Osnovi informacionih tehnologija za računarsku animaciju Milinković Nikola
+
+1,2
 
 19:45
 
@@ -222,7 +264,9 @@ L1 (RC)
 
 rač.vežbe
 
-Osnovi informacionih tehnologija za računarsku animaciju Č E T V R T A K
+Osnovi informacionih tehnologija za računarsku animaciju Milinković Nikola
+
+Č E T V R T A K
 
 Grupa-e
 
@@ -235,6 +279,8 @@ Učionica
 Vrsta nast.
 
 Naziv Predmeta
+
+Izvođač
 
 SVI
 
@@ -246,17 +292,21 @@ SVI
 
 Pred.
 
-Geometrija i vizualizacija 3D prostora 1
+Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
 
-10:15
+1
 
-11:45
+10:30
+
+12:00
 
 L2 (RC)
 
 rač.vežbe
 
-Računarska obrada slike u inženjerskoj animaciji 2
+Računarska obrada slike u inženjerskoj animaciji Obradović Miloš
+
+2
 
 10:15
 
@@ -266,7 +316,9 @@ AH-CRT
 
 aud.vežbe
 
-Osnove crtanja za animaciju i vizuelne efekte 3,4
+Osnove crtanja za animaciju i vizuelne efekte Letić Jelena
+
+3,4
 
 10:30
 
@@ -276,7 +328,9 @@ AH4
 
 aud.vežbe
 
-Geometrija i vizualizacija 3D prostora P E T A K
+Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
+
+P E T A K
 
 Grupa-e
 
@@ -290,6 +344,8 @@ Vrsta nast.
 
 Naziv Predmeta
 
+Izvođač
+
 1,2
 
 07:30
@@ -300,7 +356,9 @@ AH2
 
 aud.vežbe
 
-Geometrija i vizualizacija 3D prostora 1,2
+Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
+
+1,2
 
 10:30
 
@@ -312,6 +370,8 @@ aud.vežbe
 
 Algebra
 
+Prokić Aleksandar
+
 3
 
 10:30
@@ -322,7 +382,9 @@ L3 (RC)
 
 rač.vežbe
 
-Dizajn prostornih oblika SVI
+Dizajn prostornih oblika Kuzmanović dr Nenad
+
+SVI
 
 13:15
 
@@ -332,7 +394,9 @@ Dizajn prostornih oblika SVI
 
 Pred.
 
-Računarska obrada slike u inženjerskoj animaciji 4,3(9-)
+Računarska obrada slike u inženjerskoj animaciji Stojaković dr Vesna
+
+4,3(9-)
 
 15:15
 
@@ -342,9 +406,11 @@ AH-CRT
 
 aud.vežbe
 
-Osnove crtanja za animaciju i vizuelne efekte Rasporedi i realizacija: ftnraspored@uns.ac.rs
+Osnove crtanja za animaciju i vizuelne efekte Varga Marija
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:00, Strana: 2
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2022. 09:14, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -392,7 +458,7 @@ Pred.
 
 Tehnike renderovanja
 
-Kekeljević dr Igor
+Vasiljević dr Ivana
 
 1
 
@@ -420,7 +486,7 @@ rač.vežbe
 
 Klasična animacija
 
-Letić Jelena
+Kekeljević dr Igor
 
 U T O R A K
 
@@ -504,7 +570,7 @@ Izvođač
 
 rač.vežbe
 
-Proceduralno generisanje teksture Đurić Isidora
+Proceduralno generisanje teksture Đurić dr Isidora
 
 3
 
@@ -516,7 +582,7 @@ Proceduralno generisanje teksture Đurić Isidora
 
 rač.vežbe
 
-Proceduralno generisanje teksture Đurić Isidora
+Proceduralno generisanje teksture Mirčeski Filip
 
 2,4
 
@@ -530,7 +596,7 @@ aud.vežbe
 
 Perspektiva
 
-Nikolić dr Dimitrije
+Vučić Marko
 
 3
 
@@ -544,7 +610,7 @@ rač.vežbe
 
 Klasična animacija
 
-Perišić dr Ana
+Milinković Nikola
 
 3
 
@@ -584,7 +650,7 @@ rač.vežbe
 
 Tehnike renderovanja
 
-Mirčeski Filip
+Bobić Aleksandra
 
 Č E T V R T A K
 
@@ -628,7 +694,7 @@ aud.vežbe
 
 Perspektiva
 
-Obradović Miloš
+Vučić Marko
 
 2
 
@@ -640,7 +706,7 @@ Obradović Miloš
 
 rač.vežbe
 
-Proceduralno generisanje teksture Vasiljević Ivana
+Proceduralno generisanje teksture Đurić dr Isidora
 
 2
 
@@ -654,7 +720,7 @@ rač.vežbe
 
 Tehnike renderovanja
 
-Milinković Nikola
+Miščević Milan
 
 4
 
@@ -682,7 +748,7 @@ rač.vežbe
 
 Tehnike renderovanja
 
-Vasiljević Ivana
+Bobić Aleksandra
 
 2
 
@@ -742,7 +808,7 @@ Klasična animacija
 
 Kekeljević dr Igor
 
-Obradović dr Ratko,
+Krstanović dr Lidija,
 
 SVI
 
@@ -754,7 +820,7 @@ SVI
 
 Pred.
 
-Proceduralno generisanje teksture Kekeljević dr Igor
+Proceduralno generisanje teksture Banjac dr Bojan
 
 S U B O T A
 
@@ -782,7 +848,7 @@ Izvođač
 
 rač.vežbe
 
-Proceduralno generisanje teksture Mirčeski Filip
+Proceduralno generisanje teksture Bobić Aleksandra
 
 1
 
@@ -796,7 +862,7 @@ rač.vežbe
 
 Tehnike renderovanja
 
-Milinković Nikola
+Miščević Milan
 
 2
 
@@ -810,11 +876,11 @@ rač.vežbe
 
 Klasična animacija
 
-Perišić dr Ana
+Mirčeski Filip
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.09.2022. 08:32, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2022. 09:16, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -846,7 +912,7 @@ rač.vežbe
 
 Simulacije u animaciji
 
-Paunović Aleksa
+Varga Marija
 
 1
 
@@ -860,7 +926,7 @@ rač.vežbe
 
 Storyboard
 
-Đurić Isidora
+Letić Jelena
 
 SVI
 
@@ -872,9 +938,9 @@ SVI
 
 Pred.
 
-Simulacije u animaciji
+Animacija karaktera
 
-Perišić dr Ana
+Kekeljević dr Igor
 
 SVI
 
@@ -886,7 +952,7 @@ SVI
 
 Pred.
 
-Uvod u tehnologije proširene i virtualne realnosti Krstanović dr Lidija
+Uvod u tehnologije proširene i virtualne realnosti Jovanović dr Marko
 
 2
 
@@ -900,7 +966,7 @@ rač.vežbe
 
 Animacija karaktera
 
-Miščević Milan
+Kekeljević dr Igor
 
 4
 
@@ -944,7 +1010,7 @@ rač.vežbe
 
 Storyboard
 
-Đurić Isidora
+Đurić dr Isidora
 
 2
 
@@ -958,7 +1024,7 @@ rač.vežbe
 
 Simulacije u animaciji
 
-Paunović Aleksa
+Perišić dr Ana
 
 1(1-12)
 
@@ -996,7 +1062,7 @@ Paunović Aleksa
 
 rač.vežbe
 
-Uvod u tehnologije proširene i virtualne realnosti Krstanović dr Lidija
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
 
 1
 
@@ -1010,7 +1076,7 @@ rač.vežbe
 
 WEB dizajn
 
-Paunović Aleksa
+Mirčeski Filip
 
 2
 
@@ -1022,7 +1088,7 @@ Paunović Aleksa
 
 rač.vežbe
 
-Uvod u tehnologije proširene i virtualne realnosti Varga Marija
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
 
 1
 
@@ -1036,7 +1102,7 @@ rač.vežbe
 
 Simulacije u animaciji
 
-Paunović Aleksa
+Varga Marija
 
 4
 
@@ -1048,7 +1114,7 @@ Paunović Aleksa
 
 rač.vežbe
 
-Uvod u tehnologije proširene i virtualne realnosti Varga Marija
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
 
 3(1-12)
 
@@ -1074,7 +1140,7 @@ rač.vežbe
 
 WEB dizajn
 
-Miščević Milan
+Mirčeski Filip
 
 S R E D A
 
@@ -1102,7 +1168,7 @@ Izvođač
 
 rač.vežbe
 
-Uvod u tehnologije proširene i virtualne realnosti Krstanović dr Lidija
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
 
 3
 
@@ -1116,7 +1182,7 @@ rač.vežbe
 
 WEB dizajn
 
-Milinković Nikola
+Paunović Aleksa
 
 4
 
@@ -1130,7 +1196,7 @@ rač.vežbe
 
 Simulacije u animaciji
 
-Paunović Aleksa
+Varga Marija
 
 SVI
 
@@ -1184,9 +1250,9 @@ SVI
 
 Pred.
 
-Animacija karaktera
+Simulacije u animaciji
 
-Kekeljević dr Igor
+Perišić dr Ana
 
 SVI
 
@@ -1270,7 +1336,7 @@ rač.vežbe
 
 Storyboard
 
-Letić Jelena
+Đurić dr Isidora
 
 3
 
@@ -1284,7 +1350,7 @@ rač.vežbe
 
 Animacija karaktera
 
-Miščević Milan
+Milinković Nikola
 
 2(1-12)
 
@@ -1314,7 +1380,7 @@ Digitalna obrada slike u animacijama Haška Aleksandra
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2022. 05:01, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2022. 09:18, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1388,6 +1454,8 @@ Pred.
 
 Snimanje i analiza kretanja Nikolić dr Milutin
 
+Milić Lazar,
+
 1,2
 
 19:15
@@ -1398,7 +1466,7 @@ Snimanje i analiza kretanja Nikolić dr Milutin
 
 aud.vežbe
 
-Snimanje i analiza kretanja Milić Lazar
+Snimanje i analiza kretanja Miščević Milan
 
 U T O R A K
 
@@ -1426,7 +1494,9 @@ Izvođač
 
 rač.vežbe
 
-Interaktivna inženjerska grafika Vasiljević Ivana
+Interaktivna inženjerska grafika Vasiljević dr Ivana
+
+Ilić dr Dušan,
 
 2
 
@@ -1440,7 +1510,7 @@ rač.vežbe
 
 Boje i osvetljenost
 
-Ilić dr Dušan
+Bobić Aleksandra
 
 3
 
@@ -1454,6 +1524,8 @@ rač.vežbe
 
 Interakcija čovek računar Miščević Milan
 
+Obradović dr Ratko,
+
 SVI
 
 10:30
@@ -1464,7 +1536,7 @@ SVI
 
 Pred.
 
-Interaktivna inženjerska grafika Obradović dr Ratko
+Interaktivna inženjerska grafika Vasiljević dr Ivana
 
 S R E D A
 
@@ -1482,6 +1554,8 @@ Naziv Predmeta
 
 Izvođač
 
+Ilić dr Dušan,
+
 1
 
 07:45
@@ -1494,7 +1568,7 @@ rač.vežbe
 
 Boje i osvetljenost
 
-Ilić dr Dušan
+Paunović Aleksa
 
 3
 
@@ -1506,7 +1580,9 @@ L2 (RC)
 
 rač.vežbe
 
-Interaktivna inženjerska grafika Vasiljević Ivana
+Interaktivna inženjerska grafika Bobić Aleksandra
+
+Obradović dr Ratko,
 
 SVI
 
@@ -1518,7 +1594,7 @@ SVI
 
 Pred.
 
-Interaktivna inženjerska grafika Obradović dr Ratko
+Interaktivna inženjerska grafika Vasiljević dr Ivana
 
 4
 
@@ -1530,7 +1606,7 @@ L4 (RC)
 
 rač.vežbe
 
-Generisanje prostora na osnovu slika Obradović Miloš
+Generisanje prostora na osnovu slika Đurić dr Isidora
 
 Č E T V R T A K
 
@@ -1622,7 +1698,7 @@ MI D4-A
 
 rač.vežbe
 
-Generisanje prostora na osnovu slika Đurić Isidora
+Generisanje prostora na osnovu slika Đurić dr Isidora
 
 2
 
@@ -1634,7 +1710,9 @@ MI D4-A
 
 rač.vežbe
 
-Interaktivna inženjerska grafika Varga Marija
+Interaktivna inženjerska grafika Vasiljević dr Ivana
+
+Ilić dr Dušan,
 
 3
 
@@ -1648,7 +1726,7 @@ rač.vežbe
 
 Boje i osvetljenost
 
-Ilić dr Dušan
+Bobić Aleksandra
 
 3
 
@@ -1660,7 +1738,7 @@ Ilić dr Dušan
 
 rač.vežbe
 
-Generisanje prostora na osnovu slika Đurić Isidora
+Generisanje prostora na osnovu slika Obradović Miloš
 
 S U B O T A
 
@@ -1678,13 +1756,13 @@ Naziv Predmeta
 
 Izvođač
 
-1
+1,2
 
 08:00
 
 10:30
 
-NTP-312
+NTP-222
 
 rač.vežbe
 
@@ -1702,17 +1780,7 @@ rač.vežbe
 
 Interaktivna inženjerska grafika Paunović Aleksa
 
-2
-
-10:45
-
-13:15
-
-NTP-312
-
-rač.vežbe
-
-Interakcija čovek računar Miščević Milan
+Ilić dr Dušan,
 
 4
 
@@ -1726,7 +1794,7 @@ rač.vežbe
 
 Boje i osvetljenost
 
-Ilić dr Dušan
+Paunović Aleksa
 
 Napomena:
 
@@ -1736,7 +1804,7 @@ Svi studenti biraju jedan od sledeća dva predmeta: 1. Geometrija diskretnih pro
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.09.2022. 08:01, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2022. 09:19, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -1766,7 +1834,7 @@ Izvođač
 
 rač.vežbe
 
-Napredne simulacije u animaciji Perišić dr Ana
+Proširena i virtuelna realnost Obradović Miloš
 
 1
 
@@ -1778,7 +1846,7 @@ Napredne simulacije u animaciji Perišić dr Ana
 
 rač.vežbe
 
-Proširena i virtuelna realnost Obradović Miloš
+Napredne simulacije u animaciji Perišić dr Ana
 
 U T O R A K
 
@@ -1834,6 +1902,8 @@ Naziv Predmeta
 
 Izvođač
 
+Raković dr Mirko,
+
 1
 
 16:45
@@ -1844,7 +1914,7 @@ L6 (RC)
 
 rač.vežbe
 
-Napredne metode za snimanje i analizu kretanja Raković dr Mirko
+Napredne metode za snimanje i analizu kretanja Varga Marija
 
 Č E T V R T A K
 
@@ -1884,7 +1954,7 @@ Proširena i virtuelna realnost Jovanović dr Marko
 
 rač.vežbe
 
-Interdisciplinarna naučna vizualizacija Mirčeski Filip
+Interdisciplinarna naučna vizualizacija Paunović Aleksa
 
 P E T A K
 
@@ -1902,6 +1972,8 @@ Naziv Predmeta
 
 Izvođač
 
+Obradović dr Ratko,
+
 SVI
 
 14:15
@@ -1912,7 +1984,9 @@ MI B1-B
 
 Pred.
 
-Algoritmi za renderovanje Obradović dr Ratko
+Algoritmi za renderovanje Vasiljević dr Ivana
+
+Raković dr Mirko,
 
 SVI
 
@@ -1924,7 +1998,7 @@ MI B1-B
 
 Pred.
 
-Napredne metode za snimanje i analizu kretanja Raković dr Mirko
+Napredne metode za snimanje i analizu kretanja Krstanović dr Lidija
 
 1
 
@@ -1936,7 +2010,7 @@ Napredne metode za snimanje i analizu kretanja Raković dr Mirko
 
 rač.vežbe
 
-Algoritmi za renderovanje Vasiljević Ivana
+Algoritmi za renderovanje Vasiljević dr Ivana
 
 Napomena:
 
