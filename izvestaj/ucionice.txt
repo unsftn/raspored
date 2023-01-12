@@ -348,7 +348,7 @@ Generating izvestaj target from models:
 		14:15-16:00  109A  Hemijski fenomeni u mašinstvu Radonić dr Jelena
 		14:15-16:00  109A  Hemijski fenomeni u mašinstvu  Radonić dr Jelena  
 		16:15-18:00  109A  Zgradarstvo 1  Dražić dr Jasmina  Jakšić dr Željko,  
-		18:15-20:00  109A  Osnove projektovanja građevinskih objekata Kočetov-Mišulić dr Tatjana, Bulajić dr Borko  
+		18:15-20:00  109A  Osnove projektovanja građevinskih objekata Kočetov-Mišulić dr Tatjana,  Bulajić dr Borko  
 		20:15-21:45  109A  Mehanika 2  Rakarić dr Zvonko
 	SREDA
 		08:30-10:00  109A  Engleski jezik - niži srednji Kardoš Aleksandra  
@@ -484,7 +484,7 @@ Generating izvestaj target from models:
 204
 	PONEDELJAK
 		08:45-10:15  204  Mašinski elementi  Rackov dr Milan  
-		08:45-10:15  204  Mašinski elementi  Rackov dr Milan  
+		08:45-10:15  204  Mašinski elementi  Rackov dr Milan  21,22,23,24  Feher 
 		10:30-12:00  204  Multimediji  Milić Keresteš dr Neda 
 		12:15-13:45  204  Organizacija i menadžment logistike Vrhovac Vijoleta  
 		14:15-17:00  204  Teorija električnih kola  Dautović dr Staniša  
@@ -631,9 +631,9 @@ Generating izvestaj target from models:
 		07:00-08:30  207  Sistem kvaliteta u drumskom transportu (5,6)  Pitka dr Pavle  
 		08:45-10:15  207  Mehanika  Berecki dr Armin  
 		10:30-12:00  207  Mehanika  Berecki dr Armin  
-		12:15-13:00  207  Digitalna upravljačka elektronika Batinić Branislav  Napomena:  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+6.  Obratiti se PROF. DR. STEVANU STANKOVSKOM.  
+		12:15-13:00  207  Digitalna upravljačka elektronika Batinić dr Branislav  Napomena:  Studenti treba da urade STRUČNU PRAKSU sa fondom časova 0+6.  Obratiti se PROF. DR. STEVANU STANKOVSKOM.  
 		13:15-14:45  207  Upravljanje procesima rada Bojanić dr Tamara  Legenda:  Grupa 1 je grupa koja je upisana na stud. grupu PROJEKTOVANJE PROIZVODNIH I USLUŽNIH PROCESA.  Grupa 2 je grupa koja je upisana na stud. grupu AUTOMATIZACIJA PROCESA RADA.  Grupa 3 je grupa koja je upisana na stud. grupu INFORMACIONO-UPRAVLJAČKI I KOMUNIKACIONI SISTEMI.  Grupa 4 je grupa koja je upisana na stud. grupu KVALITET I LOGISTIKA.  
-		15:00-16:30  207  Upravljanje procesima rada  Stevanov dr Branislav  Legenda:  Grupa 11 je grupa koja je upisana na stud. grupu INVESTICIONI MENADŽMENT.  Grupa 12 je grupa koja je upisana na stud. grupu ORGANIZACIJA I UPRAVLJANJE PREDUZEĆEM.  Grupa 13 je grupa koja je upisana na stud. grupu INFORMACIONI MENADŽMENT.  Grupa 14 je grupa koja je upisana na stud. grupu MENADŽMENT KVALITETA I LOGISTIKE.  Grupa 16 je grupa koja je upisana na stud. grupu INDUSTRIJSKI MARKETING I INŽENJERSTVO MEDIJA.  Grupa 18 je grupa koja je upisana na stud. grupu MENADŽMENT LJUDSKIH RESURSA.  Grupa 19 je grupa koja je upisana na stud. grupu PROJEKTNI MENADŽMENT.  Grupa 20 je grupa koja je upisana na stud. grupu INOVACIJE I PREDUZETNIŠTVO.  
+		15:00-16:30  207  Upravljanje procesima rada  Stevanov dr Branislav  Legenda:  Grupa 11 je grupa koja je upisana na stud. grupu INVESTICIONI MENADŽMENT.  Grupa 12 je grupa koja je upisana na stud. grupu ORGANIZACIJA I UPRAVLJANJE PREDUZEĆEM.  Grupa 13 je grupa koja je upisana na stud. grupu INFORMACIONI MENADŽMENT.  Grupa 14 je grupa koja je upisana na stud. grupu MENADŽMENT KVALITETA I LOGISTIKE.  Grupa 16 je grupa koja je upisana na stud. grupu INDUSTRIJSKI MARKETING I INŽENJERSTVO MEDIJA.  Grupa 18 je grupa koja je upisana na stud. grupu MENADŽMENT LJUDSKIH RESURSA.  Grupa 19 je grupa koja je upisana na stud. grupu PROJEKTNI MENADŽMENT.  Grupa 20 je grupa koja je upisana na stud. grupu INOVACIJE I PREDUZETNIŠTVO.
 		17:15-20:00  207  Studio projekat 01E  Reba dr Darko,  Stojaković dr Vesna  Reba dr Darko,  
 208
 	PONEDELJAK
@@ -850,7 +850,7 @@ Generating izvestaj target from models:
 	PONEDELJAK
 		07:00-08:30  310  Teorija verovatnoće i statistika Dragić Đorđe  
 		08:45-10:15  310  Teorija verovatnoće i statistika Dragić Đorđe  
-		10:30-12:00  310  Tehnička eksploatacija mašina  Feher Dalibor  sv.dr.ned.  
+		10:30-12:00  310  Tehnička eksploatacija mašina  sv.dr.ned.  Dorić dr Jovan  
 		12:15-13:45  310  Upravljanje, modelovanje i simulacija sistema Pavković Vesna  
 		14:15-16:00  310  Projektovanje sistema automatskog upravljanja Kulić dr Filip  Jeličić dr Zoran,  
 		14:15-16:00  310  Projektovanje sistema automatskog upravljanja Kulić dr Filip  
@@ -919,7 +919,7 @@ Generating izvestaj target from models:
 		07:00-08:30  311  Algebra  Stefanović Tamara  
 		08:45-10:15  311  Osnovi elektrotehnike 1  Kljajić dr Dragan  
 		10:30-12:00  311  Matematička statistika  Jankov Dunja  
-		12:15-13:45  311  Matematička statistika  Jankov Dunja  1sv.dr.ned.  15:
+		12:15-13:45  311  Matematička statistika  Jankov Dunja  Feher Dalibor,  1sv.dr.ned.  15:
 		14:15-17:00  311  Analiza podataka o stanju okoline Turk-Sekulić dr Maja  
 		17:15-18:00  311  Merenje i kontrola zagađenja  Lanc Zorana  
 		18:15-19:45  311  Merenje i kontrola zagađenja  Lanc Zorana  Napomena:  Grupe broj 1,2 su grupe koje su upisane na studijski program INŽENJERSTVO ZAŠTITE ŽIVOTNE SREDINE (IZŽS) Grupe broj 31 i 32 su grupe koje su upisane na studijski program INŽENJERSTVO ZAŠTITE NA RADU (IZnR) Studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - stručni 1 (2+0) 2. Nemački jezik - osnovni (2+0) 
@@ -1127,9 +1127,9 @@ A4
 AH-CRT
 	PONEDELJAK
 		07:30-09:00  AH-CRT  Osnove crtanja za animaciju i vizuelne efekte Kekeljević dr Igor  Grbić dr Tatjana,  
-		09:30-11:00  AH-CRT  Uvod u vizuelno istraživanje Janev dr Jelena  
+		09:30-11:00  AH-CRT  Uvod u vizuelno istraživanje Pilipović Dragana  
 		11:15-13:00  AH-CRT  Uvod u vizuelno istraživanje Janev dr Jelena  
-		13:15-14:45  AH-CRT  Uvod u vizuelno istraživanje Janev dr Jelena
+		13:15-14:45  AH-CRT  Uvod u vizuelno istraživanje Pilipović Dragana
 	UTORAK
 		09:15-12:00  AH-CRT  Arhitektura scene 5  Pešterac dr Aleksandra  
 		12:15-14:45  AH-CRT  Arhitektura scene 5  Vilić Maja  
@@ -1232,7 +1232,7 @@ AH2
 		07:30-08:15  AH2  Maketarstvo  Tepavčević dr Bojan  
 		08:30-10:00  AH2  Maketarstvo  Vučić Marko  
 		11:45-14:15  AH2  Studio projekat 01A  Stojković Bojan  Reba dr Darko,  
-		15:15-17:45  AH2  Elementi i sklopovi zgrada 1  Šanjević Ivana  
+		15:15-17:45  AH2  Elementi i sklopovi zgrada 1  Brkljač dr Dijana  
 	SREDA
 		08:45-12:00  AH2  Stanovanje 1  Pejić Stefan  
 		12:45-15:15  AH2  Uvod u arhitektonski dizajn 1  Žugić dr Višnja, Stojković Bojan 
@@ -1280,8 +1280,8 @@ AH3
 		07:30-10:00  AH3  Uvod u urbanizam  Šanjević Ivana  Silađi dr Maria,  
 		10:15-12:00  AH3  Engleski jezik - osnovni  Šafranj dr Jelisaveta  Napomena:  Statističke metode - računarske vežbe izvodiće se u organizaciji departmana 
 		12:15-13:45  AH3  Lazić Cveta  događaja i požara  
-		14:15-16:45  AH3  Uvod u urbanizam  Šanjević Ivana  
-		17:00-19:30  AH3  Uvod u urbanizam  Šanjević Ivana  Napomena:  Studenti biraju jedan od dva izborna predmeta: 1. Maketarstvo (1+2), grupe 1,2  2. Principi i proces umetničkog stvaranja (1+2), grupe 3,4,5,6,7,8  
+		14:15-16:45  AH3  Uvod u urbanizam  Brkljač dr Dijana  
+		17:00-19:30  AH3  Uvod u urbanizam  Brkljač dr Dijana  Napomena:  Studenti biraju jedan od dva izborna predmeta: 1. Maketarstvo (1+2), grupe 1,2  2. Principi i proces umetničkog stvaranja (1+2), grupe 3,4,5,6,7,8  
 AH4
 	PONEDELJAK
 		10:30-12:00  AH4  Stokanović Smilja  arhitektonskom projektovanju 1  
@@ -1323,9 +1323,9 @@ AH4
 AH4A
 	PONEDELJAK
 		09:15-11:00  AH4A  Savremena scenska umetnost Vilotić dr Dragana  
-		11:15-12:45  AH4A  Savremena scenska umetnost Vilotić dr Dragana  Dadić-Dinulović dr Tatjana, 
+		11:15-12:45  AH4A  Savremena scenska umetnost Knežević Mia  Dadić-Dinulović dr Tatjana, 
 		13:15-15:00  AH4A  Teorija i kritika scenskog dela Vilotić dr Dragana
-		17:15-20:30  AH4A  Scenska arhitektura i tehnologija Pešterac dr Aleksandra, Ilić dr Vladimir (M)  David dr Mia,  
+		17:15-20:30  AH4A  Scenska arhitektura i tehnologija Vilotić dr Dragana  David dr Mia,  
 	UTORAK
 		09:00-10:30  AH4A  Nacrtna geometrija sa perspektivom 1  Štulić dr Radovan  Babić dr Tatjana,  
 		10:45-13:15  AH4A  Uvod u studije arhitekture Ilić dr Vladimir (M)  
@@ -1339,12 +1339,12 @@ AH4A
 		19:45-21:15  AH4A  Teorija scenske arhitekture i dizajna Erdeljan Zoja
 	ČETVRTAK
 		08:30-11:00  AH4A  Uvod u studije pozorišta Dimitrijević Janko  Dimitrovska dr Daniela, 
-		11:15-13:00  AH4A  Uvod u studije pozorišta Vilotić dr Dragana  Babić dr Tatjana,  
+		11:15-13:00  AH4A  Uvod u studije pozorišta Vilotić dr Dragana,  Dadić-Dinulović dr Tatjana Babić dr Tatjana,  
 		13:15-15:00  AH4A  Uvod u studije arhitekture Ilić dr Vladimir (M)
 		15:15-16:00  AH4A  Zvučna instalacija  Pavlović dr Andrija  
-		16:15-17:45  AH4A  Zvučna instalacija  Vilotić dr Dragana
+		16:15-17:45  AH4A  Zvučna instalacija  Pavlović dr Andrija
 	PETAK
-		09:15-13:00  AH4A  Uvod u scensku arhitekturu, tehniku i dizajn Milićević dr Slađana,  Maljković dr Sanja  Maljković dr Sanja,  
+		09:15-13:00  AH4A  Uvod u scensku arhitekturu, tehniku i dizajn Milićević dr Slađana,  Milenković Radoslav  Maljković dr Sanja,  
 		13:15-16:30  AH4A  Uvod u scensku arhitekturu, tehniku i dizajn Vilić Maja  
 		17:15-18:45  AH4A  Scenska arhitektura i tehnologija Pilipović Dragana  
 		19:00-20:30  AH4A  Scenska arhitektura i tehnologija Pilipović Dragana  
@@ -1422,7 +1422,7 @@ AH7
 		08:45-10:15  AH7  Strukture u arhitekturi  Nikolić dr Dimitrije  
 		10:30-12:00  AH7  Mehanika  Balać Sonja  
 		12:15-13:45  AH7  Sociologija rada  Nešić Tomašević dr Ana  Kolak Aleksandra,  
-		16:15-18:45  AH7  Elementi i sklopovi zgrada 1  Šanjević Ivana
+		16:15-18:45  AH7  Elementi i sklopovi zgrada 1  Brkljač dr Dijana
 		19:00-20:30  AH7  Savremeni tokovi i forme urbanizacije Priljeva Sofija
 	UTORAK
 		07:30-09:00  AH7  Studio 01C - Metod proučavanja arhitektonskog dela Krklješ dr Milena  
@@ -1455,21 +1455,21 @@ AH7
 AH8
 	PONEDELJAK
 		15:15-18:00  AH8  Tehnike prezentacije prostora u digitalnom okruženju 1  Stojaković dr Vesna,  Vilotić dr Dragana  Pepić Jelena,  
-		18:15-21:00  AH8  Dramaturgija scenskog prostora Milivojević-Mađarev dr Marina
+		18:15-21:00  AH8  Dramaturgija scenskog prostora Zupanc Lotker dr Sođa
 	UTORAK
 		09:30-12:00  AH8  Dizajn i tehnika scene 1  Erdeljan Zoja  Dimitrovska dr Daniela, 
 		12:15-15:00  AH8  Dizajn i tehnika scene 1  Mihajlović dr Darinka,  Dinulović dr Andrija
-		17:15-20:00  AH8  Arhitektura scenskih događaja Dinulović dr Andrija
+		17:15-20:00  AH8  Arhitektura scenskih događaja Pešterac dr Aleksandra
 	SREDA
 		09:15-11:00  AH8  Konstrukcijski sistemi u scenskoj arhitekturi Kovačević dr Dušan  
 		11:15-12:45  AH8  Konstrukcijski sistemi u scenskoj arhitekturi Savić Vladimir  
-		13:15-16:00  AH8  Arhitektura i tehnologija pozorišta 3  Bošković Živanović dr Romana
+		13:15-16:00  AH8  Arhitektura i tehnologija pozorišta 3  Bošković Živanović dr Romana, Vilotić dr Dragana
 		13:15-15:00  AH8  Savremena vizuelna umetnost Mihajlović dr Darinka  
-		15:15-16:45  AH8  Savremena vizuelna umetnost Mihajlović dr Darinka
+		15:15-16:45  AH8  Savremena vizuelna umetnost Dimitrijević Janko
 	ČETVRTAK
 		09:30-11:00  AH8  Grafički dizajn  Pilipović Dragana  David dr Mia,  
 		11:15-13:00  AH8  Grafički dizajn  Kojić dr Radomir,  Nedeljković dr Uroš  David dr Mia,  
-		13:15-15:00  AH8  Umetnost u kontekstu 2  Dinulović dr Radivoje,  Milivojević-Mađarev dr Marina 
+		13:15-15:00  AH8  Umetnost u kontekstu 2  Dinulović dr Radivoje,  Milićević dr Slađana  
 		15:15-16:45  AH8  Umetnost u kontekstu 2  Dimitrijević Janko
 		17:15-18:45  AH8  Umetničke prakse scenskog dizajna Dimitrovska dr Daniela  
 		19:00-20:30  AH8  Umetničke prakse scenskog dizajna Ilić dr Vladimir (M)
@@ -2399,7 +2399,7 @@ LG001
 		10:30-13:00  LG001  Betonske konstrukcije  Popović mr Borjan  
 		13:15-14:45  LG001  Drvene konstrukcije  Manojlović Dragan  
 		16:15-17:45  LG001  Hidraulika  Stipić Danilo  
-		18:00-18:45  LG001  Hidraulika  Stipić Danilo  Legenda:  Grupe 1,2 su upisane na studijsku grupu KONSTRUKCIJE (KON) Grupa 11 je upisana na studijsku grupu HIDROTEHNIKA (HID) Grupa 21 je upisana na studijsku grupu PUTEVI, ŽELEZNICE I AERODROMI (PUT) 
+		18:00-18:45  LG001  Hidraulika  Stipić Danilo  Legenda:  Grupe 1,2 su upisane na studijsku grupu KONSTRUKCIJE (KON) Grupa 11 je upisana na studijsku grupu HIDROTEHNIKA (HID) Grupa 21 je upisana na studijsku grupu PUTEVI, ŽELEZNICE I AERODROMI (PUT) Napomena:  Matematička statistika - računarske vežbe izvodiće se u organizaciji departmana 
 LG002
 	PONEDELJAK
 		08:15-10:00  LG002  Hidromašinska oprema  Kolaković dr Srđan  
@@ -2555,7 +2555,7 @@ LG107
 		11:15-13:00  LG107  Statika konstrukcija 1  Džolev dr Igor,  Rašeta dr Andrija  
 		13:15-15:00  LG107  Fundiranje  Đogo dr Mitar  
 		16:15-18:00  LG107  Tehnologija i organizacija građenja u hidrotehnici Mučenski dr Vladimir 
-		18:15-20:00  LG107  Osnove projektovanja građevinskih objekata Kočetov-Mišulić dr Tatjana, Bulajić dr Borko
+		18:15-20:00  LG107  Osnove projektovanja građevinskih objekata Kočetov-Mišulić dr Tatjana,  Bulajić dr Borko
 	ČETVRTAK
 		07:30-09:00  LG107  Stabilnost i dinamika konstrukcija Rašeta dr Andrija  
 		09:15-11:00  LG107  Metalne konstrukcije 2  Jovanović dr Đorđe  
@@ -2910,7 +2910,7 @@ MIB1
 		10:30-13:00  MIB1  Projektovanje građevinskih mera zaštite od požara Draganić Suzana
 		13:15-16:00  MIB1  Komunikacione mreže  Škorić dr Tamara  
 		16:15-17:45  MIB1  Digitalna elektronika  Novi saradnik-MIKRO 1  
-		18:15-20:00  MIB1  Integralno upravljanje rizikom Popov dr Srđan  
+		18:15-20:00  MIB1  Integralno upravljanje rizikom Bajić dr Senka  
 		20:15-22:00  MIB1  Tehničke osnove i tarife osiguranja Popović dr Ljiljana  
 	ČETVRTAK
 		10:15-13:00  MIB1  Menadžment inovacija i promena Borocki dr Jelena  
@@ -3403,7 +3403,7 @@ MIG2-2
 		10:30-12:00  MIG2-2  Osnove tehnoloških investicija Đaković dr Vladimir  
 		12:15-13:45  MIG2-2  Fizička i fazna stanja polimera  Pilić dr Branka
 		14:15-16:00  MIG2-2  Obračun troškova i kalkulacija cene proizvoda i usluga Nerandžić dr Branislav  
-		16:15-18:00  MIG2-2  Menadžment rizika poslovnih procesa Kuzmanović dr Bogdan  
+		16:15-18:00  MIG2-2  Menadžment rizika poslovnih procesa Kuzmanović dr Bogdan  Popov dr Srđan,  
 		18:15-19:45  MIG2-2  Menadžment rizika poslovnih procesa Nov saradnik  
 	ČETVRTAK
 		08:30-10:00  MIG2-2  Nekonvencionalni sistemi grejanja i hlađenja Mujan dr Igor  
@@ -3513,8 +3513,8 @@ MISD1
 		16:15-18:00  MISD1  Finansijsko poslovanje u poštanskom saobraćaju Šarac dr Dragana  
 		18:15-20:00  MISD1  Upravljanje kvalitetom  Atanasković dr Predrag  Napomena:  Studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik za poštanski saobraćaj (2+0) 2. Nemački jezik u tehnici 1 (2+0) 
 	SUBOTA
-		08:00-09:30  MISD1  Špedicija  Veličković Marko  
-		09:45-11:15  MISD1  Motori SUS  Feher Dalibor  (4,5,3(11-))  
+		08:00-09:30  MISD1  Špedicija  Veličković Marko  Feher Dalibor,  
+		09:45-11:15  MISD1  Motori SUS  Nikolić dr Nebojša,  (4,5,3(11-))  Dorić dr Jovan  
 		11:30-13:00  MISD1  Špedicija  Veličković Marko  
 		13:15-14:45  MISD1  Špedicija  Veličković Marko  Napomena:  Svi studenti biraju jedan od sledeća tri strana jezika: 1. Engleski jezik - niži srednji (2+0) 2. Engleski jezik - srednji (2+0) 3. Nemački jezik - srednji (2+0) Grupe od broja 1 do broja 5 su grupe koje su upisane na studijski program SAOBRAĆAJ i TRANSPORT(SiT) Grupa broj 21 je grupa koja je upisana na studijski program POŠTANSKI SAOBRAĆAJ I TELEKOMUNIKACIJE (PST) 
 MIV3-5
@@ -3541,14 +3541,14 @@ MIV3-5
 		17:15-18:45  MIV3-5  Automatizacija u proizvodnom mašinstvu Knežev Miloš  
 	PETAK
 		07:30-10:00  MIV3-5  Modelovanje i simulacija u upravljanju rizikom Bajić dr Senka  
+		13:15-14:45  MIV3-5  Projektovanje baza podataka  Spasojević Ivana  
 		17:15-18:45  MIV3-5  Automatizacija u proizvodnom mašinstvu Knežev Miloš  
 MIV4-1
 	PONEDELJAK
 		09:30-12:00  MIV4-1  Projektovanje tehnologije termičke obrade Terek Vladimir  
 		12:15-14:45  MIV4-1  CAD/CAE/CAM i CIM sistemi  Knežev Miloš
 		BLOK NASTAVA:
-		2022-10-10 18:00-20:30  MIV4-1  Inovacione tehnologije i proizvodni dizajn Sekulić dr Milenko  Hadžistević dr Miodrag,  
-		2022-11-14 18:00-20:30  MIV4-1  Priprema, planiranje i logistika proizvodnje dr Mijodrag  
+		2022-10-10 18:00-20:30  MIV4-1  Inovacione tehnologije i proizvodni dizajn Sekulić dr Milenko  Hadžistević dr Miodrag, 
 	UTORAK
 		10:15-13:00  MIV4-1  Automatizacija u preradi plastike  Antić dr Aco
 		13:15-14:45  MIV4-1  Reverzibilni inženjerski dizajn i 3D štampa Santoši dr Željko  
@@ -3562,7 +3562,7 @@ MIV4-1
 		14:15-17:00  MIV4-1  Teorija obradnih procesa  Savković dr Borislav  
 		19:00-20:30  MIV4-1  Automatizacija u preradi plastike  Antić dr Aco
 		BLOK NASTAVA:
-		2022-10-12 18:00-20:30  MIV4-1  Inovacione tehnologije i proizvodni dizajn Sekulić dr Milenko  Hadžistević dr Miodrag,  
+		2022-10-12 18:00-20:30  MIV4-1  Inovacione tehnologije i proizvodni dizajn Sekulić dr Milenko  Hadžistević dr Miodrag, 
 		2022-11-16 18:00-20:30  MIV4-1  Priprema, planiranje i logistika proizvodnje dr Mijodrag  
 		2022-12-21 18:00-19:30  MIV4-1  Informacioni sistemi u inženjerstvu Sladojević dr Srđan  
 		2022-12-21 19:45-21:15  MIV4-1  Informacioni sistemi u inženjerstvu Sladojević dr Srđan  
@@ -3935,8 +3935,8 @@ NTP-106
 		18:00-20:30  NTP-106  Uvod u laboratorijski rad Vujičić dr Bojan  
 NTP-107
 	PONEDELJAK
-		07:00-09:30  NTP-107  Praktična elektronika  Batinić Branislav  
-		09:45-12:15  NTP-107  Praktična elektronika  Batinić Branislav  
+		07:00-09:30  NTP-107  Praktična elektronika  Batinić dr Branislav  
+		09:45-12:15  NTP-107  Praktična elektronika  Batinić dr Branislav  
 		12:30-15:00  NTP-107  Praktična elektronika  Bodić Milan  
 		17:30-20:00  NTP-107  Računarsko projektovanje digitalnih integrisanih kola Nikolić Kristina
 	UTORAK
@@ -3971,12 +3971,12 @@ NTP-108
 		17:15-20:00  NTP-108  Integrisana kola za komunikacione sisteme Radić dr Jelena
 	UTORAK
 		09:35-12:05  NTP-108  Primenjena elektronika  Bodić Milan  
-		12:15-14:45  NTP-108  Praktična elektronika  Batinić Branislav  
+		12:15-14:45  NTP-108  Praktična elektronika  Batinić dr Branislav  
 		18:15-19:45  NTP-108  Optoelektronski i laserski sistemi  Vasiljević-Toskić Marko  
-		20:00-21:30  NTP-108  M2M elektronski sistemi  Batinić Branislav
+		20:00-21:30  NTP-108  M2M elektronski sistemi  Batinić dr Branislav
 	SREDA
 		07:30-10:00  NTP-108  Računarsko projektovanje digitalnih integrisanih kola Nikolić Kristina  IP1-opred.
-		10:15-12:45  NTP-108  Praktična elektronika  Batinić Branislav  
+		10:15-12:45  NTP-108  Praktična elektronika  Batinić dr Branislav  
 		15:45-18:15  NTP-108  Praktična elektronika  Bodić Milan  
 		18:30-21:00  NTP-108  Praktična elektronika  Bodić Milan
 	ČETVRTAK
@@ -3985,8 +3985,8 @@ NTP-108
 		17:00-19:30  NTP-108  Primenjena elektronika  Brestovački Lenka
 	PETAK
 		07:45-08:30  NTP-108  Optoelektronika  Vasiljević-Toskić Marko  
-		08:45-10:15  NTP-108  Digitalna upravljačka elektronika Batinić Branislav  
-		10:30-12:00  NTP-108  Digitalna upravljačka elektronika Batinić Branislav  
+		08:45-10:15  NTP-108  Digitalna upravljačka elektronika Batinić dr Branislav  
+		10:30-12:00  NTP-108  Digitalna upravljačka elektronika Batinić dr Branislav  
 		10:30-12:00  NTP-108  Telekomunikaciona elektronika Arbanas Miloš  Napomena:  Studenti treba da urade stručnu praksu sa fondom 0+3.  Obratite se dr Kalmanu Babkoviću.  
 		15:15-16:00  NTP-108  Industrijska elektronika Novi saradnik-PE 1  
 		16:15-17:00  NTP-108  Industrijska elektronika Novi saradnik-PE 1  
@@ -5291,14 +5291,14 @@ O12
 Scen-LAB
 	PONEDELJAK
 		09:15-12:00  Scen-LAB  Dizajn i tehnika scene 3  Maljković dr Sanja,  Dinulović dr Andrija  
-		12:15-14:45  Scen-LAB  Dizajn i tehnika scene 3  Vilotić dr Dragana  Pilipović Dragana,  
+		12:15-14:45  Scen-LAB  Dizajn i tehnika scene 3  Vilić Maja  Pilipović Dragana,  
 		15:15-17:45  Scen-LAB  Arhitektura i tehnologija pozorišta 3  Savić Vladimir
 	UTORAK
 		09:15-12:00  Scen-LAB  Arhitektura i tehnologija pozorišta 3  Pešterac dr Aleksandra  Pilipović Dragana,  
 		12:15-14:45  Scen-LAB  Arhitektura i tehnologija pozorišta 3  Savić Vladimir
 	SREDA
 		09:30-11:00  Scen-LAB  Arhitektura, umetnost i kultura modernog doba 1  Dimitrijević Janko  David dr Mia,  
-		11:15-13:00  Scen-LAB  Arhitektura, umetnost i kultura modernog doba 1  Milićević dr Slađana,  Dadić-Dinulović dr Tatjana Dinulović dr Radivoje,  
+		11:15-13:00  Scen-LAB  Arhitektura, umetnost i kultura modernog doba 1  Milićević dr Slađana,  Pavlović dr Andrija  Dinulović dr Radivoje,  
 	ČETVRTAK
 		10:45-13:15  Scen-LAB  Tehnika scene 5  Erdeljan Zoja  
 		13:30-15:00  Scen-LAB  Tehnika scene 5  Erdeljan Zoja  Dinulović dr Radivoje,  

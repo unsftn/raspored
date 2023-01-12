@@ -4779,19 +4779,59 @@ Vrsta nast.
 
 Naziv Predmeta
 
-
-
-
-
 Izvođač
 
+Predm
 
-Predmet: Programska
 
 
-sk podrška
 
-šk u realnom vremenu 1
+
+d e
+
+
+m t: Programsk
+
+
+m a
+
+sk p
+
+a o
+
+p d
+
+o r
+
+d ška
+
+šk u
+
+a
+
+
+
+
+
+u re
+
+
+
+
+
+al
+
+a no
+
+n m
+
+m v
+
+re
+
+v me
+
+m nu 1
 
 
 
@@ -5407,14 +5447,18 @@ Vrsta nast.
 
 Naziv Predmeta
 
-
-
-
-
 Izvođač
 
+Predm
 
-Predmet: Pr
+
+
+
+
+d e
+
+
+m t: Pr
 
 
 A og
@@ -6703,14 +6747,18 @@ Vrsta nast.
 
 Naziv Predmeta
 
-
-
-
-
 Izvođač
 
+Predm
 
-Predmet: Pr
+
+
+
+
+d e
+
+
+m t: Pr
 
 
 A og
@@ -7679,14 +7727,18 @@ Vrsta nast.
 
 Naziv Predmeta
 
-
-
-
-
 Izvođač
 
+Predm
 
-Predmet: Prog
+
+
+
+
+d e
+
+
+m t: Prog
 
 
 Međ r
@@ -9999,7 +10051,7 @@ Predm
 red et:
 
 
-eti M
+meti M
 
 
 : ul
@@ -11147,7 +11199,7 @@ Predm
 red et:
 
 
-eti M
+meti M
 
 
 : Pu
@@ -11181,9 +11233,7 @@ mout
 
 b om
 
-ilsk o
-
-o b
+ilsk ob
 
 g ils
 
@@ -12285,7 +12335,7 @@ Predm
 red et:
 
 
-eti M
+meti M
 
 
 : u
@@ -13357,7 +13407,7 @@ Predm
 red et:
 
 
-eti M
+meti M
 
 
 : u
