@@ -29,9 +29,9 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 Prof. dr Aleksandar Kupusinac
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2022. 11:17, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 08:18, Strana: 1
 
-RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
+R A S P O R E D P R E D A V A N J A 2 Semestar
 
 
 
@@ -62,48 +62,78 @@ Naziv Predmeta
 Izvođač
 
 
-SVI
+Opredeljeni
 
 
-07:15
+08:30 10:00
 
-09:00
-
-A1
+MI B1-A
 
 Pred.
 
-Programski jezici i strukture podataka Popov dr Srđan
+Nemački jezik - napredni srednji
 
-Ralević dr Nebojša,
-
-SVI
-
-09:15
-
-11:00
-
-A1
-
-Pred.
-
-Matematička analiza 1
-
-Kostić dr Marko
+Berić Andrijana
 
 SVI
 
-11:15
+13:15 15:00
 
-13:00
-
-A1
+A2
 
 Pred.
 
-Algebra
+Fizika
 
-Doroslovački dr Rade
+Budinski-Petković dr Ljuba
+
+SVI
+
+15:15 17:00
+
+A2
+
+Pred.
+
+Arhitektura računara
+
+Gajić dr Dušan
+
+SVI
+
+17:15 19:00
+
+A2
+
+Pred.
+
+Osnovi elektrotehnike
+
+Herceg dr Dejana
+
+13(1-12),15(1-12)
+
+19:15 20:45
+
+105
+
+lab.vežbe
+
+Fizika
+
+Novi saradnik
+
+7(1-12),8(1-12)
+
+19:15 20:45
+
+108A
+
+lab.vežbe
+
+Fizika
+
+Zečević Milka
 
 U T O R A K
 
@@ -126,1046 +156,200 @@ Naziv Predmeta
 Izvođač
 
 
-SVI
+1,2
 
 
-12:15
+07:00 07:45
 
-14:00
+MI A2-1
 
-A1
+aud.vežbe
 
-Pred.
+Arhitektura računara
 
-Algebra
-
-Doroslovački dr Rade
-
-SVI
-
-14:15
-
-16:00
-
-A1
-
-Pred.
-
-Programski jezici i strukture podataka Popov dr Srđan
-
-Ralević dr Nebojša,
-
-SVI
-
-16:15
-
-18:00
-
-A1
-
-Pred.
-
-Matematička analiza 1
-
-Kostić dr Marko
-
-
-
-
-
-S R E D A
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-Radišić Rade,
-
+Horvat Nebojša
 
 1,2
 
-07:00
-
-10:15
+07:50 10:20
 
 MI A2-1
 
 rač.vežbe
 
-Programski jezici i strukture podataka Vujičić Milena
+Arhitektura računara
 
-5,6,8
+Horvat Nebojša
 
-07:00
+5(1-12),6(1-12)
 
-08:30
-
-108
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-5,6,8
-
-08:45
-
-10:15
-
-108
-
-aud.vežbe
-
-Matematička analiza 1
-
-Vuković Manojlo
-
-1,2,7
-
-10:30
-
-12:00
-
-108
-
-aud.vežbe
-
-Algebra
-
-Kiš Maria
-
-Špica Sanja,
-
-5,6
-
-10:30
-
-13:45
-
-MI A2-1
-
-rač.vežbe
-
-Programski jezici i strukture podataka Počuča Milena
-
-1,2,7
-
-12:15
-
-13:45
-
-MI SD1
-
-aud.vežbe
-
-Matematička analiza 1
-
-Vuković Manojlo
-
-3,4,15
-
-12:15
-
-13:45
-
-108
-
-aud.vežbe
-
-Algebra
-
-Kiš Maria
-
-9,10,14
-
-14:00
-
-15:30
-
-MI SD1
-
-aud.vežbe
-
-Matematička analiza 1
-
-Vuković Manojlo
-
-11,12,13
-
-14:00
-
-15:30
-
-108
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-3,4,15
-
-14:00
-
-15:30
-
-103
-
-aud.vežbe
-
-Matematička analiza 1
-
-Dedeić Jovana
-
-9,10,14
-
-15:45
-
-17:15
-
-108
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-11,12,13
-
-15:45
-
-17:15
-
-103
-
-aud.vežbe
-
-Matematička analiza 1
-
-Dedeić Jovana
-
-Vasiljević Aleksandar,
-
-11,12
-
-17:45
-
-21:00
-
-MI A2-1
-
-rač.vežbe
-
-Programski jezici i strukture podataka Špica Sanja
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-Špica Sanja,
-
-
-10,9
-
-14:00
-
-17:15
-
-MI A2-1
-
-rač.vežbe
-
-Programski jezici i strukture podataka Vasiljević Aleksandar
-
-1,2,7
-
-14:15
-
-15:45
+07:00 08:30
 
 108A
 
-aud.vežbe
+lab.vežbe
 
-Matematička analiza 1
+Fizika
 
-Vuković Manojlo
+Novi saradnik
 
-3,4,15
+1,2,5
 
-14:15
-
-15:45
-
-103
-
-aud.vežbe
-
-Algebra
-
-Kiš Maria
-
-5,6,8
-
-14:30
-
-16:00
-
-108
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-1,2,7
-
-16:00
-
-17:30
-
-108A
-
-aud.vežbe
-
-Algebra
-
-Kiš Maria
-
-5,6,8
-
-16:15
-
-17:45
-
-103
-
-aud.vežbe
-
-Matematička analiza 1
-
-Vuković Manojlo
-
-3,4,15
-
-16:30
-
-18:00
+10:30 12:00
 
 207
 
 aud.vežbe
 
-Matematička analiza 1
+Osnovi elektrotehnike
 
-Dedeić Jovana
+Bjelica Jelena
 
-SVI
+1(1-12),2(1-12)
 
-19:15
+12:15 13:45 MI G3-1C
 
-20:45
+lab.vežbe
 
-A1
+Fizika
 
-Pred.
+Zečević Milka
 
-Engleski jezik - osnovni
+3(1-12),4(1-12)
 
-Zivlak Jelena
+07:00 08:30
 
+207
 
+lab.vežbe
 
+Fizika
 
+Zečević Milka
 
-P E T A K
+3,4,6
 
+08:45 10:15
 
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-3,7
-
-
-07:00
-
-10:15
-
-MI A2-3
-
-rač.vežbe
-
-Programski jezici i strukture podataka Popov dr Srđan
-
-11,12,13
-
-07:00
-
-08:30
-
-206
+207
 
 aud.vežbe
 
-Matematička analiza 1
+Osnovi elektrotehnike
 
-Dedeić Jovana
-
-11,12,13
-
-08:45
-
-10:15
-
-206
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-13,15
-
-10:30
-
-13:45
-
-MI A2-3
-
-rač.vežbe
-
-Programski jezici i strukture podataka Popov dr Srđan
-
-9,10,14
-
-10:30
-
-12:00
-
-108A
-
-aud.vežbe
-
-Matematička analiza 1
-
-Vuković Manojlo
-
-9,10,14
-
-12:15
-
-13:45
-
-108
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-Anđelovski Olja,
-
-8,14
-
-14:00
-
-17:15
-
-MI A2-3
-
-rač.vežbe
-
-Programski jezici i strukture podataka Vasiljević Aleksandar
-
-4
-
-17:45
-
-21:00
-
-MI A2-3
-
-rač.vežbe
-
-Programski jezici i strukture podataka Vujičić Milena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.10.2022. 11:16, Strana: 2
-
-RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
-
-
-
-
-
-Računarstvo i automatika
-
-
-P O N E D E L J A K
-
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-6
-
-
-07:00
-
-08:30
-
-MI B4-5
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Dragutinović Đorđe
-
-13,14,15
-
-07:30
-
-09:00
-
-NTP-418
-
-aud.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Kaštelan dr Ivan
-
-(sv.dr.ned.)
-
-7,8,9
-
-07:30
-
-09:00
-
-202
-
-aud.vežbe
-
-Matematička analiza 2
-
-Kiš Maria
-
-6
-
-08:45
-
-10:15
-
-NTP-507
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Novi saradnik MM
-
-Erdeljan dr Aleksandar,
-
-SVI
-
-10:30
-
-12:00
-
-A2
-
-Pred.
-
-Modeliranje i simulacija sistema
-
-Čapko dr Darko
-
-Pjevalica dr Nebojša,
-
-SVI
-
-12:15
-
-15:00
-
-A2
-
-Pred.
-
-Logičko projektovanje računarskih sistema 1
-
-Kaštelan dr Ivan
-
-14
-
-15:15
-
-16:45
-
-NTP-507
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Ivanović Sandra
-
-Samardžić Bojana,
-
-11,12
-
-17:30
-
-20:45
-
-MI A2-1
-
-rač.vežbe
-
-Objektno orijentisano programiranje Manasijević Aleksandar
-
-1,3,5
-
-19:15
-
-20:45
-
-NTP-417
-
-aud.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-Novi saradnik 2,
-
-
-1,4
-
-07:00
-
-10:15
-
-MI A2-3
-
-rač.vežbe
-
-Objektno orijentisano programiranje Hrnjaković Olivera
-
-Stojaković Nedeljko,
-
-7,8,9
-
-07:00
-
-08:30
-
-103
-
-aud.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-Stojaković Nedeljko,
-
-6,12,14
-
-08:45
-
-10:15
-
-103
-
-aud.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-13
-
-08:45
-
-10:15
-
-NTP-508
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Ivanović Sandra
-
-Manasijević Aleksandar,
-
-2,3
-
-07:00
-
-10:15
-
-MI A2-1
-
-rač.vežbe
-
-Objektno orijentisano programiranje Samardžić Bojana
-
-7,8,9
-
-08:45
-
-10:15
-
-105
-
-aud.vežbe
-
-Matematička analiza 2
-
-Kiš Maria
-
-1,3,6
-
-10:30
-
-12:00
-
-105
-
-aud.vežbe
-
-Matematička analiza 2
-
-Milićević dr Srđan
-
-Manasijević Aleksandar,
-
-9,14
-
-10:30
-
-13:45
-
-MI A2-1
-
-rač.vežbe
-
-Objektno orijentisano programiranje Nov saradnik O1
-
-Stojaković Nedeljko,
-
-2,4,13
-
-10:30
-
-12:00
-
-108
-
-aud.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-8
-
-10:30
-
-12:00
-
-NTP-508
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Ivanović Sandra
-
-7
-
-12:15
-
-13:45
-
-NTP-508
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Ivanović Sandra
-
-Stojaković Nedeljko,
-
-10,11,15
-
-12:15
-
-13:45
-
-103
-
-aud.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-2,4,13
-
-12:15
-
-13:45
-
-105
-
-aud.vežbe
-
-Matematička analiza 2
-
-Milićević dr Srđan
-
-10,12,15
-
-14:00
-
-15:30
-
-105
-
-aud.vežbe
-
-Matematička analiza 2
-
-Kiš Maria
-
-11
-
-14:00
-
-15:30
-
-NTP-507
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Novi saradnik MM
+Herceg dr Dejana
 
 Radović Luka,
 
-5,6
+3,4
 
-14:00
+10:30 11:15
 
-17:15
+MI A2-1
+
+aud.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+Radović Luka,
+
+3,4
+
+11:20 13:50
 
 MI A2-1
 
 rač.vežbe
 
-Objektno orijentisano programiranje Manasijević Aleksandar
+Arhitektura računara
 
-15
+Ignjatijević Aleksandar
 
-15:45
+10,5
 
-17:15
+14:00 14:45
 
-L2 (RC)
+MI A2-1
 
-rač.vežbe
+aud.vežbe
 
-Modeliranje i simulacija sistema
+Arhitektura računara
 
-Dragutinović Đorđe
+Radović Luka, Anišić Helena
 
-10
+10,5
 
-15:45
+14:50 17:20
 
-17:15
-
-NTP-507
+MI A2-1
 
 rač.vežbe
 
-Logičko projektovanje računarskih sistema 1
+Arhitektura računara
 
-Stepanović Mia
+Radović Luka, Anišić Helena
 
-12
+11,12,14
 
-17:30
+15:15 16:45
 
-19:00
+109A
 
-NTP-507
+aud.vežbe
+
+Osnovi elektrotehnike
+
+Milutinov dr Miodrag
+
+7,8
+
+17:30 18:15
+
+MI A2-1
+
+aud.vežbe
+
+Arhitektura računara
+
+Horvat Nebojša, Anišić Helena
+
+7,8
+
+18:20 20:50
+
+MI A2-1
 
 rač.vežbe
 
-Logičko projektovanje računarskih sistema 1
+Arhitektura računara
 
-Matić Milica
+Horvat Nebojša, Anišić Helena
 
-5,11,14
+9(1-12),10(1-12)
 
-17:30
+17:45 19:15
 
-19:00
+105
+
+lab.vežbe
+
+Fizika
+
+Nemeš dr Tomas
+
+9,10,15
+
+19:30 21:00
 
 105
 
 aud.vežbe
 
-Matematička analiza 2
+Osnovi elektrotehnike
 
-Milićević dr Srđan
-
-Samardžić Bojana,
-
-10,15
-
-17:30
-
-20:45
-
-MI A2-1
-
-rač.vežbe
-
-Objektno orijentisano programiranje Hrnjaković Olivera
-
-7
-
-17:45
-
-19:15
-
-NTP-415
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Dragutinović Đorđe
-
-5
-
-19:15
-
-20:45
-
-NTP-507
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Matić Milica
+Milutinov dr Miodrag
 
 
 
@@ -1194,56 +378,208 @@ Naziv Predmeta
 Izvođač
 
 
-Erdeljan dr Aleksandar,
+3(1-12),4(1-12)
 
 
-SVI
+07:00 08:30
 
-07:15
+Fizika
 
-09:00
+lab.vežbe
 
-A1
+Fizika
 
-Pred.
+Rikalo Aleksandar, Zečević Milka
 
-Modeliranje i simulacija sistema
+1(1-12),2(1-12)
 
-Čapko dr Darko
+08:45 10:15
 
-SVI
+Fizika
 
-09:15
+lab.vežbe
 
-11:00
+Fizika
 
-A1
+Budinski-Petković dr Ljuba, Zečević Milka 3,4,6
 
-Pred.
+08:45 10:15
 
-Objektno orijentisano programiranje Kupusinac dr Aleksandar
+311
 
-Čomić dr Lidija,
+aud.vežbe
 
-SVI
+Osnovi elektrotehnike
 
-11:15
+Herceg dr Dejana
 
-13:00
+1,2,5
 
-A1
+10:30 12:00
 
-Pred.
+311
 
-Matematička analiza 2
+aud.vežbe
 
-Medić dr Slavica
+Osnovi elektrotehnike
+
+Bjelica Jelena
+
+Budinski-Petković dr Ljuba,
+
+6(1-12),14(1-12)
+
+10:30 12:00
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Mihailović dr Aleksandra
+
+Budinski-Petković dr Ljuba,
+
+5(1-12),9(1-12)
+
+12:15 13:45
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Mihailović dr Aleksandra
+
+Budinski-Petković dr Ljuba,
+
+11(1-12),13(1-12)
+
+14:00 15:30
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Nemeš dr Tomas
+
+9
+
+14:00 14:45
+
+MI A2-1
+
+aud.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+9
+
+14:50 17:20
+
+MI A2-1
+
+rač.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+7,8,13
+
+15:45 17:15
+
+311
+
+aud.vežbe
+
+Osnovi elektrotehnike
+
+Bjelica Jelena
+
+11(1-12),12(1-12)
+
+15:45 17:15
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Nemeš dr Tomas, Rikalo Aleksandar 7(1-12),8(1-12)
+
+17:30 19:00
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Nemeš dr Tomas, Rikalo Aleksandar 9,10,15
+
+17:30 19:00
+
+311
+
+aud.vežbe
+
+Osnovi elektrotehnike
+
+Milutinov dr Miodrag
+
+Anišić Helena,
+
+11,12
+
+17:30 18:15
+
+MI A2-1
+
+aud.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+Anišić Helena,
+
+11,12
+
+18:20 20:50
+
+MI A2-1
+
+rač.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+10(1-12),15(1-12)
+
+19:15 20:45
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Rikalo Aleksandar, Novi saradnik
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.10.2022. 11:16, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 08:18, Strana: 2
 
-RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
+R A S P O R E D P R E D A V A N J A 2 Semestar
 
 
 
@@ -1274,228 +610,54 @@ Naziv Predmeta
 Izvođač
 
 
-2
+SVI
 
 
-07:00
+14:15 16:00
 
-08:30
+A1
 
-MI B4-5A
+Pred.
 
-rač.vežbe
+Osnovi elektrotehnike
 
-Modeliranje i simulacija sistema
+Herceg dr Dejana
 
-Stojaković Nedeljko
+SVI
 
-8
+16:15 18:00
 
-07:00
+A1
 
-10:15
+Pred.
 
-MI A2-3
+Arhitektura računara
 
-rač.vežbe
+Gajić dr Dušan
 
-Objektno orijentisano programiranje Samardžić Bojana
+SVI
 
-4
+18:15 20:00
 
-07:00
+A1
 
-08:30
+Pred.
 
-NTP-508
+Fizika
 
-rač.vežbe
+Budinski-Petković dr Ljuba
 
-Logičko projektovanje računarskih sistema 1
+Opredeljeni
 
-Milošević Milena
+20:15 21:45
 
-1,3,6
+A1
 
-07:00
+Pred.
 
-08:30
+Engleski jezik za inženjere 1
 
-103
-
-aud.vežbe
-
-Matematička analiza 2
-
-Milićević dr Srđan
-
-1
-
-08:45
-
-10:15
-
-MI B4-5A
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Dragutinović Đorđe
-
-3
-
-08:45
-
-10:15
-
-NTP-508
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Milošević Milena
-
-2,4,13
-
-08:45
-
-10:15
-
-103
-
-aud.vežbe
-
-Matematička analiza 2
-
-Milićević dr Srđan
-
-8
-
-10:30
-
-12:00
-
-L4 (RC)
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Gavranović Nikola
-
-9
-
-10:30
-
-12:00
-
-NTP-508
-
-rač.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Milošević Milena
-
-Hrnjaković Olivera,
-
-7,13
-
-10:30
-
-13:45
-
-MI A2-1
-
-rač.vežbe
-
-Objektno orijentisano programiranje Samardžić Bojana
-
-9
-
-12:15
-
-13:45
-
-L3 (RC)
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Gavranović Nikola
-
-10,12,15
-
-12:15
-
-13:45
-
-105
-
-aud.vežbe
-
-Matematička analiza 2
-
-Kiš Maria
-
-5,11,14
-
-13:30
-
-15:00
-
-311
-
-aud.vežbe
-
-Matematička analiza 2
-
-Milićević dr Srđan
-
-10
-
-14:15
-
-15:45
-
-MI A2-4
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Gavranović Nikola
-
-5
-
-16:00
-
-17:30
-
-L6 (RC)
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
-
-11
-
-17:45
-
-19:15
-
-L6 (RC)
-
-rač.vežbe
-
-Modeliranje i simulacija sistema
-
-Pejić Marko
+Kardoš Stojanović Aleksandra
 
 
 
@@ -1524,7 +686,801 @@ Naziv Predmeta
 Izvođač
 
 
-Čomić dr Lidija,
+Anišić Helena,
+
+
+6,15
+
+07:00 07:45
+
+MI A2-1
+
+aud.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+Anišić Helena,
+
+6,15
+
+07:50 10:20
+
+MI A2-1
+
+rač.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+12(1-12),14(1-12)
+
+07:00 08:30
+
+311
+
+lab.vežbe
+
+Fizika
+
+Nemeš dr Tomas
+
+11,12,14
+
+08:45 10:15
+
+311
+
+aud.vežbe
+
+Osnovi elektrotehnike
+
+Milutinov dr Miodrag
+
+7,8,13
+
+08:45 10:15
+
+207
+
+aud.vežbe
+
+Osnovi elektrotehnike
+
+Bjelica Jelena
+
+13,14
+
+10:30 11:15
+
+MI A2-1
+
+aud.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+13,14
+
+11:20 13:50
+
+MI A2-1
+
+rač.vežbe
+
+Arhitektura računara
+
+Ignjatijević Aleksandar
+
+13(13-),15(13-),
+
+15:00 16:30
+
+201
+
+lab.vežbe
+
+Fizika
+
+Zečević Milka
+
+7(13-),8(13-),5(13-)
+
+1(13-),2(13-),
+
+16:45 18:15
+
+201
+
+lab.vežbe
+
+Fizika
+
+Zečević Milka
+
+3(13-),4(13-),9(13-)
+
+14(13-),10(13-),
+
+18:30 20:00
+
+201
+
+lab.vežbe
+
+Fizika
+
+Zečević Milka
+
+11(13-),12(13-),6(13-)
+
+S U B O T A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+13(13-),15(13-),
+
+
+16:45 18:15
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Lakatoš dr Robert, Zečević Milka
+
+7(13-),8(13-),5(13-)
+
+1(13-),2(13-),
+
+18:30 20:00
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Lakatoš dr Robert, Novi saradnik
+
+3(13-),4(13-),9(13-)
+
+14(13-),10(13-),
+
+20:15 21:45
+
+Fizika
+
+lab.vežbe
+
+Fizika
+
+Vuković Aleksandar, Ilić dr Strahinja 11(13-),12(13-),6(13-)
+
+Napomena:
+
+Studenti biraju jedan od sledeća dva predmeta: 1. Engleski jezik za inženjere 1 (2+0) 2. Nemački jezik napredni srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.01.2023. 06:13, Strana: 3
+
+R A S P O R E D P R E D A V A N J A 4 Semestar
+
+
+
+
+
+Računarstvo i automatika
+
+
+P O N E D E L J A K
+
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+1,2
+
+
+07:00
+
+07:45
+
+MI A2-3
+
+aud.vežbe
+
+Operativni sistemi
+
+Turović Radovan
+
+Turović Radovan,
+
+1,2
+
+07:50
+
+10:20
+
+MI A2-3
+
+rač.vežbe
+
+Operativni sistemi
+
+Nov saradnika A1
+
+6
+
+07:00
+
+09:30
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Matić Milica
+
+Arsenović Jovana,
+
+9,14
+
+07:00
+
+08:30
+
+L1 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
+
+11
+
+07:45
+
+10:15
+
+MI B4-1
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Stepanović Mia
+
+Arsenović Jovana,
+
+12,13
+
+08:45
+
+10:15
+
+L1 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
+
+9,10,14
+
+08:45
+
+10:15
+
+204
+
+aud.vežbe
+
+Verovatnoća i slučajni procesi
+
+Blesić Andrija
+
+4
+
+09:45
+
+12:15
+
+MI B4-1A
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
+
+3
+
+09:45
+
+12:15
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Pijetlovic Stefan
+
+2
+
+10:30
+
+13:00
+
+MI B4-1
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Stepanović Mia
+
+5,6,13
+
+10:30
+
+12:00
+
+204
+
+aud.vežbe
+
+Verovatnoća i slučajni procesi
+
+Blesić Andrija
+
+11,12
+
+10:30
+
+11:15
+
+MI A2-3
+
+aud.vežbe
+
+Operativni sistemi
+
+Gojković Dunja
+
+Nov saradnika A1,
+
+11,12
+
+11:20
+
+13:50
+
+MI A2-3
+
+rač.vežbe
+
+Operativni sistemi
+
+Nikolić Marko
+
+6
+
+12:15
+
+13:45
+
+L4 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Stokanović Smilja
+
+5
+
+12:30
+
+15:00
+
+MI B4-1A
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
+
+7,8,12
+
+14:15
+
+15:45
+
+108A
+
+aud.vežbe
+
+Verovatnoća i slučajni procesi
+
+Stefanović Tamara
+
+7
+
+16:15
+
+18:45
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+Maravić Nikolina,
+
+
+7,8,12
+
+11:15
+
+12:45
+
+103
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Arsenović Jovana
+
+Rapaić dr Milan,
+
+SVI
+
+13:15
+
+15:00
+
+A1
+
+Pred.
+
+Sistemi automatskog upravljanja
+
+Kulić dr Filip
+
+SVI
+
+15:15
+
+17:00
+
+A1
+
+Pred.
+
+Sociologija tehnike
+
+Nešić Tomašević dr Ana
+
+SVI
+
+17:15
+
+19:00
+
+A1
+
+Pred.
+
+Operativni sistemi
+
+Petrović dr Veljko
+
+6,11,14
+
+19:15
+
+20:45
+
+103
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Stokanović Smilja
+
+1,2,15
+
+19:15
+
+20:45
+
+109
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
+
+
+
+
+
+S R E D A
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+9,15
+
+
+07:00
+
+07:45
+
+MI A2-3
+
+aud.vežbe
+
+Operativni sistemi
+
+Jovanović Jovana
+
+Nov saradnika A1,
+
+9,15
+
+07:50
+
+10:20
+
+MI A2-3
+
+rač.vežbe
+
+Operativni sistemi
+
+Nikolić Marko
+
+12
+
+09:45
+
+12:15
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
+
+3,4,15
+
+10:30
+
+12:00
+
+103
+
+aud.vežbe
+
+Verovatnoća i slučajni procesi
+
+Karalić Andrea
+
+7,8
+
+10:30
+
+11:15
+
+MI A2-1
+
+aud.vežbe
+
+Operativni sistemi
+
+Nikolić Marko
+
+Nikolić Marko,
+
+7,8
+
+11:20
+
+13:50
+
+MI A2-1
+
+rač.vežbe
+
+Operativni sistemi
+
+Nov saradnika A1
+
+10,14
+
+10:30
+
+11:15
+
+MI A2-3
+
+aud.vežbe
+
+Operativni sistemi
+
+Gojković Dunja
+
+Gojković Dunja,
+
+10,14
+
+11:20
+
+13:50
+
+MI A2-3
+
+rač.vežbe
+
+Operativni sistemi
+
+Turović Radovan
+
+1,2,11
+
+12:15
+
+13:45
+
+103
+
+aud.vežbe
+
+Verovatnoća i slučajni procesi
+
+Karalić Andrea
+
+Arsenović Jovana,
+
+3,4,5
+
+12:15
+
+13:45
+
+311
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
+
+SVI
+
+17:15
+
+20:00
+
+A1
+
+Pred.
+
+Osnovi paralelnog programiranja i softverski alati Đukić dr Miodrag
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.01.2023. 06:13, Strana: 4
+
+R A S P O R E D P R E D A V A N J A 4 Semestar
+
+
+
+
+
+Računarstvo i automatika
+
+
+Č E T V R T A K
+
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+Rapaić dr Milan,
 
 
 SVI
@@ -1537,9 +1493,9 @@ A1
 
 Pred.
 
-Matematička analiza 2
+Sistemi automatskog upravljanja
 
-Medić dr Slavica
+Kulić dr Filip
 
 SVI
 
@@ -1551,129 +1507,335 @@ A1
 
 Pred.
 
-Objektno orijentisano programiranje Kupusinac dr Aleksandar
+Operativni sistemi
 
-1
+Petrović dr Veljko
+
+SVI
 
 12:15
 
-13:45
+14:00
+
+A1
+
+Pred.
+
+Verovatnoća i slučajni procesi
+
+Grbić dr Tatjana
+
+Stojaković Nedeljko,
+
+9,10,13
+
+15:15
+
+16:45
+
+203
+
+aud.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
+
+
+
+
+
+P E T A K
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+5
+
+
+07:45
+
+09:15
+
+L3 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Mitrović Aleksandra
+
+10
+
+07:00
+
+09:30
+
+MI B4-1
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Stepanović Mia
+
+15
+
+07:00
+
+09:30
 
 NTP-508
 
 rač.vežbe
 
-Logičko projektovanje računarskih sistema 1
+Osnovi paralelnog programiranja i softverski alati Ivanović Sandra
 
-Ivanović Sandra
+Maravić Nikolina,
 
-2
+7,11
+
+08:45
+
+10:15
+
+L1 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Stojaković Nedeljko
+
+1
+
+09:45
 
 12:15
-
-13:45
 
 MI B4-1
 
 rač.vežbe
 
-Logičko projektovanje računarskih sistema 1
+Osnovi paralelnog programiranja i softverski alati Ivanović Sandra
 
-Nov saradnik MM
+14
 
-13
+09:45
+
+12:15
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Subotić Miloš
+
+5,6
+
+10:30
+
+11:15
+
+MI A2-3
+
+aud.vežbe
+
+Operativni sistemi
+
+Anišić Helena
+
+Anišić Helena,
+
+5,6
+
+11:20
+
+13:50
+
+MI A2-3
+
+rač.vežbe
+
+Operativni sistemi
+
+Jovanović Jovana
+
+Maravić Nikolina,
+
+10,15
+
+10:30
+
+12:00
+
+L1 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Arsenović Jovana
+
+Stokanović Smilja,
+
+3,8
 
 12:15
 
 13:45
 
-MI A2-4A
+L1 (RC)
 
 rač.vežbe
 
-Modeliranje i simulacija sistema
+Sistemi automatskog upravljanja
 
-Dragutinović Đorđe
+Stojaković Nedeljko
 
-7,8,9
+1
 
 12:30
 
 14:00
 
-NTP-417
+L2 (RC)
 
-aud.vežbe
+rač.vežbe
 
-Logičko projektovanje računarskih sistema 1
+Sistemi automatskog upravljanja
 
-Kaštelan dr Ivan
+Mitrović Aleksandra
 
-(10,11,12)
+9
 
-1,3,5
+12:30
 
-14:15
-
-15:45
-
-NTP-417
-
-aud.vežbe
-
-Logičko projektovanje računarskih sistema 1
-
-Kaštelan dr Ivan
-
-(2,4,6)
-
-15
-
-14:15
-
-15:45
+15:00
 
 MI B4-1
 
 rač.vežbe
 
-Logičko projektovanje računarskih sistema 1
+Osnovi paralelnog programiranja i softverski alati Stepanović Mia
 
-Nov saradnik MM
+3,4,13
 
-12,14
+14:00
 
 14:45
 
-16:15
+MI A2-3
 
-NTP-222
+aud.vežbe
 
-rač.vežbe
+Operativni sistemi
 
-Modeliranje i simulacija sistema
+Jovanović Jovana
 
-Dragutinović Đorđe
+Jovanović Jovana,
 
 3,4
 
-16:30
+14:50
 
-18:00
+17:20
 
-NTP-222
+MI A2-3
 
 rač.vežbe
 
-Modeliranje i simulacija sistema
+Operativni sistemi
 
-Dragutinović Đorđe
+Anišić Helena
+
+8
+
+15:15
+
+17:45
+
+MI B4-1
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Subotić Miloš
+
+13
+
+14:45
+
+17:15
+
+NTP-508
+
+rač.vežbe
+
+Osnovi paralelnog programiranja i softverski alati Ivanović Sandra
+
+2
+
+15:30
+
+17:00
+
+MI B4-4A
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Stojaković Nedeljko
+
+13
+
+17:30
+
+20:00
+
+MI A2-3
+
+rač.vežbe
+
+Operativni sistemi
+
+Gojković Dunja
+
+4
+
+17:45
+
+19:15
+
+L6 (RC)
+
+rač.vežbe
+
+Sistemi automatskog upravljanja
+
+Stojaković Nedeljko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 09:16, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 07:59, Strana: 5
 
-RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
+R A S P O R E D P R E D A V A N J A 6 Semestar
 
 Računarstvo i automatika
 
@@ -1698,20 +1860,102 @@ Naziv Predmeta
 Izvođač
 
 
-7,8
+2
 
+
+07:00
+
+08:30
+
+L2 (RC)
+
+lab.vežbe
+
+Internet mreže
+
+Vuković dr Željko
+
+8
+
+07:30
+
+10:00
+
+MI A2-4A
+
+rač.vežbe
+
+Veb programiranje
+
+Filipović Dragana
+
+2
 
 08:45
 
 10:15
 
+F 318
+
+rač.vežbe
+
+Interakcija čovek računar
+
+Bursać Vasilije
+
+1
+
+08:45
+
+10:15
+
+L2 (RC)
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Đukić Anica
+
+7
+
+08:45
+
+10:15
+
+NTP-311
+
+rač.vežbe
+
+Osnovi računarske inteligencije
+
+Vujinović Aleksandar
+
+6,7
+
+10:30
+
+13:00
+
 L1 (RC)
 
 rač.vežbe
 
-Metode optimizacije
+Veb programiranje
 
-Mitrović Aleksandra
+Filipović Dragana
+
+1
+
+10:30
+
+12:00
+
+F 318
+
+rač.vežbe
+
+Interakcija čovek računar
+
+Bursać Vasilije
 
 2
 
@@ -1719,129 +1963,145 @@ Mitrović Aleksandra
 
 12:00
 
-L6 (RC)
+L2 (RC)
 
 rač.vežbe
 
-Metode optimizacije
+Specifikacija i modeliranje softvera Đukić Anica
 
-Mitrović Aleksandra
-
-7
+8
 
 10:30
 
-13:45
+12:00
 
-MI A2-2
+NTP-311
 
 rač.vežbe
 
-Baze podataka 1
+Osnovi računarske inteligencije
 
-Novi saradnik HJ
+Vujinović Aleksandar
 
-Ignjatijević Aleksandar,
-
-3,4
+5
 
 12:15
 
 13:45
 
-MI A2-1
+F 318
 
 rač.vežbe
 
-Programski prevodioci
+Interakcija čovek računar
 
-Nov saradnik V3
+Bursać Vasilije
 
-8
+3
 
-12:00
+12:15
 
-14:30
+13:45
 
-L4 (RC)
+L5 (RC)
+
+lab.vežbe
+
+Internet mreže
+
+Mršulja Ivan
+
+4
+
+13:30
+
+15:00
+
+L3 (RC)
+
+lab.vežbe
+
+Internet mreže
+
+Vuković dr Željko
+
+3
+
+15:45
+
+17:15
+
+L2 (RC)
 
 rač.vežbe
 
-Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
+Specifikacija i modeliranje softvera Mijatov Vanja
 
 5
 
-12:30
+15:45
 
-14:00
+17:15
 
-INT 1
+L6 (RC)
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Škipina Milica
+Specifikacija i modeliranje softvera Ivanović Bojana
 
-1
+6
 
 14:00
 
 15:30
 
-MI B4-4A
+NTP-311
 
 rač.vežbe
 
-Metode optimizacije
+Osnovi računarske inteligencije
 
-Buljević Anja
+Vujinović Aleksandar
 
-Ignjatijević Aleksandar,
-
-5,6
-
-14:15
+4
 
 15:45
 
-MI A2-1
+17:15
+
+F 318
 
 rač.vežbe
 
-Programski prevodioci
+Interakcija čovek računar
 
-Nov saradnik V3
+Gligorov Nenad
 
-Jeličić dr Zoran,
+4
 
-SVI
-
-17:15
+17:30
 
 19:00
 
-A1
+L2 (RC)
 
-Pred.
+rač.vežbe
 
-Metode optimizacije
+Specifikacija i modeliranje softvera Mijatov Vanja
 
-Rapaić dr Milan,
+5
 
-Kapetina dr Mirna
+17:30
 
-SVI
+19:00
 
-19:15
+L6 (RC)
 
-21:00
+lab.vežbe
 
-A1
+Internet mreže
 
-Pred.
-
-Programski prevodioci
-
-Vrbaški dr Dunja
+Mršulja Ivan
 
 U T O R A K
 
@@ -1864,202 +2124,34 @@ Naziv Predmeta
 Izvođač
 
 
-2
+SVI
 
 
-07:00
+13:15
 
-10:15
+15:00
 
-MI A2-2
+A2
 
-rač.vežbe
+Pred.
 
-Baze podataka 1
+Interakcija čovek računar
 
-Todorović Nikola
+Ivetić dr Dragan
 
-5
+SVI
 
-07:40
+15:15
 
-09:10
+18:00
 
-L2 (RC)
+A3
 
-rač.vežbe
+Pred.
 
-Metode optimizacije
+Veb programiranje
 
-Mitrović Aleksandra
-
-3
-
-07:00
-
-08:30
-
-INT 1
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Škipina Milica
-
-4
-
-07:00
-
-09:30
-
-L4 (RC)
-
-rač.vežbe
-
-Osnovi informacionih sistema i softverskog inženjerstva Kovačević Marija
-
-1
-
-08:45
-
-10:15
-
-INT 1
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Nov saradnik 7
-
-6
-
-08:45
-
-10:15
-
-AR3
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Škipina Milica
-
-2
-
-10:30
-
-12:00
-
-INT 1
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Nov saradnik 7
-
-3
-
-09:35
-
-12:05
-
-L4 (RC)
-
-rač.vežbe
-
-Osnovi informacionih sistema i softverskog inženjerstva Kovačević Marija
-
-4
-
-10:30
-
-13:45
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Todorović Nikola
-
-3
-
-14:00
-
-17:15
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Nov asistent JV
-
-7
-
-13:00
-
-15:30
-
-L2 (RC)
-
-rač.vežbe
-
-Osnovi informacionih sistema i softverskog inženjerstva Novi saradnik 5
-
-8
-
-14:00
-
-15:30
-
-L6 (RC)
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Škipina Milica
-
-7,8
-
-15:45
-
-17:15
-
-105
-
-aud.vežbe
-
-Metode optimizacije
-
-Mitrović Aleksandra
-
-5
-
-17:30
-
-20:45
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Nov asistent JV
-
-Matkovski Marijana,
-
-7,8
-
-17:30
-
-19:00
-
-MI A2-3
-
-rač.vežbe
-
-Programski prevodioci
-
-Nov saradnik V3
+Vidaković dr Milan
 
 
 
@@ -2088,188 +2180,24 @@ Naziv Predmeta
 Izvođač
 
 
-Jeličić dr Zoran,
+1
 
 
-SVI
+08:45
 
-13:15
+10:15
 
-15:00
-
-A1
-
-Pred.
-
-Metode optimizacije
-
-Rapaić dr Milan,
-
-Kapetina dr Mirna
-
-SVI
-
-15:15
-
-18:00
-
-A1
-
-Pred.
-
-Osnovi informacionih sistema i softverskog inženjerstva Vuković dr Željko
-
-Dimitrieski dr Vladimir,
-
-SVI
-
-18:15
-
-20:00
-
-A1
-
-Pred.
-
-Baze podataka 1
-
-Čeliković dr Milan
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-7
-
-
-12:15
-
-13:45
-
-INT 1
+AR2
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Nov saradnik 7
+Osnovi računarske inteligencije
+
+Anđelić Branislav
 
 6
 
-12:15
-
-14:45
-
-L2 (RC)
-
-rač.vežbe
-
-Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
-
-SVI
-
-15:15
-
-17:00
-
-A2
-
-Pred.
-
-Numerički algoritmi i numerički softver Kovačević dr Aleksandar
-
-Dimitrieski dr Vladimir,
-
-SVI
-
-17:15
-
-19:00
-
-A2
-
-Pred.
-
-Baze podataka 1
-
-Čeliković dr Milan
-
-Novi saradnik V3,
-
-1,2
-
-19:15
-
-20:45
-
-MI A2-3
-
-rač.vežbe
-
-Programski prevodioci
-
-Matkovski Marijana
-
-
-
-
-
-P E T A K
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-6
-
-
-08:00
-
-09:30
-
-NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Stokanović Smilja
-
-5
-
-07:45
+08:45
 
 10:15
 
@@ -2277,423 +2205,227 @@ L3 (RC)
 
 rač.vežbe
 
-Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
+Specifikacija i modeliranje softvera Đukić Anica
 
-4
+7
+
+07:00
+
+08:30
+
+L2 (RC)
+
+lab.vežbe
+
+Internet mreže
+
+Mršulja Ivan
+
+2
+
+07:45
+
+10:15
+
+AR3
+
+rač.vežbe
+
+Veb programiranje
+
+Grujić Katarina Glorija
+
+7
 
 08:45
 
 10:15
 
-L5 (RC)
+F 318
 
 rač.vežbe
 
-Numerički algoritmi i numerički softver Nov asistent VA
+Interakcija čovek računar
 
-8
+Stanojević Olja
 
-07:00
+1
 
-10:15
+10:30
 
-MI A2-2
+13:00
+
+AR3
 
 rač.vežbe
 
-Baze podataka 1
+Veb programiranje
 
-Jeremić Aleksandar
+Grujić Katarina Glorija
 
-4,5,6
+2
 
 10:30
 
 12:00
 
-108
+AR2
 
-aud.vežbe
+rač.vežbe
 
-Metode optimizacije
+Osnovi računarske inteligencije
 
-Buljević Anja
+Anđelić Branislav
 
-1
+6
 
-13:15
+10:30
 
-15:45
+12:00
+
+F 318
+
+rač.vežbe
+
+Interakcija čovek računar
+
+Stanojević Olja
+
+7
+
+10:30
+
+12:00
 
 L5 (RC)
 
 rač.vežbe
 
-Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
+Specifikacija i modeliranje softvera Đukić Anica
 
-4
+8
+
+10:30
+
+12:00
+
+L3 (RC)
+
+lab.vežbe
+
+Internet mreže
+
+Mršulja Ivan
+
+6
+
+12:15
+
+13:45
+
+L3 (RC)
+
+lab.vežbe
+
+Internet mreže
+
+Mršulja Ivan
+
+8
+
+12:15
+
+13:45
+
+F 318
+
+rač.vežbe
+
+Interakcija čovek računar
+
+Stanojević Olja
+
+3
+
+14:00
+
+15:30
+
+F 318
+
+rač.vežbe
+
+Interakcija čovek računar
+
+Stanojević Olja
+
+8
 
 14:15
 
 15:45
 
-NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Mitrović Aleksandra
-
-6
-
-14:00
-
-17:15
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Vještica Marko
-
-1,2,3
-
-16:15
-
-17:45
-
-NTP-417
-
-aud.vežbe
-
-Metode optimizacije
-
-Mitrović Aleksandra
-
-3
-
-18:00
-
-19:30
-
-NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Stokanović Smilja
-
-2
-
-18:00
-
-20:30
-
 L2 (RC)
 
 rač.vežbe
 
-Osnovi informacionih sistema i softverskog inženjerstva Šarenac Balša
+Specifikacija i modeliranje softvera Ivanović Bojana
 
-1
+3
 
-18:00
-
-21:15
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 1
-
-Ivković Vladimir
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 10.10.2022. 10:22, Strana: 5
-
-RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-SVI
-
-
-09:15
-
-12:00 NTP-001
-
-Pred.
-
-Operativni sistemi za rad u realnom vremenu Popović dr Miroslav
-
-SVI
-
-12:15
-
-13:45 NTP-418
-
-Pred.
-
-Elektronika
-
-Lukić dr Milan
-
-Jeličić dr Zoran,
-
-SVI
+15:45
 
 17:15
 
-19:00
-
-A1
-
-Pred.
-
-Metode optimizacije
-
-Rapaić dr Milan,
-
-Kapetina dr Mirna
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-33
-
-
-08:30
-
-11:00 NTP-506
+AR2
 
 rač.vežbe
 
-Operativni sistemi za rad u realnom vremenu Subotić Miloš
+Osnovi računarske inteligencije
 
-32
+Vujinović Aleksandar
 
-07:45
+4
 
-09:15 NTP-505
+15:45
 
-rač.vežbe
+17:15
 
-Elektronika
-
-Kovačević Nikola
-
-34
-
-08:30
-
-11:00 NTP-504
+AR3
 
 rač.vežbe
 
-Operativni sistemi za rad u realnom vremenu Bokan Dejan
+Osnovi računarske inteligencije
 
-31
+Anđelić Branislav
 
-09:30
+5
 
-11:00 NTP-505
+14:45
 
-rač.vežbe
+17:15
 
-Elektronika
-
-Mišeljić Đorđe
-
-32
-
-11:15
-
-12:45 NTP-506
+NTP-309
 
 rač.vežbe
 
-Algoritmi digitalne obrade zvuka
+Veb programiranje
 
-Savić Jasmina
+Kovačević Ivana
 
-33
+3
 
-11:15
+17:30
 
-12:45 NTP-505
+20:00
 
-rač.vežbe
-
-Elektronika
-
-Lukić dr Milan
-
-34
-
-11:15
-
-12:45 NTP-504
+NTP-309
 
 rač.vežbe
 
-Elektronika
+Veb programiranje
 
-Mišeljić Đorđe
-
-31
-
-11:15
-
-12:45 NTP-507
-
-rač.vežbe
-
-Algoritmi digitalne obrade zvuka
-
-Subotić Miloš
-
-SVI
-
-13:00
-
-14:45 NTP-418
-
-Pred.
-
-Osnovi računarskih mreža
-
-Bašičević dr Ilija
-
-
-
-
-
-S R E D A
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-31,32,33,34 07:00
-
-
-08:30 NTP-417
-
-aud.vežbe
-
-Metode optimizacije
-
-Mitrović Aleksandra
-
-33
-
-08:45
-
-10:15 MI B4-4A
-
-rač.vežbe
-
-Metode optimizacije
-
-Buljević Anja
-
-SVI
-
-11:15
-
-13:00 NTP-417
-
-Pred.
-
-Elektronika
-
-Lukić dr Milan
-
-Jeličić dr Zoran,
-
-SVI
-
-13:15
-
-15:00
-
-A1
-
-Pred.
-
-Metode optimizacije
-
-Rapaić dr Milan,
-
-Kapetina dr Mirna
-
-32
-
-15:15
-
-16:45 NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Buljević Anja
+Kovačević Ivana
 
 Č E T V R T A K
 
@@ -2703,7 +2435,9 @@ Od
 
 Do
 
-Učionica Vrsta nast.
+Učionica
+
+Vrsta nast.
 
 Naziv Predmeta
 
@@ -2714,88 +2448,46 @@ Naziv Predmeta
 Izvođač
 
 
-31
+SVI
 
 
-07:00
+12:15
 
-09:30 NTP-504
+15:00
 
-rač.vežbe
+A2
 
-Operativni sistemi za rad u realnom vremenu Kenjić Dušan
+Pred.
 
-32
+Osnovi računarske inteligencije
 
-09:30
+Kovačević dr Aleksandar
 
-11:00 NTP-506
+SVI
 
-rač.vežbe
+15:15
 
-Osnovi računarskih mreža
+18:00
 
-Subotić Miloš
+A2
 
-31
+Pred.
 
-09:30
+Specifikacija i modeliranje softvera Luburić dr Nikola
 
-11:00 NTP-505
+SVI
 
-rač.vežbe
+18:15
 
-Osnovi računarskih mreža
+20:00
 
-Kenjić Dušan
+A2
 
-31
+Pred.
 
-11:45
+Internet mreže
 
-13:15 NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Buljević Anja
-
-34
-
-11:15
-
-12:45 NTP-506
-
-rač.vežbe
-
-Osnovi računarskih mreža
-
-Subotić Miloš
-
-33
-
-11:15
-
-12:45 NTP-505
-
-rač.vežbe
-
-Osnovi računarskih mreža
-
-Kenjić Dušan
-
-34
-
-13:30
-
-15:00 NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Buljević Anja
+Vuković dr Željko
 
 
 
@@ -2811,7 +2503,9 @@ Od
 
 Do
 
-Učionica Vrsta nast.
+Učionica
+
+Vrsta nast.
 
 Naziv Predmeta
 
@@ -2822,106 +2516,54 @@ Naziv Predmeta
 Izvođač
 
 
-33
+4
 
 
 07:45
 
-09:15 NTP-505
+10:15
+
+NTP-307
 
 rač.vežbe
 
-Elektronika
+Veb programiranje
 
-Lukić dr Milan
+Grujić Katarina Glorija
 
-32
+1
 
-08:30
+10:30
 
-11:00 NTP-504
+12:00
 
-rač.vežbe
+NTP-307
 
-Operativni sistemi za rad u realnom vremenu Bokan Dejan
+lab.vežbe
 
-34
+Internet mreže
 
-09:35
+Mršulja Ivan
 
-11:05 NTP-505
+5
 
-rač.vežbe
+14:15
 
-Elektronika
+15:45
 
-Mišeljić Đorđe
-
-34
-
-11:15
-
-12:45 NTP-507
+L6 (RC)
 
 rač.vežbe
 
-Algoritmi digitalne obrade zvuka
+Osnovi računarske inteligencije
 
-Savić Jasmina
-
-33
-
-11:15
-
-12:45 NTP-506
-
-rač.vežbe
-
-Algoritmi digitalne obrade zvuka
-
-Kenjić Dušan
-
-31
-
-11:15
-
-12:45 NTP-505
-
-rač.vežbe
-
-Elektronika
-
-Mišeljić Đorđe
-
-32
-
-11:15
-
-12:45 NTP-504
-
-rač.vežbe
-
-Elektronika
-
-Kovačević Nikola
-
-SVI
-
-13:00
-
-14:45 NTP-418
-
-Pred.
-
-Algoritmi digitalne obrade zvuka
-
-Lukač dr Željko
+Volarić Filip
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.12.2022. 04:18, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 10:36, Strana: 6
 
-RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
+R A S P O R E D P R E D A V A N J A 6 Semestar
 
 Računarstvo i automatika
 
@@ -2946,60 +2588,86 @@ Naziv Predmeta
 Izvođač
 
 
-23
-
-
-07:30
-
-10:00 NTP-410
-
-lab.vežbe
-
-Tehnologije računarskih upravljačkih sistema Bugarski dr Vladimir
-
 22
 
-12:45
 
-14:15 NTP-004
+12:30
+
+14:00
+
+NTP-408
 
 rač.vežbe
 
-Električne mašine u automatici
+Osnove geoinformatike
 
-Vujkov Barbara
+Pajić dr Vladimir
 
-SVI
+21
 
-15:15
+12:45
 
-17:00
+16:00
 
-108
+NTP-415
 
-Pred.
+rač.vežbe
 
-Električne mašine u automatici
-
-Popović dr Vladimir
-
-Jeličić dr Zoran,
+Softverski algoritmi u sistemima automatskog upravljanja Pejić Marko
 
 SVI
 
-17:15
+16:15
 
-19:00
+18:00
 
-A1
+NTP-418
 
 Pred.
 
-Metode optimizacije
+Upravljački algoritmi u realnom vremenu Kanović dr Željko
 
-Rapaić dr Milan,
+22
 
-Kapetina dr Mirna
+18:15
+
+19:45
+
+NTP-410
+
+lab.vežbe
+
+Hardverski interfejs
+
+Jorgovanović Bojan
+
+21
+
+18:15
+
+19:45
+
+NTP-408
+
+rač.vežbe
+
+Osnove geoinformatike
+
+Pajić dr Vladimir
+
+23
+
+18:15
+
+20:45
+
+NTP-411
+
+rač.vežbe
+
+Inteligentni sistemi
+
+Bugarski dr Vladimir
 
 U T O R A K
 
@@ -3025,39 +2693,55 @@ Izvođač
 SVI
 
 
-07:15
+08:15
 
 10:00
 
-101
+NTP-001
 
 Pred.
 
-Tehnologije računarskih upravljačkih sistema Kulić dr Filip
+Hardverski interfejs
+
+Jorgovanović dr Nikola
 
 21
 
-12:30
+10:15
 
-15:00 NTP-411
+11:45
 
-lab.vežbe
+NTP-411
 
-Tehnologije računarskih upravljačkih sistema Bugarski dr Vladimir
+rač.vežbe
 
-SVI
+Upravljački algoritmi u realnom vremenu Kanović dr Željko
 
-16:15
+21
 
-18:00
+12:00
 
-205
+14:30
 
-Pred.
+NTP-411
 
-Tehnička sredstva automatike
+rač.vežbe
 
-Stanišić dr Darko
+Inteligentni sistemi
+
+Bugarski dr Vladimir
+
+22,23
+
+17:45
+
+21:00
+
+L1 (RC)
+
+rač.vežbe
+
+Softverski algoritmi u sistemima automatskog upravljanja Pejić Marko
 
 
 
@@ -3086,52 +2770,62 @@ Naziv Predmeta
 Izvođač
 
 
-Jeličić dr Zoran,
+23
 
 
-SVI
+12:30
 
-13:15
+14:00
 
-15:00
+NTP-411
 
-A1
+rač.vežbe
 
-Pred.
+Upravljački algoritmi u realnom vremenu Stokanović Smilja
 
-Metode optimizacije
-
-Rapaić dr Milan,
-
-Kapetina dr Mirna
-
-Ilić dr Vojin,
+Govedarica dr Miro,
 
 SVI
 
-15:15
+14:15
 
-17:00
+16:00
 
-MI G2-1
+NTP-417
 
 Pred.
 
-Mikroprocesorski upravljački uređaji Stanišić dr Darko
+Osnove geoinformatike
 
-21,22,23
+Sladić dr Dubravka,
 
-17:15
+Radulović dr Aleksandra
 
-18:45
+SVI
 
-MI G2-1
+16:15
 
-aud.vežbe
+18:00
 
-Metode optimizacije
+NTP-417
 
-Buljević Anja
+Pred.
+
+Softverski algoritmi u sistemima automatskog upravljanja Vukmirović dr Srđan
+
+21
+
+18:15
+
+19:45
+
+NTP-410
+
+lab.vežbe
+
+Hardverski interfejs
+
+Jorgovanović Bojan
 
 Č E T V R T A K
 
@@ -3154,68 +2848,62 @@ Naziv Predmeta
 Izvođač
 
 
-23
+21,22,23
 
-
-08:30
-
-10:00 NTP-411
-
-lab.vežbe
-
-Tehnička sredstva automatike
-
-Čongradac dr Velimir
-
-21,23
-
-10:30
-
-12:00 NTP-004
-
-rač.vežbe
-
-Električne mašine u automatici
-
-Vujkov Barbara
-
-21
 
 13:30
 
-15:00 NTP-410
+15:00
 
-lab.vežbe
+MI B4-3
 
-Tehnička sredstva automatike
+aud.vežbe
 
-Čongradac dr Velimir
+Upravljački algoritmi u realnom vremenu Stokanović Smilja
 
-22
-
-15:15
-
-16:45 NTP-410
-
-lab.vežbe
-
-Tehnička sredstva automatike
-
-Čongradac dr Velimir
-
-Ilić dr Vojin,
+Kulić dr Filip,
 
 SVI
 
-17:45
+16:15
 
-19:15
+19:00
 
-108A
+NTP-418
 
 Pred.
 
-Mikroprocesorski upravljački uređaji Stanišić dr Darko
+Inteligentni sistemi
+
+Bugarski dr Vladimir
+
+22
+
+19:15
+
+21:45
+
+NTP-411
+
+rač.vežbe
+
+Inteligentni sistemi
+
+Bugarski dr Vladimir
+
+23
+
+19:30
+
+21:00
+
+NTP-408
+
+rač.vežbe
+
+Osnove geoinformatike
+
+Pajić dr Vladimir
 
 
 
@@ -3244,56 +2932,3522 @@ Naziv Predmeta
 Izvođač
 
 
-22
+SVI
 
+
+10:15
+
+12:00
+
+NTP-001
+
+Pred.
+
+Softverski algoritmi u sistemima automatskog upravljanja Vukmirović dr Srđan
+
+SVI
+
+12:15
+
+14:00
+
+NTP-001
+
+Pred.
+
+Upravljački algoritmi u realnom vremenu Kanović dr Željko
+
+23
 
 14:15
 
 15:45
 
-L2 (RC)
+NTP-410
 
-rač.vežbe
+lab.vežbe
 
-Metode optimizacije
+Hardverski interfejs
 
-Buljević Anja
+Jorgovanović Bojan
 
 22
 
-16:00
+14:15
 
-18:30 NTP-410
+15:45
 
-lab.vežbe
-
-Tehnologije računarskih upravljačkih sistema Bugarski dr Vladimir
-
-23
-
-17:00
-
-20:15 NTP-411
-
-lab.vežbe
-
-Mikroprocesorski upravljački uređaji Mejić dr Luka
-
-21,23
-
-20:30
-
-22:00
-
-L1 (RC)
+NTP-411
 
 rač.vežbe
 
-Metode optimizacije
+Upravljački algoritmi u realnom vremenu Stokanović Smilja
 
-Buljević Anja
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-S U B O T A
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.01.2023. 06:21, Strana: 7
+
+R A S P O R E D P R E D A V A N J A 6 Semestar
+
+Računarstvo i automatika
+
+Studijska grupa: Računarska tehnika i računarske komunikacije P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+31
+
+
+09:00
+
+10:30
+
+NTP-505
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Subotić Miloš
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 31
+
+10:45
+
+12:15
+
+NTP-507
+
+lab.vežbe
+
+zasnovani na Androidu
+
+Ivanović Sandra
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 32
+
+09:00
+
+10:30
+
+NTP-507
+
+lab.vežbe
+
+zasnovani na Androidu
+
+Ivanović Sandra
+
+32
+
+10:45
+
+12:15
+
+NTP-505
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Subotić Miloš
+
+33
+
+09:45
+
+12:15
+
+NTP-504
+
+rač.vežbe
+
+Projektovanje algoritama
+
+Matić Milica
+
+34
+
+09:45
+
+12:15
+
+NTP-506
+
+rač.vežbe
+
+Projektovanje algoritama
+
+Savić Jasmina
+
+SVI
+
+13:15
+
+15:00
+
+NTP-418
+
+Pred.
+
+Bežične mreže - Internet of Things Antić dr Marija
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+31
+
+
+09:00
+
+10:30
+
+NTP-506
+
+rač.vežbe
+
+Algoritmi digitalne obrade slike
+
+Subotić Miloš
+
+31
+
+10:45
+
+12:15
+
+NTP-504
+
+rač.vežbe
+
+Bežične mreže - Internet of Things Milošević Milena
+
+32
+
+09:00
+
+10:30
+
+NTP-504
+
+rač.vežbe
+
+Bežične mreže - Internet of Things Milošević Milena
+
+32
+
+10:45
+
+12:15
+
+NTP-506
+
+rač.vežbe
+
+Algoritmi digitalne obrade slike
+
+Subotić Miloš
+
+33
+
+09:00
+
+10:30
+
+NTP-505
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Pijetlovic Stefan
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 33
+
+10:45
+
+12:15
+
+NTP-507
+
+lab.vežbe
+
+Matić Milica
+
+zasnovani na Androidu
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 34
+
+09:00
+
+10:30
+
+NTP-507
+
+lab.vežbe
+
+Matić Milica
+
+zasnovani na Androidu
+
+34
+
+10:45
+
+12:15
+
+NTP-505
+
+rač.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Pijetlovic Stefan
+
+Kaštelan dr Ivan,
+
+SVI
+
+13:15
+
+15:00
+
+NTP-418
+
+Pred.
+
+Logičko projektovanje računarskih sistema 2
+
+Pjevalica dr Nebojša
+
+Projektovanje i arhitektura računarskih sistema - Sistemi SVI
+
+15:15
+
+17:00
+
+NTP-418
+
+Pred.
+
+Pap dr Ištvan
+
+zasnovani na Androidu
+
+
+
+
+
+S R E D A
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 34
+
+
+07:45
+
+09:15
+
+NTP-506
+
+lab.vežbe
+
+Matić Milica
+
+zasnovani na Androidu
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 33
+
+09:30
+
+11:00
+
+NTP-506
+
+lab.vežbe
+
+Matić Milica
+
+zasnovani na Androidu
+
+Kaštelan dr Ivan,
+
+SVI
+
+13:15
+
+15:00
+
+NTP-418
+
+Pred.
+
+Logičko projektovanje računarskih sistema 2
+
+Pjevalica dr Nebojša
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+31
+
+
+09:00
+
+10:30
+
+NTP-505
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Pijetlovic Stefan
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 31
+
+10:45
+
+12:15
+
+NTP-507
+
+lab.vežbe
+
+zasnovani na Androidu
+
+Subotić Miloš
+
+Projektovanje i arhitektura računarskih sistema - Sistemi 32
+
+09:00
+
+10:30
+
+NTP-507
+
+lab.vežbe
+
+zasnovani na Androidu
+
+Subotić Miloš
+
+32
+
+10:45
+
+12:15
+
+NTP-505
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Pijetlovic Stefan
+
+33
+
+09:00
+
+10:30
+
+NTP-506
+
+rač.vežbe
+
+Algoritmi digitalne obrade slike
+
+Savić Jasmina
+
+33
+
+10:45
+
+12:15
+
+NTP-504
+
+rač.vežbe
+
+Bežične mreže - Internet of Things Četić Nenad
+
+34
+
+09:00
+
+10:30
+
+NTP-504
+
+rač.vežbe
+
+Bežične mreže - Internet of Things Četić Nenad
+
+34
+
+10:45
+
+12:15
+
+NTP-506
+
+rač.vežbe
+
+Algoritmi digitalne obrade slike
+
+Savić Jasmina
+
+SVI
+
+13:15
+
+16:00
+
+NTP-418
+
+Pred.
+
+Projektovanje algoritama
+
+Kaštelan dr Ivan
+
+
+
+
+
+P E T A K
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+31
+
+
+09:45
+
+12:15
+
+NTP-506
+
+rač.vežbe
+
+Projektovanje algoritama
+
+Matić Milica
+
+32
+
+09:45
+
+12:15
+
+NTP-504
+
+rač.vežbe
+
+Projektovanje algoritama
+
+Stepanović Mia
+
+33
+
+09:00
+
+10:30
+
+NTP-505
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Pijetlovic Stefan
+
+34
+
+10:45
+
+12:15
+
+NTP-505
+
+aud.vežbe
+
+Logičko projektovanje računarskih sistema 2
+
+Pijetlovic Stefan
+
+SVI
+
+13:15
+
+15:00
+
+NTP-418
+
+Pred.
+
+Algoritmi digitalne obrade slike
+
+Lukač dr Željko
+
+Projektovanje i arhitektura računarskih sistema - Sistemi SVI
+
+15:15
+
+17:00
+
+NTP-418
+
+Pred.
+
+Pap dr Ištvan
+
+zasnovani na Androidu
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.12.2022. 07:39, Strana: 8
+
+RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
+
+Računarstvo i automatika
+
+Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
+
+
+
+
+
+Datum
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+
+20.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+20.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+20.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+20.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+21.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+21.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+21.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+21.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+22.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+22.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+22.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+22.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+23.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+23.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+23.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+23.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+24.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+24.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+24.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+24.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+27.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+27.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+27.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+27.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+28.02.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+28.02.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+28.02.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+28.02.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+01.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+01.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+01.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+01.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+02.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+02.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+02.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+02.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+03.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+03.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+03.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+03.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+06.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+06.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+06.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+06.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+07.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+07.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+07.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+07.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+08.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+08.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+08.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+08.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+09.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Programska podrška u televiziji i obradi slike 1
+
+Bjelica dr Milan
+
+09.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Milošević Milena
+
+09.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Pekez Nenad
+
+09.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Programska podrška u televiziji i obradi slike 1
+
+Bokan Dejan
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.12.2022. 07:39, Strana: 9
+
+RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
+
+Računarstvo i automatika
+
+Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
+
+
+
+
+
+Datum
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+
+Predmet: Projektovanje sistema zasnovanih na računaru 13.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+13.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+13.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+13.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+14.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+14.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+14.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+14.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+15.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+15.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+15.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+15.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+16.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+16.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+16.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+16.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+17.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+17.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+17.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+17.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+20.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+20.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+20.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+20.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+21.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+21.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+21.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+21.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+22.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+22.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+22.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+22.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+23.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+23.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+23.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+23.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+24.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+24.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+24.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+24.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+27.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+27.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+27.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+27.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+28.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+28.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+28.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+28.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+29.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+29.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+29.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+29.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+30.03.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje sistema zasnovanih na računaru Popović dr Miroslav
+
+30.03.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Novković Teodora
+
+30.03.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Kordić Branislav
+
+30.03.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje sistema zasnovanih na računaru Manić Milan
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.12.2022. 07:39, Strana: 10
+
+RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
+
+Računarstvo i automatika
+
+Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
+
+
+
+
+
+Datum
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+Predmet: Programska podrška u televiziji i obradi slike 1 1
+
+
+Predmet: Projektovanje namenskih računarskih struktura 2
+
+08.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+08.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+08.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+08.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+09.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+09.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+09.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+09.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+10.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+10.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+10.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+10.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+11.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+11.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+11.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+11.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+12.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+12.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+12.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+12.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+15.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+15.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+15.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+15.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+16.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+16.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+16.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+16.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+17.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+17.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+17.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+17.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+18.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+18.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+18.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+18.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+19.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+19.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+19.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+19.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+22.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+22.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+22.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+22.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+23.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+23.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+23.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+23.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+24.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+24.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+24.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+24.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+25.05.2023
+
+SVI
+
+09:15
+
+12:00
+
+NTP-418
+
+Pred.
+
+Projektovanje namenskih računarskih struktura 2
+
+Pap dr Ištvan
+
+25.05.2023
+
+3
+
+13:00
+
+15:30
+
+NTP-505
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Novković Teodora
+
+25.05.2023
+
+1
+
+13:00
+
+15:30
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Pijetlovic Stefan
+
+25.05.2023
+
+2
+
+15:45
+
+18:15
+
+NTP-506
+
+lab.vežbe
+
+Projektovanje namenskih računarskih struktura 2
+
+Manić Milan
+
+Napomena:
+
+Oznake učionice i laboratorija NTP-xxx su nove laboratorije koje se nalaze na adresi Fruškogorska 11, Novi Sad.
+
+Pošto će se izvoditi blok nastava iz svih predmeta, raspored je urađen tako da je pored standardnih podataka za raspored nastave u prvoj koloni dat i datum izvođenja nastave.
+
+Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan predmet.
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.01.2023. 06:51, Strana: 11
+
+R A S P O R E D P R E D A V A N J A 8 Semestar
+
+Računarstvo i automatika
+
+Studijska grupa: Automatika i upravljanje sistemima P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+SVI
+
+
+09:15
+
+12:00
+
+AH2
+
+Pred.
+
+Metode formiranja i analize medicinske slike Mejić dr Luka
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+SVI
+
+
+17:15
+
+20:00
+
+109A
+
+Pred.
+
+Upravljanje procesima računarom
+
+Čongradac dr Velimir
+
+
+
+
+
+S R E D A
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+
+
+
+
+Izvođač
+
+
+21
+
+
+12:45
+
+16:00
+
+NTP-415
+
+rač.vežbe
+
+Primena DSP u upravljanju
+
+Bulatović Jelena
+
+21
+
+16:15
+
+18:45
+
+NTP-415
+
+rač.vežbe
+
+Metode formiranja i analize medicinske slike Tomašević Olivera
+
+22
+
+19:00
+
+21:30
+
+NTP-415
+
+rač.vežbe
+
+Metode formiranja i analize medicinske slike Tomašević Olivera
+
+Č E T V R T A K
 
 Grupa-e
 
@@ -3317,27 +6471,41 @@ Izvođač
 21
 
 
-08:00
+13:30
 
-11:15 NTP-410
+16:00
 
-lab.vežbe
+NTP-415
 
-Mikroprocesorski upravljački uređaji Mejić dr Luka
+rač.vežbe
+
+Upravljanje procesima računarom
+
+Čongradac dr Velimir
 
 22
 
-11:30
+16:15
 
-14:45 NTP-410
+19:30
 
-lab.vežbe
+NTP-415
 
-Mikroprocesorski upravljački uređaji Mejić dr Luka
+rač.vežbe
 
-U T O R A K
+Primena DSP u upravljanju
+
+Bulatović Jelena
+
+
+
+
+
+P E T A K
+
 
 Grupa-e
+
 
 Od
 
@@ -3356,24 +6524,40 @@ Naziv Predmeta
 Izvođač
 
 
-Stari
+SVI
 
 
-18:15
+08:15
 
-21:30 NTP-410
+12:00
 
-lab.vežbe
+202
 
-Mikroprocesorski upravljački uređaji Mejić dr Luka
+Pred.
 
-studenti
+Primena DSP u upravljanju
+
+Jorgovanović dr Nikola
+
+22
+
+14:00
+
+16:30
+
+NTP-415
+
+rač.vežbe
+
+Upravljanje procesima računarom
+
+Čongradac dr Velimir
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.10.2022. 05:56, Strana: 7
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 07:58, Strana: 12
 
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
+R A S P O R E D P R E D A V A N J A 8 Semestar
 
 Računarstvo i automatika
 
@@ -3398,5398 +6582,196 @@ Naziv Predmeta
 Izvođač
 
 
-7
+32
 
 
-07:00 08:30
+07:00
 
-MI A2-2
+10:15
 
-rač.vežbe
-
-Baze podataka 2
-
-Tomić Miroslav
-
-6
-
-07:00 08:30
-
-AR2
+MI A2-4
 
 rač.vežbe
 
-Internet softverske arhitekture
-
-Trajković Anđela
-
-5
-
-08:45 10:15
-
-AR2
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Trajković Anđela
-
-8
-
-08:45 10:15
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-SVI
-
-10:30 12:00
-
-A3
-
-Pred.
-
-Soft kompjuting
-
-Slivka dr Jelena
-
-SVI
-
-12:15 14:00
-
-A3
-
-Pred.
-
-Projektovanje softvera
-
-Luburić dr Nikola
-
-1
-
-14:15 15:45
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-6,7(8,9)
-
-15:15 16:45
-
-103
-
-aud.vežbe
-
-Projektovanje softvera
+XML i veb servisi
 
 Radaković Danijel
 
-3
+31
 
-16:00 17:30
+07:45
 
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Ivošević Jovan
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-SVI
-
-
-08:15 10:00
-
-A2
-
-Pred.
-
-Baze podataka 2
-
-Čeliković dr Milan
-
-SVI
-
-10:15 12:00
-
-A2
-
-Pred.
-
-Soft kompjuting
-
-Slivka dr Jelena
-
-SVI
-
-12:15 15:00
-
-A2
-
-Pred.
-
-Računarska grafika
-
-Ivetić dr Dragan
-
-
-
-
-
-S R E D A
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-7
-
-
-07:00 08:30
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Ivošević Jovan
-
-6
-
-07:00 08:30
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Tomić Miroslav
-
-1,2,3(4,5)
-
-07:00 08:30
-
-A3
-
-aud.vežbe
-
-Projektovanje softvera
-
-Radaković Danijel
-
-SVI
-
-08:45 10:15
-
-A3
-
-Pred.
-
-Internet softverske arhitekture
-
-Milosavljević dr Branko
-
-SVI
-
-10:30 12:00
-
-A3
-
-Pred.
-
-Projektovanje softvera
-
-Luburić dr Nikola
-
-5
-
-12:15 13:45
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Vještica Marko
-
-6
-
-12:15 13:45
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-8
-
-12:30 14:00
+10:15
 
 NTP-307
 
 rač.vežbe
 
-Internet softverske arhitekture
+Poslovna informatika
 
-Trajković Anđela
+Todorović Nenad
 
 5
 
-14:00 15:30
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-8
-
-14:15 15:45
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Jeremić Aleksandar
-
-4
-
-16:00 17:30
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Jeremić Aleksandar
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-Mijatov Vanja,
-
-
-3,8
-
-08:00 09:30
-
-L1 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Radaković Danijel
-
-2
-
-08:00 09:30
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Nov saradnik JV
-
-Mijatov Vanja,
-
-1,7
-
-09:45 11:15
-
-L1 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Radaković Danijel
-
-9
-
-09:45 11:15
-
-MI A2-4A
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Janković Eva
-
-4
-
-08:45 11:15
-
-MI A2-4
-
-rač.vežbe
-
-Soft kompjuting
-
-Anđelić Stefan
-
-2
-
-09:45 11:15
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-3
-
-09:45 11:15
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Tomić Miroslav
-
-6
-
-09:30 12:00
-
-L5 (RC)
-
-rač.vežbe
-
-Soft kompjuting
-
-Perić Ivan
-
-4
-
-11:30 13:00
-
-MI A2-4A
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Trajković Anđela
-
-5
-
-11:30 14:00
-
-MI A2-4
-
-rač.vežbe
-
-Soft kompjuting
-
-Anđelić Stefan
-
-2
-
-11:30 13:00
-
-L6 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Mijatov Vanja
-
-9
-
-13:15 14:45
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-9
-
-15:15 16:45
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Nov saradnik VM
-
-1
-
-17:00 18:30
-
-MI A2-2
-
-rač.vežbe
-
-Baze podataka 2
-
-Vještica Marko
-
-
-
-
-
-P E T A K
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-1
-
-
-07:00 09:30
-
-L4 (RC)
-
-rač.vežbe
-
-Soft kompjuting
-
-Kondić Miroslav
-
-1
-
-09:45 11:15
-
-L4 (RC)
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Trajković Anđela
-
-8
-
-09:45 12:15
-
-NTP-309
-
-rač.vežbe
-
-Soft kompjuting
-
-Anđelić Stefan
-
-2
-
-11:25 13:55
-
-L4 (RC)
-
-rač.vežbe
-
-Soft kompjuting
-
-Kondić Miroslav
-
-2
-
-14:15 15:45
-
-MI B4-5A
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Trajković Anđela
-
-3
-
-16:00 17:30
-
-MI B4-5A
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Trajković Anđela
-
-3
-
-17:45 20:15
-
-MI B4-5A
-
-rač.vežbe
-
-Soft kompjuting
-
-Kondić Miroslav
-
-4
-
-15:00 16:30
-
-L4 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Prokić Simona
-
-4
-
-16:45 18:15
-
-NTP-312
-
-rač.vežbe
-
-Računarska grafika
-
-Nov saradnik TN
-
-5
-
-08:00 09:30
-
-L2 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Ivanović Bojana
-
-6
-
-09:45 11:15
-
-L6 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Ivanović Bojana
-
-7
-
-12:30 14:00
-
-NTP-309
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Trajković Anđela
-
-7
-
-14:15 16:45
-
-NTP-309
-
-rač.vežbe
-
-Soft kompjuting
-
-Kondić Miroslav
-
-9
-
-07:00 09:30
-
-MI B4-5A
-
-rač.vežbe
-
-Soft kompjuting
-
-Perić Ivan
-
-9
-
-09:45 11:15
-
-L2 (RC)
-
-rač.vežbe
-
-Projektovanje softvera
-
-Prokić Simona
-
-Napomena:
-
-Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT sa fondom časova 0+3.
-
-Obratiti se rukovodiocu studijskog programa PROF. DR ALEKSANDRU KUPUSINCU.
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:18, Strana: 8
-
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-Predmet: Programska podrška u realnom vremenu 1
-
-
-10.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-10.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-10.10.2022
-
-3
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-10.10.2022
-
-2
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-11.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-11.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-11.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-11.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-12.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-12.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-12.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-12.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-13.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-13.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-13.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-13.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-14.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-14.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-14.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-14.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-17.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-17.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-17.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-17.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-18.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-18.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-18.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-18.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-19.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-19.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-19.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-19.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-20.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 1
-
-Đukić dr Miodrag
-
-20.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-20.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Bokan Dejan
-
-20.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 1
-
-Savić Jasmina
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:18, Strana: 9
-
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Predm
-
-
-
-
-
-d e
-
-
-m t: Programsk
-
-
-m a
-
-sk p
-
-a o
-
-p d
-
-o r
-
-d ška
-
-šk u
-
-a
-
-
-
-
-
-u re
-
-
-
-
-
-al
-
-a no
-
-n m
-
-m v
-
-re
-
-v me
-
-m nu 1
-
-
-
-
-
-nu 2
-
-
-21.10.2022
-
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-21.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-21.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-21.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-24.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-24.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-24.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-24.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-25.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-25.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-25.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-25.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-26.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-26.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-26.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-26.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-27.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-27.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-27.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-27.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-28.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-28.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-28.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-28.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-31.10.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-31.10.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-31.10.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-31.10.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-01.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-01.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-01.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-01.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-02.11.2022
-
-SVI
+07:45
 
 10:15
 
-12:00
+L3 (RC)
 
-NTP-418
+rač.vežbe
 
-Pred.
+Bezbednost u sistemima elektronskog poslovanja Kovačević Ivana
 
-Programska podrška u realnom vremenu 2
-
-Đukić dr Miodrag
-
-02.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-02.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Bokan Dejan
-
-02.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Programska podrška u realnom vremenu 2
-
-Savić Jasmina
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:18, Strana: 10
-
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Predm
-
-
-
-
-
-d e
-
-
-m t: Pr
-
-
-A og
-
-rhi r
-
-t a
-
-e m
-
-kt sk
-
-u a
-
-re p
-
-i o
-
-a d
-
-l ršk
-
-goria
-
-t u
-
-m ire
-
-a
-
-DSln
-
-
-
-
-
-P om
-
-
--a 1 vremenu 1
-
-
-03.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Đukić dr Miodrag
-
-03.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-03.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-03.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-04.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Đukić dr Miodrag
-
-04.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-04.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-04.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-07.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Đukić dr Miodrag
-
-07.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-07.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-07.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-08.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Đukić dr Miodrag
-
-08.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-08.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-08.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-09.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Đukić dr Miodrag
-
-09.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-09.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-09.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-10.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-10.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-10.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-10.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-14.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-14.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-14.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-14.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-15.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-15.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-15.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-15.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-16.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-16.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-16.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-16.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-17.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-17.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-17.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-17.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-18.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-18.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-18.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-18.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-21.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-21.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-21.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-21.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-22.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-22.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-22.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-22.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-23.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-23.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-23.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-23.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-24.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-24.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-24.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-24.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-25.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-25.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-25.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-25.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-28.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-28.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-28.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-28.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-29.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-29.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-29.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-29.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-30.11.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 1
-
-Marinković dr Vladimir
-
-30.11.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-30.11.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Pekez Nenad
-
-30.11.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 1
-
-Kenjić Dušan
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:18, Strana: 11
-
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Predm
-
-
-
-
-
-d e
-
-
-m t: Pr
-
-
-A og
-
-rhi r
-
-t a
-
-e m
-
-kt sk
-
-u a
-
-re p
-
-i o
-
-a d
-
-l ršk
-
-goria
-
-t u
-
-m ire
-
-a
-
-DSln
-
-
-
-
-
-P om v
-
-
--a 2 remenu 1
-
-
-01.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-01.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-01.12.2022
-
-3
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-01.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-02.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-02.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-02.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-02.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-05.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-05.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-05.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-05.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-06.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-06.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-06.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-06.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-07.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-07.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-07.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-07.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-08.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-08.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-08.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-08.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-09.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-09.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-09.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-09.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-12.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-12.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-12.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-12.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-13.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-13.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-13.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-13.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-14.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-14.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-14.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-14.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-15.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-15.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-15.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-15.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-16.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-16.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-16.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-16.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-19.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-19.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-19.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-19.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-20.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Arhitekture i algoritmi DSP-a 2
-
-Kovačević dr Jelena
-
-20.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-20.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Usorac Srđan
-
-20.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Arhitekture i algoritmi DSP-a 2
-
-Bokan Dejan
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:18, Strana: 12
-
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Predm
-
-
-
-
-
-d e
-
-
-m t: Prog
-
-
-Međ r
-
-uam
-
-ra sk
-
-č a
-
-un p
-
-ar od
-
-sk r
-
-e šk
-
-k a
-
-o u
-
-m re
-
-uni a
-
-kln
-
-a o
-
-ci m
-
-je v
-
-i re
-
-ram
-
-č enu
-
-una 1
-
-
-
-
-
-rske mreže 1
-
-
-21.12.2022
-
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-21.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-21.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-21.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-22.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-22.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-22.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-22.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-23.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-23.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-23.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-23.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-26.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-26.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-26.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-26.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-27.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-27.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-27.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-27.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-28.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-28.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-28.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-28.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-29.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-29.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-29.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-29.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-30.12.2022
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-30.12.2022
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-30.12.2022
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-30.12.2022
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-09.01.2023
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-09.01.2023
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-09.01.2023
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-09.01.2023
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-10.01.2023
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-10.01.2023
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-10.01.2023
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-10.01.2023
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-11.01.2023
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-11.01.2023
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-11.01.2023
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-11.01.2023
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-12.01.2023
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-12.01.2023
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-12.01.2023
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-12.01.2023
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-13.01.2023
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-13.01.2023
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-13.01.2023
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-13.01.2023
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-16.01.2023
-
-SVI
-
-09:15
-
-12:00
-
-NTP-418
-
-Pred.
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Bašičević dr Ilija
-
-16.01.2023
-
-1
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-16.01.2023
-
-2
-
-16:15
-
-19:15
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Pekez Nenad
-
-16.01.2023
-
-3
-
-13:00
-
-16:00
-
-NTP-506
-
-lab.vežbe
-
-Međuračunarske komunikacije i računarske mreže 1
-
-Savić Jasmina
-
-Napomena:
-
-Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT sa fondom časova 0+3.
-
-Obratiti se rukovodiocu studijskog programa PROF. DR MILANU VIDAKOVIĆU.
-
-Pošto će se izvoditi blok nastava iz svih predmeta, raspored je urađen tako da je pored standardnih podataka za raspored nastave u prvoj koloni dat i datum izvođenja nastave.
-
-Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan predmet.
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.11.2022. 04:23, Strana: 13
-
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Automatika i upravljanje sistemima P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
-
-22
-
+32
 
 10:30
 
-12:00
+13:00
 
-NTP-410
+NTP-307
 
-lab.vežbe
+rač.vežbe
 
-Osnove biomedicinskog inženjerstva
+Inženjering znanja
 
-Tomašević Olivera
+Matković Jelena
 
-23
+21
 
 10:30
-
-12:00
-
-NTP-411
-
-lab.vežbe
-
-Projektovanje sistema automatskog upravljanja Bugarski dr Vladimir
-
-23
-
-12:15
 
 13:45
 
-NTP-410
+MI A2-4
 
-lab.vežbe
+rač.vežbe
 
-Digitalni upravljački sistemi
+XML i veb servisi
 
-Mitrović Aleksandra
+Radaković Danijel
 
-SVI
+4
 
-14:15
+10:30
 
-16:00
+13:00
 
-310
+L3 (RC)
+
+rač.vežbe
+
+Bezbednost u sistemima elektronskog poslovanja Kovačević Ivana
+
+11
+
+08:00
+
+10:30
+
+MI A2-2
+
+rač.vežbe
+
+Sistemi baza podataka
+
+Todorović Nikola
+
+11
+
+10:45
+
+13:15
+
+MI A2-2
+
+rač.vežbe
+
+Inženjering informacionih sistema Todorović Nikola
+
+1
+
+14:00
+
+17:15
+
+MI A2-4
+
+rač.vežbe
+
+XML i veb servisi
+
+Ranković Tamara
+
+2
+
+14:45
+
+17:15
+
+MI A2-4A
+
+rač.vežbe
+
+Poslovna informatika
+
+Todorović Nenad
+
+INS
+
+15:15
+
+18:00
+
+108
 
 Pred.
 
-Projektovanje sistema automatskog upravljanja Kulić dr Filip
+Sistemi bazirani na znanju
 
-SVI
+Segedinac dr Milan
 
-16:15
+2
 
-19:00
+17:30
 
-312
+20:45
 
-Pred.
+MI A2-4
 
-Osnove biomedicinskog inženjerstva
+rač.vežbe
 
-Ilić dr Vojin
+XML i veb servisi
+
+Ranković Tamara
+
+1
+
+17:45
+
+20:15
+
+MI A2-4A
+
+rač.vežbe
+
+Poslovna informatika
+
+Todorović Nenad
+
+22
+
+18:15
+
+21:30
+
+AR1
+
+rač.vežbe
+
+XML i veb servisi
+
+Radaković Danijel
 
 U T O R A K
 
@@ -8812,72 +6794,74 @@ Naziv Predmeta
 Izvođač
 
 
-21,22,23
+IS
 
 
-12:30
+10:15
 
-14:00
+13:00
 
-202
-
-aud.vežbe
-
-Digitalni upravljački sistemi
-
-Arsenović Jovana
-
-sv.dr.ned.
-
-Govedarica dr Miro,
-
-SVI
-
-14:15
-
-16:00
-
-MI G2-1
+109
 
 Pred.
 
-Geoinformacioni sistemi
+Sistemi baza podataka
 
-Sladić dr Dubravka,
+Dimitrieski dr Vladimir
 
-Radulović dr Aleksandra
+EP
+
+10:15
+
+13:00
+
+NTP-001
+
+Pred.
+
+Bezbednost u sistemima elektronskog poslovanja Sladić dr Goran
+
+21
+
+10:30
+
+13:00
+
+L5 (RC)
+
+rač.vežbe
+
+Sistemi bazirani na znanju
+
+Ranković Tamara
 
 SVI
 
-16:15
+13:15
+
+15:00
+
+204
+
+Pred.
+
+XML i veb servisi
+
+Zarić dr Miroslav
+
+SFI
+
+15:15
 
 18:00
 
-205
+204
 
 Pred.
 
-Tehnička sredstva automatike
+Inženjering znanja
 
-Stanišić dr Darko
-
-Jeličić dr Zoran,
-
-SVI
-
-18:15
-
-20:00
-
-205
-
-Pred.
-
-Digitalni upravljački sistemi
-
-Rapaić dr Milan,
-
-Kapetina dr Mirna
+Gostojić dr Stevan
 
 
 
@@ -8906,102 +6890,64 @@ Naziv Predmeta
 Izvođač
 
 
-22
-
-
-09:45
-
-11:15
-
-NTP-411
-
-lab.vežbe
-
-Digitalni upravljački sistemi
-
-Arsenović Jovana
-
-23
-
-12:15
-
-13:45
-
-NTP-410
-
-lab.vežbe
-
-Tehnička sredstva automatike
-
-Bulatović Jelena
-
-21
-
-13:30
-
-15:00
-
-NTP-411
-
-lab.vežbe
-
-Digitalni upravljački sistemi
-
-Mitrović Aleksandra
-
-22
-
-14:00
-
-15:30
-
-NTP-410
-
-lab.vežbe
-
-Projektovanje sistema automatskog upravljanja Bugarski dr Vladimir
-
-21
-
-15:45
-
-17:15
-
-NTP-410
-
-lab.vežbe
-
-Projektovanje sistema automatskog upravljanja Bugarski dr Vladimir
-
-Jeličić dr Zoran,
-
 SVI
 
-17:35
 
-19:05
+15:15
 
-207
+17:00
+
+A3
 
 Pred.
 
-Digitalni upravljački sistemi
+XML i veb servisi
 
-Rapaić dr Milan,
+Zarić dr Miroslav
 
-Kapetina dr Mirna
+Vidaković dr Milan,
 
-SVI
+INS
 
-19:30
+17:15
 
-21:15
+20:00
+
+MI SD1
+
+Pred.
+
+Agentske tehnologije
+
+Simić dr Miloš
+
+Kordić dr Slavica,
+
+IS
+
+17:15
+
+20:00
 
 NTP-418
 
 Pred.
 
-Projektovanje sistema automatskog upravljanja Kulić dr Filip
+Inženjering informacionih sistema Delić dr Milan
+
+EP,SFI
+
+17:15
+
+20:00
+
+A3
+
+Pred.
+
+Poslovna informatika
+
+Milosavljević dr Gordana
 
 Č E T V R T A K
 
@@ -9024,62 +6970,142 @@ Naziv Predmeta
 Izvođač
 
 
+11
+
+
+07:00
+
+10:15
+
+NTP-309
+
+rač.vežbe
+
+XML i veb servisi
+
+Ranković Tamara
+
+2
+
+07:30
+
+10:00
+
+NTP-311
+
+rač.vežbe
+
+Bezbednost u sistemima elektronskog poslovanja Trajković Anđela
+
+4
+
+08:00
+
+10:30
+
+NTP-307
+
+rač.vežbe
+
+Poslovna informatika
+
+Todorović Nenad
+
+3
+
+09:30
+
+12:00
+
+L5 (RC)
+
+rač.vežbe
+
+Bezbednost u sistemima elektronskog poslovanja Kovačević Ivana
+
+5
+
+10:45
+
+13:15
+
+NTP-307
+
+rač.vežbe
+
+Poslovna informatika
+
+Škipina Milica
+
+31
+
+10:30
+
+13:45
+
+NTP-309
+
+rač.vežbe
+
+XML i veb servisi
+
+Dorić Luka
+
 22
 
+11:00
 
-15:00
+13:30
 
-16:30
-
-NTP-408
-
-rač.vežbe
-
-Geoinformacioni sistemi
-
-Pajić dr Vladimir
-
-21
-
-16:45
-
-18:15
-
-NTP-408
+MI B4-5A
 
 rač.vežbe
 
-Geoinformacioni sistemi
+Sistemi bazirani na znanju
 
-Pajić dr Vladimir
+Ranković Tamara
 
-23
+32
 
-17:00
+13:30
 
-18:30
+16:00
 
-NTP-410
-
-lab.vežbe
-
-Osnove biomedicinskog inženjerstva
-
-Tomašević Olivera
-
-23
-
-18:45
-
-20:15
-
-NTP-408
+L6 (RC)
 
 rač.vežbe
 
-Geoinformacioni sistemi
+Poslovna informatika
 
-Pajić dr Vladimir
+Škipina Milica
+
+22
+
+13:45
+
+16:15
+
+MI B4-5A
+
+rač.vežbe
+
+Agentske tehnologije
+
+Brdar Ilija
+
+5
+
+14:00
+
+17:15
+
+NTP-307
+
+rač.vežbe
+
+XML i veb servisi
+
+Dorić Luka
 
 
 
@@ -9108,5342 +7134,96 @@ Naziv Predmeta
 Izvođač
 
 
-23
+4
 
 
 07:00
 
-08:30
+10:15
 
-NTP-411
+MI A2-4A
 
-lab.vežbe
+rač.vežbe
 
-Projektovanje sistema automatskog upravljanja Bugarski dr Vladimir
+XML i veb servisi
 
-21
+Dorić Luka
 
-08:45
+3
+
+07:45
 
 10:15
 
-NTP-411
+NTP-309
 
-lab.vežbe
+rač.vežbe
 
-Tehnička sredstva automatike
+Poslovna informatika
 
-Bulatović Jelena
+Todorović Nenad
 
-22
+1
 
 08:45
 
-10:15
+11:15
 
-NTP-410
+L4 (RC)
 
-lab.vežbe
+rač.vežbe
 
-Projektovanje sistema automatskog upravljanja Bugarski dr Vladimir
+Bezbednost u sistemima elektronskog poslovanja Trajković Anđela
 
-22
-
-10:30
-
-12:00
-
-NTP-411
-
-lab.vežbe
-
-Tehnička sredstva automatike
-
-Bulatović Jelena
-
-21
+3
 
 10:30
-
-12:00
-
-NTP-410
-
-lab.vežbe
-
-Osnove biomedicinskog inženjerstva
-
-Tomašević Olivera
-
-21
-
-12:15
 
 13:45
 
-NTP-410
+NTP-309
 
-lab.vežbe
+rač.vežbe
 
-Projektovanje sistema automatskog upravljanja Bugarski dr Vladimir
+XML i veb servisi
+
+Dorić Luka
+
+31
+
+10:30
+
+13:00
+
+NTP-311
+
+rač.vežbe
+
+Inženjering znanja
+
+Matković Jelena
+
+21
+
+14:00
+
+16:30
+
+NTP-309
+
+rač.vežbe
+
+Agentske tehnologije
+
+Brdar Ilija
 
 Napomena:
 
-Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT sa fondom časova 0+3.
+Grupe broj 1,2,3,4 i 5 su grupe koje su upisane na studijsku grupu Internet i elektronsko poslovanje(EP) Grupa broj 11 je grupa upisana na studijsku grupu Informacioni sistemi(IS) Grupa broj 21,22 su studenti upisani na studijsku grupu Inteligentni sistemi(INS) Grupe broj 31,32 su grupe koje su upisane na studijsku grupu Softversko inženjerstvo(SFI) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Obratiti se rukovodiocu studijskog programa PROF. DR ALEKSANDRU KUPUSINCU.
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 05:47, Strana: 13
 
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 09:24, Strana: 14
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Predmet: Multimedijalni sistemi u automobilskoj industriji 10.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-10.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-10.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-10.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-11.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-11.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-11.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-11.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-12.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-12.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-12.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-12.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-13.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-13.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-13.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-13.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-14.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-14.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-14.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-14.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-17.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-17.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-17.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-17.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-18.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-18.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-18.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-18.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-19.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-19.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-19.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-19.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-20.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-20.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-20.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-20.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-21.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-21.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-21.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-21.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-24.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-24.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-24.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-24.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-25.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-25.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-25.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-25.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-26.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-26.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-26.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-26.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-27.10.2022
-
-SVI
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Multimedijalni sistemi u automobilskoj industriji Bjelica dr Milan
-
-27.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Četić dr Nenad
-
-27.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Stojanović Dimitrije
-
-27.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Multimedijalni sistemi u automobilskoj industriji Milošević Milena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 09:24, Strana: 15
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-
-
-
-
-Predm
-
-
-red et:
-
-
-meti M
-
-
-: ul
-
-
-Ra t
-
-čim
-
-un ed
-
-ar isjal
-
-ke n
-
-i
-
-m sis
-
-re te
-
-
-
-
-
-že m
-
-
-, i
-
-
-m u
-
-a
-
-g a
-
-isut
-
-tr om
-
-ale o
-
-i b
-
-ils
-
-pr k
-
-ot o
-
-o j
-
-k indu
-
-oli u str
-
-a i
-
-
-
-
-
-utji
-
-
-omobilu i Međuračunarske komunikcije i računarske mreže 2
-
-
-28.10.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-28.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-28.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-28.10.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-28.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-31.10.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-31.10.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-31.10.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-31.10.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-31.10.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-01.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-01.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-01.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-01.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-01.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-02.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-02.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-02.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-02.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-02.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-03.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-03.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-03.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-03.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-03.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-04.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-04.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-04.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-04.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-04.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-07.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-07.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-07.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-07.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-07.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-08.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-08.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-08.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-08.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-08.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-09.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-09.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-09.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-09.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-09.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-10.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-10.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-10.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-10.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-10.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-14.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-14.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-14.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-14.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-14.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-15.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-15.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-15.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-15.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-15.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-16.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-16.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-16.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-16.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-16.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-17.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Računarske mreže, magistrale i protokoli u automobilu Pavković dr Bogdan
-
-17.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Četić dr Nenad
-
-17.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Računarske mreže, magistrale i protokoli u automobilu Stojanović Dimitrije
-
-17.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Popović dr Miroslav
-
-17.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Međuračunarske komunikcije i računarske mreže 2
-
-Milošević Milena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 09:24, Strana: 16
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-
-
-
-
-Predm
-
-
-red et:
-
-
-meti M
-
-
-: Pu
-
-
-r lt
-
-o im
-
-ce ed
-
-si i
-
-u j
-
-al
-
-ra n
-
-z i sis
-
-vojute
-
-ami
-
-ut
-
-ou a
-
-mout
-
-b om
-
-ilsk ob
-
-g ils
-
-soko
-
-ft j
-
-v indu
-
-era i s
-
-Str
-
-o iji
-
-
-
-
-
-ftver u digitalnoj televiziji 2
-
-
-18.11.2022
-
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-18.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-18.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-18.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-18.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-21.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-21.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-21.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-21.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-21.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-22.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-22.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-22.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-22.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-22.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-23.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-23.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-23.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-23.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-23.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-24.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-24.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-24.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-24.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-24.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-25.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-25.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-25.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-25.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-25.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-28.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-28.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-28.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-28.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-28.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-29.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-29.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-29.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-29.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-29.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-30.11.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-30.11.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-30.11.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-30.11.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-30.11.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-01.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-01.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-01.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-01.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-01.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-02.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-02.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-02.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-02.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-02.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-05.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-05.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-05.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-05.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-05.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-06.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-06.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-06.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-06.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-06.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-07.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Procesi u razvoju automobilskog softvera Krunić dr Momčilo
-
-07.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Četić dr Nenad
-
-07.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Procesi u razvoju automobilskog softvera Stojanović Dimitrije
-
-07.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Softver u digitalnoj televiziji 2
-
-Bjelica dr Milan
-
-07.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Softver u digitalnoj televiziji 2
-
-Milošević Milena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 09:24, Strana: 17
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-
-
-
-
-Predm
-
-
-red et:
-
-
-meti M
-
-
-: u
-
-
-D lti
-
-ub m
-
-o ed
-
-ko ij
-
-u al
-
-č ni sis
-
-enje u tem
-
-sis i
-
-te u
-
-m iaut
-
-ma o
-
-m
-
-a o
-
-ut b
-
-o ils
-
-no ko
-
-m j
-
-n
-
-i indu
-
-h i u str
-
-m i
-
-reji
-
-ženih vozila i Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama 08.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-08.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-08.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-08.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-08.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-09.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-09.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-09.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-09.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-09.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-12.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-12.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-12.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-12.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-12.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-13.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-13.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-13.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-13.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-13.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-14.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-14.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-14.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-14.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-14.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-15.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-15.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-15.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-15.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-15.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-16.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-16.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-16.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-16.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-16.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-19.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-19.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-19.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-19.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-19.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-20.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-20.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-20.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-20.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-20.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-21.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-21.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-21.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-21.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-21.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-22.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-22.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-22.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-22.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-22.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-23.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-23.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-23.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-23.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-23.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-26.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-26.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-26.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-26.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-26.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-27.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Samardžija dr Dragan
-
-27.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Četić dr Nenad
-
-27.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Duboko učenje u sistemima autonomnih i umreženih vozila Milošević Milena
-
-27.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Lukić dr Nemanja
-
-27.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Odabrana poglavlja iz algoritama i struktura u rač. komunikacijama Stojanović Dimitrije
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.09.2022. 09:24, Strana: 18
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Računarstvo i automatika
-
-Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
-
-
-
-
-
-Datum
-
-
-Grupa-e
-
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-
-
-
-
-Predm
-
-
-red et:
-
-
-meti M
-
-
-: u
-
-
-M lt
-
-et im
-
-o ed
-
-de i i jaln
-
-tehni sis
-
-ke te
-
-is m
-
-pi it u a
-
-iva ut
-
-nj o
-
-a m
-
-a o
-
-utb
-
-o ils
-
-m k
-
-o o
-
-b j i
-
-ils ndu
-
-kog str
-
-so iji
-
-ftvera i Projektovanje sistema za rad u realnom vremenu 28.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-28.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-28.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-28.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-28.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-29.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-29.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-29.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-29.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-29.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-30.12.2022
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-30.12.2022
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-30.12.2022
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-30.12.2022
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-30.12.2022
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-04.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-04.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-04.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-04.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-04.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-05.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-05.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-05.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-05.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-05.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-09.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-09.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-09.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-09.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-09.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-10.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-10.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-10.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-10.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-10.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-11.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-11.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-11.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-11.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-11.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-12.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-12.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-12.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-12.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-12.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-13.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-13.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-13.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-13.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-13.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-16.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-16.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-16.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-16.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-16.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-17.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-17.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-17.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-17.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-17.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-18.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-18.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-18.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-18.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-18.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-19.01.2023
-
-1,2
-
-15:15
-
-18:00
-
-NTP-418
-
-Pred.
-
-Metode i tehnike ispitivanja automobilskog softvera Pavković dr Bogdan
-
-19.01.2023
-
-1
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Četić dr Nenad
-
-19.01.2023
-
-2
-
-18:15
-
-19:45
-
-NTP-506
-
-lab.vežbe
-
-Metode i tehnike ispitivanja automobilskog softvera Stojanović Dimitrije
-
-19.01.2023
-
-3
-
-15:15
-
-18:00
-
-NTP-505
-
-Pred.
-
-Projektovanje sistema za rad u realnom vremenu Popović dr Miroslav
-
-19.01.2023
-
-3
-
-18:15
-
-19:45
-
-NTP-505
-
-lab.vežbe
-
-Projektovanje sistema za rad u realnom vremenu Milošević Milena
-
-Napomena:
-
-Pošto će se izvoditi blok nastava iz svih predmeta, raspored je urađen tako da je pored standardnih podataka za raspored nastave u prvoj koloni dat i datum izvođenja nastave.
-
-Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan predmet.
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:13, Strana: 19
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
+RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
 Studijski program: Računarstvo i automatika Studijska grupa: Računarske nauke i informatika P O N E D E L J A K
 
@@ -14466,154 +7246,48 @@ Naziv Predmeta
 Izvođač
 
 
-61
+13
 
 
-07:00
+10:30
 
-09:30
+13:00
 
-MI A2-1
+NTP-309
 
 rač.vežbe
 
-Računarski sistemi visokih performansi Trifunović Petar
+Uvod u digitalnu forenziku
 
-11,12,13
+Antešević Svetlana
 
-07:15
-
-10:00
-
-NTP-417
-
-Pred.
-
-Napredna Internet infrastruktura
-
-Vuković dr Željko
-
-21
-
-08:00
-
-09:30
-
-INT 1
-
-rač.vežbe
-
-Jezici specifični za domen
-
-Dejanović dr Igor
-
-Kupusinac dr Aleksandar,
-
-41
-
-10:15
-
-13:00
-
-F 318
-
-Pred.
-
-Programske tehnike u multimediji
-
-Popov dr Srđan
-
-51
-
-10:15
-
-13:00
-
-MI A2-3
-
-Pred.
-
-Sistemi za upravljanje bazama podataka Čeliković dr Milan
-
-11,12,13
-
-10:15
-
-13:00
-
-NTP-417
-
-Pred.
-
-Upravljanje digitalnim dokumentima
-
-Ivanović dr Dragan
-
-51
+11
 
 13:15
 
 15:45
 
-MI A2-3
+NTP-309
 
 rač.vežbe
 
-Sistemi za upravljanje bazama podataka Tomić Miroslav
+Uvod u digitalnu forenziku
+
+Antešević Svetlana
 
 41
 
-13:15
+17:15
 
-15:45
+20:00
 
-F 318
-
-rač.vežbe
-
-Programske tehnike u multimediji
-
-Vasiljević Marko
-
-31
-
-16:15
-
-17:45
-
-NTP-222
-
-rač.vežbe
-
-Semantički veb
-
-Segedinac dr Milan
-
-61
-
-16:15
-
-19:00
-
-NTP-417
+F 317
 
 Pred.
 
-Računarski sistemi visokih performansi Petrović dr Veljko
+Proces razvoja računarskih igara
 
-31
-
-18:00
-
-19:30
-
-NTP-222
-
-rač.vežbe
-
-Neuronske mreže
-
-Perić Ivan
+Ivetić dr Dragan
 
 U T O R A K
 
@@ -14636,138 +7310,58 @@ Naziv Predmeta
 Izvođač
 
 
-11,12,13,21
+12
 
 
-07:30
+10:30
 
-10:00
+13:00
 
-208
-
-Pred.
-
-Upravljanje poslovnim procesima
-
-Zarić dr Miroslav
-
-41
-
-09:15
-
-12:00
-
-F 318
-
-Pred.
-
-Sistemi virtuelne realnosti
-
-Ivetić dr Dragan
-
-51
-
-09:45
-
-11:15
-
-NTP-307
+NTP-309
 
 rač.vežbe
 
-Metodologija brzog razvoja softvera Todorović Nenad
+Uvod u digitalnu forenziku
 
-41
+Dragišić Jelena
+
+21
+
+13:15
+
+15:45
+
+NTP-309
+
+rač.vežbe
+
+Uvod u digitalnu forenziku
+
+Dragišić Jelena
+
+31
+
+08:15
+
+11:00
+
+312
+
+Pred.
+
+Napredne tehnike računarske inteligencije Slivka dr Jelena
+
+31
 
 12:15
 
 14:45
 
-F 318
+MI V3-5
 
 rač.vežbe
 
-Sistemi virtuelne realnosti
-
-Bursać Vasilije
-
-11
-
-12:30
-
-14:00
-
-NTP-311
-
-rač.vežbe
-
-Sistemi elektronskog plaćanja
-
-Kovačević Marija
-
-13
-
-14:15
-
-15:45
-
-NTP-311
-
-rač.vežbe
-
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
-
-Gostojić dr Stevan,
-
-31
-
-13:15
-
-16:00
-
-NTP-417
-
-Pred.
-
-Pravna informatika
-
-Marković dr Marko (M)
-
-61
-
-15:15
-
-18:00
-
-NTP-316
-
-Pred.
-
-Paralelni i distribuirani algoritmi i strukture podataka Gajić dr Dušan
-
-21
-
-16:15
-
-19:00
-
-NTP-417
-
-Pred.
-
-Zaštita i oporavak softverskih sistema Luburić dr Nikola
-
-21
-
-19:30
-
-21:00
-
-NTP-222
-
-rač.vežbe
-
-Zaštita i oporavak softverskih sistema Luburić dr Nikola
+Napredne tehnike računarske inteligencije Slivka dr Jelena
 
 
 
@@ -14796,186 +7390,22 @@ Naziv Predmeta
 Izvođač
 
 
-61
+11,12,13,21
 
 
-07:00
+17:15
 
-09:30
+20:00
 
-MI A2-4A
-
-Pred.
-
-Računarstvo u oblaku
-
-Petrović dr Veljko
-
-51
-
-07:00
-
-09:30
-
-MI A2-3
-
-rač.vežbe
-
-Sistemi skladišta podataka
-
-Ivković Vladimir
-
-61
-
-09:45
-
-12:30
-
-MI A2-4A
+A4
 
 Pred.
 
-Paralelne i distribuirane arhitekture i jezici Dragan dr Dinu
+Uvod u digitalnu forenziku
 
-21
+Gostojić dr Stevan
 
-11:15
-
-12:45
-
-NTP-309
-
-rač.vežbe
-
-Upravljanje poslovnim procesima
-
-Šarenac Balša
-
-21
-
-14:15
-
-15:45
-
-NTP-307
-
-rač.vežbe
-
-Upravljanje konfiguracijom softvera Inđić Vladimir
-
-31
-
-12:15
-
-13:45
-
-MI D4-A
-
-rač.vežbe
-
-Savremene obrazovne tehnologije i standardi Segedinac dr Milan
-
-61
-
-12:45
-
-15:15
-
-MI A2-3
-
-rač.vežbe
-
-Paralelne i distribuirane arhitekture i jezici Jovanović Jovana
-
-Obradović dr Ratko,
-
-41
-
-10:30
-
-13:15
-
-F 318
-
-Pred.
-
-Tehnike i alati za dizajniranje animacije Vasiljević dr Ivana
-
-41
-
-13:30
-
-16:00
-
-F 318
-
-rač.vežbe
-
-Tehnike i alati za dizajniranje animacije Vasiljević dr Ivana
-
-Softversko modelovanje procesa u organizacionim 51
-
-15:00
-
-17:30
-
-MI A2-1
-
-rač.vežbe
-
-Vještica Marko
-
-sistemima
-
-Savić dr Goran,
-
-31
-
-15:00
-
-17:30
-
-AH6
-
-Pred.
-
-Savremene obrazovne tehnologije i standardi Segedinac dr Milan
-
-11
-
-16:00
-
-17:30
-
-NTP-311
-
-rač.vežbe
-
-Upravljanje poslovnim procesima
-
-Šarenac Balša
-
-11,12,13
-
-18:15
-
-21:00
-
-109A
-
-Pred.
-
-Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
-
-31,51
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.11.2022. 05:13, Strana: 20
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Studijski program: Računarstvo i automatika Studijska grupa: Računarske nauke i informatika Č E T V R T A K
+Č E T V R T A K
 
 Grupa-e
 
@@ -14996,182 +7426,56 @@ Naziv Predmeta
 Izvođač
 
 
-61
+51
 
-
-07:45
-
-10:15
-
-MI A2-1
-
-rač.vežbe
-
-Računarstvo u oblaku
-
-Anišić Helena
-
-13
 
 08:00
 
-09:30
+10:30
 
-AR3
-
-rač.vežbe
-
-Sistemi elektronskog plaćanja
-
-Kovačević Marija
-
-21
-
-08:00
-
-09:30
-
-NTP-222
+MI A2-2
 
 rač.vežbe
 
-Metodologija brzog razvoja softvera Todorović Nenad
+Domenski orijentisano modelovanje i jezici Vještica Marko
 
-41
+Čeliković dr Milan,
 
-09:15
+51
 
-12:00
-
-F 318
-
-Pred.
-
-Multimedijalni sistemi
-
-Ivetić dr Dragan
-
-13
-
-09:45
-
-11:15
-
-AR3
-
-rač.vežbe
-
-Upravljanje digitalnim dokumentima
-
-Ivanović dr Dragan
-
-Vuković dr Željko,
-
-21,51
-
-10:15
-
-13:00
-
-NTP-417
-
-Pred.
-
-Metodologija brzog razvoja softvera Milosavljević dr Gordana
-
-12
+10:45
 
 13:30
 
-15:00
-
-NTP-309
-
-rač.vežbe
-
-Napredna Internet infrastruktura
-
-Vuković dr Željko
-
-41
-
-12:15
-
-14:45
-
-F 318
-
-rač.vežbe
-
-Multimedijalni sistemi
-
-Bursać Vasilije
-
-12
-
-15:15
-
-16:45
-
-NTP-309
-
-rač.vežbe
-
-Upravljanje digitalnim dokumentima
-
-Novi saradnik 7
-
-11
-
-17:00
-
-18:30
-
-NTP-309
-
-rač.vežbe
-
-Napredna Internet infrastruktura
-
-Vuković dr Željko
-
-31
-
-17:30
-
-20:00
-
-NTP-222
+MI A2-2
 
 Pred.
 
-Neuronske mreže
+Domenski orijentisano modelovanje i jezici Dimitrieski dr Vladimir
 
-Slivka dr Jelena
+61
 
-31
+16:15
 
-20:15
+19:00
 
-21:45
+MI B4-3
+
+Pred.
+
+Računarstvo visokih performansi u informacionom inženjeringu Ivančević dr Vladimir
+
+61
+
+19:30
+
+22:00
 
 NTP-222
 
 rač.vežbe
 
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
-
-61
-
-19:00
-
-21:30
-
-MI A2-1
-
-rač.vežbe
-
-Paralelni i distribuirani algoritmi i strukture podataka Horvat Nebojša
+Računarstvo visokih performansi u informacionom inženjeringu Jeremić Aleksandar
 
 
 
@@ -15200,146 +7504,58 @@ Naziv Predmeta
 Izvođač
 
 
-31
+41
 
-
-07:15
-
-10:00
-
-NTP-417
-
-Pred.
-
-Semantički veb
-
-Segedinac dr Milan
-
-12
-
-08:45
-
-10:15
-
-MI A2-4
-
-rač.vežbe
-
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
-
-11,12,13
-
-10:30
-
-13:00
-
-204
-
-Pred.
-
-Sistemi elektronskog plaćanja
-
-Sladić dr Goran
-
-31
-
-13:00
 
 14:30
 
-NTP-222
+17:00
+
+F 318
 
 rač.vežbe
 
-Pravna informatika
+Proces razvoja računarskih igara
 
-Matković Jelena
+Bursać Vasilije
 
-21
+Napomena:
 
-13:15
+Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT sa fondom časova 0+6.
 
-16:00
+Obratiti se PROF. DR GORANU SLADIĆU.
 
-312
+Studenti biraju jedan od 6 sledećih modula: Modul 1: Elektronsko poslovanje grupe broj 11,12,13
 
-Pred.
+Modul 2: Softversko inženjerstvo grupa broj 21
 
-Jezici specifični za domen
+Modul 3: Inteligentni sistemi grupa broj 31
 
-Dejanović dr Igor
+Modul 4: Multimedija i računarske igre grupa broj 41
 
-51
+Modul 5: Inženjering informacionih sistema grupa broj 51
 
-13:15
+Modul 6: Računarstvo visokih performansi sistema grupa broj 61
 
-16:00
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-NTP-316
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.12.2022. 08:25, Strana: 14
 
-Pred.
+RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
-Sistemi skladišta podataka
+Računarstvo i automatika
 
-Kordić dr Slavica
+Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
 
-41
 
-13:15
 
-16:00
 
-MI B4-5
 
-Pred.
+Datum
 
-Kompresija podataka
-
-Dragan dr Dinu
-
-21
-
-16:15
-
-19:00
-
-312
-
-Pred.
-
-Upravljanje konfiguracijom softvera Dejanović dr Igor
-
-Softversko modelovanje procesa u organizacionim 51
-
-16:15
-
-19:00
-
-NTP-316
-
-Pred.
-
-Ivančević dr Vladimir
-
-sistemima
-
-41
-
-16:15
-
-18:45
-
-MI B4-5
-
-rač.vežbe
-
-Kompresija podataka
-
-Jovanović Jovana
-
-S U B O T A
 
 Grupa-e
+
 
 Od
 
@@ -15358,144 +7574,1030 @@ Naziv Predmeta
 Izvođač
 
 
-13
+Predmet: Linux programiranje u realnom vremenu 27.02.2023
 
 
-08:00
+SVI
 
-09:30
+15:00
 
-NTP-311
+17:45
 
-rač.vežbe
-
-Upravljanje poslovnim procesima
-
-Šarenac Balša
-
-13
-
-09:45
-
-11:15
-
-NTP-309
-
-rač.vežbe
-
-Napredna Internet infrastruktura
-
-Vuković dr Željko
-
-61
-
-08:15
-
-11:00
-
-MI A2-1
+NTP-507
 
 Pred.
 
-Arhitekture sistema velikih skupova podataka Dimitrieski dr Vladimir
+Linux programiranje u realnom vremenu Marinković dr Vladimir
 
-61
+27.02.2023
 
-11:15
+1
 
-13:45
+18:15
 
-MI A2-1
+20:45
 
-rač.vežbe
+NTP-505
 
-Arhitekture sistema velikih skupova podataka Ivković Vladimir
+lab.vežbe
 
-11
+Linux programiranje u realnom vremenu Marinković dr Vladimir
 
-08:00
+27.02.2023
 
-09:30
+2
 
-NTP-307
+18:15
 
-rač.vežbe
+20:45
 
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
+NTP-504
 
-11
+lab.vežbe
 
-09:45
+Linux programiranje u realnom vremenu Četić Nenad
 
-11:15
+28.02.2023
 
-NTP-307
+SVI
 
-rač.vežbe
+15:00
 
-Upravljanje digitalnim dokumentima
+17:45
 
-Ivanović dr Dragan
+NTP-507
 
-12
+Pred.
 
-11:30
+Linux programiranje u realnom vremenu Marinković dr Vladimir
 
-13:00
+28.02.2023
 
-NTP-311
+1
 
-rač.vežbe
+18:15
 
-Upravljanje poslovnim procesima
+20:45
 
-Šarenac Balša
+NTP-505
 
-12
+lab.vežbe
 
-13:15
+Linux programiranje u realnom vremenu Marinković dr Vladimir
 
-14:45
+28.02.2023
 
-NTP-222
+2
 
-rač.vežbe
+18:15
 
-Sistemi elektronskog plaćanja
+20:45
 
-Kovačević Marija
+NTP-504
 
-51
+lab.vežbe
 
-11:30
+Linux programiranje u realnom vremenu Četić Nenad
 
-13:00
+01.03.2023
 
-NTP-307
+SVI
 
-rač.vežbe
+15:00
 
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
+17:45
 
-Napomena:
+NTP-507
 
-Studenti biraju jedan od 6 sledećih modula: Modul 1: Elektronsko poslovanje grupe broj 11,12,13
+Pred.
 
-Modul 2: Softversko inženjerstvo grupe broj 21
+Linux programiranje u realnom vremenu Marinković dr Vladimir
 
-Modul 3: Inteligentni sistemi grupa broj 31
+01.03.2023
 
-Modul 4: Multimedija i računarske igre grupa broj 41
+1
 
-Modul 5: Inženjering informacionih sistema grupa broj 51
+18:15
 
-Modul 6: Računarstvo visokih performansi grupa broj 61
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+01.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+02.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+02.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+02.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+03.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+03.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+03.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+06.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+06.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+06.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+07.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+07.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+07.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+08.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+08.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+08.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+09.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+09.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+09.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+10.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+10.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+10.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+13.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+13.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+13.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+14.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+14.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+14.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+15.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+15.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+15.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
+
+16.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+16.03.2023
+
+1
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Marinković dr Vladimir
+
+16.03.2023
+
+2
+
+18:15
+
+20:45
+
+NTP-504
+
+lab.vežbe
+
+Linux programiranje u realnom vremenu Četić Nenad
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2022. 09:15, Strana: 21
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.12.2022. 08:25, Strana: 15
 
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
+RASPORED PREDAVANJA - Master akademske studije 2 Semestar
+
+Računarstvo i automatika
+
+Studijska grupa: Računarska tehnika i računarske komunikacije B L O K N A S T A V A
+
+
+
+
+
+Datum
+
+
+Grupa-e
+
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Predmet: Praktikum iz računarske tehnike i računarskih komunikacija 20.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+20.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+21.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+21.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+22.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+22.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+23.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+23.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+24.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+24.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+27.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+27.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+28.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+28.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+29.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+29.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+30.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+30.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+31.03.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+31.03.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+03.04.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+03.04.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+04.04.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+04.04.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+05.04.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+05.04.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+06.04.2023
+
+SVI
+
+15:00
+
+17:45
+
+NTP-507
+
+Pred.
+
+Praktikum iz računarske tehnike i računarskih komunikacija Marinković dr Vladimir
+
+06.04.2023
+
+3
+
+18:15
+
+20:45
+
+NTP-505
+
+lab.vežbe
+
+Praktikum iz računarske tehnike i računarskih komunikacija Bokan Dejan
+
+Napomena:
+
+Pošto će se izvoditi blok nastava iz svih predmeta, raspored je urađen tako da je pored standardnih podataka za raspored nastave u prvoj koloni dat i datum izvođenja nastave.
+
+Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan predmet.
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.01.2023. 07:06, Strana: 16
+
+RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
 Računarstvo i automatika
 
@@ -15520,50 +8622,8 @@ Naziv Predmeta
 Izvođač
 
 
-1,4
-
-
-07:30
-
-10:00
-
-NTP-415
-
-lab.vežbe
-
-Optimalno, nelinearno i napredno upravljanje Kapetina dr Mirna
-
-1,4
-
-10:15
-
-12:45
-
-NTP-415
-
-lab.vežbe
-
-Primenjena teorija igara
-
-Kapetina dr Mirna
-
-Rapaić dr Milan, Kapetina dr
-
-SVI
-
-13:00
-
-15:30
-
-NTP-415
-
-Pred.
-
-Primenjena teorija igara
-
-Mirna
-
 U T O R A K
+
 
 Grupa-e
 
@@ -15577,65 +8637,7 @@ Vrsta nast.
 
 Naziv Predmeta
 
-
-
-
-
 Izvođač
-
-
-4
-
-
-07:15
-
-09:45
-
-MI B4-4A
-
-lab.vežbe
-
-Veštačka inteligencija u biomedicinskim aplikacijama Mejić dr Luka
-
-1
-
-09:30
-
-12:00
-
-NTP-415
-
-rač.vežbe
-
-Distribuirani upravljački sistemi
-
-Pejić Marko
-
-BINZ
-
-10:00
-
-12:45
-
-MI B4-4A
-
-Pred.
-
-Dizajn medicinskih uređaja
-
-Ilić dr Vojin
-
-4
-
-13:00
-
-15:30
-
-MI B4-4A
-
-lab.vežbe
-
-Neuralne proteze i neuralni interfejsi Gašparić Filip
 
 
 
@@ -15664,32 +8666,8 @@ Naziv Predmeta
 Izvođač
 
 
-BINZ
-
-
-15:15
-
-18:00
-
-NTP-411
-
-Pred.
-
-Neuralne proteze i neuralni interfejsi Jorgovanović dr Nikola
-
-1
-
-18:00
-
-20:30
-
-NTP-415
-
-lab.vežbe
-
-Totalno integrisani sistemi automatskog upravljanja Čongradac dr Velimir
-
 Č E T V R T A K
+
 
 Grupa-e
 
@@ -15710,50 +8688,30 @@ Naziv Predmeta
 Izvođač
 
 
-Kapetina dr Mirna,
-
-
-SVI
-
-12:30
-
-15:00
-
-MI B4-4A
-
-Pred.
-
-Optimalno, nelinearno i napredno upravljanje Jeličić dr Zoran,
-
-Kanović dr Željko
-
-Stanišić dr Darko,
-
 BINZ
 
-15:15
 
-17:45
+08:15
 
-MI B4-4A
-
-Pred.
-
-Veštačka inteligencija u biomedicinskim aplikacijama Bojanić dr Dubravka
-
-Bugarski dr Vladimir,
-
-AUS
-
-18:00
-
-20:30
+11:00
 
 MI B4-4A
 
 Pred.
 
-Modeliranje i optimizacija učenjem iz podataka Kulić dr Filip
+Praktikum iz biomedicinskog inženjerstva Jorgovanović dr Nikola
+
+10
+
+11:15
+
+13:45
+
+MI B4-4A
+
+rač.vežbe
+
+Praktikum iz biomedicinskog inženjerstva Tomašević Olivera
 
 
 
@@ -15785,83 +8743,41 @@ Izvođač
 AUS
 
 
-13:15
+08:15
 
-16:00
+11:00
 
-MI B4-4A
-
-Pred.
-
-Distribuirani upravljački sistemi
-
-Erdeljan dr Aleksandar
-
-AUS
-
-16:15
-
-19:00
-
-MI B4-4A
+NTP-415
 
 Pred.
 
-Totalno integrisani sistemi automatskog upravljanja Čongradac dr Velimir
-
-S U B O T A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-
-
-
-
-Izvođač
-
+Primenjeni algoritmi u upravljačkim sistemima Čapko dr Darko
 
 1
 
+11:15
 
-08:00
+13:45
 
-10:30
+NTP-415
 
-MI B4-4A
+rač.vežbe
 
-lab.vežbe
-
-Modeliranje i optimizacija učenjem iz podataka Bugarski dr Vladimir
-
-4
-
-10:45
-
-13:15
-
-MI B4-4A
-
-lab.vežbe
-
-Dizajn medicinskih uređaja
-
-Ilić dr Vojin
+Primenjeni algoritmi u upravljačkim sistemima Prodanović Lazar
 
 Napomena:
 
 Grupe broj 1 je grupa koja je upisana na studijsku grupu Automatika i upravljanje sistemima - AUS
 
-Grupa broj 4 je grupa koja je upisana na studijsku grupu Biomedicinsko inženjerstvo - BINZ
+Grupa broj 10 je grupa koja je upisana na studijsku grupu Biomedicinsko inženjerstvo - BINZ
+
+Svi studenti AUS treba da odrade Stručnu praksu - projekat (0+6).
+
+Za dogovor se obratite Čongradac dr Velimiru.
+
+Svi studenti BINZ treba da odrade Stručnu praksu - projekat (0+6).
+
+Za dogovor se obratite Jorgovanović dr Nikoli.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 

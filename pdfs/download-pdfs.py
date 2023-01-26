@@ -4,13 +4,14 @@ import requests
 from requests_html import HTMLSession
 
 FTN_SITE = "http://ftn.uns.ac.rs"
-ROOT_PAGE = f"{FTN_SITE}/1344338603/nacrt-rasporeda-nastave-za-skolsku-2022-2023"
+ROOT_PAGE = f"{FTN_SITE}/1344340502/raspored-nastave-za-letnji-semestar-skolske-2022-2023"
 
 pdfs = {
     "animacija-u-inzenjerstvu": "ani.pdf",
     "arhitektura": "arh.pdf",
     "biomedicinsko-inzenjerstvo": "bio.pdf",
     "ciste-energetske-tehnologije": "cet.pdf",
+    "digitalne-tehnike--dizajn-i-produkcija-u-arhitekturi": "dtdpa.pdf",
     "energetika--elektronika-i-telekomunikacije": "eet.pdf",
     "geodezija-i-geoinformatika": "geo.pdf",
     "graficko-inzenjerstvo-i-dizajn": "gi.pdf",
@@ -21,7 +22,7 @@ pdfs = {
     "inzenjerstvo-inovacija": "inov.pdf",
     "informacioni-inzenjering": "inz.pdf",
     "informaciona-bezbednost": "inb.pdf",
-    "inzenjerstvo-tretmana-i-zastite-voda": "itv.pdf",
+    "inzenjerstvo-tretmana-i-zastita-voda": "itv.pdf",
     "inzenjerstvo-zastite-zivotne-sredine-i-zastite-na-radu": "izs.pdf",
     "masinstvo": "mas.pdf",
     "matematika-u-tehnici": "mat.pdf",
@@ -36,8 +37,6 @@ pdfs = {
     "upravljanje-rizikom-od-katastrofalnih-dogadjaja-i-pozara": "upr.pdf",
     "vestacka-inteligencija-i-masinsko-ucenje": "vei.pdf",
     "oss-elektrotehnika": "OSSEOS.pdf",
-    #"oss-elektroenergetika-obnovljivi-izvori-elektricne-energije": "OSSEET.pdf",
-    #"oss-elektronika-i-telekomunikacije": "OSSET.pdf",
     "oss-softverske-informacione-tehnologije": "OSSSIT.pdf",
     "mss-elektrotehnika": "MSSEMS.pdf",
     "mss-inzenjerski-menadzment-mba": "MSSMBA.pdf",
