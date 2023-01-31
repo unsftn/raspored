@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 07:50, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 10:02, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -56,7 +56,7 @@ aud.vežbe
 
 Matematička analiza
 
-Dedeić Jovana
+Tošić Stefan
 
 SVI
 
@@ -98,7 +98,7 @@ aud.vežbe
 
 Matematička analiza
 
-Dedeić Jovana
+Tošić Stefan
 
 U T O R A K
 
@@ -284,7 +284,7 @@ aud.vežbe
 
 Matematička analiza
 
-Dedeić Jovana
+Tošić Stefan
 
 3
 
@@ -366,7 +366,7 @@ aud.vežbe
 
 Matematička analiza
 
-Dedeić Jovana
+Tošić Stefan
 
 Č E T V R T A K
 
@@ -516,7 +516,7 @@ Pred.
 
 Algoritmi i strukture podataka Milosavljević dr Branko Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 06:34, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 12:08, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -690,7 +690,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Gojković Dunja
 
 3
 
@@ -870,7 +870,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Nikolić Marko
 
 1
 
@@ -950,7 +950,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
+Gojković Dunja
 
 2
 
@@ -1002,7 +1002,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Nikolić Marko
 
 3
 
@@ -1040,7 +1040,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Turović Radovan
+Gojković Dunja
 
 5
 
@@ -1056,7 +1056,7 @@ Uvod u softversko inženjerstvo Šarenac Balša
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.01.2023. 06:58, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 08:22, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1464,7 +1464,7 @@ aud.vežbe
 
 Statistika
 
-Blesić Andrija
+Jankov Dunja
 
 SVI
 
@@ -1562,7 +1562,7 @@ SVI
 
 17:00
 
-AH1A
+101
 
 Pred.
 
@@ -1572,7 +1572,7 @@ Ovcin dr Zoran
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 07:59, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.01.2023. 09:21, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -1602,7 +1602,7 @@ L6 (RC)
 
 rač.vežbe
 
-Sistemi bazirani na znanju Vejnović Mina
+Sistemi bazirani na znanju Trajković Anđela
 
 4
 
@@ -1618,18 +1618,6 @@ Mašinsko učenje
 
 Vidaković Dragan
 
-5
-
-10:30
-
-13:00
-
-MI A2-4A
-
-rač.vežbe
-
-Sistemi bazirani na znanju Trajković Anđela
-
 SVI
 
 14:15
@@ -1641,6 +1629,18 @@ NTP-417
 Pred.
 
 Bezbednost u sistemima elektronskog poslovanja Sladić dr Goran
+
+5
+
+17:15
+
+19:45
+
+MI B4-5A
+
+rač.vežbe
+
+Sistemi bazirani na znanju Trajković Anđela
 
 U T O R A K
 
@@ -1728,7 +1728,7 @@ NTP-311
 
 rač.vežbe
 
-Sistemi bazirani na znanju Trajković Anđela
+Sistemi bazirani na znanju Filipović Dragana
 
 3
 
@@ -1858,7 +1858,7 @@ Napredne tehnike programiranja Inđić Vladimir
 
 16:00
 
-AR3
+AR2
 
 rač.vežbe
 
@@ -1940,7 +1940,7 @@ MI A2-4A
 
 rač.vežbe
 
-Sistemi bazirani na znanju Trajković Anđela
+Sistemi bazirani na znanju Filipović Dragana
 
 1
 

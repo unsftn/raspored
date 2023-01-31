@@ -29,7 +29,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 Prof. dr Aleksandar Kupusinac
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 08:18, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.01.2023. 04:32, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -179,7 +179,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Horvat Nebojša
+Horvat Nebojša, Trifunović Petar
 
 5(1-12),6(1-12)
 
@@ -239,8 +239,6 @@ Osnovi elektrotehnike
 
 Herceg dr Dejana
 
-Radović Luka,
-
 3,4
 
 10:30 11:15
@@ -251,9 +249,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
-
-Radović Luka,
+Radović Luka
 
 3,4
 
@@ -265,7 +261,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Radović Luka, Poparić Sara
 
 10,5
 
@@ -277,7 +273,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Radović Luka, Anišić Helena
+Ignjatijević Aleksandar
 
 10,5
 
@@ -289,9 +285,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Radović Luka, Anišić Helena
-
-11,12,14
+Ignjatijević Aleksandar, Anišić Helena 11,12,14
 
 15:15 16:45
 
@@ -313,7 +307,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Horvat Nebojša, Anišić Helena
+Horvat Nebojša
 
 7,8
 
@@ -325,7 +319,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Horvat Nebojša, Anišić Helena
+Horvat Nebojša, Trifunović Petar
 
 9(1-12),10(1-12)
 
@@ -477,7 +471,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Poparić Sara
 
 9
 
@@ -489,7 +483,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Poparić Sara
 
 7,8,13
 
@@ -535,8 +529,6 @@ Osnovi elektrotehnike
 
 Milutinov dr Miodrag
 
-Anišić Helena,
-
 11,12
 
 17:30 18:15
@@ -547,9 +539,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
-
-Anišić Helena,
+Anišić Helena
 
 11,12
 
@@ -561,7 +551,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Anišić Helena, Poparić Sara
 
 10(1-12),15(1-12)
 
@@ -577,7 +567,7 @@ Rikalo Aleksandar, Novi saradnik
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 08:18, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.01.2023. 04:32, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -761,7 +751,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Radović Luka
 
 13,14
 
@@ -773,7 +763,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Radović Luka, Poparić Sara
 
 13(13-),15(13-),
 
@@ -883,7 +873,7 @@ Napomena:
 
 Studenti biraju jedan od sledeća dva predmeta: 1. Engleski jezik za inženjere 1 (2+0) 2. Nemački jezik napredni srednji (2+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.01.2023. 06:13, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 12:09, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1015,7 +1005,7 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Blesić Andrija
+Karalić Andrea
 
 4
 
@@ -1065,7 +1055,7 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Blesić Andrija
+Petrović Nemanja
 
 11,12
 
@@ -1135,7 +1125,7 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Stefanović Tamara
+Petrović Nemanja
 
 7
 
@@ -1447,7 +1437,7 @@ Osnovi paralelnog programiranja i softverski alati Đukić dr Miodrag
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.01.2023. 06:13, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 12:09, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1805,9 +1795,9 @@ Stojaković Nedeljko
 
 13
 
-17:30
+17:45
 
-20:00
+20:15
 
 MI A2-3
 
@@ -6305,7 +6295,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.01.2023. 06:51, Strana: 11
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 10:05, Strana: 11
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -6339,7 +6329,7 @@ SVI
 
 12:00
 
-AH2
+103
 
 Pred.
 

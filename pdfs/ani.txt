@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 04:38, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.01.2023. 04:42, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -92,7 +92,7 @@ aud.vežbe
 
 Matematička analiza
 
-Kopanja Tamara
+Janjoš Aleksandar
 
 3,4
 
@@ -106,7 +106,7 @@ aud.vežbe
 
 Matematička analiza
 
-Kopanja Tamara
+Prokić Aleksandar
 
 1
 
@@ -460,7 +460,7 @@ Lončarević dr Ivana
 
 Rasporedi i realizacija; ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.01.2023. 05:45, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.01.2023. 06:11, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -548,7 +548,9 @@ Naziv Predmeta
 
 Izvođač
 
-1(13-),2(13-)
+1(13-),2(13-),
+
+3(13-),4(13-)
 
 08:00
 
@@ -560,7 +562,7 @@ lab.vežbe
 
 Akustika i audio tehnika u multimediji Haška Aleksandra
 
-(3(13-),4(13-))
+sv.dr.ned.
 
 2
 
@@ -676,6 +678,8 @@ rač.vežbe
 
 Dizajn 3D prostora i okruženja Perišić dr Ana
 
+Čomić dr Lidija,
+
 SVI
 
 12:15
@@ -686,7 +690,7 @@ SVI
 
 Pred.
 
-Matematika za inženjersku grafiku Čomić dr Lidija
+Matematika za inženjersku grafiku Bajić-Papuga dr Buda
 
 1,2
 
@@ -776,7 +780,9 @@ Osnove inženjerske animacije Letić Jelena
 
 aud.vežbe
 
-Matematika za inženjersku grafiku Delić dr Marija
+Matematika za inženjersku grafiku Blesić Andrija
+
+Čomić dr Lidija,
 
 SVI
 
@@ -788,7 +794,7 @@ SVI
 
 Pred.
 
-Matematika za inženjersku grafiku Čomić dr Lidija
+Matematika za inženjersku grafiku Bajić-Papuga dr Buda
 
 Obradović dr Ratko,
 
@@ -880,7 +886,7 @@ Osnove inženjerske animacije Milinković Nikola
 
 aud.vežbe
 
-Matematika za inženjersku grafiku Delić dr Marija
+Matematika za inženjersku grafiku Blesić Andrija
 
 4
 
@@ -896,7 +902,7 @@ Osnove inženjerske animacije Letić Jelena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 06:34, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 12:18, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1028,9 +1034,7 @@ SVI
 
 Pred.
 
-Objektno orijentisano programiranje Kupusinac dr Aleksandar
-
-SVI
+Objektno orijentisano programiranje Kupusinac dr Aleksandar SVI
 
 15:15
 
@@ -1090,7 +1094,7 @@ MI A2-2
 
 rač.vežbe
 
-Objektno orijentisano programiranje Matkovski Marijana
+Objektno orijentisano programiranje Aleksić Lenka Isidora
 
 Č E T V R T A K
 
@@ -1166,7 +1170,7 @@ NTP-316
 
 rač.vežbe
 
-Objektno orijentisano programiranje Matkovski Marijana
+Objektno orijentisano programiranje Aleksić Lenka Isidora
 
 4
 
@@ -1230,7 +1234,7 @@ NTP-316
 
 rač.vežbe
 
-Objektno orijentisano programiranje Matkovski Marijana
+Objektno orijentisano programiranje Aleksić Lenka Isidora
 
 1
 
@@ -1294,15 +1298,15 @@ Specijalni vizuelni efekti Varga Marija
 
 4
 
-16:45
+16:30
 
-19:15
+19:00
 
 NTP-316
 
 rač.vežbe
 
-Objektno orijentisano programiranje Matkovski Marijana
+Objektno orijentisano programiranje Aleksić Lenka Isidora
 
 S U B O T A
 
@@ -1692,9 +1696,7 @@ Izvođač
 
 rač.vežbe
 
-Kompjuterska geometrija
-
-Vasiljević dr Ivana
+Kompjuterska geometrija Vasiljević dr Ivana
 
 Obradović dr Ratko,
 
@@ -1708,9 +1710,7 @@ MI G2-1
 
 Pred.
 
-Kompjuterska geometrija
-
-Krstanović dr Lidija
+Kompjuterska geometrija Krstanović dr Lidija
 
 S R E D A
 

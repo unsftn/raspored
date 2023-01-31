@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2023. 06:32, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 09:55, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 2 Semestar
 
@@ -172,7 +172,7 @@ aud.vežbe
 
 Matematička analiza 1
 
-Blesić Andrija
+Dragić Đorđe
 
 2
 
@@ -304,7 +304,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Trifunović Petar
+Anišić Helena
 
 SVI
 
@@ -374,7 +374,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Radović Luka
+Trifunović Petar
 
 P E T A K
 
@@ -420,7 +420,7 @@ aud.vežbe
 
 Matematička analiza 1
 
-Blesić Andrija
+Dragić Đorđe
 
 SVI
 
@@ -438,7 +438,7 @@ Gajić dr Dušan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 06:41, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 09:06, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 4 Semestar
 
@@ -496,7 +496,7 @@ Beker Aleksandar
 
 aud.vežbe
 
-Verovatnoća i slučajni procesi Stefanović Tamara
+Verovatnoća i slučajni procesi Novi asistent MAT
 
 3,4
 
@@ -508,7 +508,7 @@ Verovatnoća i slučajni procesi Stefanović Tamara
 
 aud.vežbe
 
-Verovatnoća i slučajni procesi Stefanović Tamara
+Verovatnoća i slučajni procesi Novi asistent MAT
 
 3,4
 
@@ -828,7 +828,7 @@ Novi saradnik A1
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.01.2023. 05:26, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 09:01, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 6 Semestar
 
@@ -1020,7 +1020,7 @@ rač.vežbe
 
 Praktikum iz statistike
 
-Ivetić dr Jelena
+Jankov Dunja
 
 SVI
 
@@ -1236,7 +1236,7 @@ rač.vežbe
 
 Praktikum iz statistike
 
-Ivetić dr Jelena
+Jankov Dunja
 
 2
 
@@ -1278,7 +1278,7 @@ Janković Eva
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 05:13, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.01.2023. 04:47, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 8 Semestar
 
@@ -1362,7 +1362,7 @@ Izvođač
 
 08:30
 
-MI B4-5
+AR2
 
 rač.vežbe
 
@@ -1374,7 +1374,7 @@ Menadžment javnog sektora Ferenčak dr Miroslav
 
 10:05
 
-MI B4-5
+AR2
 
 rač.vežbe
 
@@ -1604,7 +1604,7 @@ Napomene:
 
 Grupe broj 1,2 su upisane na studijsku grupu Analitički inženjering (AIN) Grupe broj 11,12 su upisane na studijsku grupu Primenjeni informacioni inženjering (PIN) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.01.2023. 07:01, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.01.2023. 08:59, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -1648,7 +1648,7 @@ Statistika u informacionom inženjeringu Ivančević dr Vladimir
 
 aud.vežbe
 
-Statistika u informacionom inženjeringu Ilić dr Vladimir
+Statistika u informacionom inženjeringu Ivetić dr Jelena
 
 1
 
@@ -1660,7 +1660,7 @@ Statistika u informacionom inženjeringu Ilić dr Vladimir
 
 rač.vežbe
 
-Statistika u informacionom inženjeringu Ilić dr Vladimir
+Statistika u informacionom inženjeringu Ivetić dr Jelena
 
 U T O R A K
 

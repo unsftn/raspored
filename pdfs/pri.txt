@@ -22,7 +22,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 07:51, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.01.2023. 08:55, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -52,7 +52,7 @@ aud.vežbe
 
 Matematička analiza
 
-Janjoš Aleksandar
+Prokić Aleksandar
 
 SVI
 
@@ -86,7 +86,7 @@ rač.vežbe
 
 Uvod u algoritme
 
-Đorđević Filip
+Mikać Mirko
 
 1,2,9
 
@@ -126,7 +126,7 @@ rač.vežbe
 
 Uvod u algoritme
 
-Sekulić Jelena
+Vojnović dr Nikola
 
 3,4
 
@@ -138,9 +138,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Radović Luka
-
-3
+Ignjatijević Aleksandar 3
 
 07:50 10:20
 
@@ -162,9 +160,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Radović Luka
-
-10,1
+Ignjatijević Aleksandar 10,1
 
 10:30 11:15
 
@@ -174,9 +170,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Anišić Helena
-
-1
+Ignjatijević Aleksandar 1
 
 11:20 13:50
 
@@ -186,9 +180,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Anišić Helena
-
-10
+Ignjatijević Aleksandar 10
 
 11:20 13:50
 
@@ -198,7 +190,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Poparić Sara
+Horvat Nebojša
 
 7,8
 
@@ -248,6 +240,8 @@ Matematička analiza
 
 Prokić Aleksandar
 
+Prokić Aleksandar,
+
 5,6,10
 
 15:45 17:15
@@ -258,7 +252,7 @@ aud.vežbe
 
 Matematička analiza
 
-Stratijev Jelena
+Janjoš Aleksandar
 
 5,6
 
@@ -306,7 +300,7 @@ rač.vežbe
 
 Uvod u algoritme
 
-Đorđević Filip
+Mikać Mirko
 
 S R E D A
 
@@ -406,7 +400,7 @@ aud.vežbe
 
 Matematička analiza
 
-Janjoš Aleksandar
+Prokić Aleksandar
 
 7,8
 
@@ -442,7 +436,7 @@ rač.vežbe
 
 Uvod u algoritme
 
-Sekulić Jelena
+Vojnović dr Nikola
 
 P E T A K
 
@@ -460,6 +454,8 @@ Naziv Predmeta
 
 Izvođač
 
+Prokić Aleksandar,
+
 5,6,10
 
 12:30 14:00
@@ -470,7 +466,7 @@ aud.vežbe
 
 Matematička analiza
 
-Stratijev Jelena
+Janjoš Aleksandar
 
 SVI
 
@@ -496,8 +492,6 @@ Arhitektura računara
 
 Gajić dr Dušan
 
-Anišić Helena,
-
 2,9
 
 18:10 18:55
@@ -508,9 +502,9 @@ aud.vežbe
 
 Arhitektura računara
 
-Poparić Sara
+Radović Luka
 
-Anišić Helena,
+Radović Luka,
 
 2,9
 
@@ -542,7 +536,7 @@ Izvođač
 
 1,3
 
-09:00 12:15
+08:00 11:15
 
 MI A2-1
 
@@ -554,7 +548,7 @@ Tošić Mr Saša
 
 4,8
 
-09:00 12:15
+08:00 11:15
 
 MI A2-3
 
@@ -562,11 +556,11 @@ rač.vežbe
 
 Uvod u algoritme
 
-Sekulić Jelena
+Mikać Mirko
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 06:32, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.01.2023. 04:44, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -586,6 +580,20 @@ Naziv Predmeta
 
 Izvođač
 
+Gordić Nebojša,
+
+2,3
+
+07:00
+
+08:30
+
+NTP-222
+
+rač.vežbe
+
+Namenski računarski sistemi Tošić Mr Saša
+
 5
 
 07:45
@@ -596,9 +604,11 @@ MI B4-5A
 
 rač.vežbe
 
-Objektno orijentisane tehnologije Kovačević Milena
+Objektno orijentisane tehnologije Aleksić Lenka Isidora
 
-2,9
+Tošić Mr Saša,
+
+6,9
 
 08:45
 
@@ -608,7 +618,7 @@ NTP-222
 
 rač.vežbe
 
-Namenski računarski sistemi Tošić Mr Saša
+Namenski računarski sistemi Gordić Nebojša
 
 5,6
 
@@ -694,18 +704,6 @@ Operativni sistemi
 
 Gojković Dunja
 
-3
-
-14:15
-
-15:45
-
-MI B4-5
-
-rač.vežbe
-
-Namenski računarski sistemi Ostojić Miloš
-
 Manasijević Aleksandar, 6,9
 
 14:15
@@ -728,7 +726,7 @@ MI B4-5
 
 rač.vežbe
 
-Namenski računarski sistemi Janković Marko
+Namenski računarski sistemi Gordić Nebojša
 
 Hrnjaković Olivera,
 
@@ -752,7 +750,7 @@ MI B4-5
 
 rač.vežbe
 
-Namenski računarski sistemi Janković Marko
+Namenski računarski sistemi Gordić Nebojša
 
 3,4
 
@@ -808,7 +806,7 @@ NTP-222
 
 rač.vežbe
 
-Namenski računarski sistemi Dejanović Stefan
+Namenski računarski sistemi Gordić Nebojša
 
 U T O R A K
 
@@ -880,6 +878,20 @@ Naziv Predmeta
 
 Izvođač
 
+Tošić Mr Saša,
+
+8,9
+
+07:00
+
+08:30
+
+NTP-222
+
+rač.vežbe
+
+Namenski računarski sistemi Gordić Nebojša
+
 4,6,7
 
 08:45
@@ -916,9 +928,7 @@ rač.vežbe
 
 Namenski računarski sistemi Tošić Mr Saša
 
-Kovačević Milena,
-
-1,3
+Manasijević Aleksandar, 1,3
 
 14:15
 
@@ -928,7 +938,7 @@ NTP-222
 
 rač.vežbe
 
-Objektno orijentisane tehnologije Varajić Stefan
+Objektno orijentisane tehnologije Hrnjaković Olivera
 
 7,8
 
@@ -972,21 +982,7 @@ Operativni sistemi
 
 Gojković Dunja
 
-9
-
-16:00
-
-17:30
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-Kovačević Milena,
-
-2,4
+Aleksić Lenka Isidora, 2,4
 
 17:00
 
@@ -996,19 +992,17 @@ NTP-222
 
 rač.vežbe
 
-Objektno orijentisane tehnologije Varajić Stefan
+Objektno orijentisane tehnologije Manasijević Aleksandar 7
 
-7
+18:15
 
-17:45
-
-19:15
+19:45
 
 MI A2-4
 
 rač.vežbe
 
-Namenski računarski sistemi Tošić Mr Saša
+Namenski računarski sistemi Gordić Nebojša
 
 9
 
@@ -1038,31 +1032,19 @@ Operativni sistemi
 
 Novi saradnik A1
 
-8
-
-19:30
-
-21:00
-
-MI A2-4
-
-rač.vežbe
-
-Namenski računarski sistemi Janković Marko
-
-Tošić Mr Saša,
+Gordić Nebojša,
 
 2,4
 
-19:45
+20:00
 
-21:15
+21:30
 
 NTP-222
 
 rač.vežbe
 
-Namenski računarski sistemi Dejanović Stefan
+Namenski računarski sistemi Tošić Mr Saša
 
 Č E T V R T A K
 
@@ -1160,6 +1142,18 @@ Naziv Predmeta
 
 Izvođač
 
+3
+
+07:15
+
+08:45
+
+MI B4-5A
+
+rač.vežbe
+
+Namenski računarski sistemi Tošić Mr Saša
+
 1
 
 09:00
@@ -1167,18 +1161,6 @@ Izvođač
 10:30
 
 MI B4-5A
-
-rač.vežbe
-
-Namenski računarski sistemi Dejanović Stefan
-
-3
-
-09:00
-
-10:30
-
-MI D4-A
 
 rač.vežbe
 
@@ -1199,18 +1181,6 @@ Diskretna matematika
 Đokić Jelena
 
 5
-
-12:30
-
-14:00
-
-L6 (RC)
-
-rač.vežbe
-
-Namenski računarski sistemi Selakov dr Aleksandar
-
-6
 
 12:30
 
@@ -1262,7 +1232,7 @@ Sistemi za transport i distribuciju fluida Despotović Bojana
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 09:39, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.01.2023. 06:09, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1336,7 +1306,7 @@ AR3
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Kovačević Tamara
+Veb programiranje u infrastrukturnim sistemima Mijatov Vanja
 
 5
 
@@ -1396,7 +1366,7 @@ AR2
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Dragišić Jelena
+Veb programiranje u infrastrukturnim sistemima Kovačević Tamara
 
 1
 
@@ -1488,13 +1458,13 @@ MI A2-4A
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Dragišić Jelena
+Veb programiranje u infrastrukturnim sistemima Mijatov Vanja
 
 6
 
 11:15 13:45
 
-MI D4-A
+AR3
 
 rač.vežbe
 
@@ -1518,17 +1488,17 @@ MI B4-5
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Dragišić Jelena
+Veb programiranje u infrastrukturnim sistemima Kovačević Tamara
 
 2
 
 14:00 16:30
 
-AR2
+AR3
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Kovačević Tamara
+Veb programiranje u infrastrukturnim sistemima Marković Petar
 
 1
 
@@ -1552,11 +1522,11 @@ Inženjerstvo upotrebljivosti u infrastrukturnim sistemima Đorđević Filip, Bu
 
 16:45 19:15
 
-AR2
+AR3
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Kovačević Tamara
+Veb programiranje u infrastrukturnim sistemima Marković Petar
 
 6,9
 
@@ -1624,8 +1594,6 @@ rač.vežbe
 
 Akviziciono upravljački sistemi Ruvčevski Stefan
 
-Mijatov Vanja,
-
 5,9
 
 14:15 16:45
@@ -1634,9 +1602,7 @@ L1 (RC)
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Kovačević Tamara
-
-8
+Veb programiranje u infrastrukturnim sistemima Colić Stefan, Kovačević Tamara 8
 
 16:00 18:30
 
@@ -1682,7 +1648,7 @@ MI B4-5A
 
 rač.vežbe
 
-Veb programiranje u infrastrukturnim sistemima Mijatov Vanja
+Veb programiranje u infrastrukturnim sistemima Colić Stefan
 
 9
 
@@ -1740,7 +1706,7 @@ Virtuelizacija procesa Ruvčevski Stefan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.01.2023. 07:54, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 31.01.2023. 07:15, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
