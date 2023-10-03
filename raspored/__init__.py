@@ -59,10 +59,11 @@ def generate_izvestaj(metamodel, model, output_path, overwrite, debug, **custom_
 
                 if included:
                     if dan.dan == 'BLOKNASTAVA':
-                        assert termin.datum is not None
-                        termini_blok_po_ucionicama.setdefault(termin.učionica, []).append(
-                            Termin(termin.datum, termin.od, termin.do, termin.predmet, termin.učionica)
-                        )
+                        # assert termin.datum is not None
+                        if termin.datum is not None:
+                            termini_blok_po_ucionicama.setdefault(termin.učionica, []).append(
+                                Termin(termin.datum, termin.od, termin.do, termin.predmet, termin.učionica)
+                            )
                     else:
                         termini_po_danima.setdefault(dan.dan, []).append(
                             Termin(None, termin.od, termin.do, termin.predmet, termin.učionica))
