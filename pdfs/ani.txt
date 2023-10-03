@@ -1,32 +1,30 @@
-Raspored nastave za školsku 2022/2023 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a se moraju pridržavati zvaničnog rasporeda nastave.
+Raspored nastave za školsku 2023/2024 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a moraju se pridržavati zvaničnog rasporeda nastave.
 
 Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
 
-Mole se svi zaposleni i studenti FTN-a da tokom prve dve nedelje semestra stalno prate raspored, na internet stranici FTN-a www.ftn.uns.ac.rs u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
+Mole se svi da tokom prve dve nedelje semestra stalno prate raspored nastave na internet stranici FTN-a u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
 
 Oznake korišćene u rasporedu: 1. Brojevi napisani u zagradi iza broja grupe
 
-- primer prvi 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
+- primer prvi: 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
 
-- primer drugi 1(17-), znači da da vežbe imaju studenti prve grupe od broja 17 do kraja grupe po spisku Studentske službe
+- primer drugi: 1(17-), znači da da vežbe imaju studenti prve grupe od broja 17 do kraja grupe po spisku Studentske službe
 
-- primer treći 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)[1(13-24)]. Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24). Ako se smenjuje samo jedna grupa onda je u rasporedu napisano ovako 1(sv.dr.ned.).
+- primer treći: 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)(1(13-24)). Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24).
 
-2. Umesto broja grupe napisano je Opredeljeni
+- primer četvrti: 1 sv.dr.ned. , znači da se vežbe za grupu 1 izvode svake druge nedelje 2. Umesto broja grupe napisano je Opredeljeni
 
-- izabrani predmet slušaju samo studenti koji su ga izabrali za slušanje Obavezno u vašem internet pretraživaču uraditi “Reload current page” ili “Refresh”, da bi se učitao trenutno važeći rapored predavanja sa FTN servera.
-
-
-
-Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu
-
-Prof. dr Aleksandar Kupusinac
+- izabrani predmet slušaju samo studenti koji su izabrali taj predmet Obavezno u vašem internet pretraživaču osvežite stranicu, da bi se učitao trenutno važeći rapored nastave sa FTN servera.
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.01.2023. 04:42, Strana: 1
+Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiša B. Samardžić Prodekan za nastavu Prof. dr Aleksandar Kupusinac
 
-R A S P O R E D P R E D A V A N J A 2 Semestar
+
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 10:14, Strana: 1
+
+RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
 Animacija u inženjerstvu P O N E D E L J A K
 
@@ -44,1009 +42,241 @@ Naziv Predmeta
 
 Izvođač
 
-3
+1,3(1-5)
 
-11:15
-
-13:45
-
-NTP-312
-
-rač.vežbe
-
-Osnove proceduralnog generisanja pokreta Matkovski Marijana
-
-2
-
-12:15
-
-13:45
-
-307
-
-rač.vežbe
-
-Dizajn tekstura i svetla Vasiljević dr Ivana
-
-3
-
-14:00
-
-15:30
-
-307
-
-rač.vežbe
-
-Dizajn tekstura i svetla Mirčeski Filip
-
-1,2
-
-14:00
-
-16:30
-
-206
-
-aud.vežbe
-
-Matematička analiza
-
-Janjoš Aleksandar
-
-3,4
-
-16:45
-
-19:15
-
-206
-
-aud.vežbe
-
-Matematička analiza
-
-Prokić Aleksandar
-
-1
-
-17:00
-
-18:30
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Mirčeski Filip
-
-4
-
-19:30
-
-21:00
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Đurić dr Isidora
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Obradović dr Ratko,
-
-SVI
-
-07:15
-
-10:00
-
-202
-
-Pred.
-
-Dizajn tekstura i svetla Kekeljević dr Igor
-
-SVI
-
-10:15
-
-13:00
-
-202
-
-Pred.
-
-Matematička analiza
-
-Grbić dr Tatjana
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-07:15
-
-10:00
-
-202
-
-Pred.
-
-Crtanje za animaciju i vizuelne efekte Vujanović dr Miloš
-
-SVI
-
-10:15
-
-13:00
-
-202
-
-Pred.
-
-Osnove proceduralnog generisanja pokreta Vrbaški dr Dunja
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-07:15
+07:30
 
 09:00
 
-310
+AH-CRT
 
-Pred.
+aud.vežbe
 
-Fizika
+Osnove crtanja za animaciju i vizuelne efekte Đurić dr Isidora
 
-Lončarević dr Ivana
+4
 
-Kekeljević dr Igor,
+07:30
+
+09:00
+
+L4 (RC)
+
+rač.vežbe
+
+Osnovi informacionih tehnologija za računarsku animaciju Golić Sonja
+
+2
+
+07:30
+
+09:00
+
+AH9
+
+rač.vežbe
+
+Računarska obrada slike u inženjerskoj animaciji Obradović Miloš
+
+Grbić dr Tatjana,
 
 SVI
 
 09:15
 
-11:00
+12:00
+
+207
+
+Pred.
+
+Algebra
+
+Buhmiler dr Sandra
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+2,3(11-)
+
+07:30
+
+09:00
+
+AH-CRT
+
+aud.vežbe
+
+Osnove crtanja za animaciju i vizuelne efekte Kekeljević dr Igor
+
+1
+
+07:30
+
+09:00
+
+AH9
+
+rač.vežbe
+
+Računarska obrada slike u inženjerskoj animaciji Novi saradnik 322 S1
+
+4
+
+08:15
+
+10:45
+
+307
+
+rač.vežbe
+
+Dizajn prostornih oblika Bobić Aleksandra
+
+Obradović dr Ratko,
+
+SVI
+
+14:15
+
+17:00
+
+311
+
+Pred.
+
+Dizajn prostornih oblika Kuzmanović dr Nenad
+
+Kekeljević dr Igor,
+
+SVI
+
+17:15
+
+19:00
+
+311
+
+Pred.
+
+Osnove crtanja za animaciju i vizuelne efekte Đurić dr Isidora
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3,4
+
+07:30
+
+10:00
+
+AH1B
+
+aud.vežbe
+
+Algebra
+
+Prokić Aleksandar
+
+2
+
+07:45
+
+10:15
+
+L3 (RC)
+
+rač.vežbe
+
+Dizajn prostornih oblika Kuzmanović dr Nenad
+
+Krstanović dr Lidija, SVI
+
+11:15
+
+13:00
 
 310
 
 Pred.
 
-Istorija digitalne animacije Perišić dr Ana
+Osnovi informacionih tehnologija za računarsku animaciju Banjac dr Bojan
 
 1
-
-11:15
-
-13:45
-
-NTP-312
-
-rač.vežbe
-
-Osnove proceduralnog generisanja pokreta Despotović Predrag
-
-4
 
 14:00
 
 16:30
 
-NTP-312
+L3 (RC)
 
 rač.vežbe
 
-Osnove proceduralnog generisanja pokreta Despotović Predrag
+Dizajn prostornih oblika Bobić Aleksandra
 
-2
+4
 
-16:45
+15:45
 
-19:15
+17:15
 
-NTP-312
+306
 
 rač.vežbe
 
-Osnove proceduralnog generisanja pokreta Despotović Predrag
+Računarska obrada slike u inženjerskoj animaciji Kićanović Jelena
 
-P E T A K
+3
 
-Grupa-e
+15:45
 
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2(6-),4(6-)
-
-07:00
-
-08:30
-
-AH-CRT
-
-aud.vežbe
-
-Crtanje za animaciju i vizuelne efekte Đurić dr Isidora
-
-1,2(1-5)
-
-08:45
-
-10:15
-
-AH-CRT
-
-aud.vežbe
-
-Crtanje za animaciju i vizuelne efekte Đurić dr Isidora
-
-2
-
-10:30
-
-12:00
+17:15
 
 307
 
 rač.vežbe
 
-Dizajn tekstura i svetla Vasiljević dr Ivana
-
-3,4(1-5)
-
-11:15
-
-12:45
-
-AH-CRT
-
-aud.vežbe
-
-Crtanje za animaciju i vizuelne efekte Đurić dr Isidora
-
-3
-
-13:15
-
-14:45
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Đurić dr Isidora
-
-4
-
-15:00
-
-16:30
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Mirčeski Filip
-
-1
-
-16:45
-
-18:15
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Mirčeski Filip
-
-S U B O T A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Lončarević dr Ivana,
-
-3,4(1-9)
-
-08:00
-
-09:30
-
-Fizika
-
-lab.vežbe
-
-Fizika
-
-Vuković Aleksandar
-
-Lončarević dr Ivana,
-
-1,2(1-9)
-
-09:45
-
-11:15
-
-Fizika
-
-lab.vežbe
-
-Fizika
-
-Vuković Aleksandar
-
-2(10-),4(10-)
-
-11:30
-
-13:00
-
-Fizika
-
-lab.vežbe
-
-Fizika
-
-Lončarević dr Ivana
-
-Rasporedi i realizacija; ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.01.2023. 06:11, Strana: 2
-
-R A S P O R E D P R E D A V A N J A 4 Semestar
-
-Animacija u inženjerstvu P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Opredeljeni
-
-08:30
-
-10:00
-
-MI B1-A
-
-Pred.
-
-Nemački jezik - napredni srednji Berić Andrijana
-
-Opredeljeni
-
-08:30
-
-10:00
-
-AH6
-
-Pred.
-
-Engleski jezik za računarsku grafiku 1
-
-Gak dr Dragana
-
-Obradović dr Ratko,
-
-SVI
-
-10:15
-
-12:00
-
-202
-
-Pred.
-
-Osnove inženjerske animacije Kekeljević dr Igor
-
-SVI
-
-12:15
-
-15:00
-
-202
-
-Pred.
-
-Dizajn 3D prostora i okruženja Perišić dr Ana
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1(13-),2(13-),
-
-3(13-),4(13-)
-
-08:00
-
-09:30
-
-NTP-115
-
-lab.vežbe
-
-Akustika i audio tehnika u multimediji Haška Aleksandra
-
-sv.dr.ned.
-
-2
-
-09:45
-
-11:15
-
-306
-
-rač.vežbe
-
-Dizajn 3D prostora i okruženja Milinković Nikola
-
-1(1-12)
-
-11:30
-
-13:00
-
-NTP-115
-
-lab.vežbe
-
-Akustika i audio tehnika u multimediji Haška Aleksandra
-
-(4(1-12))
-
-2
-
-11:30
-
-13:00
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Letić Jelena
-
-SVI
-
-13:15
-
-16:00
-
-109
-
-Pred.
-
-Akustika i audio tehnika u multimediji Delić dr Vlado
-
-1
-
-16:15
-
-17:45
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Paunović Aleksa
-
-3
-
-18:00
-
-19:30
-
-306
-
-rač.vežbe
-
-Dizajn 3D prostora i okruženja Paunović Aleksa
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-4
-
-08:45
-
-10:15
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Letić Jelena
-
-4
-
-10:30
-
-12:00
-
-306
-
-rač.vežbe
-
-Dizajn 3D prostora i okruženja Perišić dr Ana
-
-Čomić dr Lidija,
-
-SVI
-
-12:15
-
-14:00
-
-109
-
-Pred.
-
-Matematika za inženjersku grafiku Bajić-Papuga dr Buda
+Osnovi informacionih tehnologija za računarsku animaciju Golić Sonja
 
 1,2
 
-14:15
+19:45
 
-15:45
+21:15
 
-109
-
-aud.vežbe
-
-Matematika za inženjersku grafiku Blesić Andrija
-
-3
-
-14:15
-
-15:45
-
-306
+L1 (RC)
 
 rač.vežbe
 
-Osnove inženjerske animacije Milinković Nikola
-
-1
-
-16:00
-
-17:30
-
-306
-
-rač.vežbe
-
-Dizajn 3D prostora i okruženja Perišić dr Ana
-
-2(1-12)
-
-17:45
-
-19:15
-
-NTP-115
-
-lab.vežbe
-
-Akustika i audio tehnika u multimediji Haška Aleksandra
-
-(3(1-12))
+Osnovi informacionih tehnologija za računarsku animaciju Mirčeski Filip
 
 Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2
-
-10:30
-
-12:00
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Letić Jelena
-
-3,4
-
-10:30
-
-12:00
-
-206
-
-aud.vežbe
-
-Matematika za inženjersku grafiku Blesić Andrija
-
-Čomić dr Lidija,
-
-SVI
-
-12:15
-
-14:00
-
-206
-
-Pred.
-
-Matematika za inženjersku grafiku Bajić-Papuga dr Buda
-
-Obradović dr Ratko,
-
-SVI
-
-14:15
-
-16:00
-
-206
-
-Pred.
-
-Osnove inženjerske animacije Kekeljević dr Igor
-
-1,2
-
-16:15
-
-17:45
-
-109
-
-aud.vežbe
-
-Akustika i audio tehnika u multimediji Suzić dr Siniša
-
-(3,4)
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1
-
-07:00
-
-08:30
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Paunović Aleksa
-
-1,2
-
-08:45
-
-10:15
-
-104
-
-aud.vežbe
-
-Matematika za inženjersku grafiku Blesić Andrija
-
-3
-
-08:45
-
-10:15
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Milinković Nikola
-
-3,4
-
-10:30
-
-12:00
-
-104
-
-aud.vežbe
-
-Matematika za inženjersku grafiku Blesić Andrija
-
-4
-
-12:15
-
-13:45
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Letić Jelena
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 12:18, Strana: 3
-
-R A S P O R E D P R E D A V A N J A 6 Semestar
-
-Animacija u inženjerstvu P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1
-
-07:00
-
-08:30
-
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Miščević Milan
-
-4
-
-08:45
-
-11:15
-
-306
-
-rač.vežbe
-
-Estetika vizuelnih komunikacija Miščević Milan
-
-2
-
-09:00
-
-11:30
-
-307
-
-rač.vežbe
-
-Video u inženjerskoj animaciji Varga Marija
-
-4
-
-11:30
-
-13:00
-
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Miščević Milan
-
-2
-
-13:15
-
-15:45
-
-306
-
-rač.vežbe
-
-Estetika vizuelnih komunikacija Miščević Milan
-
-3
-
-16:00
-
-18:30
-
-306
-
-rač.vežbe
-
-Inženjerska animacija i drugi mediji Kuzmanović dr Nenad
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Obradović dr Ratko,
-
-SVI
-
-10:15
-
-12:00
-
-206
-
-Pred.
-
-Specijalni vizuelni efekti Kekeljević dr Igor
-
-SVI
-
-12:15
-
-15:00
-
-207
-
-Pred.
-
-Objektno orijentisano programiranje Kupusinac dr Aleksandar SVI
-
-15:15
-
-17:00
-
-207
-
-Pred.
-
-Inženjerska animacija i drugi mediji Perišić dr Ana
-
-S R E D A
 
 Grupa-e
 
@@ -1068,135 +298,25 @@ SVI
 
 11:00
 
-201
+204
 
 Pred.
 
-Estetika vizuelnih komunikacija Popkonstantinović dr Branislav SVI
+Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
+
+3,4
 
 11:15
 
-14:00
-
-201
-
-Pred.
-
-Video u inženjerskoj animaciji Krstanović dr Lidija
-
-2
-
-14:15
-
-16:45
-
-MI A2-2
-
-rač.vežbe
-
-Objektno orijentisano programiranje Aleksić Lenka Isidora
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-3
-
-07:45
-
-10:15
-
-306
-
-rač.vežbe
-
-Estetika vizuelnih komunikacija Varga Marija
-
-3
-
-12:15
-
 13:45
 
-306
+AH3
 
-rač.vežbe
+aud.vežbe
 
-Specijalni vizuelni efekti Varga Marija
+Geometrija i vizualizacija 3D prostora Nedučin dr Dejana
 
 3
-
-14:15
-
-16:45
-
-L3 (RC)
-
-rač.vežbe
-
-Video u inženjerskoj animaciji Krstanović dr Lidija
-
-2
-
-14:45
-
-17:15
-
-306
-
-rač.vežbe
-
-Inženjerska animacija i drugi mediji Kuzmanović dr Nenad
-
-1
-
-14:45
-
-17:15
-
-NTP-316
-
-rač.vežbe
-
-Objektno orijentisano programiranje Aleksić Lenka Isidora
-
-4
-
-17:00
-
-19:30
-
-L3 (RC)
-
-rač.vežbe
-
-Video u inženjerskoj animaciji Krstanović dr Lidija
-
-1
-
-17:30
-
-20:00
-
-306
-
-rač.vežbe
-
-Inženjerska animacija i drugi mediji Kuzmanović dr Nenad
-
-2
 
 20:15
 
@@ -1206,7 +326,7 @@ Inženjerska animacija i drugi mediji Kuzmanović dr Nenad
 
 rač.vežbe
 
-Specijalni vizuelni efekti Varga Marija
+Računarska obrada slike u inženjerskoj animaciji Obradović Miloš
 
 P E T A K
 
@@ -1224,31 +344,235 @@ Naziv Predmeta
 
 Izvođač
 
+1,2
+
+07:30
+
+10:00
+
+AH2
+
+aud.vežbe
+
+Geometrija i vizualizacija 3D prostora Novi saradnik 332 S1
+
+1,2
+
+10:30
+
+13:00
+
+109
+
+aud.vežbe
+
+Algebra
+
+Prokić Aleksandar
+
 3
 
-09:30
+10:30
 
-12:00
-
-NTP-316
-
-rač.vežbe
-
-Objektno orijentisano programiranje Aleksić Lenka Isidora
-
-1
-
-09:30
-
-12:00
+13:00
 
 L3 (RC)
 
 rač.vežbe
 
-Video u inženjerskoj animaciji Varga Marija
+Dizajn prostornih oblika Kuzmanović dr Nenad
+
+SVI
+
+13:15
+
+15:00
+
+201
+
+Pred.
+
+Računarska obrada slike u inženjerskoj animaciji Stojaković dr Vesna
+
+4,3(6-10)
+
+15:15
+
+16:45
+
+AH-CRT
+
+aud.vežbe
+
+Osnove crtanja za animaciju i vizuelne efekte Kekeljević dr Igor
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 07:48, Strana: 2
+
+RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
+
+Animacija u inženjerstvu P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+07:30
+
+09:00
+
+311
+
+Pred.
+
+Engleski jezik - viši Gak dr Dragana
+
+Obradović dr Ratko,
+
+SVI
+
+09:15
+
+12:00
+
+311
+
+Pred.
+
+Tehnike renderovanja
+
+Vasiljević dr Ivana
+
+1
+
+12:15
+
+13:45
+
+306
+
+rač.vežbe
+
+Klasična animacija
+
+Golić Sonja
+
+4
+
+14:00
+
+15:30
+
+306
+
+rač.vežbe
+
+Klasična animacija
+
+Kekeljević dr Igor
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Ovcin dr Zoran,
+
+SVI
+
+10:15
+
+12:00
+
+109
+
+Pred.
+
+Diskretne i kombinatorne metode za računarsku grafiku Pantović dr Jovanka
+
+SVI
+
+12:15
+
+15:00
+
+A2
+
+Pred.
+
+Računarska grafika
+
+Ivetić dr Dragan
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
 
 2
+
+08:45
+
+10:15
+
+306
+
+rač.vežbe
+
+Klasična animacija
+
+Kekeljević dr Igor
+
+1
+
+08:45
+
+10:15
+
+F 318
+
+rač.vežbe
+
+Računarska grafika
+
+Tešanović Nedeljko
+
+1
 
 10:30
 
@@ -1258,55 +582,253 @@ Video u inženjerskoj animaciji Varga Marija
 
 rač.vežbe
 
-Specijalni vizuelni efekti Miščević Milan
+Proceduralno generisanje teksture Varga Marija
 
-SVI
+3
+
+10:30
+
+12:00
+
+F 318
+
+rač.vežbe
+
+Računarska grafika
+
+Tešanović Nedeljko
+
+3
 
 12:15
 
+13:45
+
+306
+
+rač.vežbe
+
+Proceduralno generisanje teksture Varga Marija
+
+3
+
 14:00
 
-202
+15:30
 
-Pred.
+306
 
-Upravljanje i razvoj karijere Katić dr Ivana
+rač.vežbe
 
-4
+Klasična animacija
+
+Golić Sonja
+
+2,4
 
 14:15
 
 15:45
 
-306
+104
 
-rač.vežbe
+aud.vežbe
 
-Specijalni vizuelni efekti Varga Marija
+Perspektiva
 
-3
+Vučić Marko
+
+2,4
 
 16:00
 
 17:30
 
+104
+
+aud.vežbe
+
+Diskretne i kombinatorne metode za računarsku grafiku Đokić Jelena
+
+4
+
+17:45
+
+20:15
+
 306
 
 rač.vežbe
 
-Specijalni vizuelni efekti Varga Marija
+Tehnike renderovanja
 
-4
+Bobić Aleksandra
 
-16:30
+Č E T V R T A K
 
-19:00
+Grupa-e
 
-NTP-316
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1,3
+
+07:00
+
+08:30
+
+AH5
+
+aud.vežbe
+
+Diskretne i kombinatorne metode za računarsku grafiku Đokić Jelena
+
+1,3
+
+08:45
+
+10:15
+
+AH5
+
+aud.vežbe
+
+Perspektiva
+
+Vučić Marko
+
+2
+
+10:30
+
+13:00
+
+306
 
 rač.vežbe
 
-Objektno orijentisano programiranje Aleksić Lenka Isidora
+Tehnike renderovanja
+
+Miščević Milan
+
+3
+
+14:00
+
+16:30
+
+306
+
+rač.vežbe
+
+Tehnike renderovanja
+
+Bobić Aleksandra
+
+2
+
+15:00
+
+16:30
+
+F 318
+
+rač.vežbe
+
+Računarska grafika
+
+Tešanović Nedeljko
+
+2
+
+16:45
+
+18:15
+
+306
+
+rač.vežbe
+
+Proceduralno generisanje teksture Bobić Aleksandra
+
+4
+
+16:45
+
+18:15
+
+F 318
+
+rač.vežbe
+
+Računarska grafika
+
+Tešanović Nedeljko
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+15:15
+
+17:00
+
+201
+
+Pred.
+
+Perspektiva
+
+Stojaković dr Vesna
+
+SVI
+
+17:15
+
+19:00
+
+201
+
+Pred.
+
+Klasična animacija
+
+Kekeljević dr Igor
+
+Krstanović dr Lidija, SVI
+
+19:15
+
+21:00
+
+201
+
+Pred.
+
+Proceduralno generisanje teksture Banjac dr Bojan
 
 S U B O T A
 
@@ -1324,119 +846,7 @@ Naziv Predmeta
 
 Izvođač
 
-1
-
-08:00
-
-10:30
-
-306
-
-rač.vežbe
-
-Estetika vizuelnih komunikacija Varga Marija
-
-1
-
-10:45
-
-12:15
-
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Miščević Milan
-
 4
-
-12:30
-
-15:00
-
-306
-
-rač.vežbe
-
-Inženjerska animacija i drugi mediji Kuzmanović dr Nenad
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.01.2023. 05:32, Strana: 4
-
-R A S P O R E D P R E D A V A N J A 8 Semestar
-
-Animacija u inženjerstvu P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-Obradović dr Ratko,
-
-SVI
-
-15:15
-
-18:00
-
-109
-
-Pred.
-
-Napredna inženjerska animacija Kekeljević dr Igor
-
-4
-
-18:15
-
-20:45
-
-MI V4-1
-
-rač.vežbe
-
-Metode 3D digitalizacije Santoši dr Željko
-
-2
-
-18:45
-
-21:15
-
-306
-
-rač.vežbe
-
-Napredna inženjerska animacija Paunović Aleksa
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1
 
 08:00
 
@@ -1446,201 +856,27 @@ Izvođač
 
 rač.vežbe
 
-Primena inženjerske animacije Kuzmanović dr Nenad
+Proceduralno generisanje teksture Bobić Aleksandra
 
-4
+1
 
-07:45
-
-10:15
-
-307
-
-rač.vežbe
-
-Napredna inženjerska animacija Paunović Aleksa
-
-3
-
-14:00
-
-16:30
-
-MI V4-1
-
-rač.vežbe
-
-Metode 3D digitalizacije Santoši dr Željko
-
-2
-
-16:45
-
-19:15
-
-MI V4-1
-
-rač.vežbe
-
-Metode 3D digitalizacije Santoši dr Željko
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2
+09:45
 
 12:15
-
-13:45
 
 306
 
 rač.vežbe
 
-Primena inženjerske animacije Kuzmanović dr Nenad
+Tehnike renderovanja
 
-3
-
-18:45
-
-21:15
-
-306
-
-rač.vežbe
-
-Napredna inženjerska animacija Milinković Nikola
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-4
-
-10:45
-
-12:15
-
-L3 (RC)
-
-rač.vežbe
-
-Primena inženjerske animacije Kuzmanović dr Nenad
-
-3
-
-12:30
-
-14:00
-
-L3 (RC)
-
-rač.vežbe
-
-Primena inženjerske animacije Kuzmanović dr Nenad
-
-1
-
-11:15
-
-13:45
-
-MI V4-1
-
-rač.vežbe
-
-Metode 3D digitalizacije Santoši dr Željko
-
-1
-
-14:00
-
-16:30
-
-307
-
-rač.vežbe
-
-Napredna inženjerska animacija Milinković Nikola
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-SVI
-
-08:15
-
-10:00
-
-206
-
-Pred.
-
-Primena inženjerske animacije Obradović dr Ratko
-
-Budak dr Igor,
-
-SVI
-
-10:15
-
-13:00
-
-206
-
-Pred.
-
-Metode 3D digitalizacije Šokac dr Mario,
-
-Santoši dr Željko
-
-Studenti treba da odrade STRUČNU PRAKSU sa fondom časova 0+4.
-
-Obratiti se PROF. DR. RATKU OBRADOVIĆU.
+Miščević Milan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2023. 10:13, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2023. 06:25, Strana: 3
 
-RASPORED PREDAVANJA - Master akademske studije 2 Semestar
+RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
 Animacija u inženjerstvu P O N E D E L J A K
 
@@ -1658,17 +894,73 @@ Naziv Predmeta
 
 Izvođač
 
+1
+
+07:30
+
+10:00
+
+306
+
+rač.vežbe
+
+Storyboard
+
+Paunović Aleksa
+
 SVI
 
-17:15
+10:15
 
-20:00
+13:00
 
-F 317
+201
 
 Pred.
 
-Proces razvoja računarskih igara Ivetić dr Dragan
+Animacija karaktera
+
+Kekeljević dr Igor
+
+SVI
+
+13:15
+
+15:00
+
+201
+
+Pred.
+
+Uvod u tehnologije proširene i virtualne realnosti Jovanović dr Marko
+
+2
+
+15:45
+
+18:15
+
+306
+
+rač.vežbe
+
+Animacija karaktera
+
+Golić Sonja
+
+4
+
+15:45
+
+18:15
+
+L3 (RC)
+
+rač.vežbe
+
+Storyboard
+
+Paunović Aleksa
 
 U T O R A K
 
@@ -1686,31 +978,145 @@ Naziv Predmeta
 
 Izvođač
 
-1
+3
 
-13:15
+07:45
 
-14:45
+10:15
 
 306
 
 rač.vežbe
 
-Kompjuterska geometrija Vasiljević dr Ivana
+Storyboard
 
-Obradović dr Ratko,
+Đurić dr Isidora
 
-SVI
+1(1-12)
 
-15:15
+09:45
 
-17:00
+11:15
 
-MI G2-1
+NTP-116
 
-Pred.
+lab.vežbe
 
-Kompjuterska geometrija Krstanović dr Lidija
+Digitalna obrada slike u animacijama Kljajić Jovana
+
+2
+
+10:30
+
+12:00
+
+L5 (RC)
+
+rač.vežbe
+
+WEB dizajn
+
+Paunović Aleksa
+
+4
+
+10:30
+
+12:00
+
+L3 (RC)
+
+rač.vežbe
+
+WEB dizajn
+
+Golić Sonja
+
+3
+
+10:30
+
+13:00
+
+306
+
+rač.vežbe
+
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
+
+1
+
+12:15
+
+13:45
+
+L5 (RC)
+
+rač.vežbe
+
+WEB dizajn
+
+Golić Sonja
+
+2
+
+13:15
+
+15:45
+
+306
+
+rač.vežbe
+
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
+
+2
+
+16:00
+
+17:30
+
+L3 (RC)
+
+rač.vežbe
+
+Simulacije u animaciji Varga Marija
+
+4
+
+16:00
+
+18:30
+
+306
+
+rač.vežbe
+
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
+
+3(1-12)
+
+17:15
+
+18:45
+
+NTP-116
+
+lab.vežbe
+
+Digitalna obrada slike u animacijama Kljajić Jovana
+
+1
+
+18:45
+
+21:15
+
+306
+
+rač.vežbe
+
+Uvod u tehnologije proširene i virtualne realnosti Obradović Miloš
 
 S R E D A
 
@@ -1727,6 +1133,734 @@ Vrsta nast.
 Naziv Predmeta
 
 Izvođač
+
+SVI
+
+07:30
+
+10:00
+
+201
+
+Pred.
+
+Digitalna obrada slike u animacijama Brkljač dr Branko
+
+4
+
+10:30
+
+12:00
+
+L3 (RC)
+
+rač.vežbe
+
+Simulacije u animaciji Mirčeski Filip
+
+1
+
+12:15
+
+13:45
+
+L3 (RC)
+
+rač.vežbe
+
+Simulacije u animaciji Mirčeski Filip
+
+3
+
+13:15
+
+14:45
+
+L5 (RC)
+
+rač.vežbe
+
+WEB dizajn
+
+Paunović Aleksa
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Kekeljević dr Igor,
+
+SVI
+
+14:15
+
+16:00
+
+202
+
+Pred.
+
+WEB dizajn
+
+Banjac dr Bojan
+
+SVI
+
+16:15
+
+19:00
+
+202
+
+Pred.
+
+Simulacije u animaciji Perišić dr Ana
+
+SVI
+
+19:15
+
+21:00
+
+202
+
+Pred.
+
+Storyboard
+
+Vujanović dr Miloš
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+4(1-12)
+
+07:00
+
+08:30
+
+NTP-116
+
+lab.vežbe
+
+Digitalna obrada slike u animacijama Kljajić Jovana
+
+1
+
+07:45
+
+10:15
+
+306
+
+rač.vežbe
+
+Animacija karaktera
+
+Kekeljević dr Igor
+
+4
+
+10:30
+
+13:00
+
+306
+
+rač.vežbe
+
+Animacija karaktera
+
+Kekeljević dr Igor
+
+2
+
+13:15
+
+15:45
+
+306
+
+rač.vežbe
+
+Storyboard
+
+Đurić dr Isidora
+
+3
+
+16:00
+
+18:30
+
+306
+
+rač.vežbe
+
+Animacija karaktera
+
+Golić Sonja
+
+2(1-12)
+
+17:00
+
+18:30
+
+NTP-116
+
+lab.vežbe
+
+Digitalna obrada slike u animacijama Kljajić Jovana
+
+1(13-),2(13-),
+
+18:45
+
+20:15
+
+NTP-116
+
+lab.vežbe
+
+Digitalna obrada slike u animacijama Kljajić Jovana
+
+3(13-),4(13-)
+
+S U B O T A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+12:30
+
+14:00
+
+306
+
+rač.vežbe
+
+Simulacije u animaciji Varga Marija
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 04:28, Strana: 4
+
+RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
+
+Animacija u inženjerstvu P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+10:30 12:00
+
+306
+
+rač.vežbe
+
+Primena inženjerske animacije Kuzmanović dr Nenad
+
+SVI
+
+14:15 16:00
+
+109
+
+Pred.
+
+Interaktivna inženjerska grafika Krstanović dr Lidija
+
+SVI
+
+16:15 18:00
+
+109
+
+Pred.
+
+Primena inženjerske animacije Nedučin dr Dejana
+
+2
+
+18:15 19:45
+
+AR3
+
+rač.vežbe
+
+Metode 3D digitalizacije Santoši dr Željko
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+2
+
+07:00 08:30
+
+L3 (RC)
+
+rač.vežbe
+
+Primena inženjerske animacije Kuzmanović dr Nenad
+
+2
+
+08:45 10:15
+
+L3 (RC)
+
+rač.vežbe
+
+Napredne prikazne tehnologije Varga Marija
+
+3
+
+08:45 10:15
+
+MI A2-4A
+
+rač.vežbe
+
+Metode 3D digitalizacije Santoši dr Željko
+
+SVI
+
+10:30 12:00
+
+207
+
+Pred.
+
+Napredne prikazne tehnologije Krstanović dr Lidija
+
+1
+
+17:45 20:15
+
+L3 (RC)
+
+rač.vežbe
+
+Interaktivna inženjerska grafika Krstanović dr Lidija
+
+3
+
+20:30 22:00
+
+L3 (RC)
+
+rač.vežbe
+
+Primena inženjerske animacije Kuzmanović dr Nenad
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Tehnike pisanja i prezentacije teorijskog Obradović dr Ratko,
+
+SVI
+
+10:30 12:00
+
+201
+
+Pred.
+
+rada
+
+Kekeljević dr Igor
+
+2
+
+19:30 22:00
+
+L3 (RC)
+
+rač.vežbe
+
+Interaktivna inženjerska grafika Krstanović dr Lidija
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+07:45 10:15
+
+306
+
+rač.vežbe
+
+Interaktivna inženjerska grafika Varga Marija
+
+4
+
+12:45 14:15
+
+L3 (RC)
+
+rač.vežbe
+
+Generisanje prostora na osnovu slika Đurić dr Isidora
+
+1
+
+14:30 16:00
+
+L3 (RC)
+
+rač.vežbe
+
+Napredne prikazne tehnologije Varga Marija
+
+SVI
+
+16:15 19:00
+
+109
+
+Pred.
+
+Metode 3D digitalizacije Santoši dr Željko
+
+SVI
+
+19:15 21:00
+
+109
+
+Pred.
+
+Generisanje prostora na osnovu slika Stojaković dr Vesna
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+4
+
+07:00 08:30
+
+L3 (RC)
+
+rač.vežbe
+
+Primena inženjerske animacije Kuzmanović dr Nenad
+
+4
+
+08:45 10:15
+
+AR2
+
+rač.vežbe
+
+Metode 3D digitalizacije Santoši dr Željko
+
+1
+
+08:45 10:15
+
+L3 (RC)
+
+rač.vežbe
+
+Generisanje prostora na osnovu slika Đurić dr Isidora
+
+1
+
+10:30 12:00
+
+307
+
+rač.vežbe
+
+Metode 3D digitalizacije Santoši dr Željko
+
+3
+
+13:15 14:45
+
+L3 (RC)
+
+rač.vežbe
+
+Napredne prikazne tehnologije Varga Marija
+
+3
+
+15:00 16:30
+
+L3 (RC)
+
+rač.vežbe
+
+Generisanje prostora na osnovu slika Obradović Miloš
+
+2
+
+16:45 18:15
+
+L3 (RC)
+
+rač.vežbe
+
+Generisanje prostora na osnovu slika Obradović Miloš
+
+S U B O T A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+4
+
+08:00 10:30
+
+L3 (RC)
+
+rač.vežbe
+
+Interaktivna inženjerska grafika Varga Marija
+
+4
+
+10:45 12:15
+
+L3 (RC)
+
+rač.vežbe
+
+Napredne prikazne tehnologije Varga Marija
+
+Napomena:
+
+Svi studenti treba da urade STRUČNU PRAKSU, obratiti se Prof.dr Ratku Obradoviću Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.09.2023. 08:53, Strana: 5
+
+RASPORED PREDAVANJA - Master akademske studije 1 Semestar
+
+Animacija u inženjerstvu P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+18:30
+
+20:00
+
+306
+
+rač.vežbe
+
+Proširena i virtuelna realnost Obradović Miloš
+
+1
+
+20:15
+
+21:45
+
+306
+
+rač.vežbe
+
+Napredne simulacije u animaciji Perišić dr Ana
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+11:15
+
+13:00
+
+AH6A
+
+Pred.
+
+Napredne simulacije u animaciji Perišić dr Ana
+
+SVI
+
+13:15
+
+15:00
+
+AH6A
+
+Pred.
+
+Interdisciplinarna naučna vizualizacija Krstanović dr Lidija
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+16:45
+
+19:15
+
+L3 (RC)
+
+rač.vežbe
+
+Napredne metode za snimanje i analizu kretanja Varga Marija
 
 Č E T V R T A K
 
@@ -1746,27 +1880,27 @@ Izvođač
 
 SVI
 
-14:15
+16:15
 
-16:00
+18:00
 
-305 (CMS)
+AH4
 
 Pred.
 
-Matematička teorija igara Bajić-Papuga dr Buda
+Proširena i virtuelna realnost Jovanović dr Marko
 
 1
 
-16:15
+18:30
 
-17:45
+20:00
 
-305 (CMS)
+306
 
-aud.vežbe
+rač.vežbe
 
-Matematička teorija igara Bajić-Papuga dr Buda
+Interdisciplinarna naučna vizualizacija Paunović Aleksa
 
 P E T A K
 
@@ -1784,17 +1918,49 @@ Naziv Predmeta
 
 Izvođač
 
-1
+Obradović dr Ratko,
+
+SVI
+
+14:15
+
+17:00
+
+AH7
+
+Pred.
+
+Algoritmi za renderovanje Vasiljević dr Ivana
+
+Raković dr Mirko,
+
+SVI
 
 17:15
 
-19:45
+19:00
 
-F 318
+AH7
+
+Pred.
+
+Napredne metode za snimanje i analizu kretanja Krstanović dr Lidija
+
+1
+
+19:15
+
+21:45
+
+306
 
 rač.vežbe
 
-Proces razvoja računarskih igara Bursać Vasilije
+Algoritmi za renderovanje Vasiljević dr Ivana
+
+Napomena:
+
+Studenti treba da urade STRUČNU PRAKSU, obratiti se PROF. DR. RATKU OBRADOVIĆU.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 

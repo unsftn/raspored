@@ -1,26 +1,26 @@
-Raspored nastave za školsku 2022/2023 godinu
+Raspored nastave za školsku 2023/2024 godinu
 
 
 
-Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a se moraju pridržavati zvaničnog rasporeda nastave.
+Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a moraju se pridržavati zvaničnog rasporeda nastave.
 
 Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
 
-Mole se svi zaposleni i studenti FTN-a da tokom prve dve nedelje semestra stalno prate raspored, na internet stranici FTN-a www.ftn.uns.ac.rs u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
+Mole se svi da tokom prve dve nedelje semestra stalno prate raspored nastave na internet stranici FTN-a u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
 
 Oznake korišćene u rasporedu:
 
 1. Brojevi napisani u zagradi iza broja grupe
 
-- primer prvi 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
+- primer prvi: 1(1-16), znači da vežbe imaju studenti prve grupe i to od broja 1 do broja 16 po spisku Studentske službe
 
-- primer drugi 1(17-), znači da da vežbe imaju studenti prve grupe od broja 17 do kraja grupe po spisku Studentske službe
+- primer drugi: 1(17-), znači da da vežbe imaju studenti prve grupe od broja 17 do kraja grupe po spisku Studentske službe
 
-- primer treći 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)[1(13-24)]. Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24). Ako se smenjuje samo jedna grupa onda je u rasporedu napisano ovako 1(sv.dr.ned.).
+- primer treći: 1(2), znači da se na vežbama svake druge nedelje smenjuju studenti grupe 1 i grupe 2. Ukoliko se dogodi da treba da se smenjuju delovi grupa ovaj primer može biti napisan i ovako 1(1-12)(1(13-24)). Ovo znači da se svake nedelje smenjuju studenti grupe 1(1-12) i studenti takođe grupe 1(13-24).
 
-2. Umesto broja grupe napisano je Opredeljeni
+- primer četvrti: 1 sv.dr.ned. , znači da se vežbe za grupu 1 izvode svake druge nedelje 2. Umesto broja grupe napisano je Opredeljeni
 
-- izabrani predmet slušaju samo studenti koji su ga izabrali za slušanje Obavezno u vašem internet pretraživaču uraditi “Reload current page” ili “Refresh”, da bi se učitao trenutno važeći rapored predavanja sa FTN servera.
+- izabrani predmet slušaju samo studenti koji su izabrali taj predmet Obavezno u vašem internet pretraživaču osvežite stranicu, da bi se učitao trenutno važeći rapored nastave sa FTN servera.
 
 
 
@@ -30,17 +30,15 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad
-
-Poslednja izmena: 11.01.2023. 05:39, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.08.2023. 06:39, Strana: 1
 
 RASPORED PREDAVANJA - Master akademske studije
 
-2 Semestar
+1 Semestar
 
 Informaciona bezbednost
 
-Nastava će se izvoditi u organizaciji departmana.
+Nastava će se izvoditi mentorski.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 

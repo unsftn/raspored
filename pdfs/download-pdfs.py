@@ -4,14 +4,14 @@ import requests
 from requests_html import HTMLSession
 
 FTN_SITE = "http://ftn.uns.ac.rs"
-ROOT_PAGE = f"{FTN_SITE}/1344340502/raspored-nastave-za-letnji-semestar-skolske-2022-2023"
+ROOT_PAGE = f"{FTN_SITE}/1344363496/raspored-nastave-za-zimski-semestar-2023-2024"
 
 pdfs = {
     "animacija-u-inzenjerstvu": "ani.pdf",
     "arhitektura": "arh.pdf",
     "biomedicinsko-inzenjerstvo": "bio.pdf",
     "ciste-energetske-tehnologije": "cet.pdf",
-    "digitalne-tehnike--dizajn-i-produkcija-u-arhitekturi": "dtdpa.pdf",
+    #"digitalne-tehnike--dizajn-i-produkcija-u-arhitekturi": "dtdpa.pdf",
     "energetika--elektronika-i-telekomunikacije": "eet.pdf",
     "geodezija-i-geoinformatika": "geo.pdf",
     "graficko-inzenjerstvo-i-dizajn": "gi.pdf",
@@ -19,7 +19,7 @@ pdfs = {
     "industrijsko-inzenjerstvo": "ii.pdf",
     "inzenjerski-menadzment": "im.pdf",
     "inzenjerstvo-informacionih-sistema": "iis.pdf",
-    "inzenjerstvo-inovacija": "inov.pdf",
+    #inzenjerstvo-inovacija": "inov.pdf",
     "informacioni-inzenjering": "inz.pdf",
     "informaciona-bezbednost": "inb.pdf",
     "inzenjerstvo-tretmana-i-zastita-voda": "itv.pdf",
