@@ -53,4 +53,12 @@ Ili ako je potrebno samo za određenu učionicu (može se navesti samo deo imena
 textx generate pdfs/all.raspored --target izvestaj --ucionica 311
 ```
 
+Izveštaj o predmetima i grupama po zadatim laboratorijama može se kreirati sa:
+
+```
+textx generate pdfs/all.raspored --target izvestajlabs --ucionice NTP-307,NTP-309,NTP-311,INT1,F314 > izvestaj/nase-laboratorije.txt
+```
+
+`
+
 

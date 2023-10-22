@@ -14,8 +14,12 @@ def raspored_language():
         return obj.strip()
     def predmet_processor(obj):
         return obj.replace('\n', ' ')
+    def studijskiprogram_processor(obj):
+        return obj.replace('\n', ' ').strip()
+
     mm.register_obj_processors({'Izvođač': izvođač_processor,
-                                'Predmet': predmet_processor})
+                                'Predmet': predmet_processor,
+                                'StudijskiProgram': studijskiprogram_processor})
 
     # Here if necessary register object processors or scope providers
     # http://textx.github.io/textX/stable/metamodel/#object-processors
@@ -31,6 +35,7 @@ DANI = [
     'PETAK',
     'SUBOTA'
 ]
+
 
 @generator('raspored', 'izvestaj')
 def generate_izvestaj(metamodel, model, output_path, overwrite, debug, **custom_args):
@@ -92,3 +97,20 @@ def generate_izvestaj(metamodel, model, output_path, overwrite, debug, **custom_
                                                 termini_blok_po_ucionicama[ucionica]),
                                          key=lambda t: (t.od, t.datum)):
                         print(f"\t\t{termin.datum} {termin.od}-{termin.do}  {termin.ucionica}  {termin.predmet}")
+
+
+@generator('raspored', 'izvestajlabs')
+def generate_izvestaj_labs(metamodel, model, output_path, overwrite, debug, **custom_args):
+    ucionice = custom_args.get('ucionice', "").split(",")
+
+    predmeti = set()
+
+    for semestar in model.semestri:
+        for dan in semestar.termini_po_danima:
+            for termin in dan.termin:
+                if not ucionice or termin.učionica in ucionice:
+                    predmeti.add((semestar.program, termin.grupa, termin.predmet, termin.učionica))
+
+    print("Stud. prog, Grupa, Predmet, Učionica")
+    for predmet in predmeti:
+        print(','.join([f'"{p}"' for p in predmet]))

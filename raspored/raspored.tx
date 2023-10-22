@@ -4,12 +4,15 @@ Raspored:
 
 Semestar:
     semestar=INT 'Semestar'
+    program=StudijskiProgram
     termini_po_danima+=TerminiZaDan;
 
 TerminiZaDan:
     (!DanIliSemestar /\w+|./)* dan=Dan Heder
     (!Termin /\w+|./)*
     termin+=Termin;
+
+StudijskiProgram[noskipws]: (!DanIliSemestar /\w+|\n|./)+;
 
 DanIliSemestar:
     Dan | INT 'Semestar';
