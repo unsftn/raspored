@@ -653,7 +653,7 @@ Programski jezici i strukture podataka Vasiljević Aleksandar
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 07:32, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.10.2023. 11:56, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -771,7 +771,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Marković Milorad
+Novi saradnik GM
 
 Erdeljan dr Aleksandar,
 
@@ -817,7 +817,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Novi saradnik MR
 
 Stojaković Nedeljko,
 
@@ -929,7 +929,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Novković Teodora
 
 Manasijević Aleksandar,
 
@@ -999,7 +999,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Novi saradnik AK
 
 7
 
@@ -1013,7 +1013,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Novi saradnik AP
 
 Stojaković Nedeljko,
 
@@ -1113,7 +1113,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Stepanović Mia
+Novi saradnik AP
 
 12
 
@@ -1127,7 +1127,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Matić Milica
+Novković Teodora
 
 5,11,14
 
@@ -1183,11 +1183,11 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Matić Milica
+Novković Teodora
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 07:32, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.10.2023. 11:56, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -1325,7 +1325,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Milošević Milena
+Novi saradnik MV
 
 1,3,6
 
@@ -1369,7 +1369,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Milošević Milena
+Novković Teodora
 
 2,4,13
 
@@ -1413,7 +1413,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Milošević Milena
+Novković Teodora
 
 Manasijević Aleksandar,
 
@@ -1579,7 +1579,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Ivanović Sandra
+Novi saradnik AK
 
 13
 
@@ -1657,7 +1657,7 @@ Kiš Maria
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 06:00, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.10.2023. 11:26, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -2223,7 +2223,7 @@ rač.vežbe
 
 Baze podataka 1
 
-Todorović Nikola
+Špica Sanja
 
 6
 
@@ -3435,7 +3435,7 @@ Metode optimizacije - u prvih pet nedelja semestra izvodiće se samo auditorne v
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 29.09.2023. 05:07, Strana: 7
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.10.2023. 04:18, Strana: 7
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -3859,18 +3859,6 @@ Projektovanje softvera
 
 Radaković Danijel
 
-4
-
-13:30 15:00
-
-NTP-312
-
-rač.vežbe
-
-Internet softverske arhitekture
-
-Kovačević Ivana
-
 2
 
 14:00 15:30
@@ -3882,6 +3870,18 @@ rač.vežbe
 Projektovanje softvera
 
 Radaković Danijel
+
+4
+
+15:00 16:30
+
+MI A2-4A
+
+rač.vežbe
+
+Internet softverske arhitekture
+
+Kovačević Ivana
 
 3
 
@@ -14749,7 +14749,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 05:05, Strana: 19
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 04:24, Strana: 19
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -14895,6 +14895,8 @@ Neuronske mreže
 
 Vidaković Dragan
 
+Trifunović Petar,
+
 61
 
 19:00
@@ -14905,7 +14907,7 @@ MI A2-1
 
 rač.vežbe
 
-Računarski sistemi visokih performansi Trifunović Petar
+Računarski sistemi visokih performansi Horvat Nebojša
 
 U T O R A K
 
@@ -15077,18 +15079,6 @@ Upravljanje poslovnim procesima
 
 Šarenac Balša
 
-61
-
-15:15
-
-18:00
-
-NTP-316
-
-Pred.
-
-Paralelni i distribuirani algoritmi i strukture podataka Gajić dr Dušan
-
 13
 
 16:00
@@ -15128,6 +15118,20 @@ NTP-417
 Pred.
 
 Zaštita i oporavak softverskih sistema Luburić dr Nikola
+
+61
+
+18:15
+
+21:00
+
+NTP-001
+
+Pred.
+
+Računarstvo u oblaku
+
+Petrović dr Veljko
 
 21
 
@@ -15247,20 +15251,6 @@ Pred.
 
 Tehnike i alati za dizajniranje animacije Vasiljević dr Ivana
 
-61
-
-13:15
-
-16:00
-
-NTP-312
-
-Pred.
-
-Računarstvo u oblaku
-
-Petrović dr Veljko
-
 Savić dr Goran,
 
 31
@@ -15321,7 +15311,7 @@ Upravljanje poslovnim procesima
 
 19:00
 
-NTP-312
+AH5
 
 Pred.
 
@@ -15341,6 +15331,8 @@ Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
 
 14,31,51
 
+Jovanović Jovana,
+
 61
 
 19:30
@@ -15351,11 +15343,11 @@ MI A2-3
 
 rač.vežbe
 
-Paralelne i distribuirane arhitekture i jezici Jovanović Jovana
+Paralelne i distribuirane arhitekture i jezici Anišić Helena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 05:05, Strana: 20
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 04:24, Strana: 20
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -15405,11 +15397,9 @@ Bursać Vasilije
 
 MI A2-1
 
-rač.vežbe
+Pred.
 
-Računarstvo u oblaku
-
-Anišić Helena
+Paralelni i distribuirani algoritmi i strukture podataka Gajić dr Dušan
 
 13
 
@@ -15571,6 +15561,8 @@ Neuronske mreže
 
 Slivka dr Jelena
 
+Horvat Nebojša,
+
 61
 
 17:30
@@ -15581,7 +15573,7 @@ MI A2-1
 
 rač.vežbe
 
-Paralelni i distribuirani algoritmi i strukture podataka Horvat Nebojša
+Paralelni i distribuirani algoritmi i strukture podataka Trifunović Petar
 
 31
 
@@ -15833,6 +15825,8 @@ Pred.
 
 Arhitekture sistema velikih skupova podataka Dimitrieski dr Vladimir
 
+Todorović Nikola,
+
 61
 
 11:15
@@ -15843,7 +15837,23 @@ MI A2-1
 
 rač.vežbe
 
-Arhitekture sistema velikih skupova podataka Todorović Nikola
+Arhitekture sistema velikih skupova podataka Tomić Miroslav
+
+Anišić Helena,
+
+61
+
+14:00
+
+16:30
+
+MI A2-1
+
+rač.vežbe
+
+Računarstvo u oblaku
+
+Jovanović Jovana
 
 Napomena:
 
@@ -15861,7 +15871,7 @@ Stručna oblast 6: Računarstvo visokih performansi grupa broj 61
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.09.2023. 05:14, Strana: 21
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.10.2023. 10:30, Strana: 21
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -16033,27 +16043,27 @@ Izvođač
 1
 
 
-13:30
+12:45
 
-16:00
+15:15
+
+MI B4-4A
+
+rač.vežbe
+
+Totalno integrisani sistemi automatskog upravljanja Jeličić Boris
+
+1
+
+15:30
+
+18:00
 
 MI B4-4A
 
 rač.vežbe
 
 Modeliranje i optimizacija učenjem iz podataka Bugarski dr Vladimir
-
-1
-
-16:15
-
-18:45
-
-MI B4-4A
-
-rač.vežbe
-
-Totalno integrisani sistemi automatskog upravljanja Čongradac dr Velimir
 
 BINZ
 
@@ -16066,6 +16076,18 @@ NTP-411
 Pred.
 
 Neuralne proteze i neuralni interfejsi Jorgovanović dr Nikola
+
+AUS
+
+18:15
+
+21:00
+
+NTP-418
+
+Pred.
+
+Distribuirani upravljački sistemi Erdeljan dr Aleksandar
 
 4
 
@@ -16111,7 +16133,7 @@ SVI
 
 15:00
 
-MI B4-4A
+AH7
 
 Pred.
 
@@ -16174,18 +16196,6 @@ Izvođač
 
 AUS
 
-
-13:15
-
-16:00
-
-MI B4-4A
-
-Pred.
-
-Distribuirani upravljački sistemi Erdeljan dr Aleksandar
-
-AUS
 
 16:15
 

@@ -486,7 +486,7 @@ Napomena:
 
 Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - niži srednji (2+0+0) 2. Nemački jezik - niži srednji (2+0+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2023. 06:02, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.10.2023. 10:48, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -558,6 +558,8 @@ Naziv Predmeta
 
 Izvođač
 
+Krstić Dušan,
+
 4
 
 07:30
@@ -568,7 +570,7 @@ L5 (RC)
 
 rač.vežbe
 
-Poslovni informacioni sistemi Krstić Dušan
+Poslovni informacioni sistemi Todorić Anđela
 
 2
 
@@ -630,6 +632,8 @@ rač.vežbe
 
 Algoritmi i strukture podataka Gajić Natalija
 
+Todorić Anđela,
+
 5
 
 14:00
@@ -640,7 +644,7 @@ Algoritmi i strukture podataka Gajić Natalija
 
 rač.vežbe
 
-Poslovni informacioni sistemi Todorić Anđela
+Poslovni informacioni sistemi Krstić Dušan
 
 S R E D A
 
@@ -700,7 +704,7 @@ Arhitektura računara i operativni sistemi Gladić Dejana
 
 19:30
 
-L6 (RC)
+MI A2-4A
 
 rač.vežbe
 
@@ -864,9 +868,73 @@ rač.vežbe
 
 Algoritmi i strukture podataka Katin Andrej
 
+S U B O T A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Stari
+
+Petrovački Jelena,
+
+08:00
+
+10:30
+
+L1 (RC)
+
+rač.vežbe
+
+Arhitektura računara i operativni sistemi studenti
+
+Gladić Dejana
+
+Stari studenti
+
+Katin Andrej,
+
+08:00
+
+10:30
+
+L5 (RC)
+
+rač.vežbe
+
+Algoritmi i strukture podataka (1-20)
+
+Gajić Natalija
+
+Stari studenti
+
+Katin Andrej,
+
+10:45
+
+13:15
+
+L1 (RC)
+
+rač.vežbe
+
+Algoritmi i strukture podataka (21-)
+
+Gajić Natalija
+
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 28.09.2023. 06:44, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.10.2023. 10:34, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1172,29 +1240,31 @@ Dizajnerski obrasci
 
 Novi saradnik 183 S1
 
+Gladić Dejana,
+
 3
 
-15:00
+15:15
 
-16:30
+17:45
 
-MI A2-4A
+307
 
 rač.vežbe
 
-Metode i tehnike upravljanja projektima Graić Igor
+Projektovanje baza podataka Antanasijević Dajana
 
 3
 
-16:45
+18:00
 
-19:15
+19:30
 
 AR2
 
 rač.vežbe
 
-Projektovanje baza podataka Gladić Dejana
+Metode i tehnike upravljanja projektima Graić Igor
 
 2
 
@@ -1206,7 +1276,7 @@ AR3
 
 rač.vežbe
 
-Projektovanje baza podataka Petrovački Jelena
+Projektovanje baza podataka Spasojević Ivana
 
 P E T A K
 
@@ -1338,6 +1408,8 @@ rač.vežbe
 
 Projektovanje baza podataka Gladić Dejana
 
+Antanasijević Dajana,
+
 1
 
 15:00
@@ -1348,7 +1420,7 @@ Projektovanje baza podataka Gladić Dejana
 
 rač.vežbe
 
-Projektovanje baza podataka Antanasijević Dajana
+Projektovanje baza podataka Spasojević Ivana
 
 5
 

@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.09.2023. 09:55, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 12:32, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -434,7 +434,7 @@ Novi saradnik 531 S1
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2023. 06:49, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 09:16, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -478,7 +478,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić dr Miloš
+Novi saradnik PA
 
 U T O R A K
 
@@ -546,7 +546,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić dr Miloš
+Novi saradnik PA
 
 3
 
@@ -716,7 +716,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić dr Miloš
+Novi saradnik PA
 
 4
 
@@ -730,7 +730,7 @@ rač.vežbe
 
 Logičko projektovanje računarskih sistema 1
 
-Subotić dr Miloš
+Novi saradnik PA
 
 SVI
 
@@ -1214,7 +1214,7 @@ Optimizacioni algoritmi i nelinearno programiranje - u prvih pet nedelja semestr
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2023. 09:46, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 05.10.2023. 09:16, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1650,7 +1650,7 @@ Studenti treba da urade STRUČNU PRAKSU, obratiti se DOC. DR. SLAVICI KORDIĆ.
 
 Studenti biraju jedan od sledeća dva predmeta: 1. Teorija odlučivanja (2+1+1) 2. Samoobučavajući i adaptivni algoritmi (2+0+2) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.09.2023. 04:50, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 10:52, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -1668,6 +1668,8 @@ Naziv Predmeta
 
 Izvođač
 
+Radišić dr Mladen,
+
 SVI
 
 11:15
@@ -1678,7 +1680,7 @@ AR1
 
 Pred.
 
-Kvantitativne metode upravljanja rizicima Radišić dr Mladen
+Kvantitativne metode upravljanja rizicima Ferenčak dr Miroslav
 
 1
 

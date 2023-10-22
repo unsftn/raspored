@@ -314,7 +314,7 @@ Osnovi računara
 
 Marčićević dr Željko Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.09.2023. 06:11, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 05.10.2023. 04:14, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 3 Semestar
 
@@ -356,7 +356,7 @@ MI A2-4
 
 rač.vežbe
 
-Platforme za objektno programiranje Dragišić Jelena
+Platforme za objektno programiranje Todorović Nenad
 
 1
 
@@ -380,7 +380,7 @@ MI A2-4
 
 rač.vežbe
 
-Platforme za objektno programiranje Dragišić Jelena
+Platforme za objektno programiranje Todorović Nenad
 
 3
 
@@ -494,7 +494,7 @@ NTP-307
 
 rač.vežbe
 
-Platforme za objektno programiranje Lukić Aleksandar
+Platforme za objektno programiranje Novi saradnik 215 S6
 
 2
 
@@ -592,7 +592,7 @@ NTP-311
 
 rač.vežbe
 
-Platforme za objektno programiranje Dragišić Jelena
+Platforme za objektno programiranje Todorović Nenad
 
 SVI
 
