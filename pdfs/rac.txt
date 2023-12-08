@@ -2337,7 +2337,7 @@ Metode optimizacije - u prvih pet nedelja semestra izvodiće se samo auditorne v
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 06:02, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.10.2023. 06:23, Strana: 5
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -2457,18 +2457,6 @@ Elektronika
 
 Novi asistent - ESiA 4
 
-34
-
-08:30
-
-11:00
-
-NTP-504
-
-rač.vežbe
-
-Operativni sistemi za rad u realnom vremenu Bokan Dejan
-
 31
 
 09:30
@@ -2510,20 +2498,6 @@ rač.vežbe
 Osnovi računarskih mreža
 
 Kenjić Dušan
-
-34
-
-11:15
-
-12:45
-
-NTP-504
-
-rač.vežbe
-
-Elektronika
-
-Novi asistent - ESiA 4
 
 31
 
@@ -2580,8 +2554,10 @@ Naziv Predmeta
 Izvođač
 
 
-31,32,33,34 07:30
+31,32,33
 
+
+07:30
 
 09:00
 
@@ -2729,20 +2705,6 @@ Metode optimizacije
 
 Mitrović Aleksandra
 
-34
-
-11:15
-
-12:45
-
-NTP-506
-
-rač.vežbe
-
-Osnovi računarskih mreža
-
-Subotić dr Miloš
-
 33
 
 11:15
@@ -2757,21 +2719,9 @@ Elektronika
 
 Bratić Stojanka
 
-34
+31,32,33
 
-13:30
-
-15:00
-
-NTP-415
-
-rač.vežbe
-
-Metode optimizacije
-
-Bulatović Jelena
-
-31,32,33,34 15:15
+15:15
 
 16:45
 
@@ -2837,34 +2787,6 @@ rač.vežbe
 
 Operativni sistemi za rad u realnom vremenu Bokan Dejan
 
-34
-
-09:30
-
-11:00
-
-NTP-505
-
-rač.vežbe
-
-Elektronika
-
-Novi asistent - ESiA 4
-
-34
-
-11:15
-
-12:45
-
-NTP-507
-
-rač.vežbe
-
-Algoritmi digitalne obrade zvuka
-
-Savić Jasmina
-
 33
 
 11:15
@@ -2927,7 +2849,7 @@ Metode optimizacije - u prvih pet nedelja semestra izvodiće se samo auditorne v
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 05:59, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.10.2023. 11:15, Strana: 6
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -3073,7 +2995,7 @@ Tehnologije računarskih upravljačkih sistema Kulić dr Filip
 
 15:00
 
-NTP-410
+NTP-411
 
 rač.vežbe
 
@@ -4799,18 +4721,14 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predm
 
-
-
-
-
-d e
-
-
-m t: N
+Predmet: N
 
 
 S a
@@ -5603,18 +5521,14 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predm
 
-
-
-
-
-d e
-
-
-m t: Na
+Predmet: Na
 
 
 O p
@@ -6685,18 +6599,14 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predm
 
-
-
-
-
-d e
-
-
-m t: N
+Predmet: N
 
 
 S a
@@ -7887,18 +7797,14 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
 
-Predm
 
-
-
-
-
-d e
-
-
-m t: Nap
+Predmet: Nap
 
 
 Me re
@@ -10303,7 +10209,7 @@ Predm
 red et:
 
 
-meti M
+eti M
 
 
 : ul
@@ -11479,7 +11385,7 @@ Predm
 red et:
 
 
-meti M
+eti M
 
 
 : Pu
@@ -11513,7 +11419,9 @@ mout
 
 b om
 
-ilsk ob
+ilsk o
+
+o b
 
 g ils
 
@@ -12643,7 +12551,7 @@ Predm
 red et:
 
 
-meti M
+eti M
 
 
 : u
@@ -13715,7 +13623,7 @@ Predm
 red et:
 
 
-meti M
+eti M
 
 
 : u
@@ -14749,7 +14657,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 04:24, Strana: 19
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.10.2023. 05:39, Strana: 19
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -14776,7 +14684,7 @@ Naziv Predmeta
 Izvođač
 
 
-11,12,13,14
+11,12
 
 
 07:15
@@ -14805,7 +14713,7 @@ Jezici specifični za domen
 
 Dejanović dr Igor
 
-11,12,13,14
+11,12
 
 10:15
 
@@ -14930,7 +14838,7 @@ Naziv Predmeta
 Izvođač
 
 
-11,12,13,14,21
+11,12,21
 
 
 07:30
@@ -15037,18 +14945,6 @@ Sistemi elektronskog plaćanja
 
 Kovačević Ivana
 
-13
-
-14:15
-
-15:45
-
-NTP-311
-
-rač.vežbe
-
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
-
 Gostojić dr Stevan,
 
 31
@@ -15064,34 +14960,6 @@ Pred.
 Pravna informatika
 
 Marković dr Marko (M)
-
-14
-
-15:45
-
-17:15
-
-NTP-309
-
-rač.vežbe
-
-Upravljanje poslovnim procesima
-
-Šarenac Balša
-
-13
-
-16:00
-
-17:30
-
-NTP-307
-
-rač.vežbe
-
-Napredna Internet infrastruktura
-
-Vuković dr Željko
 
 12
 
@@ -15196,20 +15064,6 @@ Vučinić Milica
 rač.vežbe
 
 Upravljanje konfiguracijom softvera Mijatov Vanja
-
-14
-
-09:30
-
-11:00
-
-NTP-309
-
-rač.vežbe
-
-Sistemi elektronskog plaćanja
-
-Kovačević Ivana
 
 21
 
@@ -15317,7 +15171,7 @@ Pred.
 
 Paralelne i distribuirane arhitekture i jezici Dragan dr Dinu
 
-11,12,13
+11,12,31,51
 
 18:15
 
@@ -15328,8 +15182,6 @@ Paralelne i distribuirane arhitekture i jezici Dragan dr Dinu
 Pred.
 
 Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
-
-14,31,51
 
 Jovanović Jovana,
 
@@ -15347,7 +15199,7 @@ Paralelne i distribuirane arhitekture i jezici Anišić Helena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 04:24, Strana: 20
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.10.2023. 05:39, Strana: 20
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -15401,20 +15253,6 @@ Pred.
 
 Paralelni i distribuirani algoritmi i strukture podataka Gajić dr Dušan
 
-13
-
-08:00
-
-09:30
-
-AR3
-
-rač.vežbe
-
-Sistemi elektronskog plaćanja
-
-Trajković Anđela
-
 21
 
 08:00
@@ -15426,30 +15264,6 @@ NTP-222
 rač.vežbe
 
 Metodologija brzog razvoja softvera Todorović Nenad
-
-13
-
-09:45
-
-11:15
-
-AR3
-
-rač.vežbe
-
-Upravljanje digitalnim dokumentima Mršulja Ivan
-
-14
-
-09:45
-
-11:15
-
-NTP-309
-
-rač.vežbe
-
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
 
 41
 
@@ -15514,18 +15328,6 @@ Vuković dr Željko
 15:15
 
 16:45
-
-NTP-309
-
-rač.vežbe
-
-Upravljanje digitalnim dokumentima Mršulja Ivan
-
-14
-
-17:00
-
-18:30
 
 NTP-309
 
@@ -15627,20 +15429,6 @@ rač.vežbe
 
 Upravljanje digitalnim dokumentima Mršulja Ivan
 
-14
-
-08:00
-
-09:30
-
-NTP-309
-
-rač.vežbe
-
-Napredna Internet infrastruktura
-
-Novi asistent
-
 31
 
 07:15
@@ -15667,7 +15455,7 @@ rač.vežbe
 
 Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
 
-11,12,13,14
+11,12
 
 10:30
 
@@ -15736,20 +15524,6 @@ Pred.
 Sistemi skladišta podataka
 
 Kordić dr Slavica
-
-13
-
-16:00
-
-17:30
-
-NTP-312
-
-rač.vežbe
-
-Upravljanje poslovnim procesima
-
-Šarenac Balša
 
 41
 
@@ -15857,7 +15631,7 @@ Jovanović Jovana
 
 Napomena:
 
-Studenti biraju jednu od 6 stručnih oblasti: Stručna oblast 1: Elektronsko poslovanje grupe broj 11,12,13,14
+Studenti biraju jednu od 6 stručnih oblasti: Stručna oblast 1: Elektronsko poslovanje grupe broj 11,12
 
 Stručna oblast 2: Softversko inženjerstvo grupe broj 21
 

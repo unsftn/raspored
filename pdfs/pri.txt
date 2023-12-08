@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.09.2023. 07:52, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2023. 08:20, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -380,7 +380,7 @@ Algebra
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 09:15, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2023. 10:12, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -1030,7 +1030,7 @@ Kaštelan dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 10:28, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.11.2023. 05:16, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1632,7 +1632,7 @@ NTP-A je oznaka za amfiteatar u prizemlju poslovnog dela NTP-a, glavni ulaz iz F
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.10.2023. 05:04, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.11.2023. 08:48, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1978,7 +1978,7 @@ NTP-A je oznaka za amfiteatar u prizemlju poslovnog dela NTP-a, glavni ulaz iz F
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 16.10.2023. 03:43, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 04.12.2023. 10:21, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -2158,7 +2158,7 @@ Cloud računarstvo u infrastrukturnim sistemima Turudić Slađana
 
 Opredeljeni
 
-16:15 19:00
+17:00 19:15
 
 AR5
 
@@ -2168,7 +2168,7 @@ Big data u infrastrukturnim sistemima Kupusinac dr Aleksandar
 
 Opredeljeni
 
-19:15 21:45
+19:30 21:45
 
 AR5
 

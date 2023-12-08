@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 12:32, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 11:32, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -434,7 +434,7 @@ Novi saradnik 531 S1
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 09:16, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 08:16, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -762,7 +762,7 @@ Kaštelan dr Ivan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 05:44, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 04:44, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -1214,7 +1214,7 @@ Optimizacioni algoritmi i nelinearno programiranje - u prvih pet nedelja semestr
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 05.10.2023. 09:16, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 30.10.2023. 04:09, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1400,7 +1400,7 @@ PII
 
 09:30
 
-L1
+AH7A
 
 Pred.
 
@@ -1612,7 +1612,7 @@ Lazić Ivan
 
 10:15
 
-L1
+AH7A
 
 aud.vežbe
 
@@ -1650,7 +1650,7 @@ Studenti treba da urade STRUČNU PRAKSU, obratiti se DOC. DR. SLAVICI KORDIĆ.
 
 Studenti biraju jedan od sledeća dva predmeta: 1. Teorija odlučivanja (2+1+1) 2. Samoobučavajući i adaptivni algoritmi (2+0+2) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.10.2023. 10:52, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 25.10.2023. 05:12, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -1902,9 +1902,7 @@ Arhitekture sistema velikih skupova podataka Todorović Nikola
 
 Napomena:
 
-Grupa broj 1 je grupe koja je upisana na- Informacioni inženjering (INZ) Nastava za Informacioni i analitički inženjering (IAI) izvodiće se mentorski.
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
+Grupa broj 1 je grupe koja je upisana na- Informacioni inženjering (INZ) Nastava za Informacioni i analitički inženjering (IAI) - nema upisanih studenata Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
 
 

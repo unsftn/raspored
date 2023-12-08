@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 09:11, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.11.2023. 04:25, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -204,7 +204,7 @@ rač.vežbe
 
 Uvod u programiranje
 
-Novi saradnik 183 S6
+Šaranović Maša
 
 3
 
@@ -358,7 +358,7 @@ Uvod u mikroprocesorske sisteme Đorđević Sofija
 
 rač.vežbe
 
-Uvod u inženjerstvo informacionih sistema Kijanović Sara
+Uvod u inženjerstvo informacionih sistema Melović Sandra
 
 3
 
@@ -372,7 +372,7 @@ rač.vežbe
 
 Uvod u programiranje
 
-Novi saradnik 183 S6
+Šaranović Maša
 
 2
 
@@ -384,7 +384,7 @@ L4 (RC)
 
 rač.vežbe
 
-Uvod u mikroprocesorske sisteme Novi saradnik 183 S6
+Uvod u mikroprocesorske sisteme Šaranović Maša
 
 5
 
@@ -396,7 +396,7 @@ L4 (RC)
 
 rač.vežbe
 
-Uvod u inženjerstvo informacionih sistema Komosar Aleksa
+Uvod u inženjerstvo informacionih sistema Melović Sandra
 
 5
 
@@ -486,7 +486,7 @@ Napomena:
 
 Svi studenti biraju jedan od sledeća dva strana jezika: 1. Engleski jezik - niži srednji (2+0+0) 2. Nemački jezik - niži srednji (2+0+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.10.2023. 10:48, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.11.2023. 04:17, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -582,7 +582,7 @@ L2 (RC)
 
 rač.vežbe
 
-Algoritmi i strukture podataka Gajić Natalija
+Algoritmi i strukture podataka Ijačić Irena
 
 3
 
@@ -630,7 +630,7 @@ MI B4-5
 
 rač.vežbe
 
-Algoritmi i strukture podataka Gajić Natalija
+Algoritmi i strukture podataka Ijačić Irena
 
 Todorić Anđela,
 
@@ -854,7 +854,7 @@ L2 (RC)
 
 rač.vežbe
 
-Algoritmi i strukture podataka Gajić Natalija
+Algoritmi i strukture podataka Ijačić Irena
 
 4
 
@@ -914,7 +914,7 @@ rač.vežbe
 
 Algoritmi i strukture podataka (1-20)
 
-Gajić Natalija
+Ijačić Irena
 
 Stari studenti
 
@@ -930,11 +930,11 @@ rač.vežbe
 
 Algoritmi i strukture podataka (21-)
 
-Gajić Natalija
+Ijačić Irena
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.10.2023. 10:34, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.11.2023. 04:12, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -978,7 +978,7 @@ rač.vežbe
 
 Dizajnerski obrasci
 
-Novi saradnik 183 S1
+Štaka Marko
 
 SVI
 
@@ -1120,7 +1120,7 @@ Izvođač
 
 rač.vežbe
 
-Mobilne informacione tehnologije Đorđević Sofija
+Mobilne informacione tehnologije Šaranović Maša
 
 2
 
@@ -1238,7 +1238,7 @@ rač.vežbe
 
 Dizajnerski obrasci
 
-Novi saradnik 183 S1
+Štaka Marko
 
 Gladić Dejana,
 
@@ -1318,7 +1318,7 @@ rač.vežbe
 
 Dizajnerski obrasci
 
-Novi saradnik 183 S1
+Štaka Marko
 
 4
 
@@ -1344,7 +1344,7 @@ rač.vežbe
 
 Dizajnerski obrasci
 
-Novi saradnik 183 S1
+Štaka Marko
 
 3
 
@@ -1394,7 +1394,7 @@ rač.vežbe
 
 Dizajnerski obrasci
 
-Novi saradnik 183 S1
+Štaka Marko
 
 5
 
@@ -1436,7 +1436,7 @@ Mobilne informacione tehnologije Đorđević Sofija
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 02.10.2023. 09:12, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.11.2023. 04:24, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1562,7 +1562,7 @@ L6 (RC)
 
 rač.vežbe
 
-Principi prezentacije i prepoznavanja oblika Novi saradnik 183 S1
+Principi prezentacije i prepoznavanja oblika Šaranović Maša
 
 4
 
@@ -1642,7 +1642,7 @@ L4 (RC)
 
 rač.vežbe
 
-Upravljanje razvojem informacionih sistema Gajić Natalija
+Upravljanje razvojem informacionih sistema Ijačić Irena
 
 3
 
@@ -1794,7 +1794,7 @@ Studenti treba da urade STRUČNU PRAKSU, obratiti se PROF. DR. DARKU STEFANOVIĆ
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.09.2023. 04:49, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 15.11.2023. 07:42, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -1966,7 +1966,7 @@ L2 (RC)
 
 rač.vežbe
 
-Empirijsko softversko inženjerstvo Ramač Robert
+Empirijsko softversko inženjerstvo Katin Andrej
 
 Opredeljeni
 

@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.09.2023. 10:14, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.09.2023. 09:14, Strana: 1
 
 RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
 
@@ -340,7 +340,7 @@ Napomena:
 
 Algebra - računarske vežbe izvodiće se u organizaciji departmana Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 03.10.2023. 04:02, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.10.2023. 03:14, Strana: 2
 
 RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
 
@@ -644,7 +644,7 @@ rač.vežbe
 
 Organizacija podataka
 
-Špica Sanja
+Todorović Nikola
 
 2
 
@@ -736,7 +736,7 @@ Napredni algoritmi i strukture podataka Simić dr Miloš
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 10:28, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.11.2023. 04:11, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
 
@@ -898,6 +898,18 @@ Mobilne aplikacije
 
 Antešević Svetlana
 
+3
+
+17:15
+
+18:45
+
+NTP-311
+
+rač.vežbe
+
+Inženjerstvo serverskog sloja Filipović Dragana
+
 1
 
 17:30
@@ -1058,23 +1070,11 @@ Softverski obrasci i komponente Radaković Danijel
 
 1
 
-13:15
+11:15
 
-14:45
+12:45
 
-AR3
-
-rač.vežbe
-
-Inženjerstvo serverskog sloja Filipović Dragana
-
-3
-
-15:00
-
-16:30
-
-AR3
+MI B4-5
 
 rač.vežbe
 
@@ -1282,7 +1282,7 @@ NTP-A je oznaka za amfiteatar u prizemlju poslovnog dela NTP-a, glavni ulaz iz F
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 09:33, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 08:33, Strana: 4
 
 RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
 
@@ -1710,7 +1710,7 @@ Nastava za Izbornu grupu 2 će se izvoditi u organizaciji departmana.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.09.2023. 05:54, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 11:35, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 
@@ -2082,7 +2082,7 @@ Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
 
 Raspored možete pogledati na internet stranici FTN-a u delu Rasporedi i realizacija: www.ftn.uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.09.2023. 05:54, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 11:35, Strana: 6
 
 RASPORED PREDAVANJA - Master akademske studije 1 Semestar
 

@@ -12,7 +12,7 @@ TerminiZaDan:
     (!Termin /\w+|./)*
     termin+=Termin;
 
-StudijskiProgram[noskipws]: (!DanIliSemestar /\w+|\n|./)+;
+StudijskiProgram[noskipws]: (!DanIliSemestar /\w+\s*|\n|./)+;
 
 DanIliSemestar:
     Dan | INT 'Semestar';
