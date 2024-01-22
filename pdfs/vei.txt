@@ -4,7 +4,7 @@ Raspored nastave za školsku 2023/2024 godinu
 
 Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a moraju se pridržavati zvaničnog rasporeda nastave.
 
-Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
+Ukoliko postoje problemi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
 
 Mole se svi da tokom prve dve nedelje semestra stalno prate raspored nastave na internet stranici FTN-a u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
 
@@ -30,11 +30,13 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.08.2023. 07:02, Strana: 1
+Fakultet tehničkih nauka, Novi Sad
+
+Poslednja izmena: 10.01.2022. 08:52, Strana: 1
 
 RASPORED PREDAVANJA - Master akademske studije
 
-1 Semestar
+2 Semestar
 
 Veštačka inteligencija i mašinsko učenje
 
@@ -42,11 +44,13 @@ Nastava će se izvoditi mentorski.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 23.08.2023. 07:02, Strana: 2
+Fakultet tehničkih nauka, Novi Sad
+
+Poslednja izmena: 30.05.2023. 12:52, Strana: 2
 
 RASPORED PREDAVANJA - Master akademske studije
 
-3 Semestar
+4 Semestar
 
 Veštačka inteligencija i mašinsko učenje
 

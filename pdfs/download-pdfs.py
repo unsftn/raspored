@@ -4,7 +4,7 @@ import requests
 from requests_html import HTMLSession
 
 FTN_SITE = "http://ftn.uns.ac.rs"
-ROOT_PAGE = f"{FTN_SITE}/1344363496/raspored-nastave-za-zimski-semestar-2023-2024"
+ROOT_PAGE = f"{FTN_SITE}/1344367346/nacrt-rasporeda-nastave-za-letnji-semestar-2023-2024-godine"
 
 pdfs = {
     "animacija-u-inzenjerstvu": "ani.pdf",

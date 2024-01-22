@@ -1,6 +1,6 @@
 Raspored nastave za školsku 2023/2024 godinu Raspored nastave urađen je u skladu sa Pravilnikom o izradi rasporeda časova nastave i rasporeda ispita. Svi zaposleni i studenti FTN-a moraju se pridržavati zvaničnog rasporeda nastave.
 
-Ukoliko postoje problemi u vezi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
+Ukoliko postoje problemi sa rasporedom nastave, molimo Vas da se obratite prodekanu za nastavu na email: ftnraspored@uns.ac.rs.
 
 Mole se svi da tokom prve dve nedelje semestra stalno prate raspored nastave na internet stranici FTN-a u delu Rasporedi i realizacija, jer početkom semestra može doći do određenih promena rasporeda, dok su kasnije promene ređe i uslovljene objektivnim faktorima.
 
@@ -24,9 +24,9 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.09.2023. 09:14, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2024. 05:57, Strana: 1
 
-RASPORED PREDAVANJA - Osnovne akademske studije 1 Semestar
+R A S P O R E D P R E D A V A N J A 2 Semestar
 
 Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
 
@@ -46,31 +46,535 @@ Izvođač
 
 SVI
 
-14:15
+07:00
 
-16:00
+09:30
+
+NTP-A
+
+Pred.
+
+Objektno orijentisano programiranje 1
+
+Vidaković dr Milan
+
+SVI
+
+10:15
+
+12:00
 
 101
 
 Pred.
 
-Algebra
+Web dizajn
 
-Doroslovački dr Ksenija
+Zarić dr Miroslav
+
+SVI
+
+12:15
+
+14:00
+
+101
+
+Pred.
+
+Matematička analiza
+
+Medić dr Slavica
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+11:30
+
+13:00
+
+NTP-309
+
+rač.vežbe
+
+Objektno orijentisano programiranje 1
+
+Dragaš Bojana
+
+5
+
+12:15
+
+13:45
+
+L6 (RC)
+
+rač.vežbe
+
+Web dizajn
+
+Njegomir Marko
+
+SVI
+
+14:15
+
+16:00
+
+205
+
+Pred.
+
+Matematička analiza
+
+Medić dr Slavica
 
 SVI
 
 16:15
 
-19:00
+18:00
 
-101
+205
 
 Pred.
 
-Arhitektura računara
+Internet mreže
 
-Gajić dr Dušan
+Vuković dr Željko
+
+2
+
+18:15
+
+19:45
+
+L6 (RC)
+
+rač.vežbe
+
+Web dizajn
+
+Njegomir Marko
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+3
+
+07:30
+
+09:00
+
+NTP-307
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+1
+
+10:45
+
+12:15
+
+NTP-311
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+1
+
+12:25
+
+13:55
+
+L2 (RC)
+
+rač.vežbe
+
+Objektno orijentisano programiranje 1
+
+Jelić Milena
+
+4
+
+14:00
+
+15:30
+
+AR3
+
+rač.vežbe
+
+Objektno orijentisano programiranje 1
+
+Jelić Milena
+
+1
+
+14:15
+
+15:45
+
+L5 (RC)
+
+rač.vežbe
+
+Web dizajn
+
+Njegomir Marko
+
+3
+
+16:00
+
+17:30
+
+MI A2-4A
+
+rač.vežbe
+
+Web dizajn
+
+Njegomir Marko
+
+1,2
+
+16:00
+
+17:30
+
+309
+
+aud.vežbe
+
+Matematička analiza
+
+Tošić Stefan
+
+2
+
+17:45
+
+19:15
+
+NTP-307
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+4
+
+16:00
+
+17:30
+
+L2 (RC)
+
+rač.vežbe
+
+Algoritmi i strukture podataka Dragaš Bojana
+
+3,4,5
+
+17:45
+
+19:15
+
+309
+
+aud.vežbe
+
+Matematička analiza
+
+Tošić Stefan
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+2
+
+10:00
+
+11:30
+
+INT 1
+
+rač.vežbe
+
+Algoritmi i strukture podataka Dragaš Bojana
+
+1
+
+11:45
+
+13:15
+
+INT 1
+
+rač.vežbe
+
+Algoritmi i strukture podataka Dragaš Bojana
+
+4
+
+14:15
+
+15:45
+
+NTP-311
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+5
+
+15:00
+
+16:30
+
+NTP-309
+
+rač.vežbe
+
+Objektno orijentisano programiranje 1
+
+Dragaš Bojana
+
+4
+
+16:00
+
+17:30
+
+NTP-311
+
+rač.vežbe
+
+Web dizajn
+
+Njegomir Marko
+
+1,2
+
+16:15
+
+17:45
+
+207
+
+aud.vežbe
+
+Matematička analiza
+
+Tošić Stefan
+
+3,4,5
+
+18:00
+
+19:30
+
+207
+
+aud.vežbe
+
+Matematička analiza
+
+Tošić Stefan
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+5
+
+10:30
+
+12:00
+
+L5 (RC)
+
+rač.vežbe
+
+Algoritmi i strukture podataka Dragaš Bojana
+
+5
+
+12:15
+
+13:45
+
+NTP-307
+
+rač.vežbe
+
+Internet mreže
+
+Janković Eva
+
+3
+
+12:30
+
+14:00
+
+L5 (RC)
+
+rač.vežbe
+
+Algoritmi i strukture podataka Dragaš Bojana
+
+SVI
+
+14:15
+
+17:00
+
+NTP-001
+
+Pred.
+
+Algoritmi i strukture podataka Milosavljević dr Branko 2
+
+17:15
+
+18:45
+
+NTP-309
+
+rač.vežbe
+
+Objektno orijentisano programiranje 1
+
+Dragaš Bojana
+
+Napomena:
+
+NTP-A je oznaka za amfiteatar u prizemlju poslovnog dela NTP-a, glavni ulaz iz Fruškogorske ulice.
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2024. 05:31, Strana: 2
+
+R A S P O R E D P R E D A V A N J A 4 Semestar
+
+Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+08:15
+
+10:00
+
+205
+
+Pred.
+
+Operativni sistemi
+
+Savić dr Goran
+
+SVI
+
+10:15
+
+13:00
+
+205
+
+Pred.
+
+Specifikacija i modeliranje softvera Milosavljević dr Gordana 5
+
+13:15
+
+15:45
+
+INT 1
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Podunavac Milan
 
 U T O R A K
 
@@ -90,47 +594,63 @@ Izvođač
 
 SVI
 
-14:15
+10:15
 
-16:00
+13:00
 
-208
-
-Pred.
-
-Engleski jezik - viši
-
-Bulatović Vesna
-
-SVI
-
-16:15
-
-19:00
-
-208
+204
 
 Pred.
 
-Osnove programiranja
+Uvod u softversko inženjerstvo Luburić dr Nikola
 
-Milosavljević dr Branko
+4
 
-Horvat Nebojša,
+13:15
 
-1,5
+15:45
 
-19:30
-
-22:00
-
-MI A2-3
+INT 1
 
 rač.vežbe
 
-Arhitektura računara
+Specifikacija i modeliranje softvera Podunavac Milan
 
-Trifunović Petar
+3
+
+13:15
+
+14:45
+
+NTP-507
+
+rač.vežbe
+
+Paraleleno programiranje Pijetlović Stefan
+
+1
+
+14:15
+
+15:45
+
+L4 (RC)
+
+rač.vežbe
+
+Upravljanje informacijama Vignjević Nedeljko
+
+5
+
+16:00
+
+17:30
+
+L4 (RC)
+
+rač.vežbe
+
+Upravljanje informacijama Vignjević Nedeljko
 
 S R E D A
 
@@ -148,153 +668,35 @@ Naziv Predmeta
 
 Izvođač
 
-2
-
-07:30
-
-10:00
-
-L4 (RC)
-
-rač.vežbe
-
-Osnove programiranja
-
-Rajtarov Nataša
-
-SVI
-
-10:15
-
-12:00
-
-109A
-
-Pred.
-
-Algebra
-
-Doroslovački dr Ksenija
-
-SVI
-
-12:15
-
-14:00
-
-109A
-
-Pred.
-
-Sociologija tehnike
-
-Pejić dr Sonja
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-1,3,5(9-)
-
-07:45
-
-10:15
-
-310
-
-aud.vežbe
-
-Algebra
-
-Kiš Maria
-
 3
 
-10:45
+07:00
 
-13:15
+08:30
 
-NTP-312
-
-rač.vežbe
-
-Osnove programiranja
-
-Nikolić Lazar
-
-Horvat Nebojša,
-
-2,4
-
-14:15
-
-16:45
-
-MI A2-3
+MI A2-2
 
 rač.vežbe
 
-Arhitektura računara
+Baze podataka
 
-Trifunović Petar
+Tomić Miroslav
 
-2,4,5(1-8)
+1
 
-18:15
+08:00
 
-20:45
-
-101
-
-aud.vežbe
-
-Algebra
-
-Janjoš Aleksandar
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-3
-
-07:45
-
-10:15
+09:30
 
 NTP-316
 
 rač.vežbe
 
-Arhitektura računara
+Operativni sistemi
 
-Trifunović Petar
+Vještica Marko
 
-1
+3
 
 08:45
 
@@ -304,897 +706,107 @@ INT 1
 
 rač.vežbe
 
-Osnove programiranja
-
-Nikolić Lazar
-
-4
-
-11:30
-
-14:00
-
-INT 1
-
-rač.vežbe
-
-Osnove programiranja
-
-Nikolić Lazar
-
-5
-
-14:15
-
-16:45
-
-INT 1
-
-rač.vežbe
-
-Osnove programiranja
-
-Nikolić Lazar
-
-Napomena:
-
-Algebra - računarske vežbe izvodiće se u organizaciji departmana Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 24.10.2023. 03:14, Strana: 2
-
-RASPORED PREDAVANJA - Osnovne akademske studije 3 Semestar
-
-Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-3
-
-07:30 10:00 NTP-505
-
-rač.vežbe
-
-Objektno orijentisano programiranje 2
-
-Kenjić Dušan
-
-4
-
-07:30 10:00 NTP-506
-
-rač.vežbe
-
-Objektno orijentisano programiranje 2
-
-Ivanović Sandra
-
-4
-
-10:15 11:45 NTP-311
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Kaplar dr Marija
-
-3
-
-10:30 12:00 NTP-309
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Vujinović Aleksandar
-
-1
-
-10:15 12:45 NTP-505
-
-rač.vežbe
-
-Objektno orijentisano programiranje 2
-
-Kenjić Dušan
+Specifikacija i modeliranje softvera Podunavac Milan
 
 2
-
-12:00 13:30 NTP-311
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Kaplar dr Marija
-
-5
-
-12:15 14:45 NTP-507
-
-rač.vežbe
-
-Objektno orijentisano programiranje 2
-
-Ivanović Sandra
-
-1
-
-13:00 14:30 NTP-309
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Vujinović Aleksandar
-
-5 sv.dr.ned.
-
-15:45 17:15 NTP-415
-
-rač.vežbe
-
-Nelinearno programiranje i evolutivni algoritmi Bulatović Jelena
-
-3,4,5
-
-17:30 20:00
-
-MI B4-3
-
-aud.vežbe
-
-Diskretna matematika
-
-Ciganović Radojka
-
-Simić dr Miloš,
-
-1,2
-
-19:45 21:15 NTP-222
-
-rač.vežbe
-
-Napredni algoritmi i strukture podataka Ranković Tamara
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-5
-
-14:15 15:45 NTP-307
-
-rač.vežbe
-
-Napredni algoritmi i strukture podataka Ranković Tamara
-
-1(2)
-
-14:30 16:00
-
-L4 (RC)
-
-rač.vežbe
-
-Nelinearno programiranje i evolutivni algoritmi Bulatović Jelena
-
-Kordić dr Slavica,
-
-SVI
-
-16:15 18:00
-
-204
-
-Pred.
-
-Organizacija podataka
-
-Ivančević dr Vladimir
-
-SVI
-
-18:15 21:00
-
-204
-
-Pred.
-
-Objektno orijentisano programiranje 2
-
-Đukić dr Miodrag
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2
-
-08:30 11:00 NTP-505
-
-rač.vežbe
-
-Objektno orijentisano programiranje 2
-
-Ivanović Sandra
-
-5
-
-09:30 11:00
-
-INT 1
-
-rač.vežbe
-
-Numerički algoritmi i numerički softver Vujinović Aleksandar
-
-SVI
-
-11:15 14:00
-
-203
-
-Pred.
-
-Diskretna matematika
-
-Pantović dr Jovanka
-
-1,3,4
-
-15:15 16:45
-
-MI G2-1
-
-aud.vežbe
-
-Nelinearno programiranje i evolutivni algoritmi Mitrović Aleksandra
-
-2,5
-
-17:15 18:45
-
-206
-
-aud.vežbe
-
-Nelinearno programiranje i evolutivni algoritmi Mitrović Aleksandra
-
-Simić dr Miloš,
-
-3,4
-
-19:00 20:30 NTP-222
-
-rač.vežbe
-
-Napredni algoritmi i strukture podataka Ranković Tamara
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-4
-
-07:15 08:45 NTP-316
-
-rač.vežbe
-
-Organizacija podataka
-
-Todorović Nikola
-
-3
-
-07:15 08:45 NTP-317
-
-rač.vežbe
-
-Organizacija podataka
-
-Jovanović Vladimir
-
-1
-
-09:00 10:30 NTP-316
-
-rač.vežbe
-
-Organizacija podataka
-
-Todorović Nikola
-
-2
-
-08:50 10:20 NTP-317
-
-rač.vežbe
-
-Organizacija podataka
-
-Jovanović Vladimir
-
-SVI
-
-15:15 17:00
-
-A2
-
-Pred.
-
-Numerički algoritmi i numerički softver Kovačević dr Aleksandar
-
-1,2
-
-17:15 19:45 MI G3-1A
-
-aud.vežbe
-
-Diskretna matematika
-
-Ciganović Radojka
-
-P E T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-5
-
-08:45 10:15 NTP-317
-
-rač.vežbe
-
-Organizacija podataka
-
-Jovanović Vladimir
-
-3(4)
-
-11:30 13:00
-
-MI B4-5
-
-rač.vežbe
-
-Nelinearno programiranje i evolutivni algoritmi Mitrović Aleksandra
-
-Jeličić dr Zoran,
-
-SVI
-
-13:30 15:00
-
-AH1B
-
-Pred.
-
-Nelinearno programiranje i evolutivni algoritmi Rapaić dr Milan
-
-SVI
-
-15:15 17:00
-
-AH1B
-
-Pred.
-
-Napredni algoritmi i strukture podataka Simić dr Miloš
-
-Rasporedi i realizacija: ftnraspored@uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 13.11.2023. 04:11, Strana: 3
-
-RASPORED PREDAVANJA - Osnovne akademske studije 5 Semestar
-
-Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-5
-
-10:20
-
-11:50
-
-L2 (RC)
-
-rač.vežbe
-
-Testiranje softvera
-
-Đukić Anica
-
-5
-
-12:00
-
-13:30
-
-NTP-307
-
-rač.vežbe
-
-Inženjerstvo serverskog sloja Novi saradnik 216 S1
-
-1
-
-13:00
-
-14:30
-
-L2 (RC)
-
-rač.vežbe
-
-Testiranje softvera
-
-Đukić Anica
-
-3
-
-13:45
-
-15:15
-
-NTP-307
-
-rač.vežbe
-
-Softverski obrasci i komponente Radaković Danijel
-
-4
-
-13:45
-
-15:15
-
-NTP-311
-
-rač.vežbe
-
-Inženjerstvo serverskog sloja Novi saradnik 216 S1
-
-4
-
-15:30
-
-17:00
-
-L4 (RC)
-
-rač.vežbe
-
-Softverski obrasci i komponente Radaković Danijel
-
-2
-
-14:45
-
-16:15
-
-NTP-309
-
-rač.vežbe
-
-Testiranje softvera
-
-Đukić Anica
-
-1
-
-15:30
-
-17:00
-
-NTP-307
-
-rač.vežbe
-
-Mobilne aplikacije
-
-Antešević Svetlana
-
-3
-
-15:30
-
-17:00
-
-NTP-311
-
-rač.vežbe
-
-Inženjerstvo klijentskog sloja Dorić Luka
-
-2
-
-16:30
-
-18:00
-
-NTP-309
-
-rač.vežbe
-
-Inženjerstvo serverskog sloja Novi saradnik 216 S1
-
-4
-
-17:15
-
-18:45
-
-NTP-307
-
-rač.vežbe
-
-Mobilne aplikacije
-
-Antešević Svetlana
-
-3
-
-17:15
-
-18:45
-
-NTP-311
-
-rač.vežbe
-
-Inženjerstvo serverskog sloja Filipović Dragana
-
-1
-
-17:30
-
-19:00
-
-F 315
-
-rač.vežbe
-
-Softverski obrasci i komponente Radaković Danijel
-
-U T O R A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-3
-
-08:00
-
-09:30
-
-NTP-307
-
-rač.vežbe
-
-Mobilne aplikacije
-
-Matković Jelena
-
-5
-
-12:00
-
-13:30
-
-NTP-307
-
-rač.vežbe
-
-Inženjerstvo klijentskog sloja Dorić Luka
-
-SVI
-
-14:15
-
-16:00
-
-NTP-001
-
-Pred.
-
-Inženjerstvo klijentskog sloja Segedinac dr Milan
-
-SVI
-
-16:15
-
-18:00
-
-NTP-001
-
-Pred.
-
-Mobilne aplikacije
-
-Gostojić dr Stevan
-
-S R E D A
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-5
-
-07:30
-
-09:00
-
-NTP-307
-
-rač.vežbe
-
-Mobilne aplikacije
-
-Matković Jelena
-
-4
-
-07:30
-
-09:00
-
-NTP-309
-
-rač.vežbe
-
-Metodologije razvoja softvera Marković Petar
-
-2
-
-07:30
-
-09:00
-
-INT 1
-
-rač.vežbe
-
-Softverski obrasci i komponente Radaković Danijel
-
-SVI
 
 09:15
 
-11:00
-
-203
-
-Pred.
-
-Softverski obrasci i komponente Dejanović dr Igor
-
-5
-
-11:15
-
-12:45
-
-INT 1
-
-rač.vežbe
-
-Softverski obrasci i komponente Radaković Danijel
-
-1
-
-11:15
-
-12:45
-
-MI B4-5
-
-rač.vežbe
-
-Inženjerstvo serverskog sloja Filipović Dragana
-
-Č E T V R T A K
-
-Grupa-e
-
-Od
-
-Do
-
-Učionica
-
-Vrsta nast.
-
-Naziv Predmeta
-
-Izvođač
-
-2
-
-08:00
-
-09:30
+10:45
 
 NTP-307
 
 rač.vežbe
 
-Mobilne aplikacije
+Uvod u softversko inženjerstvo Šarenac Balša
 
-Matković Jelena
+1
 
-5
+09:45
 
-08:00
+11:15
 
-09:30
+NTP-507
+
+rač.vežbe
+
+Paraleleno programiranje Pijetlović Stefan
+
+2
+
+11:30
+
+13:00
+
+NTP-507
+
+rač.vežbe
+
+Paraleleno programiranje Pijetlović Stefan
+
+3
+
+12:15
+
+13:45
 
 NTP-309
 
 rač.vežbe
 
-Metodologije razvoja softvera Marković Petar
-
-1
-
-08:15
-
-09:45
-
-NTP-415
-
-rač.vežbe
-
-Inženjerstvo klijentskog sloja Dorić Luka
+Upravljanje informacijama Maksimović Veljko
 
 2
 
-10:00
+13:15
 
-11:30
+14:45
 
-NTP-415
+NTP-317
 
 rač.vežbe
 
-Inženjerstvo klijentskog sloja Dorić Luka
+Operativni sistemi
 
-1
+Vještica Marko
 
-10:00
+5
 
-11:30
+13:15
+
+14:45
+
+NTP-507
+
+rač.vežbe
+
+Paraleleno programiranje Kenjić Dušan
+
+4
+
+12:30
+
+14:00
+
+NTP-316
+
+rač.vežbe
+
+Operativni sistemi
+
+Andrejević Aleksandar
+
+4
+
+14:15
+
+15:45
 
 NTP-311
 
 rač.vežbe
 
-Metodologije razvoja softvera Trajković Anđela
-
-2
-
-11:45
-
-13:15
-
-NTP-307
-
-rač.vežbe
-
-Metodologije razvoja softvera Trajković Anđela
-
-3
-
-11:45
-
-13:15
-
-NTP-309
-
-rač.vežbe
-
-Testiranje softvera
-
-Đukić Anica
-
-3
-
-13:30
-
-15:00
-
-NTP-307
-
-rač.vežbe
-
-Metodologije razvoja softvera Trajković Anđela
+Uvod u softversko inženjerstvo Šarenac Balša
 
 4
 
@@ -1202,27 +814,13 @@ Metodologije razvoja softvera Trajković Anđela
 
 17:30
 
-NTP-311
+NTP-508
 
 rač.vežbe
 
-Inženjerstvo klijentskog sloja Dorić Luka
+Paraleleno programiranje Kenjić Dušan
 
-4
-
-17:45
-
-19:15
-
-NTP-311
-
-rač.vežbe
-
-Testiranje softvera
-
-Đukić Anica
-
-P E T A K
+Č E T V R T A K
 
 Grupa-e
 
@@ -1248,33 +846,205 @@ NTP-A
 
 Pred.
 
-Metodologije razvoja softvera Sladić dr Goran
+Upravljanje informacijama Gostojić dr Stevan
 
 SVI
 
 09:45
 
-11:30
+12:30
 
 NTP-001
 
 Pred.
 
-Inženjerstvo serverskog sloja Vidaković dr Milan
+Paraleleno programiranje Popović dr Miroslav
 
 SVI
 
-11:45
+12:45
 
-13:30
+14:30
 
 NTP-001
 
 Pred.
 
-Testiranje softvera
+Baze podataka
 
-Savić dr Goran
+Kordić dr Slavica
+
+P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+1
+
+07:45
+
+10:15
+
+INT 1
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Podunavac Milan
+
+5
+
+08:45
+
+10:15
+
+MI A2-2
+
+rač.vežbe
+
+Baze podataka
+
+Todorović Nikola
+
+1
+
+10:30
+
+12:00
+
+MI A2-2
+
+rač.vežbe
+
+Baze podataka
+
+Todorović Nikola
+
+2
+
+10:30
+
+13:00
+
+INT 1
+
+rač.vežbe
+
+Specifikacija i modeliranje softvera Podunavac Milan
+
+4
+
+12:15
+
+13:45
+
+MI A2-2
+
+rač.vežbe
+
+Baze podataka
+
+Vještica Marko
+
+5
+
+12:15
+
+13:45
+
+NTP-309
+
+rač.vežbe
+
+Uvod u softversko inženjerstvo Šarenac Balša
+
+2
+
+13:15
+
+14:45
+
+INT 1
+
+rač.vežbe
+
+Upravljanje informacijama Vignjević Nedeljko
+
+2
+
+14:00
+
+15:30
+
+MI A2-2
+
+rač.vežbe
+
+Baze podataka
+
+Tomić Miroslav
+
+1
+
+14:00
+
+15:30
+
+NTP-311
+
+rač.vežbe
+
+Uvod u softversko inženjerstvo Šarenac Balša
+
+Andrejević Aleksandar,
+
+3,5
+
+14:15
+
+15:45
+
+MI A2-1
+
+rač.vežbe
+
+Operativni sistemi
+
+Vještica Marko
+
+4
+
+16:00
+
+17:30
+
+INT 1
+
+rač.vežbe
+
+Upravljanje informacijama Maksimović Veljko
+
+3
+
+16:00
+
+17:30
+
+NTP-311
+
+rač.vežbe
+
+Uvod u softversko inženjerstvo Šarenac Balša
 
 Napomena:
 
@@ -1282,9 +1052,9 @@ NTP-A je oznaka za amfiteatar u prizemlju poslovnog dela NTP-a, glavni ulaz iz F
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.09.2023. 08:33, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 07:07, Strana: 3
 
-RASPORED PREDAVANJA - Osnovne akademske studije 7 Semestar
+R A S P O R E D P R E D A V A N J A 6 Semestar
 
 Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
 
@@ -1302,93 +1072,81 @@ Naziv Predmeta
 
 Izvođač
 
-1
+SVI
 
-07:00 08:30
+12:15 13:45
 
-NTP-309
+204
 
-rač.vežbe
+Pred.
 
-Napredne veb tehnologije
-
-Mijatov Vanja
-
-2
-
-07:00 08:30
-
-F 315
-
-rač.vežbe
-
-Napredne tehnike programiranja Nikolić Dušan
-
-4
-
-07:30 10:00
-
-NTP-311
-
-rač.vežbe
-
-Soft kompjuting
-
-Vidaković Dragan
-
-1
-
-08:45 10:15
-
-MI D4-A
-
-rač.vežbe
-
-Napredne tehnike programiranja Nikolić Dušan
-
-2
-
-08:45 10:15
-
-NTP-309
-
-rač.vežbe
-
-Napredne veb tehnologije
-
-Mijatov Vanja
+Informaciona bezbednost Sladić dr Goran
 
 5
 
-09:00 10:30
+14:00 15:30
 
-F 315
-
-rač.vežbe
-
-Inženjerstvo softvera za Internet/Web of Things Anđelić Branislav
-
-2
-
-10:45 12:15
-
-F 315
+NTP-307
 
 rač.vežbe
 
-Inženjerstvo softvera za Internet/Web of Things Anđelić Branislav
+Računarstvo u oblaku
 
-3
+Janković Eva
 
-12:30 15:00
+4
 
-F 315
+14:00 15:30
+
+NTP-312
 
 rač.vežbe
 
-Soft kompjuting
+Interakcija čovek računar Jovanović Jovana
 
-Vidaković Dragan
+2,3
+
+14:00 15:30
+
+L1 (RC)
+
+rač.vežbe
+
+Statistika
+
+Blesić Andrija
+
+5
+
+15:15 16:45
+
+307
+
+rač.vežbe
+
+Informaciona bezbednost Trajković Anđela
+
+1,4
+
+15:45 17:15
+
+L1 (RC)
+
+rač.vežbe
+
+Statistika
+
+Blesić Andrija
+
+5
+
+15:45 17:15
+
+NTP-307
+
+rač.vežbe
+
+Računarska inteligencija Volarić Filip
 
 U T O R A K
 
@@ -1406,53 +1164,119 @@ Naziv Predmeta
 
 Izvođač
 
-4
+3
 
-07:30 09:00
+07:00 08:30
 
-F 318
+NTP-309
 
 rač.vežbe
 
-Računarska grafika
-
-Tešanović Nedeljko
-
-SVI
-
-09:15 12:00
-
-A2
-
-Pred.
-
-Soft kompjuting
-
-Slivka dr Jelena
-
-SVI
-
-12:15 15:00
-
-A2
-
-Pred.
-
-Računarska grafika
-
-Ivetić dr Dragan
+Računarska inteligencija Anđelić Branislav
 
 2
 
-15:30 17:00
+07:00 08:30
 
-F 318
+NTP-311
 
 rač.vežbe
 
-Računarska grafika
+Informaciona bezbednost Trajković Anđela
 
-Tešanović Nedeljko
+1
+
+08:45 10:15
+
+NTP-309
+
+rač.vežbe
+
+Računarska inteligencija Njegomir Marko
+
+3
+
+08:45 10:15
+
+NTP-307
+
+rač.vežbe
+
+Računarstvo u oblaku
+
+Janković Eva
+
+2
+
+08:45 10:15
+
+NTP-311
+
+rač.vežbe
+
+Računarska inteligencija Anđelić Branislav
+
+1
+
+10:30 12:00
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Jovanović Jovana
+
+2
+
+12:30 14:00
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Jovanović Jovana
+
+2,4
+
+14:15 15:45
+
+L1 (RC)
+
+rač.vežbe
+
+Računarstvo u oblaku
+
+Janković Eva
+
+5
+
+14:15 15:45
+
+NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Jovanović Jovana
+
+4,5
+
+16:00 17:30
+
+L1 (RC)
+
+rač.vežbe
+
+Softver nadzorno-upravljačkih sistema Pejić Marko
+
+1
+
+16:00 17:30 NTP-311
+
+rač.vežbe
+
+Računarstvo u oblaku
+
+Janković Eva
 
 S R E D A
 
@@ -1470,103 +1294,379 @@ Naziv Predmeta
 
 Izvođač
 
-4
+1,3
 
 07:00 08:30
 
-F 315
+L1 (RC)
 
 rač.vežbe
 
-Inženjerstvo softvera za Internet/Web of Things Anđelić Branislav
+Softver nadzorno-upravljačkih sistema Pejić Marko
 
-2
-
-07:45 10:15
-
-NTP-312
-
-rač.vežbe
-
-Soft kompjuting
-
-Njegomir Marko
-
-1
+4
 
 08:45 10:15
 
-F 315
+L2 (RC)
 
 rač.vežbe
 
-Inženjerstvo softvera za Internet/Web of Things Mršulja Ivan
+Informaciona bezbednost Trajković Anđela
+
+2
+
+09:45 11:15
+
+NTP-316
+
+rač.vežbe
+
+Softver nadzorno-upravljačkih sistema Pejić Marko
+
+4
+
+10:30 12:00 NTP-309
+
+rač.vežbe
+
+Računarska inteligencija Njegomir Marko
+
+1
+
+10:30 12:00
+
+L2 (RC)
+
+rač.vežbe
+
+Informaciona bezbednost Trajković Anđela
 
 5
 
-09:00 10:30
+12:15 13:45
+
+L5 (RC)
+
+rač.vežbe
+
+Statistika
+
+Jankov Dunja
+
+3
+
+14:00 15:30 NTP-312
+
+rač.vežbe
+
+Interakcija čovek računar Jovanović Jovana
+
+3
+
+15:45 17:15 NTP-312
+
+rač.vežbe
+
+Informaciona bezbednost Trajković Anđela
+
+Č E T V R T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+Jankov Dunja,
+
+1,2,3(4,5) 08:30 10:00 NTP-417
+
+aud.vežbe
+
+Statistika
+
+Blesić Andrija
+
+SVI
+
+10:15 12:00 NTP-417
+
+Pred.
+
+Interakcija čovek računar Dragan dr Dinu
+
+SVI
+
+12:15 15:00
+
+A2
+
+Pred.
+
+Računarska inteligencija Kovačević dr Aleksandar P E T A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+09:15 12:00
+
+205
+
+Pred.
+
+Računarstvo u oblaku
+
+Zarić dr Miroslav
+
+SVI
+
+12:15 14:00
+
+205
+
+Pred.
+
+Softver nadzorno-upravljačkih sistema Vukmirović dr Srđan
+
+SVI
+
+14:15 17:00
+
+205
+
+Pred.
+
+Statistika
+
+Ovcin dr Zoran
+
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
+
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2024. 05:42, Strana: 4
+
+R A S P O R E D P R E D A V A N J A 8 Semestar
+
+Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+4
+
+08:00
+
+10:30
+
+L6 (RC)
+
+rač.vežbe
+
+Sistemi bazirani na znanju Trajković Anđela
+
+4
+
+10:45
+
+13:15
+
+L6 (RC)
+
+rač.vežbe
+
+Mašinsko učenje
+
+Vidaković Dragan
+
+SVI
+
+14:15
+
+17:00
+
+NTP-417
+
+Pred.
+
+Razvoj bezbednog softvera Sladić dr Goran
+
+U T O R A K
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+5
+
+07:30
+
+10:00
 
 MI B4-5
 
 rač.vežbe
 
-Napredne tehnike programiranja Novi saradnik 216 S6
+Mašinsko učenje
 
-3
+Vidaković Dragan
 
-10:30 12:00
+2
+
+08:45
+
+10:15
 
 F 315
 
 rač.vežbe
 
-Inženjerstvo softvera za Internet/Web of Things Mršulja Ivan
-
-1
-
-10:30 13:00
-
-NTP-312
-
-rač.vežbe
-
-Soft kompjuting
-
-Njegomir Marko
+Razvoj bezbednog softvera Mršulja Ivan
 
 3
 
-12:15 13:45
+10:15
 
-L4 (RC)
+12:45
+
+MI B4-5
 
 rač.vežbe
 
-Napredne tehnike programiranja Nikolić Dušan
+Mašinsko učenje
+
+Vidaković Dragan
 
 5
 
-12:30 14:00
+10:30
 
-MI A2-4
+12:00
 
-rač.vežbe
-
-Napredne veb tehnologije
-
-Mijatov Vanja
-
-3
-
-14:15 15:45
-
-MI A2-4
+F 315
 
 rač.vežbe
 
-Napredne veb tehnologije
+Razvoj bezbednog softvera Mršulja Ivan
 
-Mijatov Vanja
+2
+
+10:30
+
+13:00
+
+NTP-311
+
+rač.vežbe
+
+Sistemi bazirani na znanju Trajković Anđela
+
+1
+
+13:15
+
+15:45
+
+NTP-311
+
+rač.vežbe
+
+Sistemi bazirani na znanju Filipović Dragana
+
+1
+
+16:00
+
+17:30
+
+F 315
+
+rač.vežbe
+
+Razvoj bezbednog softvera Mršulja Ivan
+
+S R E D A
+
+Grupa-e
+
+Od
+
+Do
+
+Učionica
+
+Vrsta nast.
+
+Naziv Predmeta
+
+Izvođač
+
+SVI
+
+08:00
+
+09:30
+
+NTP-A
+
+Pred.
+
+Pisana i govorna komunikacija u tehnici Slivka dr Jelena
+
+SVI
+
+09:45
+
+12:30
+
+NTP-001
+
+Pred.
+
+Mašinsko učenje
+
+Slivka dr Jelena
 
 Č E T V R T A K
 
@@ -1586,35 +1686,41 @@ Izvođač
 
 SVI
 
-08:15 10:00
+08:15
 
-NTP-001
+11:00
 
-Pred.
-
-Napredne tehnike programiranja Dejanović dr Igor
-
-SVI
-
-10:15 12:00
-
-NTP-001
+AH1A
 
 Pred.
 
-Napredne veb tehnologije
+Sistemi bazirani na znanju Nikolić dr Siniša
 
-Milosavljević dr Branko
+1sv.dr.ned.
 
-SVI
+11:15
 
-12:15 14:00
+12:45
 
-NTP-001
+L2 (RC)
 
-Pred.
+rač.vežbe
 
-Inženjerstvo softvera za Internet/Web of Things Vidaković dr Milan
+Pisana i govorna komunikacija u tehnici Vujinović Aleksandar
+
+2
+
+12:15
+
+14:45
+
+NTP-309
+
+rač.vežbe
+
+Mašinsko učenje
+
+Vidaković Dragan
 
 P E T A K
 
@@ -1632,87 +1738,101 @@ Naziv Predmeta
 
 Izvođač
 
-4
-
-08:45 10:15
-
-AR3
-
-rač.vežbe
-
-Napredne veb tehnologije
-
-Mijatov Vanja
-
-4
-
-10:30 12:00
-
-AR3
-
-rač.vežbe
-
-Napredne tehnike programiranja Novi saradnik 216 S6
-
 1
 
-11:30 13:00
+07:45
 
-F 318
+10:15
 
-rač.vežbe
-
-Računarska grafika
-
-Tešanović Nedeljko
-
-3
-
-14:00 15:30
-
-F 318
+L5 (RC)
 
 rač.vežbe
 
-Računarska grafika
+Mašinsko učenje
 
-Tešanović Nedeljko
+Vidaković Dragan
+
+3(5)
+
+08:45
+
+10:15
+
+L2 (RC)
+
+rač.vežbe
+
+Pisana i govorna komunikacija u tehnici Vujinović Aleksandar
+
+2(4)
+
+10:30
+
+12:00
+
+L2 (RC)
+
+rač.vežbe
+
+Pisana i govorna komunikacija u tehnici Vujinović Aleksandar
 
 5
 
-16:00 18:30
+10:30
+
+13:00
 
 NTP-311
 
 rač.vežbe
 
-Soft kompjuting
+Sistemi bazirani na znanju Trajković Anđela
 
-Njegomir Marko
+3
 
-5
+10:45
 
-18:45 20:15
+12:15
 
-F 318
+F 315
 
 rač.vežbe
 
-Računarska grafika
+Razvoj bezbednog softvera Mršulja Ivan
 
-Novi saradnik 215 S1
+4
+
+12:30
+
+14:00
+
+F 315
+
+rač.vežbe
+
+Razvoj bezbednog softvera Mršulja Ivan
+
+3
+
+12:30
+
+15:00
+
+MI A2-4A
+
+rač.vežbe
+
+Sistemi bazirani na znanju Filipović Dragana
 
 Napomena:
 
-Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT, obratiti se PROF. DR MIROSLAVU ZARIĆU.
-
-Nastava za Izbornu grupu 2 će se izvoditi u organizaciji departmana.
+NTP-A je oznaka za amfiteatar u prizemlju poslovnog dela NTP-a, glavni ulaz iz Fruškogorske ulice.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 11:35, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 05:50, Strana: 5
 
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
+RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
 Softversko inženjerstvo i informacione tehnologije P O N E D E L J A K
 
@@ -1730,107 +1850,17 @@ Naziv Predmeta
 
 Izvođač
 
-15,41
-
-07:15
-
-10:00
-
-NTP-417
-
-Pred.
-
-Napredna Internet infrastruktura Vuković dr Željko
-
-22
-
-09:45
-
-11:15
-
-INT 1
-
-rač.vežbe
-
-Jezici specifični za domen
-
-Dejanović dr Igor
-
-15
-
-10:15
-
-13:00
-
-NTP-417
-
-Pred.
-
-Upravljanje digitalnim dokumentima Ivanović dr Dragan
-
-51
-
-10:30
-
-13:00
-
-MI A2-3
-
-Pred.
-
-Sistemi za upravljanje bazama podataka Čeliković dr Milan
-
 41
 
-10:30
+17:30
 
-12:00
+20:00
 
-MI D4-A
+F 317
 
-rač.vežbe
+Pred.
 
-Napredna Internet infrastruktura Vuković dr Željko
-
-51
-
-13:15
-
-15:45
-
-MI A2-3
-
-rač.vežbe
-
-Sistemi za upravljanje bazama podataka Tomić Miroslav
-
-32
-
-16:15
-
-17:45
-
-NTP-222
-
-rač.vežbe
-
-Semantički veb
-
-Segedinac dr Milan
-
-32
-
-18:00
-
-19:30
-
-NTP-222
-
-rač.vežbe
-
-Neuronske mreže
-
-Vidaković Dragan
+Proces razvoja računarskih igara Ivetić dr Dragan
 
 U T O R A K
 
@@ -1848,121 +1878,41 @@ Naziv Predmeta
 
 Izvođač
 
-15,22
+35
 
-07:30
+08:15
 
-10:00
+11:00
 
-208
-
-Pred.
-
-Upravljanje poslovnim procesima Zarić dr Miroslav
-
-41
-
-09:15
-
-12:00
-
-F 317
+AH4
 
 Pred.
 
-Sistemi virtuelne realnosti
+Napredne tehnike računarske inteligencije Slivka dr Jelena
 
-Ivetić dr Dragan
-
-51
-
-09:45
-
-11:15
-
-NTP-307
-
-rač.vežbe
-
-Metodologija brzog razvoja softvera Todorović Nenad
-
-51
-
-12:15
-
-13:45
-
-F 315
-
-rač.vežbe
-
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
-
-41
+35
 
 12:15
 
 14:45
 
-F 318
-
-rač.vežbe
-
-Sistemi virtuelne realnosti
-
-Bursać Vasilije
-
-Gostojić dr Stevan,
-
-32
-
-13:15
-
-16:00
-
-NTP-417
-
-Pred.
-
-Pravna informatika
-
-Marković dr Marko (M)
-
-51
-
-14:00
-
-15:30
-
 F 315
 
 rač.vežbe
 
-Sistemi elektronskog plaćanja Trajković Anđela
+Napredne tehnike računarske inteligencije Slivka dr Jelena
 
-22,41
+25
 
-16:15
+13:15
 
-19:00
+15:45
 
-NTP-417
-
-Pred.
-
-Zaštita i oporavak softverskih sistema Luburić dr Nikola
-
-22
-
-19:30
-
-21:00
-
-NTP-222
+NTP-309
 
 rač.vežbe
 
-Zaštita i oporavak softverskih sistema Luburić dr Nikola
+Uvod u digitalnu forenziku Dragišić Jelena
 
 S R E D A
 
@@ -1980,113 +1930,31 @@ Naziv Predmeta
 
 Izvođač
 
-51
+SVI
 
-07:00
+12:15
 
-09:30
+14:00
 
-MI A2-3
-
-rač.vežbe
-
-Sistemi skladišta podataka
-
-Vučinić Milica
-
-32
-
-09:00
-
-10:30
-
-MI B4-5A
-
-rač.vežbe
-
-Savremene obrazovne tehnologije i standardi Savić dr Goran
-
-41
-
-14:15
-
-15:45
-
-NTP-307
-
-rač.vežbe
-
-Zaštita i oporavak softverskih sistema Šarenac Balša
-
-Savić dr Goran,
-
-32
-
-15:00
-
-17:30
-
-AH6
+NTP-417
 
 Pred.
 
-Savremene obrazovne tehnologije i standardi Segedinac dr Milan
+Integrisani pristupi razvoju softvera DevOps Zarić dr Miroslav
 
-22
+15,25
 
-16:00
+17:15
 
-17:30
+20:00
 
-NTP-307
-
-rač.vežbe
-
-Upravljanje konfiguracijom softvera Mijatov Vanja
-
-15
-
-16:15
-
-17:45
-
-F 315
-
-rač.vežbe
-
-Sistemi elektronskog plaćanja Trajković Anđela
-
-22
-
-17:45
-
-19:15
-
-NTP-307
-
-rač.vežbe
-
-Upravljanje poslovnim procesima Šarenac Balša
-
-15,32,51
-
-18:15
-
-21:00
-
-205
+A4
 
 Pred.
 
-Sistemi za istraživanje i analizu podataka Kovačević dr Aleksandar
+Uvod u digitalnu forenziku Gostojić dr Stevan
 
-Raspored možete pogledati na internet stranici FTN-a u delu Rasporedi i realizacija: www.ftn.uns.ac.rs
-
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 06.10.2023. 11:35, Strana: 6
-
-RASPORED PREDAVANJA - Master akademske studije 1 Semestar
-
-Softversko inženjerstvo i informacione tehnologije Č E T V R T A K
+Č E T V R T A K
 
 Grupa-e
 
@@ -2102,97 +1970,65 @@ Naziv Predmeta
 
 Izvođač
 
-41
-
-07:30
-
-10:00
-
-F 318
-
-rač.vežbe
-
-Multimedijalni sistemi
-
-Bursać Vasilije
-
-22
+51
 
 08:00
 
-09:30
+10:30
 
-NTP-222
+MI A2-2
 
 rač.vežbe
 
-Metodologija brzog razvoja softvera Todorović Nenad
+Domenski orijentisano modelovanje i jezici Vještica Marko
 
-15
+Čeliković dr Milan,
 
-08:00
+51
 
-09:30
+10:45
+
+13:30
+
+MI A2-2
+
+Pred.
+
+Domenski orijentisano modelovanje i jezici Dimitrieski dr Vladimir 15
+
+11:30
+
+14:00
 
 NTP-311
 
 rač.vežbe
 
-Napredna Internet infrastruktura Vuković dr Željko
+Uvod u digitalnu forenziku Antešević Svetlana
 
-41
+15(25)
 
-10:15
+14:15
 
-13:00
+15:45
 
-F 317
-
-Pred.
-
-Multimedijalni sistemi
-
-Ivetić dr Dragan
-
-Vuković dr Željko,
-
-22,51
-
-10:15
-
-13:00
-
-NTP-417
-
-Pred.
-
-Metodologija brzog razvoja softvera Milosavljević dr Gordana
-
-32
-
-16:15
-
-19:00
-
-NTP-222
-
-Pred.
-
-Neuronske mreže
-
-Slivka dr Jelena
-
-32
-
-19:15
-
-20:45
-
-NTP-222
+INT 1
 
 rač.vežbe
 
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
+Integrisani pristupi razvoju softvera DevOps Radaković Danijel
+
+35(41,51)
+
+16:00
+
+17:30
+
+INT 1
+
+rač.vežbe
+
+Integrisani pristupi razvoju softvera DevOps Radaković Danijel
 
 P E T A K
 
@@ -2210,149 +2046,31 @@ Naziv Predmeta
 
 Izvođač
 
-32
-
-07:15
-
-10:00
-
-NTP-417
-
-Pred.
-
-Semantički veb
-
-Segedinac dr Milan
-
-15
-
-08:45
-
-10:15
-
-F 315
-
-rač.vežbe
-
-Upravljanje digitalnim dokumentima Mršulja Ivan
-
-15,51
-
-10:30
-
-13:00
-
-204
-
-Pred.
-
-Sistemi elektronskog plaćanja Sladić dr Goran
-
-32
-
-13:00
+41
 
 14:30
 
-NTP-222
+17:00
+
+F 318
 
 rač.vežbe
 
-Pravna informatika
-
-Matković Jelena
-
-15
-
-14:15
-
-15:45
-
-L6 (RC)
-
-rač.vežbe
-
-Sistemi za istraživanje i analizu podataka Grujić Katarina Glorija
-
-22
-
-13:15
-
-16:00
-
-312
-
-Pred.
-
-Jezici specifični za domen
-
-Dejanović dr Igor
-
-51
-
-13:45
-
-16:15
-
-NTP-316
-
-Pred.
-
-Sistemi skladišta podataka
-
-Kordić dr Slavica
-
-41
-
-14:15
-
-15:45
-
-NTP-311
-
-rač.vežbe
-
-Upravljanje konfiguracijom softvera Mijatov Vanja
-
-22,41
-
-16:15
-
-19:00
-
-312
-
-Pred.
-
-Upravljanje konfiguracijom softvera Dejanović dr Igor
-
-15
-
-17:45
-
-19:15
-
-NTP-312
-
-rač.vežbe
-
-Upravljanje poslovnim procesima Šarenac Balša
+Proces razvoja računarskih igara Bursać Vasilije
 
 Napomena:
 
-Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT, obratiti se PROF. DR MIROSLAVU ZARIĆU.
+Studenti treba da odrade STRUČNU PRAKSU 2, obratiti se prof.dr. Miroslavu Zariću Studenti biraju jednu od 5 stručnih oblasti: 1: Elektronsko poslovanje - grupe broj 15
 
-Studenti biraju jednu od 5 sledećih stručnih oblasti: Stručna oblast 1: Elektronsko poslovanje grupe broj 15
+2: Softversko inženjerstvo - grupa broj 25
 
-Stručna oblast 2: Softversko inženjerstvo grupe broj 22
+3: Inteligentni sistemi - grupa broj 35
 
-Stručna oblast 3: Inteligentni sistemi grupa broj 32
+4: Multimedija i računarske igre - grupa broj 41
 
-Stručna oblast 4: Multimedija i računarske igre grupa broj 41
+5: Inženjering informacionih sistema - grupa broj 51
 
-Stručna oblast 5: Inženjering informacionih sistema grupa broj 51
-
-Raspored možete pogledati na internet stranici FTN-a u delu Rasporedi i realizacija: www.ftn.uns.ac.rs
+Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
 
 
