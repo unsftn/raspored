@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2024. 06:11, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.02.2024. 04:05, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -52,7 +52,7 @@ NTP-309
 
 rač.vežbe
 
-Uvod u objektno programiranje Volarić Filip
+Uvod u objektno programiranje Kaplar Aleksandra
 
 SVI
 
@@ -106,7 +106,7 @@ Nejgebauer mr Ivan
 
 07:45 10:15
 
-L5 (RC)
+L4 (RC)
 
 rač.vežbe
 
@@ -124,7 +124,7 @@ Sistemski softver
 
 Nejgebauer mr Ivan
 
-1
+4
 
 09:30 12:00
 
@@ -132,7 +132,7 @@ Nejgebauer mr Ivan
 
 rač.vežbe
 
-Uvod u objektno programiranje Volarić Filip
+Algoritmi i strukture podataka Jelić Milena
 
 2
 
@@ -194,7 +194,7 @@ NTP-311
 
 rač.vežbe
 
-Algoritmi i strukture podataka Marković Petar
+Algoritmi i strukture podataka Jelić Milena
 
 Č E T V R T A K
 
@@ -212,7 +212,7 @@ Naziv Predmeta
 
 Izvođač
 
-4
+1
 
 07:45 10:15
 
@@ -220,7 +220,7 @@ L4 (RC)
 
 rač.vežbe
 
-Algoritmi i strukture podataka Marković Petar
+Uvod u objektno programiranje Volarić Filip
 
 3
 
@@ -240,7 +240,7 @@ L6 (RC)
 
 rač.vežbe
 
-Uvod u objektno programiranje Volarić Filip
+Uvod u objektno programiranje Kaplar Aleksandra
 
 1,2
 
@@ -268,7 +268,7 @@ SVI
 
 16:15 18:00
 
-311
+109
 
 Pred.
 
@@ -314,7 +314,7 @@ Uvod u objektno programiranje Nikolić dr Siniša
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 06:10, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 14.02.2024. 04:46, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -412,7 +412,7 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Popović Miloš
+Matković Jelena
 
 3
 
@@ -426,7 +426,35 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Popović Miloš
+Matković Jelena
+
+3
+
+17:45
+
+19:15
+
+NTP-311
+
+rač.vežbe
+
+Testiranje softvera
+
+Mandić Nikola
+
+2
+
+19:30
+
+21:00
+
+NTP-311
+
+rač.vežbe
+
+Testiranje softvera
+
+Mandić Nikola
 
 S R E D A
 
@@ -444,19 +472,17 @@ Naziv Predmeta
 
 Izvođač
 
-2
+4
 
-07:15
+07:00
 
-08:45
+08:30
 
-NTP-311
+NTP-309
 
 rač.vežbe
 
-Serverske veb tehnologije Nikolić Dušan
-
-3
+Klijentske veb tehnologije Ivanović Mijatov Bojana 3
 
 08:45
 
@@ -466,9 +492,7 @@ NTP-309
 
 rač.vežbe
 
-Klijentske veb tehnologije Ivanović Bojana
-
-2
+Klijentske veb tehnologije Ivanović Mijatov Bojana 2
 
 09:00
 
@@ -478,9 +502,7 @@ NTP-311
 
 rač.vežbe
 
-Testiranje softvera
-
-Mandić Nikola
+Serverske veb tehnologije Nikolić Dušan
 
 4
 
@@ -490,7 +512,7 @@ Mandić Nikola
 
 rač.vežbe
 
-Alati za razvoj softvera Simić dr Miloš
+Alati za razvoj softvera Ranković Tamara
 
 3
 
@@ -502,9 +524,7 @@ INT 1
 
 rač.vežbe
 
-Testiranje softvera
-
-Mandić Nikola
+Serverske veb tehnologije Nikolić Dušan
 
 2
 
@@ -518,17 +538,7 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Matković Jelena
-
-4
-
-12:30
-
-14:00 MI A2-4A
-
-rač.vežbe
-
-Klijentske veb tehnologije Ivanović Bojana
+Popović Miloš
 
 1
 
@@ -542,18 +552,6 @@ rač.vežbe
 
 Alati za razvoj softvera Ranković Tamara
 
-3
-
-13:15
-
-14:45
-
-INT 1
-
-rač.vežbe
-
-Serverske veb tehnologije Nikolić Dušan
-
 1
 
 14:15
@@ -566,19 +564,47 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Matković Jelena
+Popović Miloš
 
 3
 
-15:00
+14:15
 
-16:30
+15:45
 
 INT 1
 
 rač.vežbe
 
 Alati za razvoj softvera Ranković Tamara
+
+1
+
+17:45
+
+19:15
+
+INT 1
+
+rač.vežbe
+
+Testiranje softvera
+
+Mandić Nikola
+
+4
+
+19:30
+
+21:00
+
+INT 1
+
+rač.vežbe
+
+Testiranje softvera
+
+Mandić Nikola
 
 Č E T V R T A K
 
@@ -640,19 +666,15 @@ Izvođač
 
 1
 
-08:45
+07:00
 
-10:15
+08:30
 
 NTP-311
 
 rač.vežbe
 
-Testiranje softvera
-
-Mandić Nikola
-
-2
+Klijentske veb tehnologije Ivanović Mijatov Bojana 2
 
 08:45
 
@@ -662,7 +684,17 @@ AR2
 
 rač.vežbe
 
-Klijentske veb tehnologije Ivanović Bojana
+Klijentske veb tehnologije Ivanović Mijatov Bojana 4
+
+08:45
+
+10:15
+
+NTP-311
+
+rač.vežbe
+
+Serverske veb tehnologije Nikolić Dušan
 
 2
 
@@ -676,47 +708,9 @@ rač.vežbe
 
 Alati za razvoj softvera Ranković Tamara
 
-1
-
-10:45
-
-12:15
-
-307
-
-rač.vežbe
-
-Klijentske veb tehnologije Ivanović Bojana
-
-4
-
-16:00
-
-17:30
-
-L5 (RC)
-
-rač.vežbe
-
-Testiranje softvera
-
-Mandić Nikola
-
-4
-
-17:45
-
-19:15
-
-L5 (RC)
-
-rač.vežbe
-
-Serverske veb tehnologije Nikolić Dušan
-
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 07:02, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 07.02.2024. 05:42, Strana: 3
 
 RASPORED PREDAVANJA - Osnovne strukovne studije 6 Semestar
 
@@ -742,7 +736,7 @@ Izvođač
 
 15:30
 
-MI B4-5
+L3 (RC)
 
 rač.vežbe
 
@@ -766,7 +760,7 @@ sadržajima i dokumentima 1
 
 18:15
 
-MI B4-5
+L3 (RC)
 
 rač.vežbe
 

@@ -29,7 +29,7 @@ Raspored uradili: Prodekan za nastavu Prof.dr Aleksandar Kupusinac i MSc Ljubiš
 Prof. dr Aleksandar Kupusinac
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 06:26, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.02.2024. 04:41, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -229,7 +229,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Radović Luka
+Poparić Sara
 
 1,2,5
 
@@ -241,11 +241,13 @@ aud.vežbe
 
 Osnovi elektrotehnike
 
-Bjelica Jelena
+Bjelica dr Jelena
 
 1(1-12),2(1-12)
 
-12:15 13:45 MI G3-1C
+12:15 13:45
+
+AH2
 
 lab.vežbe
 
@@ -277,7 +279,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Trifunović Petar
 
 11,12,14
 
@@ -291,7 +293,7 @@ Osnovi elektrotehnike
 
 Milutinov dr Miodrag
 
-Ignjatijević Aleksandar,
+Trifunović Petar,
 
 10,5
 
@@ -303,7 +305,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Anišić Helena
+Novi saradnik VN
 
 7,8
 
@@ -315,7 +317,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Horvat Nebojša
+Novi saradnik VN
 
 9(1-12),10(1-12)
 
@@ -329,8 +331,6 @@ Fizika
 
 Nemeš dr Tomas
 
-Horvat Nebojša,
-
 7,8
 
 18:20 20:50
@@ -341,7 +341,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Trifunović Petar
+Delić Anja, Novi saradnik VN
 
 9,10,15
 
@@ -382,7 +382,7 @@ Naziv Predmeta
 Izvođač
 
 
-Rikalo Aleksandar,
+Nemeš dr Tomas,
 
 
 3(1-12),4(1-12)
@@ -395,9 +395,9 @@ lab.vežbe
 
 Fizika
 
-Zečević Milka
+Novi saradnik
 
-Budinski-Petković dr Ljuba,
+Nemeš dr Tomas,
 
 1(1-12),2(1-12)
 
@@ -409,7 +409,7 @@ lab.vežbe
 
 Fizika
 
-Zečević Milka
+Novi saradnik
 
 3,4,6
 
@@ -433,7 +433,7 @@ aud.vežbe
 
 Osnovi elektrotehnike
 
-Bjelica Jelena
+Bjelica dr Jelena
 
 Budinski-Petković dr Ljuba,
 
@@ -447,7 +447,7 @@ lab.vežbe
 
 Fizika
 
-Mihailović dr Aleksandra
+Nemeš dr Tomas
 
 Budinski-Petković dr Ljuba,
 
@@ -461,9 +461,9 @@ lab.vežbe
 
 Fizika
 
-Mihailović dr Aleksandra
+Nemeš dr Tomas
 
-Budinski-Petković dr Ljuba,
+Lončarević dr Ivana,
 
 11(1-12),13(1-12)
 
@@ -475,7 +475,7 @@ lab.vežbe
 
 Fizika
 
-Nemeš dr Tomas
+Tanović Tina
 
 9
 
@@ -511,9 +511,9 @@ aud.vežbe
 
 Osnovi elektrotehnike
 
-Bjelica Jelena
+Bjelica dr Jelena
 
-Nemeš dr Tomas,
+Lončarević dr Ivana,
 
 11(1-12),12(1-12)
 
@@ -525,9 +525,7 @@ lab.vežbe
 
 Fizika
 
-Rikalo Aleksandar
-
-Nemeš dr Tomas,
+Zečević Milka
 
 7(1-12),8(1-12)
 
@@ -539,7 +537,7 @@ lab.vežbe
 
 Fizika
 
-Rikalo Aleksandar
+Zečević Milka, Tanović Tina
 
 9,10,15
 
@@ -563,9 +561,7 @@ aud.vežbe
 
 Arhitektura računara
 
-Anišić Helena
-
-Anišić Helena,
+Delić Anja
 
 11,12
 
@@ -577,9 +573,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Poparić Sara
-
-Rikalo Aleksandar,
+Delić Anja, Novi saradnik VN
 
 10(1-12),15(1-12)
 
@@ -591,11 +585,11 @@ lab.vežbe
 
 Fizika
 
-Novi saradnik
+Zečević Milka, Tanović Tina
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 06:26, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 12.02.2024. 04:41, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -704,10 +698,8 @@ Naziv Predmeta
 Izvođač
 
 
-Anišić Helena,
-
-
 6,15
+
 
 07:00 07:45
 
@@ -717,9 +709,9 @@ aud.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Trifunović Petar
 
-Anišić Helena,
+Trifunović Petar,
 
 6,15
 
@@ -731,7 +723,7 @@ rač.vežbe
 
 Arhitektura računara
 
-Ignjatijević Aleksandar
+Novi saradnik VN
 
 12(1-12),14(1-12)
 
@@ -767,7 +759,7 @@ aud.vežbe
 
 Osnovi elektrotehnike
 
-Bjelica Jelena
+Bjelica dr Jelena
 
 13,14
 
@@ -861,7 +853,7 @@ Izvođač
 13(13-),15(13-),
 
 
-Lakatoš dr Robert,
+Zečević Milka,
 
 16:45 18:15
 
@@ -873,7 +865,7 @@ Fizika
 
 7(13-),8(13-),5(13-)
 
-Zečević Milka
+Rikalo Aleksandar
 
 1(13-),2(13-),
 
@@ -889,11 +881,11 @@ Fizika
 
 3(13-),4(13-),9(13-)
 
-Novi saradnik
+Zečević Milka
 
 14(13-),10(13-),
 
-Vuković Aleksandar,
+Zečević Milka,
 
 20:15 21:45
 
@@ -911,7 +903,7 @@ Napomena:
 
 Studenti biraju jedan od sledeća dva predmeta: 1. Engleski jezik za inženjere 1 (2+0+0) 2. Nemački jezik napredni srednji (2+0+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 10:20, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.02.2024. 10:15, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -957,9 +949,9 @@ aud.vežbe
 
 Operativni sistemi
 
-Turović Radovan
+Delić Anja
 
-Turović Radovan,
+Delić Anja,
 
 1,2
 
@@ -973,7 +965,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
+Gojković Dunja
 
 6
 
@@ -987,7 +979,7 @@ rač.vežbe
 
 Osnovi paralelnog programiranja i softverski alati Matić Milica
 
-Arsenović Jovana,
+Radojičić Veljko,
 
 9,14
 
@@ -1001,7 +993,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
+Topalov Stefan
 
 4
 
@@ -1027,9 +1019,9 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Karalić Andrea
+Blesić Andrija
 
-Arsenović Jovana,
+Golić Anastasija,
 
 12,13
 
@@ -1043,7 +1035,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
+Arsenović Jovana
 
 11
 
@@ -1093,7 +1085,7 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Petrović Nemanja
+Blesić Andrija
 
 11,12
 
@@ -1107,9 +1099,7 @@ aud.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
-
-Aleksić Katarina,
+Delić Anja
 
 11,12
 
@@ -1123,7 +1113,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Delić Anja, Milišić Dane
 
 6
 
@@ -1137,7 +1127,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Stokanović Smilja
+Živanović Nikolina
 
 5
 
@@ -1163,7 +1153,7 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Petrović Nemanja
+Kozić Božidar
 
 7
 
@@ -1177,7 +1167,7 @@ rač.vežbe
 
 Osnovi paralelnog programiranja i softverski alati Kenjić Dušan
 
-Maravić Nikolina,
+Radojičić Veljko,
 
 7,8,12
 
@@ -1191,7 +1181,7 @@ aud.vežbe
 
 Sistemi automatskog upravljanja
 
-Arsenović Jovana
+Topalov Stefan
 
 U T O R A K
 
@@ -1297,9 +1287,9 @@ aud.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
+Milišić Dane
 
-Aleksić Katarina,
+Milišić Dane,
 
 9,15
 
@@ -1313,7 +1303,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Gojković Dunja
 
 12
 
@@ -1339,7 +1329,7 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Karalić Andrea
+Blesić Andrija
 
 7,8
 
@@ -1353,9 +1343,9 @@ aud.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
+Ristić Branislav
 
-Aleksić Katarina,
+Ristić Branislav,
 
 7,8
 
@@ -1369,7 +1359,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Delić Anja
 
 10,14
 
@@ -1383,9 +1373,9 @@ aud.vežbe
 
 Operativni sistemi
 
-Turović Radovan
+Gojković Dunja
 
-Turović Radovan,
+Gojković Dunja,
 
 10,14
 
@@ -1399,7 +1389,7 @@ rač.vežbe
 
 Operativni sistemi
 
-Jovanović Jovana
+Milišić Dane
 
 1,2,11
 
@@ -1413,9 +1403,9 @@ aud.vežbe
 
 Verovatnoća i slučajni procesi
 
-Karalić Andrea
+Kozić Božidar
 
-Arsenović Jovana,
+Topalov Stefan,
 
 3,4,5
 
@@ -1429,7 +1419,7 @@ aud.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
+Golić Anastasija
 
 6,11,14
 
@@ -1443,7 +1433,7 @@ aud.vežbe
 
 Sistemi automatskog upravljanja
 
-Stokanović Smilja
+Živanović Nikolina
 
 SVI
 
@@ -1471,11 +1461,11 @@ aud.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
+Arsenović Jovana
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 10:20, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 21.02.2024. 10:15, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -1508,10 +1498,8 @@ Naziv Predmeta
 Izvođač
 
 
-Rapaić dr Milan,
-
-
 SVI
+
 
 08:15
 
@@ -1521,9 +1509,9 @@ A1
 
 Pred.
 
-Sistemi automatskog upravljanja
+Verovatnoća i slučajni procesi
 
-Kulić dr Filip
+Grbić dr Tatjana
 
 SVI
 
@@ -1539,6 +1527,8 @@ Operativni sistemi
 
 Petrović dr Veljko
 
+Rapaić dr Milan,
+
 SVI
 
 12:15
@@ -1549,11 +1539,9 @@ A1
 
 Pred.
 
-Verovatnoća i slučajni procesi
+Sistemi automatskog upravljanja
 
-Grbić dr Tatjana
-
-Stojaković Nedeljko,
+Kulić dr Filip
 
 9,10,13
 
@@ -1567,9 +1555,7 @@ aud.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
-
-Maravić Nikolina,
+Golić Anastasija
 
 2,4
 
@@ -1583,7 +1569,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Stojaković Nedeljko
+Golić Anastasija
 
 
 
@@ -1637,9 +1623,9 @@ rač.vežbe
 
 Osnovi paralelnog programiranja i softverski alati Ivanović Sandra
 
-Maravić Nikolina,
+Arsenović Jovana,
 
-7,11
+3,11
 
 08:45
 
@@ -1651,7 +1637,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Stojaković Nedeljko
+Radojičić Veljko
 
 5,6,13
 
@@ -1665,7 +1651,7 @@ aud.vežbe
 
 Operativni sistemi
 
-Andrejević Aleksandar
+Milišić Dane, Delić Anja
 
 1
 
@@ -1691,8 +1677,6 @@ rač.vežbe
 
 Osnovi paralelnog programiranja i softverski alati Subotić dr Miloš
 
-Andrejević Aleksandar,
-
 5,6
 
 10:05
@@ -1705,9 +1689,9 @@ rač.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
+Milišić Dane, Delić Anja
 
-Maravić Nikolina,
+Arsenović Jovana,
 
 10,15
 
@@ -1721,7 +1705,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Arsenović Jovana
+Radojičić Veljko
 
 13
 
@@ -1737,9 +1721,9 @@ Operativni sistemi
 
 Turović Radovan
 
-Stokanović Smilja,
+Topalov Stefan,
 
-3,8
+7,8
 
 12:15
 
@@ -1751,7 +1735,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Stojaković Nedeljko
+Živanović Nikolina
 
 1
 
@@ -1765,7 +1749,7 @@ rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
+Golić Anastasija
 
 9
 
@@ -1791,9 +1775,9 @@ aud.vežbe
 
 Operativni sistemi
 
-Jovanović Jovana
+Gojković Dunja
 
-Jovanović Jovana,
+Gojković Dunja,
 
 3,4
 
@@ -1807,21 +1791,21 @@ rač.vežbe
 
 Operativni sistemi
 
-Aleksić Katarina
+Ristić Branislav
 
 5
 
-14:15
+15:15
 
-15:45
+16:45
 
-AR2
+MI A2-4
 
 rač.vežbe
 
 Sistemi automatskog upravljanja
 
-Mitrović Aleksandra
+Radojičić Veljko
 
 13
 
@@ -1849,7 +1833,7 @@ Osnovi paralelnog programiranja i softverski alati Subotić dr Miloš
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 09:06, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.02.2024. 09:07, Strana: 5
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -1887,7 +1871,7 @@ rač.vežbe
 
 Internet mreže
 
-Vuković dr Željko
+Janković Eva
 
 8
 
@@ -1897,7 +1881,7 @@ rač.vežbe
 
 Veb programiranje
 
-Filipović Dragana
+Popović Miloš
 
 2
 
@@ -1919,7 +1903,7 @@ L2 (RC)
 
 rač.vežbe
 
-Specifikacija i modeliranje softvera Đukić Anica
+Specifikacija i modeliranje softvera Prokić Simona
 
 7
 
@@ -1963,7 +1947,7 @@ L2 (RC)
 
 rač.vežbe
 
-Specifikacija i modeliranje softvera Đukić Anica
+Specifikacija i modeliranje softvera Prokić Simona
 
 8
 
@@ -1995,7 +1979,7 @@ rač.vežbe
 
 Internet mreže
 
-Mršulja Ivan
+Matijević Gostojić Milica
 
 4
 
@@ -2007,7 +1991,7 @@ rač.vežbe
 
 Internet mreže
 
-Vuković dr Željko
+Radaković Danijel
 
 3
 
@@ -2017,7 +2001,7 @@ L2 (RC)
 
 rač.vežbe
 
-Specifikacija i modeliranje softvera Mijatov Vanja
+Specifikacija i modeliranje softvera Prokić Simona
 
 5
 
@@ -2027,7 +2011,7 @@ L5 (RC)
 
 rač.vežbe
 
-Specifikacija i modeliranje softvera Ivanović Bojana
+Specifikacija i modeliranje softvera Đukić Anica
 
 6
 
@@ -2037,7 +2021,7 @@ rač.vežbe
 
 Osnovi računarske inteligencije
 
-Vujinović Aleksandar
+Osmajić Mihaela
 
 4
 
@@ -2059,7 +2043,7 @@ L2 (RC)
 
 rač.vežbe
 
-Specifikacija i modeliranje softvera Mijatov Vanja
+Specifikacija i modeliranje softvera Đukić Anica
 
 1,5
 
@@ -2071,7 +2055,7 @@ rač.vežbe
 
 Internet mreže
 
-Janković Eva
+Kovačević Tamara
 
 U T O R A K
 
@@ -2111,7 +2095,7 @@ SVI
 
 15:15 18:00
 
-A3
+203
 
 Pred.
 
@@ -2157,7 +2141,7 @@ rač.vežbe
 
 Internet mreže
 
-Mršulja Ivan
+Matijević Gostojić Milica
 
 1
 
@@ -2257,7 +2241,7 @@ rač.vežbe
 
 Internet mreže
 
-Mršulja Ivan
+Kaplar dr Marija
 
 6
 
@@ -2267,7 +2251,7 @@ rač.vežbe
 
 Internet mreže
 
-Mršulja Ivan
+Kaplar dr Marija
 
 8
 
@@ -2301,7 +2285,7 @@ L2 (RC)
 
 rač.vežbe
 
-Specifikacija i modeliranje softvera Ivanović Bojana
+Specifikacija i modeliranje softvera Prokić Simona
 
 3
 
@@ -2358,16 +2342,6 @@ rač.vežbe
 Veb programiranje
 
 Kovačević Ivana
-
-4
-
-18:30 21:00 NTP-312
-
-rač.vežbe
-
-Veb programiranje
-
-Grujić Katarina Glorija
 
 Č E T V R T A K
 
@@ -2445,11 +2419,29 @@ Vrsta nast.
 
 Naziv Predmeta
 
+
+
+
+
 Izvođač
+
+
+4
+
+
+07:45 10:15
+
+L2 (RC)
+
+rač.vežbe
+
+Veb programiranje
+
+Grujić Katarina Glorija
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 07:04, Strana: 6
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.02.2024. 04:19, Strana: 6
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -2493,7 +2485,21 @@ NTP-411
 
 rač.vežbe
 
-Upravljački algoritmi u realnom vremenu Stokanović Smilja
+Upravljački algoritmi u realnom vremenu Gluhović Mihailo
+
+3
+
+11:15
+
+13:45
+
+NTP-411
+
+rač.vežbe
+
+Inteligentni sistemi
+
+Gluhović Mihailo
 
 2
 
@@ -2507,7 +2513,7 @@ rač.vežbe
 
 Osnove geoinformatike
 
-Pajić dr Vladimir
+Ruskovski Igor
 
 1,4(9-)
 
@@ -2519,7 +2525,7 @@ NTP-415
 
 rač.vežbe
 
-Softverski algoritmi u sistemima automatskog upravljanja Pejić Marko
+Softverski algoritmi u sistemima automatskog upravljanja Dragutinović Đorđe
 
 SVI
 
@@ -2560,20 +2566,6 @@ rač.vežbe
 Osnove geoinformatike
 
 Pajić dr Vladimir
-
-3
-
-18:15
-
-20:45
-
-NTP-411
-
-rač.vežbe
-
-Inteligentni sistemi
-
-Bugarski dr Vladimir
 
 U T O R A K
 
@@ -2621,7 +2613,7 @@ NTP-411
 
 rač.vežbe
 
-Upravljački algoritmi u realnom vremenu Kanović dr Željko
+Upravljački algoritmi u realnom vremenu Golić Anastasija
 
 4
 
@@ -2635,7 +2627,7 @@ rač.vežbe
 
 Osnove geoinformatike
 
-Pajić dr Vladimir
+Ruskovski Igor
 
 1
 
@@ -2649,7 +2641,9 @@ rač.vežbe
 
 Inteligentni sistemi
 
-Bugarski dr Vladimir
+Gluhović Mihailo
+
+Dragutinović Đorđe,
 
 2,3,4(1-8) 17:45
 
@@ -2659,7 +2653,7 @@ L1 (RC)
 
 rač.vežbe
 
-Softverski algoritmi u sistemima automatskog upravljanja Pejić Marko
+Softverski algoritmi u sistemima automatskog upravljanja Injac Milica
 
 
 
@@ -2707,13 +2701,11 @@ Jorgovanović Bojan
 
 12:30
 
-14:00
-
-NTP-411
+14:00 NTP-411
 
 rač.vežbe
 
-Upravljački algoritmi u realnom vremenu Stokanović Smilja
+Upravljački algoritmi u realnom vremenu Gluhović Mihailo
 
 Govedarica dr Miro,
 
@@ -2721,9 +2713,7 @@ SVI
 
 14:15
 
-16:00
-
-NTP-417
+16:00 NTP-417
 
 Pred.
 
@@ -2739,7 +2729,9 @@ SVI
 
 16:15
 
-18:00 NTP-417
+18:00
+
+NTP-417
 
 Pred.
 
@@ -2755,7 +2747,7 @@ rač.vežbe
 
 Inteligentni sistemi
 
-Bugarski dr Vladimir
+Gluhović Mihailo
 
 Č E T V R T A K
 
@@ -2778,8 +2770,10 @@ Naziv Predmeta
 Izvođač
 
 
-1,2,3,4
+Golić Anastasija,
 
+
+1,2,3,4
 
 12:30
 
@@ -2787,7 +2781,7 @@ Izvođač
 
 aud.vežbe
 
-Upravljački algoritmi u realnom vremenu Stokanović Smilja
+Upravljački algoritmi u realnom vremenu Gluhović Mihailo
 
 Kulić dr Filip,
 
@@ -2795,29 +2789,13 @@ SVI
 
 16:15
 
-19:00
-
-NTP-418
+19:00 NTP-418
 
 Pred.
 
 Inteligentni sistemi
 
 Bugarski dr Vladimir
-
-4
-
-19:30
-
-21:00
-
-NTP-410
-
-lab.vežbe
-
-Hardverski interfejs
-
-Jorgovanović Bojan
 
 2
 
@@ -2829,7 +2807,7 @@ rač.vežbe
 
 Inteligentni sistemi
 
-Bugarski dr Vladimir
+Gluhović Mihailo
 
 3
 
@@ -2870,8 +2848,20 @@ Naziv Predmeta
 Izvođač
 
 
-Čapko dr Darko,
+4
 
+
+08:30
+
+10:00 NTP-410
+
+lab.vežbe
+
+Hardverski interfejs
+
+Jorgovanović Bojan
+
+Čapko dr Darko,
 
 SVI
 
@@ -2917,11 +2907,11 @@ Jorgovanović Bojan
 
 rač.vežbe
 
-Upravljački algoritmi u realnom vremenu Stokanović Smilja
+Upravljački algoritmi u realnom vremenu Golić Anastasija
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 07:04, Strana: 7
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.02.2024. 07:17, Strana: 7
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -3149,18 +3139,6 @@ Logičko projektovanje računarskih sistema 2
 
 Pjevalica dr Nebojša
 
-SVI
-
-15:15
-
-17:00
-
-NTP-418
-
-Pred.
-
-Projektovanje i arhitektura računarskih sistema - Sistemi zasnovani na Androidu Pap dr Ištvan
-
 
 
 
@@ -3217,6 +3195,18 @@ Logičko projektovanje računarskih sistema 2
 
 Pjevalica dr Nebojša
 
+SVI
+
+15:15
+
+17:00
+
+NTP-418
+
+Pred.
+
+Projektovanje i arhitektura računarskih sistema - Sistemi zasnovani na Androidu Pap dr Ištvan
+
 Č E T V R T A K
 
 Grupa-e
@@ -3245,7 +3235,7 @@ Izvođač
 
 10:30
 
-NTP-505
+NTP-508
 
 rač.vežbe
 
@@ -3299,7 +3289,7 @@ Bežične mreže - Internet of Things
 
 12:15
 
-NTP-505
+NTP-508
 
 rač.vežbe
 
@@ -6235,7 +6225,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 05:21, Strana: 11
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.02.2024. 05:39, Strana: 11
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -6295,7 +6285,7 @@ Pred.
 
 Projektovanje softvera u sistemima upravljanja Vukmirović dr Srđan
 
-2
+2,3(5-)
 
 12:15
 
@@ -6305,7 +6295,7 @@ L5 (RC)
 
 rač.vežbe
 
-Projektovanje softvera u sistemima upravljanja Dragutinović Đorđe
+Projektovanje softvera u sistemima upravljanja Zarić Dragan
 
 U T O R A K
 
@@ -6328,7 +6318,7 @@ Naziv Predmeta
 Izvođač
 
 
-1
+1,3(1-4)
 
 
 14:15
@@ -6339,7 +6329,7 @@ L2 (RC)
 
 rač.vežbe
 
-Projektovanje softvera u sistemima upravljanja Dragutinović Đorđe
+Projektovanje softvera u sistemima upravljanja Zarić Dragan
 
 SVI
 
@@ -6397,6 +6387,20 @@ Primena DSP u upravljanju
 
 Bulatović Jelena
 
+3
+
+15:15
+
+17:45
+
+NTP-508
+
+lab.vežbe
+
+Upravljanje procesima računarom
+
+Čongradac dr Velimir
+
 1
 
 16:45
@@ -6410,6 +6414,20 @@ rač.vežbe
 Algoritmi obrade slike u automatici
 
 Tomašević Olivera
+
+3
+
+18:00
+
+21:15
+
+NTP-508
+
+rač.vežbe
+
+Primena DSP u upravljanju
+
+Bulatović Jelena
 
 2
 
@@ -6446,8 +6464,22 @@ Naziv Predmeta
 Izvođač
 
 
-1
+3
 
+
+07:45
+
+10:15
+
+NTP-410
+
+rač.vežbe
+
+Algoritmi obrade slike u automatici
+
+Tomašević Olivera
+
+1
 
 13:30
 
@@ -6533,7 +6565,7 @@ Upravljanje procesima računarom
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 05:22, Strana: 12
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.02.2024. 09:06, Strana: 12
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -6621,7 +6653,7 @@ Matković Jelena
 
 12:00
 
-NTP-307
+NTP-309
 
 rač.vežbe
 
@@ -6653,7 +6685,7 @@ rač.vežbe
 
 Inženjering informacionih sistema
 
-Jovanović Vladimir
+Todorović Nikola
 
 1
 
@@ -6760,8 +6792,22 @@ Naziv Predmeta
 Izvođač
 
 
-IS
+6
 
+
+08:30
+
+10:00
+
+NTP-307
+
+rač.vežbe
+
+Mobilne aplikacije
+
+Antešević Svetlana
+
+IS
 
 10:15
 
@@ -6787,18 +6833,6 @@ Pred.
 
 Bezbednost u sistemima elektronskog poslovanja Sladić dr Goran
 
-11
-
-10:30
-
-12:00
-
-MI A2-2
-
-rač.vežbe
-
-Napredne arhitekture informacionih sistema Vještica Marko
-
 21
 
 10:30
@@ -6811,19 +6845,31 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Matković Jelena
+Antešević Svetlana
 
 12
 
-12:15
+13:15
 
-13:45
+14:45
 
 MI A2-2
 
 rač.vežbe
 
-Napredne arhitekture informacionih sistema Vještica Marko
+Napredne arhitekture informacionih sistema Akik Elena
+
+11
+
+15:00
+
+16:30
+
+MI A2-2
+
+rač.vežbe
+
+Napredne arhitekture informacionih sistema Vještica dr Marko
 
 EP, INS
 
@@ -6866,8 +6912,22 @@ Naziv Predmeta
 Izvođač
 
 
-SVI
+21
 
+
+12:30
+
+15:00
+
+F 315
+
+rač.vežbe
+
+Softverski agenti
+
+Anđelić Branislav
+
+SVI
 
 15:15
 
@@ -6961,6 +7021,18 @@ Servisno orijentisane arhitekture
 
 Ranković Tamara
 
+2
+
+07:45
+
+10:15
+
+F 315
+
+rač.vežbe
+
+Bezbednost u sistemima elektronskog poslovanja Nemeš Nikola
+
 12
 
 08:45
@@ -6974,18 +7046,6 @@ rač.vežbe
 Servisno orijentisane arhitekture
 
 Ranković Tamara
-
-2
-
-08:00
-
-10:30
-
-F 315
-
-rač.vežbe
-
-Bezbednost u sistemima elektronskog poslovanja Nemeš Nikola
 
 4
 
@@ -7013,7 +7073,7 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Matković Jelena
+Antešević Svetlana
 
 3
 
@@ -7033,7 +7093,7 @@ Bezbednost u sistemima elektronskog poslovanja Kovačević Ivana
 
 13:15
 
-NTP-307
+NTP-311
 
 rač.vežbe
 
@@ -7095,7 +7155,21 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Matković Jelena
+Antešević Svetlana
+
+6
+
+16:45
+
+19:15
+
+NTP-309
+
+rač.vežbe
+
+Poslovna informatika
+
+Škipina Milica
 
 2
 
@@ -7109,7 +7183,21 @@ rač.vežbe
 
 Mobilne aplikacije
 
-Matković Jelena
+Antešević Svetlana
+
+6
+
+19:30
+
+21:00
+
+NTP-309
+
+rač.vežbe
+
+Servisno orijentisane arhitekture
+
+Dorić Luka
 
 
 
@@ -7193,21 +7281,9 @@ Servisno orijentisane arhitekture
 
 Dorić Luka
 
-21
+Kordić dr Slavica,
 
-14:00
-
-16:30
-
-NTP-309
-
-rač.vežbe
-
-Softverski agenti
-
-Anđelić Branislav
-
-INS
+IS
 
 14:15
 
@@ -7217,13 +7293,13 @@ INS
 
 Pred.
 
-Napredne arhitekture informacionih sistema Kordić dr Slavica
+Napredne arhitekture informacionih sistema Vještica dr Marko
 
 12
 
-15:45
+16:15
 
-18:15
+18:45
 
 MI A2-2
 
@@ -7231,13 +7307,25 @@ rač.vežbe
 
 Inženjering informacionih sistema
 
-Jovanović Vladimir
+Vučinić Milica
+
+6
+
+16:30
+
+19:00
+
+F 315
+
+rač.vežbe
+
+Bezbednost u sistemima elektronskog poslovanja Nemeš Nikola
 
 Napomena:
 
-Grupe broj 1,2,3,4 i 5 su upisane na Internet i elektronsko poslovanje (EP) Grupe broj 11,12 su upisane na Informacione sisteme (IS) Grupa broj 21 je upisana na Inteligentne sisteme (INS) Grupa broj 31 je upisana na Softversko inženjerstvo (SFI) - nastava u organizaciji departmana Grupa broj 41 je upisana na Multimedije i računarske igre (MM) - nastava u organizaciji departmana Grupa broj 51 je upisana na Teorijske aspekte programiranja (TAP) - nema upisanih studenata Rasporedi i realizacija: ftnraspored@uns.ac.rs
+Grupe broj 1,2,3,4,5 i 6 su upisane na Internet i elektronsko poslovanje (EP) Grupe broj 11,12 su upisane na Informacione sisteme (IS) Grupa broj 21 je upisana na Inteligentne sisteme (INS) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2024. 06:12, Strana: 13
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.02.2024. 08:29, Strana: 13
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -7271,7 +7359,7 @@ Izvođač
 
 13:00
 
-NTP-309
+NTP-307
 
 rač.vežbe
 
@@ -7285,7 +7373,7 @@ Antešević Svetlana
 
 15:45
 
-NTP-309
+NTP-307
 
 rač.vežbe
 
@@ -7355,17 +7443,17 @@ Napredne tehnike računarske inteligencije Slivka dr Jelena
 
 21
 
-16:00
+17:45
 
-18:30
+20:15
 
-NTP-309
+NTP-307
 
 rač.vežbe
 
 Uvod u digitalnu forenziku
 
-Dragišić Jelena
+Matijević Gostojić Milica
 
 
 
@@ -7441,7 +7529,7 @@ MI A2-2
 
 rač.vežbe
 
-Domenski orijentisano modelovanje i jezici Vještica Marko
+Domenski orijentisano modelovanje i jezici Vještica dr Marko
 
 Čeliković dr Milan,
 
@@ -7463,7 +7551,7 @@ Domenski orijentisano modelovanje i jezici Dimitrieski dr Vladimir
 
 19:00
 
-104
+PF-32
 
 Pred.
 
@@ -7479,7 +7567,7 @@ NTP-222
 
 rač.vežbe
 
-Računarstvo visokih performansi u informacionom inženjeringu Jeremić Aleksandar
+Računarstvo visokih performansi u informacionom inženjeringu Ivančević dr Vladimir
 
 
 
@@ -7525,7 +7613,9 @@ Bursać Vasilije
 
 Napomena:
 
-Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT, obratiti se prof.dr. Goranu Sladiću Studenti biraju jednu od 6 stručnih oblasti: 1: Elektronsko poslovanje - grupe broj 11,12
+Studenti treba da odrade STRUČNU PRAKSU - PROJEKAT, obratiti se prof.dr. Goranu Sladiću PF-32 je oznaka za učionicu 32 na drugom spratu Pravnog fakulteta, glavni ulaz sa Trga Dositeja Obradovića.
+
+Studenti biraju jednu od 6 stručnih oblasti: 1: Elektronsko poslovanje - grupe broj 11,12
 
 2: Softversko inženjerstvo - grupa broj 21
 
@@ -8595,7 +8685,7 @@ Blok nastava podrazumeva da će studenti u toku semestra slušati jedan po jedan
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 05:47, Strana: 16
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 08.02.2024. 06:49, Strana: 16
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -8763,7 +8853,7 @@ NTP-415
 
 rač.vežbe
 
-Primenjeni algoritmi u upravljačkim sistemima Prodanović Lazar
+Primenjeni algoritmi u upravljačkim sistemima Dragutinović Đorđe
 
 Napomena:
 

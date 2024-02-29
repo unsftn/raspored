@@ -24,7 +24,7 @@ Prof. dr Aleksandar Kupusinac
 
 
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 17.01.2024. 04:04, Strana: 1
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 26.02.2024. 07:17, Strana: 1
 
 R A S P O R E D P R E D A V A N J A 2 Semestar
 
@@ -44,6 +44,18 @@ Naziv Predmeta
 
 Izvođač
 
+1
+
+07:00
+
+08:30
+
+306
+
+rač.vežbe
+
+Dizajn tekstura i svetla Bobić Aleksandra
+
 3
 
 11:15
@@ -54,27 +66,15 @@ NTP-312
 
 rač.vežbe
 
-Osnove proceduralnog generisanja pokreta Matkovski Marijana
+Osnove proceduralnog generisanja pokreta Despotović Predrag
 
 2
 
-12:15
+11:30
 
-13:45
+13:00
 
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Bobić Aleksandra
-
-3
-
-14:00
-
-15:30
-
-L3 (RC)
+306
 
 rač.vežbe
 
@@ -92,7 +92,7 @@ aud.vežbe
 
 Matematička analiza
 
-Janjoš Aleksandar
+Palalić Tamara
 
 3,4
 
@@ -106,7 +106,7 @@ aud.vežbe
 
 Matematička analiza
 
-Prokić Aleksandar
+Palalić Tamara
 
 2
 
@@ -119,30 +119,6 @@ NTP-312
 rač.vežbe
 
 Osnove proceduralnog generisanja pokreta Despotović Predrag
-
-1
-
-17:00
-
-18:30
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Miščević Milan
-
-4
-
-19:30
-
-21:00
-
-L3 (RC)
-
-rač.vežbe
-
-Dizajn tekstura i svetla Miščević Milan
 
 U T O R A K
 
@@ -188,6 +164,20 @@ Matematička analiza
 
 Grbić dr Tatjana
 
+3
+
+15:00
+
+16:30
+
+306
+
+rač.vežbe
+
+Dizajn tekstura i svetla Miščević Milan
+
+Tanović Tina,
+
 2(10-),4(10-) 14:00
 
 15:30
@@ -198,7 +188,19 @@ lab.vežbe
 
 Fizika
 
-Lončarević dr Ivana
+Vuković Aleksandar
+
+4
+
+16:45
+
+18:15
+
+306
+
+rač.vežbe
+
+Dizajn tekstura i svetla Miščević Milan
 
 S R E D A
 
@@ -334,7 +336,7 @@ AH-CRT
 
 aud.vežbe
 
-Crtanje za animaciju i vizuelne efekte Novi saradnik ANI 1
+Crtanje za animaciju i vizuelne efekte Pilipović dr Dragana
 
 1,2(1-5)
 
@@ -346,7 +348,7 @@ AH-CRT
 
 aud.vežbe
 
-Crtanje za animaciju i vizuelne efekte Novi saradnik ANI 1
+Crtanje za animaciju i vizuelne efekte Pilipović dr Dragana
 
 3,4(1-5)
 
@@ -358,27 +360,27 @@ AH-CRT
 
 aud.vežbe
 
-Crtanje za animaciju i vizuelne efekte Novi saradnik ANI 1
+Crtanje za animaciju i vizuelne efekte Pilipović dr Dragana
 
 3
 
-13:15
+14:15
 
-14:45
+15:45
 
-L3 (RC)
+306
 
 rač.vežbe
 
-Dizajn tekstura i svetla Bobić Aleksandra
+Dizajn tekstura i svetla Miščević Milan
 
 4
 
-15:00
+16:00
 
-16:30
+17:30
 
-L3 (RC)
+306
 
 rač.vežbe
 
@@ -386,23 +388,23 @@ Dizajn tekstura i svetla Miščević Milan
 
 1
 
-16:45
+17:45
 
-18:15
+19:15
 
-L3 (RC)
+306
 
 rač.vežbe
 
-Dizajn tekstura i svetla Miščević Milan
+Dizajn tekstura i svetla Bobić Aleksandra
 
 2
 
-18:30
+19:30
 
-20:00
+21:00
 
-L3 (RC)
+306
 
 rač.vežbe
 
@@ -424,7 +426,7 @@ Naziv Predmeta
 
 Izvođač
 
-Lončarević dr Ivana,
+Tanović Tina,
 
 3,4(1-9)
 
@@ -440,7 +442,7 @@ Fizika
 
 Vuković Aleksandar
 
-Lončarević dr Ivana,
+Tanović Tina,
 
 1,2(1-9)
 
@@ -458,7 +460,7 @@ Vuković Aleksandar
 
 Rasporedi i realizacija; ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 19.01.2024. 06:12, Strana: 2
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.02.2024. 10:46, Strana: 2
 
 R A S P O R E D P R E D A V A N J A 4 Semestar
 
@@ -520,17 +522,33 @@ Osnove inženjerske animacije Vasiljević dr Ivana,
 
 Kuzmanović dr Nenad
 
-SVI
+1,2
 
 12:15
 
-15:00
+13:45
 
 202
 
-Pred.
+aud.vežbe
 
-Dizajn 3D prostora i okruženja Perišić dr Ana
+Akustika i audio tehnika u multimediji Suzić dr Siniša
+
+(3,4)
+
+1(1-12)
+
+15:00
+
+16:30
+
+NTP-116
+
+lab.vežbe
+
+Akustika i audio tehnika u multimediji Stanojev Vuk
+
+(4(1-12))
 
 U T O R A K
 
@@ -550,47 +568,21 @@ Izvođač
 
 1(13-),2(13-),
 
-3(13-),4(13-) 08:00
+3(13-),4(13-) 07:15
 
-09:30
+08:45
 
 NTP-115
 
 lab.vežbe
 
-Akustika i audio tehnika u multimediji Haška Aleksandra
+Akustika i audio tehnika u multimediji Stanojev Vuk
 
 sv.dr.ned.
 
-1
+4
 
 09:45
-
-11:15
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Golić Sonja
-
-1(1-12)
-
-11:30
-
-13:00
-
-NTP-115
-
-lab.vežbe
-
-Akustika i audio tehnika u multimediji Haška Aleksandra
-
-(4(1-12))
-
-2
-
-11:30
 
 13:00
 
@@ -612,29 +604,17 @@ Pred.
 
 Akustika i audio tehnika u multimediji Delić dr Vlado
 
-2
+SVI
 
 16:15
 
-17:45
+19:00
 
-306
+AH1A
 
-rač.vežbe
+Pred.
 
-Dizajn 3D prostora i okruženja Novi saradnik ANI 1
-
-3
-
-18:00
-
-19:30
-
-306
-
-rač.vežbe
-
-Dizajn 3D prostora i okruženja Novi saradnik ANI 1
+Dizajn 3D prostora i okruženja Perišić dr Ana
 
 S R E D A
 
@@ -652,21 +632,21 @@ Naziv Predmeta
 
 Izvođač
 
-4
+3
 
 08:45
 
 10:15
 
-306
+L3 (RC)
 
 rač.vežbe
 
-Osnove inženjerske animacije Golić Sonja
+Dizajn 3D prostora i okruženja Novi saradnik LD
 
-3
+1
 
-10:30
+08:45
 
 12:00
 
@@ -674,9 +654,19 @@ Osnove inženjerske animacije Golić Sonja
 
 rač.vežbe
 
-Osnove inženjerske animacije Miščević Milan
+Osnove inženjerske animacije Golić Sonja
 
-Čomić dr Lidija,
+2
+
+10:30
+
+12:00
+
+L3 (RC)
+
+rač.vežbe
+
+Dizajn 3D prostora i okruženja Novi saradnik LD
 
 SVI
 
@@ -688,7 +678,7 @@ SVI
 
 Pred.
 
-Matematika za inženjersku grafiku Bajić-Papuga dr Buda
+Matematika za inženjersku grafiku Delić dr Marija
 
 1,2
 
@@ -700,7 +690,7 @@ Matematika za inženjersku grafiku Bajić-Papuga dr Buda
 
 aud.vežbe
 
-Matematika za inženjersku grafiku Blesić Andrija
+Matematika za inženjersku grafiku Delić dr Marija
 
 4
 
@@ -712,7 +702,7 @@ Matematika za inženjersku grafiku Blesić Andrija
 
 rač.vežbe
 
-Dizajn 3D prostora i okruženja Novi saradnik ANI 2
+Dizajn 3D prostora i okruženja Novi saradnik LD
 
 1
 
@@ -724,7 +714,7 @@ Dizajn 3D prostora i okruženja Novi saradnik ANI 2
 
 rač.vežbe
 
-Dizajn 3D prostora i okruženja Novi saradnik ANI 2
+Dizajn 3D prostora i okruženja Novi saradnik LD
 
 2(1-12)
 
@@ -736,7 +726,7 @@ NTP-115
 
 lab.vežbe
 
-Akustika i audio tehnika u multimediji Haška Aleksandra
+Akustika i audio tehnika u multimediji Stanojev Vuk
 
 (3(1-12))
 
@@ -756,18 +746,6 @@ Naziv Predmeta
 
 Izvođač
 
-2
-
-10:30
-
-12:00
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Miščević Milan
-
 3,4
 
 10:30
@@ -778,9 +756,7 @@ Osnove inženjerske animacije Miščević Milan
 
 aud.vežbe
 
-Matematika za inženjersku grafiku Blesić Andrija
-
-Čomić dr Lidija,
+Matematika za inženjersku grafiku Delić dr Marija
 
 SVI
 
@@ -792,7 +768,7 @@ SVI
 
 Pred.
 
-Matematika za inženjersku grafiku Bajić-Papuga dr Buda
+Matematika za inženjersku grafiku Delić dr Marija
 
 Obradović dr Ratko,
 
@@ -807,20 +783,6 @@ SVI
 Pred.
 
 Osnove inženjerske animacije Vasiljević dr Ivana
-
-1,2
-
-16:15
-
-17:45
-
-109
-
-aud.vežbe
-
-Akustika i audio tehnika u multimediji Suzić dr Siniša
-
-(3,4)
 
 P E T A K
 
@@ -838,17 +800,17 @@ Naziv Predmeta
 
 Izvođač
 
-1
+3
 
 07:00
 
-08:30
+10:15
 
 306
 
 rač.vežbe
 
-Osnove inženjerske animacije Bobić Aleksandra
+Osnove inženjerske animacije Golić Sonja
 
 1,2
 
@@ -860,19 +822,7 @@ Osnove inženjerske animacije Bobić Aleksandra
 
 aud.vežbe
 
-Matematika za inženjersku grafiku Blesić Andrija
-
-3
-
-08:45
-
-10:15
-
-306
-
-rač.vežbe
-
-Osnove inženjerske animacije Golić Sonja
+Matematika za inženjersku grafiku Delić dr Marija
 
 3,4
 
@@ -884,11 +834,11 @@ Osnove inženjerske animacije Golić Sonja
 
 aud.vežbe
 
-Matematika za inženjersku grafiku Blesić Andrija
+Matematika za inženjersku grafiku Delić dr Marija
 
-4
+2
 
-12:15
+10:30
 
 13:45
 
@@ -896,13 +846,13 @@ Matematika za inženjersku grafiku Blesić Andrija
 
 rač.vežbe
 
-Osnove inženjerske animacije Miščević Milan
+Osnove inženjerske animacije Golić Sonja
 
 Napomena:
 
 Studenti biraju jedan od sledeća dva predmeta: 1. Engleski jezik za računarsku grafiku 1(2+0+0) 2. Nemački jezik - napredni srednji (2+0+0) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 09:10, Strana: 3
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 20.02.2024. 10:46, Strana: 3
 
 R A S P O R E D P R E D A V A N J A 6 Semestar
 
@@ -922,19 +872,9 @@ Naziv Predmeta
 
 Izvođač
 
-1
-
-07:00 08:30
-
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Paunović Aleksa
-
 4
 
-08:45 11:15
+08:40 11:10
 
 306
 
@@ -951,16 +891,6 @@ L3 (RC)
 rač.vežbe
 
 Video u inženjerskoj animaciji Novi asistent ANI 1
-
-4
-
-11:30 13:00
-
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Golić Sonja
 
 2
 
@@ -980,7 +910,7 @@ Estetika vizuelnih komunikacija Novi saradnik ANI 2
 
 rač.vežbe
 
-Inženjerska animacija i drugi mediji Milinković Nikola
+Inženjerska animacija i drugi mediji Novi asistent LD
 
 U T O R A K
 
@@ -998,23 +928,31 @@ Naziv Predmeta
 
 Izvođač
 
-Popkonstantinović dr Branislav, SVI
+2,4
 
-09:15 12:00
+07:00 09:30
 
-207
+MI A2-3
 
-Pred.
+rač.vežbe
 
-Estetika vizuelnih komunikacija Perišić dr Ana,
+Objektno orijentisano programiranje Aleksić Lenka Isidora
 
-Kekeljević dr Igor
+1
+
+09:00 12:15
+
+L3 (RC)
+
+rač.vežbe
+
+Specijalni vizuelni efekti Bobić Aleksandra
 
 Obradović dr Ratko,
 
 SVI
 
-12:15 14:00
+12:30 14:00
 
 207
 
@@ -1068,15 +1006,17 @@ Pred.
 
 Inženjerska animacija i drugi mediji Perišić dr Ana
 
-2
+Perišić dr Ana,
 
-14:15 16:45
+SVI
 
-MI A2-2
+14:15 16:00
 
-rač.vežbe
+201
 
-Objektno orijentisano programiranje Aleksić Lenka Isidora
+Pred.
+
+Estetika vizuelnih komunikacija Kekeljević dr Igor
 
 Č E T V R T A K
 
@@ -1106,7 +1046,7 @@ Estetika vizuelnih komunikacija Novi saradnik ANI 1
 
 3
 
-12:15 13:45
+10:30 13:45
 
 306
 
@@ -1132,7 +1072,7 @@ Video u inženjerskoj animaciji Novi asistent ANI 1
 
 rač.vežbe
 
-Inženjerska animacija i drugi mediji Milinković Nikola
+Inženjerska animacija i drugi mediji Novi asistent LD
 
 1
 
@@ -1160,17 +1100,7 @@ Video u inženjerskoj animaciji Novi asistent ANI 1
 
 rač.vežbe
 
-Inženjerska animacija i drugi mediji Milinković Nikola
-
-2
-
-20:15 21:45
-
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Golić Sonja
+Inženjerska animacija i drugi mediji Novi asistent LD
 
 P E T A K
 
@@ -1188,6 +1118,14 @@ Naziv Predmeta
 
 Izvođač
 
+3
+
+07:00 09:30 NTP-316
+
+rač.vežbe
+
+Objektno orijentisano programiranje Aleksić Lenka Isidora
+
 1
 
 07:45 10:15
@@ -1197,14 +1135,6 @@ L3 (RC)
 rač.vežbe
 
 Video u inženjerskoj animaciji Novi asistent ANI 1
-
-3
-
-08:30 11:00 NTP-316
-
-rač.vežbe
-
-Objektno orijentisano programiranje Aleksić Lenka Isidora
 
 SVI
 
@@ -1216,41 +1146,23 @@ Pred.
 
 Objektno orijentisano programiranje Kupusinac dr Aleksandar 4
 
-14:15 15:45
+14:15 17:30
 
-306
-
-rač.vežbe
-
-Specijalni vizuelni efekti Golić Sonja
-
-3
-
-16:00 17:30
-
-306
+L3 (RC)
 
 rač.vežbe
 
 Specijalni vizuelni efekti Paunović Aleksa
 
-4
-
-16:30 19:00 NTP-316
-
-rač.vežbe
-
-Objektno orijentisano programiranje Aleksić Lenka Isidora
-
 2
 
-17:45 19:15
+17:45 21:00
 
-306
+L3 (RC)
 
 rač.vežbe
 
-Specijalni vizuelni efekti Golić Sonja
+Specijalni vizuelni efekti Paunović Aleksa
 
 S U B O T A
 
@@ -1268,7 +1180,7 @@ Naziv Predmeta
 
 Izvođač
 
-1
+4
 
 08:00 10:30
 
@@ -1276,31 +1188,21 @@ Izvođač
 
 rač.vežbe
 
-Estetika vizuelnih komunikacija Novi saradnik ANI 1
+Inženjerska animacija i drugi mediji Novi asistent LD
 
 1
 
-10:45 12:15
+10:45 13:15
 
 306
 
 rač.vežbe
 
-Specijalni vizuelni efekti Paunović Aleksa
-
-4
-
-12:30 15:00
-
-306
-
-rač.vežbe
-
-Inženjerska animacija i drugi mediji Milinković Nikola
+Estetika vizuelnih komunikacija Novi saradnik ANI 1
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 04:33, Strana: 4
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 27.02.2024. 05:10, Strana: 4
 
 R A S P O R E D P R E D A V A N J A 8 Semestar
 
@@ -1346,6 +1248,8 @@ Pred.
 
 Geometrija diskretnih prostora Čomić dr Lidija
 
+Nikolić dr Milutin,
+
 Opredeljeni
 
 18:15
@@ -1356,7 +1260,7 @@ MI G3-1C
 
 Pred.
 
-Snimanje i analiza kretanja Nikolić dr Milutin
+Snimanje i analiza kretanja Obradović dr Ratko
 
 U T O R A K
 
@@ -1384,21 +1288,7 @@ Izvođač
 
 rač.vežbe
 
-Postprodukcija u animaciji Mikać Mirko
-
-4
-
-08:45
-
-10:15
-
-L3 (RC)
-
-rač.vežbe
-
-Boje i osvetljenost
-
-Beljin-Čavić Milica
+Postprodukcija u animaciji Paunović Aleksa
 
 3
 
@@ -1410,7 +1300,7 @@ F 318
 
 rač.vežbe
 
-Skript jezici za računarsku animaciju Paunović Aleksa
+Skript jezici za računarsku animaciju Davinić Bogdan
 
 2
 
@@ -1422,7 +1312,21 @@ F 318
 
 rač.vežbe
 
-Skript jezici za računarsku animaciju Paunović Aleksa
+Skript jezici za računarsku animaciju Davinić Bogdan
+
+4
+
+12:30
+
+14:00
+
+L3 (RC)
+
+rač.vežbe
+
+Boje i osvetljenost
+
+Beljin-Čavić Milica
 
 S R E D A
 
@@ -1466,7 +1370,7 @@ rač.vežbe
 
 Boje i osvetljenost
 
-Beljin-Čavić Milica
+Paunović Aleksa
 
 1
 
@@ -1480,7 +1384,7 @@ rač.vežbe
 
 Boje i osvetljenost
 
-Beljin-Čavić Milica
+Bobić Aleksandra
 
 2
 
@@ -1492,7 +1396,7 @@ Beljin-Čavić Milica
 
 rač.vežbe
 
-Postprodukcija u animaciji Mikać Mirko
+Postprodukcija u animaciji Paunović Aleksa
 
 Č E T V R T A K
 
@@ -1520,7 +1424,7 @@ L3 (RC)
 
 rač.vežbe
 
-Postprodukcija u animaciji Mikać Mirko
+Postprodukcija u animaciji Novi saradnik 2
 
 1
 
@@ -1532,7 +1436,7 @@ F 318
 
 rač.vežbe
 
-Skript jezici za računarsku animaciju Paunović Aleksa
+Skript jezici za računarsku animaciju Davinić Bogdan
 
 4
 
@@ -1544,7 +1448,7 @@ F 318
 
 rač.vežbe
 
-Skript jezici za računarsku animaciju Paunović Aleksa
+Skript jezici za računarsku animaciju Davinić Bogdan
 
 3
 
@@ -1556,7 +1460,19 @@ L3 (RC)
 
 rač.vežbe
 
-Postprodukcija u animaciji Mikać Mirko
+Postprodukcija u animaciji Novi saradnik 2
+
+Opredeljeni
+
+13:30
+
+15:00
+
+MI G3-1
+
+rač.vežbe
+
+Snimanje i analiza kretanja Miščević Milan
 
 P E T A K
 
@@ -1573,6 +1489,8 @@ Vrsta nast.
 Naziv Predmeta
 
 Izvođač
+
+Đurić dr Isidora,
 
 SVI
 
@@ -1600,33 +1518,21 @@ Skript jezici za računarsku animaciju Ivetić dr Dragan
 
 Opredeljeni
 
-14:15
+17:00
 
-15:45
+18:30
 
-202
+308
 
 aud.vežbe
 
-Geometrija diskretnih prostora Dedeić dr Jovana
-
-Opredeljeni
-
-13:15
-
-14:45
-
-MI B4-5
-
-rač.vežbe
-
-Snimanje i analiza kretanja Milić Lazar
+Geometrija diskretnih prostora Palalić Tamara
 
 Napomena:
 
 Studenti biraju jedan od sledeća dva predmeta: 1. Geometrija diskretnih prostora (2+2+0) 2. Snimanje i analiza kretanja (2+0+2) Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
-Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 18.01.2024. 05:27, Strana: 5
+Fakultet tehničkih nauka, Novi Sad Poslednja izmena: 22.02.2024. 08:17, Strana: 5
 
 RASPORED PREDAVANJA - Master akademske studije 2 Semestar
 
@@ -1648,7 +1554,9 @@ Izvođač
 
 SVI
 
-17:30 20:00
+17:30
+
+20:00
 
 F 317
 
@@ -1672,23 +1580,15 @@ Naziv Predmeta
 
 Izvođač
 
-1
-
-13:15 14:45
-
-306
-
-rač.vežbe
-
-Kompjuterska geometrija Varga Marija
-
 Krstanović dr Lidija,
 
 SVI
 
-15:15 17:00
+15:15
 
-AH4
+17:00
+
+PF-32
 
 Pred.
 
@@ -1710,6 +1610,18 @@ Naziv Predmeta
 
 Izvođač
 
+1
+
+15:00
+
+16:30
+
+AR5
+
+rač.vežbe
+
+Kompjuterska geometrija Varga Marija
+
 Č E T V R T A K
 
 Grupa-e
@@ -1728,7 +1640,11 @@ Izvođač
 
 SVI
 
-14:15 16:00 305 (CMS)
+14:15
+
+16:00
+
+305 (CMS)
 
 Pred.
 
@@ -1736,7 +1652,11 @@ Matematička teorija igara Bajić-Papuga dr Buda
 
 1
 
-16:15 17:45 305 (CMS)
+16:15
+
+17:45
+
+305 (CMS)
 
 aud.vežbe
 
@@ -1760,13 +1680,19 @@ Izvođač
 
 1
 
-17:15 19:45
+17:15
+
+19:45
 
 F 318
 
 rač.vežbe
 
 Proces razvoja računarskih igara Bursać Vasilije
+
+Napomena:
+
+PF-32 je oznaka za učionicu 32 na drugom spratu Pravnog fakulteta, glavni ulaz sa Trga Dositeja Obradovića.
 
 Rasporedi i realizacija: ftnraspored@uns.ac.rs
 
