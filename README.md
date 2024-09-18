@@ -14,19 +14,21 @@ pip install -e .
 
 # Generisanje izveštaja
 
-U folderu `pdfs` nalazi se skripta za download pdf-ova sa FTN sajta. Na početku skripte se nalazi URL na stranicu sa rasporedima. Ažurirajte po potrebi.
+U korenu projekta nalazi se skripta za download pdf-ova sa FTN sajta. Na početku
+skripte se nalazi URL na stranicu sa rasporedima. Ažurirajte po potrebi.
 
 Pokrenite skriptu da bi preuzeli nove pdf-ove:
 
 ```
-cd pdfs
 python download-pdfs.py
 ```
 
 Zatim ih konvertujte u tekst. Potrebno je da imate dostupan u putanji
-`ebook-convert` alat koji je deo `calibre`.
+`ebook-convert` alat koji je deo `calibre`. Prvo je potrebno deaktivirati
+virtualno Python okruženje jer koristimo calibre koji je instaliran sistemski.
 
 ```
+deactivate
 cd pdfs
 ./convert.sh
 ```
