@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse
 
 # Korenski URL za stranicu sa rasporedima
-url = 'http://www.ftn.uns.ac.rs/520709834/nacrt-rasporeda-nastave-za-zimski-semestar-2024-25'
+url = 'https://ftn.uns.ac.rs/raspored-i-realizacija-2'
 
 pdf_dir = 'pdfs'
 os.makedirs(pdf_dir, exist_ok=True)
@@ -30,7 +30,7 @@ if response.status_code == 200:
     soup = BeautifulSoup(html, 'html.parser')
 
     # Prvi `li` od koga krećemo ekstrakciju
-    start_li = soup.find('a', href=lambda href: href and 'animacija-u-inzenjerstvu' in href).parent
+    start_li = soup.find('a', href=lambda href: href and 'ani-2.pdf' in href).parent
 
     hrefs = []
     if start_li:
