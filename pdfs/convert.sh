@@ -6,4 +6,16 @@ do
   ebook-convert "$f" "${f%.pdf}.txt"
 done;
 
-cat *.txt > all.raspored
+cat *.txt | \
+
+sed \
+    -e 's/П О Н Е Д Е Љ А К/P O N E D E L J A K/g' \
+    -e 's/љ/lj/g' \
+    -e 's/Љ/Lj/g' \
+    -e 's/њ/nj/g' \
+    -e 's/Њ/Nj/g' \
+    -e 's/џ/dž/g' \
+    -e 's/Џ/Dž/g' \
+    -e 'y/абвгдђежзијклљмнњопрстћуфхцчџш/abvgdđežzijkllmnnoprstćufhcčdš/' \
+    -e 'y/АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ/ABVGDĐEŽZIJKLLMNNOPRSTĆUFHCČDŠ/' \
+> all.raspored

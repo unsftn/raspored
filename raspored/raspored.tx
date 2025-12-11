@@ -3,6 +3,7 @@ Raspored:
      semestri*=Semestar)*;
 
 Semestar:
+    ('filename:'filename=/\w+/ /(.|\n)*?(?=\s\d+\s+Semestar)/)? 
     semestar=INT 'Semestar'
     program=StudijskiProgram
     termini_po_danima+=TerminiZaDan;
@@ -48,4 +49,4 @@ Vrsta: 'rač.vežbe'
      | 'lab.vežbe'
      | 'Pred.';
 Predmet[noskipws]: /\s*/- (!KrajTermina /\w+|\n|./)+;
-KrajTermina: Grupa | Dan | Datum | 'Rasporedi i realizacija' | 'Predmeti za koje nastavu';
+KrajTermina: Grupa | Dan | Datum | 'Rasporedi i realizacija' | 'Predmeti za koje nastavu' | 'filename:';
