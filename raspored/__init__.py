@@ -43,15 +43,22 @@ def generate_izvestaj(metamodel, model, output_path, overwrite, debug, **custom_
     termini_po_ucionicama = {}
     termini_blok_po_ucionicama = {}
     class Termin:
-        def __init__(self, datum, od, do, predmet, ucionica):
+        def __init__(self, datum, od, do, predmet, ucionica, stud_program=None):
             self.datum = datetime.date(*reversed([int(x) for x in datum.split('.')])) \
                 if datum else None
             self.od = od
             self.do = do
             self.predmet = predmet
             self.ucionica = ucionica
+            self.stud_program = stud_program
 
+    last_filename = None
     for semestar in model.semestri:
+        if semestar.filename is None or semestar.filename.strip() == "":
+            semestar.filename = last_filename
+        else:
+            last_filename = semestar.filename
+            
         for dan in semestar.termini_po_danima:
             for termin in dan.termin:
                 included = True
@@ -75,7 +82,7 @@ def generate_izvestaj(metamodel, model, output_path, overwrite, debug, **custom_
                         termini_po_ucionicama\
                             .setdefault(termin.učionica, {})\
                             .setdefault(dan.dan, []).append(
-                            Termin(termin.datum, termin.od, termin.do, termin.predmet, termin.učionica))
+                            Termin(termin.datum, termin.od, termin.do, termin.predmet, termin.učionica, semestar.filename))
 
     if custom_args:
         for dan, termini in sorted(termini_po_danima.items(), key=lambda x: DANI.index(x[0])):
@@ -89,7 +96,8 @@ def generate_izvestaj(metamodel, model, output_path, overwrite, debug, **custom_
             for dan, termini in sorted(dani.items(), key=lambda x: DANI.index(x[0])):
                 print(f"\t{dan}")
                 for termin in sorted(termini, key=lambda x: x.od):
-                    print(f"\t\t{termin.od}-{termin.do}  {termin.ucionica}  {termin.predmet}")
+                    stud_program = f"({termin.stud_program}) - " if termin.stud_program else ""
+                    print(f"\t\t{termin.od}-{termin.do}  {termin.ucionica:<7} {stud_program}{termin.predmet}")
                 if ucionica in termini_blok_po_ucionicama:
                     print("\t\tBLOK NASTAVA:")
                     dan_ord = DANI.index(dan)
