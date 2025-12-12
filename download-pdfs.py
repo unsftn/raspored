@@ -11,6 +11,12 @@ url = 'https://ftn.uns.ac.rs/raspored-i-realizacija-2'
 pdf_dir = 'pdfs'
 os.makedirs(pdf_dir, exist_ok=True)
 
+for filename in os.listdir(pdf_dir):
+    if filename.endswith('.pdf'):
+        file_path = os.path.join(pdf_dir, filename)
+        os.remove(file_path)
+
+
 def get_filename_from_headers(response, default_name):
     '''
     Extract filename from the HTTP headers
