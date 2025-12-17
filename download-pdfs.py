@@ -3,12 +3,19 @@ from itertools import chain
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
+import re
 
 # Korenski URL za stranicu sa rasporedima
 url = 'https://ftn.uns.ac.rs/raspored-i-realizacija-2'
 
 pdf_dir = 'pdfs'
 os.makedirs(pdf_dir, exist_ok=True)
+
+for filename in os.listdir(pdf_dir):
+    if filename.endswith('.pdf'):
+        file_path = os.path.join(pdf_dir, filename)
+        os.remove(file_path)
+
 
 def get_filename_from_headers(response, default_name):
     '''
@@ -30,7 +37,8 @@ if response.status_code == 200:
     soup = BeautifulSoup(html, 'html.parser')
 
     # Prvi `li` od koga krećemo ekstrakciju
-    start_li = soup.find('a', href=lambda href: href and 'ani-2.pdf' in href).parent
+    start_a = soup.find('a', href=re.compile(r'ani-\d+\.pdf'))
+    start_li = start_a.parent if start_a else None
 
     hrefs = []
     if start_li:

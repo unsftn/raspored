@@ -17,20 +17,11 @@ pip install -e .
 U korenu projekta nalazi se skripta za download pdf-ova sa FTN sajta. Na početku
 skripte se nalazi URL na stranicu sa rasporedima. Ažurirajte po potrebi.
 
-Pokrenite skriptu da bi preuzeli nove pdf-ove:
+Pokrenite skriptu da bi preuzeli nove pdf-ove pa skriptu za konveziju u text:
 
 ```
 python download-pdfs.py
-```
-
-Zatim ih konvertujte u tekst. Potrebno je da imate dostupan u putanji
-`ebook-convert` alat koji je deo `calibre`. Prvo je potrebno deaktivirati
-virtualno Python okruženje jer koristimo calibre koji je instaliran sistemski.
-
-```
-deactivate
-cd pdfs
-./convert.sh
+python extract_pdfs.py
 ```
 
 Biće kreiran fajl `all.raspored`. Ovo je ulaz za generator izveštaja.
